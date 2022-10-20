@@ -1,0 +1,3683 @@
+GTK	EN
++	EN
+मॉड्यूल	HI
+for	EN
+पहुँच	HI
+सहायता	HI
+
+This	EN
+कुंजी	HI
+determines	EN
+the	EN
+GTK	EN
++	EN
+मौड्यूल	HI
+to	EN
+लोड	HI
+लिये	HI
+सुगमता	HI
+सहायता	HI
+.	EN
+
+AT	EN
+-	EN
+SPI	EN
+Registry	EN
+
+Accessibility	EN
+Registry	EN
+
+AT	EN
+SPI	EN
+Registry	EN
+Wrapper	EN
+
+AT	EN
+SPI	EN
+Registry	EN
+
+No	EN
+त्रुटि	HI
+
+Cannot	EN
+पढ़ा	HI
+से	HI
+पता	HI
+किताबे	HI
+
+Cannot	EN
+लिखें	HI
+to	EN
+पता	HI
+किताब	HI
+
+Cannot	EN
+कनेक्ट	HI
+to	EN
+the	EN
+सर्वर	HI
+
+Cannot	EN
+ढूंढें	HI
+in	EN
+the	EN
+पता	HI
+पुस्तक	HI
+
+Cannot	EN
+ढूँढें	HI
+पता	HI
+in	EN
+address	EN
+बुक	HI
+
+Unknown	EN
+गलती	HI
+
+No	EN
+-	EN
+Id	EN
+
+No	EN
+-	EN
+Name	EN
+
+Undefined	EN
+स्थान	HI
+of	EN
+उपयोक्ता	HI
+पता	HI
+पुस्तक	HI
+
+D	EN
+_	EN
+isplayed	EN
+Name	EN
+:	EN
+
+_	EN
+First	EN
+Name	EN
+:	EN
+
+_	EN
+Last	EN
+Name	EN
+:	EN
+
+_	EN
+Email	EN
+Address	EN
+:	EN
+
+Reply	EN
+To	EN
+:	EN
+
+Could	EN
+नहीं	HI
+पढ़े	HI
+अंतःस्थापित	HI
+संदेश	HI
+
+Unable	EN
+to	EN
+लोड	HI
+संदेश	HI
+body	EN
+to	EN
+मिलान	HI
+फ़िल्टर	HI
+
+Invalid	EN
+फिल्टर	HI
+:	EN
+%	EN
+s	EN
+
+Bad	EN
+mailbox	EN
+नाम	HI
+लिये	HI
+फ़िल्टर	HI
+:	EN
+%	EN
+s	EN
+
+Error	EN
+जब	HI
+copying	EN
+संदेश	HI
+:	EN
+%	EN
+s	EN
+
+Error	EN
+जब	HI
+trashing	EN
+संदेश	HI
+:	EN
+%	EN
+s	EN
+
+Error	EN
+जब	HI
+चलती	HI
+संदेश	HI
+:	EN
+%	EN
+s	EN
+
+Syntax	EN
+गलती	HI
+in	EN
+the	EN
+फ़िल्टर	HI
+कॉन्फ़िगरेशन	HI
+संचिका	HI
+
+Unable	EN
+to	EN
+allocate	EN
+स्मृति	HI
+
+Error	EN
+in	EN
+नियमित	HI
+एक्सप्रेशन	HI
+सिंटेक्स	HI
+
+Attempt	EN
+to	EN
+लागू	HI
+an	EN
+अवैध	HI
+फिल्टर	HI
+
+Invalid	EN
+filters	EN
+%	EN
+s	EN
+for	EN
+mailbox	EN
+%	EN
+s	EN
+
+Header	EN
+:	EN
+%	EN
+s	EN
+
+Could	EN
+नहीं	HI
+पाएँ	HI
+an	EN
+HTML	EN
+हिस्सा	HI
+:	EN
+%	EN
+s	EN
+
+New	EN
+Identity	EN
+
+Cannot	EN
+ओपन	HI
+हस्ताक्षर	HI
+फाइल	HI
+'	EN
+%	EN
+s	EN
+'	EN
+लिये	HI
+पढ़ना	HI
+
+Error	EN
+पढ़ना	HI
+हस्ताक्षर	HI
+इससे	HI
+%	EN
+s	EN
+
+_	EN
+Face	EN
+Path	EN
+
+_	EN
+Identity	EN
+नाम	HI
+:	EN
+
+_	EN
+Full	EN
+नाम	HI
+:	EN
+
+_	EN
+Mailing	EN
+पता	HI
+:	EN
+
+Reply	EN
+_	EN
+to	EN
+:	EN
+
+_	EN
+Domain	EN
+:	EN
+
+Reply	EN
+_	EN
+स्ट्रिंग	HI
+:	EN
+
+अनुरोध	HI
+_	EN
+Message	EN
+Disposition	EN
+Notification	EN
+by	EN
+default	EN
+
+SMT	EN
+_	EN
+P	EN
+सर्वर	HI
+:	EN
+
+_	EN
+Execute	EN
+हस्ताक्षर	HI
+
+Include	EN
+हस्ताक्षर	HI
+जब	HI
+लिये	HI
+_	EN
+warding	EN
+
+Include	EN
+हस्ताक्षर	HI
+कब	HI
+rep	EN
+_	EN
+lying	EN
+
+_	EN
+Add	EN
+हस्ताक्षर	HI
+विभाजक	HI
+
+Prepend	EN
+si	EN
+_	EN
+gnature	EN
+
+एनक्रिप्ट	HI
+संदेश	HI
+by	EN
+मूलभूत	HI
+
+Error	EN
+पढ़ना	HI
+file	EN
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Error	EN
+लोडिंग	HI
+Face	EN
+:	EN
+%	EN
+s	EN
+
+Error	EN
+:	EN
+The	EN
+पहचान	HI
+करता	HI
+नहीं	HI
+have	EN
+a	EN
+नाम	HI
+
+Error	EN
+:	EN
+An	EN
+पहचान	HI
+साथ	HI
+कि	HI
+नाम	HI
+already	EN
+exists	EN
+
+Do	EN
+तुम	HI
+सचमुच	HI
+want	EN
+to	EN
+हटाएँ	HI
+the	EN
+चयनित	HI
+पहचान	HI
+?	EN
+
+Error	EN
+displaying	EN
+सहायता	HI
+लिये	HI
+पहचान	HI
+:	EN
+%	EN
+s	EN
+
+IMAP	EN
+सर्वर	HI
+%	EN
+s	EN
+चेतावनी	HI
+:	EN
+%	EN
+s	EN
+
+IMAP	EN
+सर्वर	HI
+%	EN
+s	EN
+त्रुटि	HI
+:	EN
+%	EN
+s	EN
+
+Balsa	EN
+पासवर्ड	HI
+
+Cannot	EN
+कनेक्ट	HI
+to	EN
+%	EN
+s	EN
+
+Cannot	EN
+connect	EN
+to	EN
+the	EN
+सर्वर	HI
+:	EN
+%	EN
+s	EN
+
+Invalid	EN
+तारीख	HI
+
+This	EN
+प्रमाणपत्र	HI
+था	HI
+निर्गत	HI
+by	EN
+:	EN
+
+This	EN
+प्रमाणपत्र	HI
+is	EN
+मान्य	HI
+इससे	HI
+%	EN
+s	EN
+to	EN
+%	EN
+s	EN
+Fingerprint	EN
+:	EN
+%	EN
+s	EN
+
+_	EN
+Accept	EN
+Once	EN
+
+Accept	EN
+_	EN
+Save	EN
+
+_	EN
+Reject	EN
+
+Connection	EN
+to	EN
+%	EN
+s	EN
+समयबद्ध	HI
+आउट	HI
+.	EN
+Abort	EN
+?	EN
+
+could	EN
+नही	HI
+मिलेंगी	HI
+डेटा	HI
+से	HI
+धारा	HI
+
+हस्ताक्षर	HI
+सत्यापन	HI
+विफल	HI
+
+could	EN
+नही	HI
+बनाएं	HI
+नया	HI
+data	EN
+वस्तु	HI
+
+हस्ताक्षर	HI
+असफल	HI
+
+संयुक्त	HI
+हस्ताक्षर	HI
+और	HI
+एन्क्रिप्शन	HI
+is	EN
+परिभाषित	HI
+केवल	HI
+लिये	HI
+RFC	EN
+2440	EN
+
+हस्ताक्षर	HI
+और	HI
+एन्क्रिप्शन	HI
+असफल	HI
+
+एन्क्रिप्शन	HI
+विफल	HI
+
+decryption	EN
+असफल	HI
+
+could	EN
+not	EN
+बनाएँ	HI
+संदर्भ	HI
+
+could	EN
+नही	HI
+समुच्चय	HI
+प्रोटोकाल	HI
+'	EN
+%	EN
+s	EN
+'	EN
+
+could	EN
+नही	HI
+list	EN
+कुंजी	HI
+लिये	HI
+"	EN
+%	EN
+s	EN
+"	EN
+
+%	EN
+s	EN
+:	EN
+could	EN
+नही	HI
+ढूंढें	HI
+a	EN
+चाबी	HI
+लिये	HI
+%	EN
+s	EN
+
+%	EN
+s	EN
+:	EN
+could	EN
+नहीं	HI
+ढूंढें	HI
+a	EN
+चाबी	HI
+साथ	HI
+id	EN
+%	EN
+s	EN
+
+%	EN
+s	EN
+:	EN
+बहु	HI
+कुंजियाँ	HI
+लिये	HI
+%	EN
+s	EN
+
+User	EN
+ID	EN
+
+Select	EN
+चाबी	HI
+
+Select	EN
+the	EN
+प्राइवेट	HI
+कुंजी	HI
+लिये	HI
+the	EN
+signer	EN
+%	EN
+s	EN
+
+Enter	EN
+Passphrase	EN
+
+%	EN
+s	EN
+Please	EN
+एंटर	HI
+the	EN
+कूटशब्द	HI
+लिये	HI
+the	EN
+गुप्त	HI
+चाबी	HI
+!	EN
+Key	EN
+:	EN
+%	EN
+s	EN
+
+नहीं	HI
+a	EN
+regular	EN
+फ़ाइल	HI
+
+Open	EN
+साथ	HI
+%	EN
+s	EN
+
+Open	EN
+_	EN
+हिस्से	HI
+साथ	HI
+%	EN
+s	EN
+
+Cannot	EN
+लोड	HI
+mailbox	EN
+%	EN
+s	EN
+
+No	EN
+ऐसे	HI
+mailbox	EN
+प्रकार	HI
+:	EN
+%	EN
+s	EN
+
+Bad	EN
+स्थानीय	HI
+mailbox	EN
+पथ	HI
+"	EN
+%	EN
+s	EN
+"	EN
+
+Could	EN
+नहीं	HI
+बनाएं	HI
+a	EN
+mailbox	EN
+of	EN
+प्रकार	HI
+%	EN
+s	EN
+
+Applying	EN
+फिल्टर	HI
+rules	EN
+to	EN
+%	EN
+s	EN
+
+Copying	EN
+इससे	HI
+%	EN
+s	EN
+to	EN
+%	EN
+s	EN
+
+Removing	EN
+संदेश	HI
+इससे	HI
+स्त्रोत	HI
+mailbox	EN
+failed	EN
+
+Searching	EN
+%	EN
+s	EN
+लिये	HI
+आंशिक	HI
+संदेश	HI
+
+Reconstructing	EN
+सन्देश	HI
+
+Finding	EN
+डुप्लिकेट	HI
+संदेश	HI
+in	EN
+सोर्स	HI
+mailbox	EN
+विफल	HI
+
+Error	EN
+fetching	EN
+संदेश	HI
+से	HI
+IMAP	EN
+सर्वर	HI
+:	EN
+%	EN
+s	EN
+
+Cannot	EN
+बनाएँ	HI
+अस्थाई	HI
+संचिका	HI
+
+Cannot	EN
+write	EN
+to	EN
+temporary	EN
+फाइल	HI
+%	EN
+s	EN
+
+Failed	EN
+to	EN
+सहेजें	HI
+कैश	HI
+फ़ाइल	HI
+"	EN
+%	EN
+s	EN
+"	EN
+:	EN
+%	EN
+s	EN
+.	EN
+
+Failed	EN
+to	EN
+पढ़े	HI
+संचय	HI
+संचिका	HI
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Filtering	EN
+%	EN
+s	EN
+
+Preparing	EN
+%	EN
+s	EN
+
+Open	EN
+of	EN
+%	EN
+s	EN
+विफल	HI
+.	EN
+Errno	EN
+=	EN
+%	EN
+d	EN
+,	EN
+
+Failed	EN
+to	EN
+सिंक	HI
+mailbox	EN
+"	EN
+%	EN
+s	EN
+"	EN
+
+Mailbox	EN
+%	EN
+s	EN
+करता	HI
+नही	HI
+appear	EN
+to	EN
+be	EN
+a	EN
+Maildir	EN
+mailbox	EN
+.	EN
+
+Could	EN
+नही	HI
+बनाएँ	HI
+a	EN
+MailDir	EN
+निर्देशिका	HI
+at	EN
+%	EN
+s	EN
+(	EN
+%	EN
+s	EN
+)	EN
+
+Could	EN
+नहीं	HI
+बनाएँ	HI
+a	EN
+MailDir	EN
+at	EN
+%	EN
+s	EN
+(	EN
+%	EN
+s	EN
+)	EN
+
+Could	EN
+नही	HI
+हटाएँ	HI
+सामग्री	HI
+of	EN
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Could	EN
+नही	HI
+निकालें	HI
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Mailbox	EN
+करता	HI
+नहीं	HI
+मौजूद	HI
+.	EN
+
+Data	EN
+कॉपी	HI
+error	EN
+
+Mailbox	EN
+%	EN
+s	EN
+करता	HI
+not	EN
+appear	EN
+to	EN
+be	EN
+an	EN
+Mbox	EN
+mailbox	EN
+.	EN
+
+Could	EN
+नहीं	HI
+लिखें	HI
+संचिका	HI
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Failed	EN
+to	EN
+create	EN
+अस्थाई	HI
+संचिका	HI
+"	EN
+%	EN
+s	EN
+"	EN
+:	EN
+%	EN
+s	EN
+
+Could	EN
+नही	HI
+unlink	EN
+फाइल	HI
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Cannot	EN
+खुला	HI
+mailbox	EN
+.	EN
+
+Mailbox	EN
+is	EN
+नही	HI
+in	EN
+mbox	HI
+स्वरूप	HI
+.	EN
+
+Cannot	EN
+लॉक	HI
+mailbox	EN
+.	EN
+
+%	EN
+s	EN
+:	EN
+could	EN
+नही	HI
+open	EN
+%	EN
+s	EN
+.	EN
+
+%	EN
+s	EN
+:	EN
+could	EN
+नही	HI
+मिलेंगी	HI
+नया	HI
+माइम	HI
+धारा	HI
+.	EN
+
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+is	EN
+नही	HI
+in	EN
+mbox	HI
+स्वरूप	HI
+.	EN
+
+Mailbox	EN
+%	EN
+s	EN
+करता	HI
+नही	HI
+appear	EN
+to	EN
+be	EN
+a	EN
+Mh	EN
+mailbox	EN
+.	EN
+
+Could	EN
+नहीं	HI
+बनाएँ	HI
+MH	EN
+निर्देशिका	HI
+at	EN
+%	EN
+s	EN
+(	EN
+%	EN
+s	EN
+)	EN
+
+Could	EN
+नही	HI
+बनाएँ	HI
+MH	EN
+संरचना	HI
+at	EN
+%	EN
+s	EN
+(	EN
+%	EN
+s	EN
+)	EN
+
+Cannot	EN
+बनाएँ	HI
+सन्देश	HI
+
+Message	EN
+rename	EN
+त्रुटि	HI
+
+Error	EN
+appending	EN
+संदेश	HI
+%	EN
+d	EN
+से	HI
+%	EN
+s	EN
+to	EN
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Saving	EN
+POP	EN
+संदेश	HI
+to	EN
+%	EN
+s	EN
+असफल	HI
+
+Retrieving	EN
+Message	EN
+%	EN
+d	EN
+of	EN
+%	EN
+d	EN
+
+Received	EN
+%	EN
+ld	EN
+kB	EN
+of	EN
+%	EN
+ld	EN
+
+Saving	EN
+POP	EN
+सन्देश	HI
+to	EN
+%	EN
+s	EN
+असफल	HI
+.	EN
+
+Transferring	EN
+POP	EN
+सन्देश	HI
+to	EN
+%	EN
+s	EN
+विफल	HI
+.	EN
+
+POP3	EN
+mailbox	EN
+%	EN
+s	EN
+अस्थायी	HI
+फाइल	HI
+त्रुटि	HI
+:	EN
+%	EN
+s	EN
+
+POP3	EN
+mailbox	EN
+%	EN
+s	EN
+त्रुटि	HI
+:	EN
+%	EN
+s	EN
+
+POP3	EN
+गलती	HI
+:	EN
+%	EN
+s	EN
+.	EN
+
+Mailbox	EN
+(	EN
+%	EN
+s	EN
+)	EN
+is	EN
+readonly	EN
+:	EN
+cannot	EN
+बदलाव	HI
+फ्लैग	HI
+.	EN
+
+वेस्ट	HI
+यूरोपीय	HI
+
+वेस्ट	HI
+यूरोप	HI
+(	EN
+यूरोपियन	HI
+)	EN
+
+Cannot	EN
+open	EN
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+LDAP	EN
+Directory	EN
+for	EN
+%	EN
+s	EN
+
+needs	EN
+action	EN
+
+Reply	EN
+to	EN
+Event	EN
+Request	EN
+
+The	EN
+हस्ताक्षर	HI
+is	EN
+मान्य	HI
+.	EN
+
+The	EN
+हस्ताक्षर	HI
+is	EN
+अमान्य	HI
+.	EN
+
+PGP	EN
+signature	EN
+:	EN
+
+(	EN
+अज्ञात	HI
+प्रोटोकाल	HI
+)	EN
+
+Signature	EN
+वैधता	HI
+:	EN
+%	EN
+s	EN
+
+Key	EN
+स्वामी	HI
+ट्रस्ट	HI
+:	EN
+%	EN
+s	EN
+
+Key	EN
+फिंगरप्रिंट	HI
+:	EN
+%	EN
+s	EN
+
+User	EN
+ID	EN
+'	EN
+s	EN
+:	EN
+
+User	EN
+ID	EN
+:	EN
+
+Subkey	EN
+बनाया	HI
+on	EN
+:	EN
+%	EN
+s	EN
+
+Subkey	EN
+समाप्त	HI
+on	EN
+:	EN
+%	EN
+s	EN
+
+Issuer	EN
+नाम	HI
+:	EN
+%	EN
+s	EN
+
+Issuer	EN
+सीरियल	HI
+क्रमांक	HI
+:	EN
+%	EN
+s	EN
+
+Could	EN
+नही	HI
+लांच	HI
+%	EN
+s	EN
+to	EN
+क्वेरी	HI
+the	EN
+सार्वजनिक	HI
+कुंजी	HI
+%	EN
+s	EN
+.	EN
+
+Sending	EN
+Mail	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Hide	EN
+
+Saving	EN
+प्रेषित	HI
+सन्देश	HI
+to	EN
+%	EN
+s	EN
+असफल	HI
+:	EN
+%	EN
+s	EN
+
+Relaying	EN
+refused	EN
+:	EN
+%	EN
+d	EN
+:	EN
+%	EN
+s	EN
+Message	EN
+बाएं	HI
+in	EN
+आपकी	HI
+outbox	EN
+.	EN
+
+Message	EN
+सबमिशन	HI
+प्रॉब्लम	HI
+,	EN
+placing	EN
+it	EN
+into	EN
+आपका	HI
+outbox	EN
+.	EN
+System	EN
+करेगा	HI
+attempt	EN
+to	EN
+resubmit	EN
+the	EN
+संदेश	HI
+जबतक	HI
+आप	HI
+हटाएँ	HI
+it	EN
+.	EN
+
+Connected	EN
+to	EN
+MTA	EN
+
+From	EN
+%	EN
+s	EN
+:	EN
+%	EN
+d	EN
+%	EN
+s	EN
+
+SMTP	EN
+सर्वर	HI
+प्रॉब्लम	HI
+(	EN
+%	EN
+d	EN
+)	EN
+:	EN
+%	EN
+s	EN
+Message	EN
+is	EN
+बायां	HI
+in	EN
+outbox	EN
+.	EN
+
+Cannot	EN
+पढ़े	HI
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Cannot	EN
+पढ़ें	HI
+%	EN
+s	EN
+
+If	EN
+Possible	EN
+
+Error	EN
+displaying	EN
+सर्वर	HI
+सहायता	HI
+:	EN
+%	EN
+s	EN
+
+SMTP	EN
+Server	EN
+
+_	EN
+Descriptive	EN
+Name	EN
+:	EN
+
+_	EN
+User	EN
+Name	EN
+:	EN
+
+_	EN
+Pass	EN
+Phrase	EN
+:	EN
+
+Use	EN
+_	EN
+TLS	EN
+:	EN
+
+Sp	EN
+_	EN
+जलाकर	HI
+message	EN
+larger	EN
+than	HI
+
+_	EN
+File	EN
+
+_	EN
+Close	EN
+
+Close	EN
+the	EN
+खिड़की	HI
+
+Copy	EN
+पाठ	HI
+
+_	EN
+Select	EN
+Text	EN
+
+Select	EN
+संपूर्ण	HI
+डाक	HI
+
+Mailbox	EN
+बन्द	HI
+
+Message	EN
+Source	EN
+
+Error	EN
+लदान	HI
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+The	EN
+पाथ	HI
+%	EN
+s	EN
+जरूर	HI
+be	EN
+रिश्तेदार	HI
+to	EN
+the	EN
+filesystem	EN
+रूट	HI
+(	EN
+आरंभ	HI
+साथ	HI
+/	EN
+)	EN
+.	EN
+
+Couldn	EN
+'	EN
+t	EN
+बनाएं	HI
+a	EN
+निर्देशिका	HI
+:	EN
+mkdir	EN
+(	EN
+)	EN
+failed	EN
+on	EN
+pathname	EN
+"	EN
+%	EN
+s	EN
+"	EN
+,	EN
+साथ	HI
+त्रुटि	HI
+"	EN
+%	EN
+s	EN
+"	EN
+.	EN
+
+The	EN
+फ़ाइल	HI
+साथ	HI
+pathname	EN
+"	EN
+%	EN
+s	EN
+"	EN
+is	EN
+नही	HI
+a	EN
+निर्देशिका	HI
+.	EN
+
+Couldn	EN
+'	EN
+t	EN
+बनाएं	HI
+a	EN
+निर्देशिका	HI
+:	EN
+mkdir	EN
+(	EN
+)	EN
+विफल	HI
+on	EN
+pathname	EN
+"	EN
+%	EN
+s	EN
+"	EN
+.	EN
+
+This	EN
+will	EN
+निकास	HI
+Balsa	EN
+.	EN
+Do	EN
+आपको	HI
+वाकई	HI
+want	EN
+to	EN
+do	EN
+ये	HI
+?	EN
+
+GnomeCard	EN
+Address	EN
+Book	EN
+
+Address	EN
+Book	EN
+
+Default	EN
+Client	EN
+
+_	EN
+Inbox	EN
+:	EN
+
+_	EN
+Sentbox	EN
+:	EN
+
+_	EN
+Draftbox	EN
+:	EN
+
+The	EN
+pathname	EN
+"	EN
+%	EN
+s	EN
+"	EN
+जरूर	HI
+be	EN
+निर्दिष्ट	HI
+canonically	EN
+-	EN
+-	EN
+it	EN
+जरूर	HI
+आरंभ	HI
+साथ	HI
+a	EN
+'	EN
+/	EN
+'	EN
+.	EN
+
+The	EN
+mailbox	EN
+"	EN
+%	EN
+s	EN
+"	EN
+करता	HI
+नही	HI
+appear	EN
+to	EN
+be	EN
+वैध	HI
+.	EN
+
+Please	EN
+सत्यापन	HI
+the	EN
+स्थान	HI
+of	EN
+आपके	HI
+मूलभूत	HI
+मेल	HI
+फ़ाइल	HI
+.	EN
+These	EN
+will	EN
+be	EN
+निर्मित	HI
+if	EN
+जरुरी	HI
+.	EN
+
+Mail	EN
+Files	EN
+
+Problem	EN
+Creating	EN
+Mailboxes	EN
+%	EN
+s	EN
+
+You	EN
+'	EN
+ve	EN
+सफलतापूर्वक	HI
+नियत	HI
+up	EN
+Balsa	EN
+.	EN
+Have	EN
+मस्ती	HI
+!	EN
+-	EN
+-	EN
+The	EN
+Balsa	EN
+विकास	HI
+टोली	HI
+
+All	EN
+Done	EN
+!	EN
+
+_	EN
+Type	EN
+of	EN
+डाक	HI
+सर्वर	HI
+:	EN
+
+Your	EN
+_	EN
+password	EN
+:	EN
+
+_	EN
+SMTP	EN
+Server	EN
+:	EN
+
+_	EN
+Remember	EN
+आपके	HI
+password	EN
+:	EN
+
+_	EN
+Local	EN
+डाक	HI
+निर्देशिका	HI
+:	EN
+
+Default	EN
+Identity	EN
+
+Local	EN
+Mail	EN
+Problem	EN
+%	EN
+s	EN
+
+Welcome	EN
+to	EN
+Balsa	EN
+!	EN
+
+Balsa	EN
+E	EN
+-	EN
+मेल	HI
+रीडर	HI
+
+पता	HI
+किताब	HI
+:	EN
+
+VCard	EN
+Address	EN
+Book	EN
+(	EN
+GnomeCard	EN
+)	EN
+
+LDIF	EN
+Address	EN
+Book	EN
+
+LDAP	EN
+Address	EN
+Book	EN
+
+GPE	EN
+Address	EN
+Book	EN
+
+Rubrica	EN
+Address	EN
+Book	EN
+
+Edit	EN
+पता	HI
+किताब	HI
+गुण	HI
+
+Delete	EN
+पता	HI
+बुक	HI
+
+_	EN
+New	EN
+Entry	EN
+
+_	EN
+Delete	EN
+Entry	EN
+
+Delete	EN
+एंट्री	HI
+
+_	EN
+Address	EN
+
+E	EN
+-	EN
+Mail	EN
+Address	EN
+
+_	EN
+Search	EN
+लिये	HI
+Name	EN
+:	EN
+
+_	EN
+Re	EN
+-	EN
+Import	EN
+
+Send	EN
+-	EN
+To	EN
+
+Treat	EN
+अनेक	HI
+पते	HI
+as	EN
+:	EN
+
+वैकल्पिक	HI
+पता	HI
+लिये	HI
+the	EN
+वही	HI
+व्यक्ति	HI
+
+a	EN
+वितरण	HI
+सूची	HI
+
+Could	EN
+नहीं	HI
+लॉन्च	HI
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Error	EN
+खोलने	HI
+पता	HI
+बुक	HI
+'	EN
+%	EN
+s	EN
+'	EN
+:	EN
+%	EN
+s	EN
+
+Suggest	EN
+पूरा	HI
+पता	HI
+:	EN
+
+Modify	EN
+%	EN
+s	EN
+Address	EN
+Book	EN
+
+Add	EN
+%	EN
+s	EN
+Address	EN
+Book	EN
+
+A	EN
+_	EN
+ddress	EN
+Book	EN
+Name	EN
+:	EN
+
+Load	EN
+प्रोग्राम	HI
+लोकेशन	HI
+:	EN
+
+Select	EN
+लोड	HI
+कार्यक्रम	HI
+लिये	HI
+पता	HI
+बुक	HI
+
+Save	EN
+कार्यक्रम	HI
+स्थान	HI
+:	EN
+
+Select	EN
+सहेजें	HI
+प्रोग्राम	HI
+लिये	HI
+पता	HI
+किताब	HI
+
+_	EN
+Host	EN
+Name	EN
+
+Base	EN
+Domain	EN
+_	EN
+Name	EN
+
+_	EN
+Password	EN
+
+_	EN
+User	EN
+Address	EN
+Book	EN
+DN	EN
+
+Error	EN
+displaying	EN
+मदद	HI
+:	EN
+%	EN
+s	EN
+
+Rubrica2	EN
+Address	EN
+Book	EN
+
+_	EN
+Remember	EN
+कूटशब्द	HI
+in	EN
+keyring	EN
+
+_	EN
+Remember	EN
+पासवर्ड	HI
+
+Opening	EN
+दूरस्थ	HI
+mailbox	EN
+%	EN
+s	EN
+.	EN
+The	EN
+_	EN
+कूटशब्द	HI
+for	EN
+%	EN
+s	EN
+@	EN
+%	EN
+s	EN
+:	EN
+
+_	EN
+Password	EN
+लिये	HI
+%	EN
+s	EN
+@	EN
+%	EN
+s	EN
+(	EN
+%	EN
+s	EN
+)	EN
+:	EN
+
+Password	EN
+needed	EN
+
+Couldn	EN
+'	EN
+t	EN
+खुला	HI
+mailbox	EN
+"	EN
+%	EN
+s	EN
+"	EN
+
+Move	EN
+to	EN
+Trash	EN
+असफल	HI
+:	EN
+%	EN
+s	EN
+
+_	EN
+Reply	EN
+.	EN
+.	EN
+.	EN
+
+Reply	EN
+To	EN
+_	EN
+All	EN
+.	EN
+.	EN
+.	EN
+
+Reply	EN
+To	EN
+_	EN
+Group	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Forward	EN
+Attached	EN
+.	EN
+.	EN
+.	EN
+
+Forward	EN
+_	EN
+Inline	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Store	EN
+Address	EN
+.	EN
+.	EN
+.	EN
+
+Move	EN
+To	EN
+_	EN
+Trash	EN
+
+_	EN
+Flagged	EN
+
+_	EN
+Unread	EN
+
+_	EN
+Move	EN
+to	EN
+
+_	EN
+View	EN
+Source	EN
+
+Copied	EN
+to	EN
+"	EN
+%	EN
+s	EN
+"	EN
+.	EN
+
+Moved	EN
+to	EN
+"	EN
+%	EN
+s	EN
+"	EN
+.	EN
+
+Committing	EN
+mailbox	EN
+%	EN
+s	EN
+विफल	HI
+.	EN
+
+Cannot	EN
+प्रक्रम	HI
+the	EN
+संदेश	HI
+:	EN
+%	EN
+s	EN
+
+Cannot	EN
+पहुँच	HI
+संदेश	HI
+%	EN
+u	EN
+to	EN
+दर्रा	HI
+to	EN
+%	EN
+s	EN
+
+Cannot	EN
+पढ़ा	HI
+संदेश	HI
+%	EN
+u	EN
+to	EN
+दर्रा	HI
+to	EN
+%	EN
+s	EN
+
+Pipe	EN
+message	EN
+through	EN
+a	EN
+कार्यक्रम	HI
+
+Failed	EN
+to	EN
+ढूंढें	HI
+mailbox	EN
+
+_	EN
+Other	EN
+.	EN
+.	EN
+.	EN
+
+Choose	EN
+मंज़िल	HI
+फोल्डर	HI
+
+Select	EN
+सन्देश	HI
+हिस्सा	HI
+to	EN
+प्रदर्शित	HI
+
+Not	EN
+मिली	HI
+
+Message	EN
+पार्ट्स	HI
+
+Save	EN
+चयनित	HI
+as	EN
+.	EN
+.	EN
+.	EN
+
+Save	EN
+चयनित	HI
+to	EN
+फोल्डर	HI
+.	EN
+.	EN
+.	EN
+
+(	EN
+No	EN
+प्रेषक	HI
+)	EN
+
+Could	EN
+नही	HI
+पहुँच	HI
+सन्देश	HI
+%	EN
+u	EN
+in	EN
+mailbox	EN
+"	EN
+%	EN
+s	EN
+"	EN
+.	EN
+
+मिश्रित	HI
+पार्ट्स	HI
+
+वैकल्पिक	HI
+भाग	HI
+
+rfc822	EN
+संदेश	HI
+
+पूर्ण	HI
+संदेश	HI
+
+हिस्सा	HI
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Reading	EN
+अंतःस्थापित	HI
+संदेश	HI
+विफल	HI
+:	EN
+%	EN
+s	EN
+
+Appending	EN
+संदेश	HI
+to	EN
+%	EN
+s	EN
+विफल	HI
+:	EN
+%	EN
+s	EN
+
+_	EN
+Save	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Copy	EN
+to	EN
+फोल्डर	HI
+.	EN
+.	EN
+.	EN
+
+Could	EN
+नही	HI
+बनाएँ	HI
+URI	EN
+for	EN
+%	EN
+s	EN
+
+%	EN
+s	EN
+संदेश	HI
+हिस्से	HI
+
+Could	EN
+नहीं	HI
+सहेजें	HI
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Sending	EN
+the	EN
+disposition	EN
+notification	EN
+असफल	HI
+:	EN
+%	EN
+s	EN
+
+The	EN
+प्रेषक	HI
+of	EN
+यह	HI
+मेल	HI
+,	EN
+%	EN
+s	EN
+,	EN
+निवेदित	HI
+a	EN
+Message	EN
+Disposition	EN
+Notification	EN
+(	EN
+MDN	EN
+)	EN
+to	EN
+be	EN
+लौटे	HI
+to	EN
+`	EN
+%	EN
+s	EN
+'	EN
+.	EN
+Do	EN
+आप	HI
+want	EN
+to	EN
+send	HI
+ये	HI
+अधिसूचना	HI
+?	EN
+
+Reply	EN
+to	EN
+MDN	EN
+?	EN
+
+Parsing	EN
+a	EN
+सन्देश	HI
+हिस्सा	HI
+असफल	HI
+:	EN
+%	EN
+s	EN
+
+Detected	EN
+a	EN
+गुड	HI
+signature	EN
+
+Detected	EN
+a	EN
+शुभ	HI
+हस्ताक्षर	HI
+साथ	HI
+अपर्याप्त	HI
+वैध	HI
+
+File	EN
+नाम	HI
+:	EN
+%	EN
+s	EN
+
+Error	EN
+पढ़ना	HI
+सन्देश	HI
+भाग	HI
+:	EN
+%	EN
+s	EN
+
+No	EN
+खोलें	HI
+or	EN
+दृश्य	HI
+क्रिया	HI
+defined	EN
+लिये	HI
+ये	HI
+content	EN
+क़िस्म	HI
+
+S	EN
+_	EN
+एव	HI
+हिस्सा	HI
+
+Could	EN
+नहीं	HI
+लांच	HI
+एप्लिकेशन	HI
+:	EN
+%	EN
+s	EN
+
+Save	EN
+%	EN
+s	EN
+MIME	EN
+Part	EN
+
+Could	EN
+नही	HI
+construct	EN
+URI	EN
+से	HI
+%	EN
+s	EN
+
+File	EN
+already	EN
+exists	EN
+.	EN
+Overwrite	EN
+?	EN
+
+Error	EN
+लोडिंग	HI
+संलग्न	HI
+छवि	HI
+:	EN
+%	EN
+s	EN
+
+Content	EN
+Type	EN
+:	EN
+बाहरी	HI
+-	EN
+शरीर	HI
+
+Access	EN
+प्रकार	HI
+:	EN
+local	EN
+-	EN
+फाइल	HI
+
+Access	EN
+क़िस्म	HI
+:	EN
+URL	EN
+
+URL	EN
+:	EN
+%	EN
+s	EN
+
+Access	EN
+प्रकार	HI
+:	EN
+%	EN
+s	EN
+
+FTP	EN
+साइट	HI
+:	EN
+%	EN
+s	EN
+
+Directory	EN
+:	EN
+%	EN
+s	EN
+
+Access	EN
+क़िस्म	HI
+:	EN
+मेल	HI
+-	EN
+सर्वर	HI
+
+Mail	EN
+सर्वर	HI
+:	EN
+%	EN
+s	EN
+
+Subject	EN
+:	EN
+%	EN
+s	EN
+
+Se	EN
+_	EN
+nd	EN
+सन्देश	HI
+to	EN
+obtain	EN
+ये	HI
+हिस्से	HI
+
+Error	EN
+प्रर्दशित	HI
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Could	EN
+नही	HI
+मिलेंगी	HI
+a	EN
+हिस्सा	HI
+:	EN
+%	EN
+s	EN
+
+Sending	EN
+the	EN
+बाहरी	HI
+शरीर	HI
+निवेदन	HI
+विफल	HI
+:	EN
+%	EN
+s	EN
+
+Reply	EN
+-	EN
+To	EN
+:	EN
+
+Disposition	EN
+-	EN
+Notification	EN
+-	EN
+To	EN
+:	EN
+
+Could	EN
+नही	HI
+save	EN
+a	EN
+टेक्स्ट	HI
+भाग	HI
+:	EN
+%	EN
+s	EN
+
+Open	EN
+लिंक	HI
+
+Send	EN
+लिंक	HI
+.	EN
+.	EN
+.	EN
+
+Calling	EN
+URL	EN
+%	EN
+s	EN
+.	EN
+.	EN
+.	EN
+
+Full	EN
+Name	EN
+
+First	EN
+Name	EN
+
+Last	EN
+Name	EN
+
+Email	EN
+Address	EN
+
+Accept	EN
+tentatively	EN
+
+File	EN
+नाम	HI
+:	EN
+
+One	EN
+of	EN
+the	EN
+निर्दिष्ट	HI
+फ़ील्ड	HI
+contains	EN
+:	EN
+
+None	EN
+of	EN
+the	EN
+निर्दिष्ट	HI
+फील्ड्स	HI
+contains	EN
+:	EN
+
+One	EN
+of	EN
+the	EN
+नियमित	HI
+expressions	EN
+मिलान	HI
+
+None	EN
+of	EN
+the	EN
+नियमित	HI
+expressions	EN
+मिलान	HI
+
+Match	EN
+जब	HI
+तारीख़	HI
+is	EN
+in	EN
+the	EN
+अंतराल	HI
+:	EN
+
+Match	EN
+when	EN
+तारीख़	HI
+is	EN
+बाहर	HI
+the	EN
+अंतराल	HI
+:	EN
+
+Match	EN
+जब	HI
+one	EN
+of	EN
+ये	HI
+फ़्लैग	HI
+is	EN
+नियत	HI
+:	EN
+
+You	EN
+जरूर	HI
+बताएँ	HI
+the	EN
+नाम	HI
+of	EN
+the	EN
+उपयोगकर्ता	HI
+शीर्षक	HI
+to	EN
+मैच	HI
+on	EN
+
+You	EN
+जरूर	HI
+बताएँ	HI
+at	EN
+तनिक	HI
+एक	HI
+फील्ड	HI
+लिये	HI
+मिलान	HI
+
+You	EN
+जरूर	HI
+provide	EN
+a	EN
+वाक्यांश	HI
+
+You	EN
+जरूर	HI
+provide	EN
+at	EN
+तनिक	HI
+एक	HI
+रेगुलर	HI
+अभिव्यक्ति	HI
+
+Low	EN
+तारीख	HI
+is	EN
+गलत	HI
+
+High	EN
+तारीख	HI
+is	EN
+गलत	HI
+
+Low	EN
+date	EN
+is	EN
+वृहद	HI
+than	HI
+उच्च	HI
+तारीख	HI
+
+Error	EN
+displaying	EN
+शर्त	HI
+सहायता	HI
+:	EN
+%	EN
+s	EN
+
+Match	EN
+Fields	EN
+
+_	EN
+From	EN
+:	EN
+
+_	EN
+User	EN
+शीर्षक	HI
+:	EN
+
+One	EN
+of	EN
+the	EN
+उल्लेखित	HI
+f	EN
+_	EN
+ields	EN
+contains	EN
+
+Contain	EN
+/	EN
+Does	EN
+_	EN
+Not	EN
+Contain	EN
+
+_	EN
+One	EN
+of	EN
+the	EN
+नियमित	HI
+expressions	EN
+मिलान	HI
+
+One	EN
+_	EN
+Matches	EN
+/	EN
+None	EN
+Matches	EN
+
+Filtering	EN
+using	EN
+रेगुलर	HI
+expressions	EN
+is	EN
+नही	HI
+yet	EN
+implemented	EN
+.	EN
+
+Match	EN
+कब	HI
+सन्देश	HI
+date	EN
+is	EN
+in	EN
+the	EN
+अंतराल	HI
+:	EN
+
+Inside	EN
+/	EN
+बाहर	HI
+the	EN
+दिनांक	HI
+अंतराल	HI
+
+Match	EN
+जब	HI
+एक	HI
+ध्वज	HI
+is	EN
+सेट	HI
+/	EN
+कब	HI
+no	EN
+झंडा	HI
+is	EN
+नियत	HI
+
+Search	EN
+T	EN
+_	EN
+ype	EN
+:	EN
+
+Edit	EN
+कंडीशन	HI
+लिये	HI
+फिल्टर	HI
+:	EN
+
+Filter	EN
+साथ	HI
+no	EN
+स्थिति	HI
+was	EN
+omitted	EN
+
+Error	EN
+displaying	EN
+फिल्टर	HI
+सहायता	HI
+:	EN
+%	EN
+s	EN
+
+New	EN
+फिल्टर	HI
+
+No	EN
+फिल्टर	HI
+नाम	HI
+उल्लेखित	HI
+.	EN
+
+Filter	EN
+"	EN
+%	EN
+s	EN
+"	EN
+already	EN
+exists	EN
+.	EN
+
+Filter	EN
+जरूर	HI
+have	EN
+शर्तें	HI
+.	EN
+
+Filter	EN
+रै	HI
+matched	EN
+
+You	EN
+जरूर	HI
+provide	EN
+a	EN
+ध्वनि	HI
+to	EN
+खेल	HI
+
+Date	EN
+अंतराल	HI
+
+Flag	EN
+शर्त	HI
+
+Copy	EN
+to	EN
+फोल्डर	HI
+:	EN
+
+Move	EN
+to	EN
+फ़ोल्डर	HI
+:	EN
+
+Print	EN
+on	EN
+प्रिंटर	HI
+:	EN
+
+Run	EN
+कार्यक्रम	HI
+:	EN
+
+Send	EN
+to	EN
+Trash	EN
+
+_	EN
+Filter	EN
+नाम	HI
+:	EN
+
+Operation	EN
+between	EN
+conditions	EN
+
+Play	EN
+ध्वनि	HI
+:	EN
+
+Use	EN
+Sound	EN
+.	EN
+.	EN
+.	EN
+
+Action	EN
+to	EN
+perform	EN
+:	EN
+
+A	EN
+फिल्टर	HI
+चलाएँ	HI
+संवाद	HI
+is	EN
+ओपन	HI
+.	EN
+Close	EN
+it	EN
+पहले	HI
+तुम	HI
+can	EN
+सुधारें	HI
+फ़िल्टर	HI
+.	EN
+
+Balsa	EN
+Filters	EN
+
+Filter	EN
+"	EN
+%	EN
+s	EN
+"	EN
+रै	HI
+no	EN
+condition	EN
+.	EN
+
+Unable	EN
+to	EN
+निर्यात	HI
+फ़िल्टर	HI
+%	EN
+s	EN
+,	EN
+an	EN
+गलती	HI
+occurred	EN
+.	EN
+
+There	EN
+हैं	HI
+खोला	HI
+फ़िल्टर	HI
+चलाएँ	HI
+संवाद	HI
+,	EN
+बंद	HI
+उन्हें	HI
+पहले	HI
+तुम	HI
+can	EN
+सुधारें	HI
+फ़िल्टर	HI
+.	EN
+
+Balsa	EN
+Filters	EN
+Export	EN
+
+Error	EN
+displaying	EN
+चला	HI
+फ़िल्टर	HI
+सहायता	HI
+:	EN
+%	EN
+s	EN
+
+Error	EN
+जब	HI
+applying	EN
+फ़िल्टर	HI
+
+Filter	EN
+लागू	HI
+to	EN
+"	EN
+%	EN
+s	EN
+"	EN
+.	EN
+
+The	EN
+मंज़िल	HI
+mailbox	EN
+of	EN
+the	EN
+फ़िल्टर	HI
+"	EN
+%	EN
+s	EN
+"	EN
+is	EN
+"	EN
+%	EN
+s	EN
+"	EN
+.	EN
+You	EN
+can	EN
+'	EN
+t	EN
+associate	EN
+it	EN
+साथ	HI
+the	EN
+समान	HI
+mailbox	EN
+(	EN
+that	EN
+कल्याणकारी	HI
+recursion	EN
+)	EN
+.	EN
+
+Balsa	EN
+Filters	EN
+of	EN
+Mailbox	EN
+:	EN
+
+On	EN
+अभिनंदन	HI
+
+On	EN
+निकास	HI
+
+A	EN
+_	EN
+pply	EN
+Now	EN
+!	EN
+
+The	EN
+फ़िल्टर	HI
+संवाद	HI
+is	EN
+खोला	HI
+,	EN
+बंद	HI
+it	EN
+पहले	HI
+तुम	HI
+can	EN
+चलाएँ	HI
+फ़िल्टर	HI
+on	EN
+कोई	HI
+mailbox	EN
+
+Error	EN
+displaying	EN
+config	HI
+मदद	HI
+:	EN
+%	EN
+s	EN
+
+Remote	EN
+IMAP	EN
+फोल्डर	HI
+
+_	EN
+Update	EN
+
+_	EN
+Basic	EN
+
+_	EN
+Advanced	EN
+
+Descriptive	EN
+_	EN
+नाम	HI
+:	EN
+
+Use	EN
+_	EN
+r	EN
+नाम	HI
+:	EN
+
+_	EN
+Password	EN
+:	EN
+
+Subscribed	EN
+_	EN
+फ़ोल्डर्स	HI
+केवल	HI
+
+Always	EN
+दिखाएं	HI
+_	EN
+INBOX	EN
+
+Select	EN
+अभिभावक	HI
+फ़ोल्डर	HI
+
+Renaming	EN
+INBOX	EN
+is	EN
+ख़ास	HI
+!	EN
+You	EN
+करेंगे	HI
+बनाएँ	HI
+a	EN
+subfolder	EN
+%	EN
+s	EN
+in	EN
+%	EN
+s	EN
+containing	EN
+the	EN
+संदेश	HI
+से	HI
+INBOX	EN
+.	EN
+INBOX	EN
+और	HI
+इसकी	HI
+subfolders	EN
+होगा	HI
+remain	EN
+.	EN
+What	EN
+होता	HI
+you	EN
+जैसे	HI
+to	EN
+do	EN
+?	EN
+
+Folder	EN
+निर्माण	HI
+असफल	HI
+.	EN
+Reason	EN
+:	EN
+%	EN
+s	EN
+
+An	EN
+IMAP	EN
+फ़ोल्डर	HI
+उस	HI
+is	EN
+नही	HI
+a	EN
+mailbox	EN
+रै	HI
+no	EN
+गुण	HI
+उस	HI
+can	EN
+be	EN
+परिवर्तित	HI
+.	EN
+
+Remote	EN
+IMAP	EN
+subfolder	EN
+
+_	EN
+Create	EN
+
+Create	EN
+subfolder	EN
+
+_	EN
+Folder	EN
+नाम	HI
+:	EN
+
+Subfolder	EN
+of	EN
+:	EN
+
+_	EN
+Browse	EN
+.	EN
+.	EN
+.	EN
+
+पढ़े	HI
+-	EN
+तभी	HI
+
+This	EN
+फोल्डर	HI
+is	EN
+नही	HI
+भंडारित	HI
+in	EN
+कॉन्फ़िगरेशन	HI
+.	EN
+I	EN
+do	EN
+नही	HI
+yet	EN
+जानिए	HI
+केसे	HI
+to	EN
+हटाएँ	HI
+it	EN
+इससे	HI
+रिमोट	HI
+सर्वर	HI
+.	EN
+
+This	EN
+होगा	HI
+निकालें	HI
+the	EN
+फोल्डर	HI
+"	EN
+%	EN
+s	EN
+"	EN
+से	HI
+the	EN
+सूची	HI
+.	EN
+You	EN
+may	HI
+उपयोग	HI
+"	EN
+New	EN
+IMAP	EN
+Folder	EN
+"	EN
+बाद	HI
+to	EN
+add	HI
+ये	HI
+फोल्डर	HI
+again	EN
+.	EN
+
+Information	EN
+-	EN
+Balsa	EN
+
+Use	EN
+_	EN
+SSL	EN
+
+No	EN
+mailbox	EN
+चयनित	HI
+.	EN
+
+Mailbox	EN
+"	EN
+%	EN
+s	EN
+"	EN
+is	EN
+used	EN
+by	EN
+Balsa	EN
+और	HI
+I	EN
+cannot	EN
+निकालें	HI
+it	EN
+.	EN
+If	EN
+आपको	HI
+सचमुच	HI
+want	EN
+to	EN
+हटाएँ	HI
+it	EN
+,	EN
+assign	EN
+इसकी	HI
+function	EN
+to	EN
+कुछ	HI
+अन्य	HI
+mailbox	EN
+.	EN
+
+This	EN
+होगा	HI
+हटाएँ	HI
+the	EN
+mailbox	EN
+"	EN
+%	EN
+s	EN
+"	EN
+इससे	HI
+the	EN
+सूची	HI
+of	EN
+mailboxes	EN
+.	EN
+You	EN
+मई	HI
+भी	HI
+हटाएँ	HI
+the	EN
+डिस्क	HI
+संचिका	HI
+or	EN
+फ़ाइलें	HI
+संबद्ध	HI
+साथ	HI
+ये	HI
+mailbox	EN
+.	EN
+If	EN
+आप	HI
+do	EN
+नही	HI
+निकालें	HI
+the	EN
+फाइल	HI
+on	EN
+डिस्क	HI
+आपको	HI
+मई	HI
+"	EN
+Add	EN
+Mailbox	EN
+"	EN
+to	EN
+अभिगम	HI
+the	EN
+mailbox	EN
+again	EN
+.	EN
+What	EN
+होता	HI
+आप	HI
+like	HI
+to	EN
+do	EN
+?	EN
+
+Remove	EN
+से	HI
+_	EN
+सूची	HI
+
+Remove	EN
+इससे	HI
+सूची	HI
+और	HI
+_	EN
+डिस्क	HI
+
+This	EN
+करेगा	HI
+हटाएँ	HI
+the	EN
+mailbox	EN
+"	EN
+%	EN
+s	EN
+"	EN
+और	HI
+सभी	HI
+its	EN
+संदेश	HI
+से	HI
+अपना	HI
+IMAP	EN
+सर्वर	HI
+.	EN
+If	EN
+%	EN
+s	EN
+रै	HI
+subfolders	EN
+,	EN
+it	EN
+करेगी	HI
+स्टिल	HI
+appear	EN
+as	EN
+a	EN
+नोड	HI
+in	EN
+the	EN
+फ़ोल्डर	HI
+वृक्ष	HI
+.	EN
+You	EN
+may	HI
+उपयोग	HI
+"	EN
+New	EN
+IMAP	EN
+subfolder	EN
+"	EN
+बाद	HI
+to	EN
+add	HI
+a	EN
+mailbox	EN
+साथ	HI
+इस	HI
+नाम	HI
+.	EN
+What	EN
+होता	HI
+आपको	HI
+like	HI
+to	EN
+do	EN
+?	EN
+
+_	EN
+Remove	EN
+from	EN
+सर्वर	HI
+
+This	EN
+करेगा	HI
+हटाएँ	HI
+the	EN
+mailbox	EN
+"	EN
+%	EN
+s	EN
+"	EN
+इससे	HI
+the	EN
+सूची	HI
+of	EN
+mailboxes	EN
+.	EN
+You	EN
+may	HI
+उपयोग	HI
+"	EN
+Add	EN
+Mailbox	EN
+"	EN
+बाद	HI
+to	EN
+एक्सेस	HI
+इस	HI
+mailbox	EN
+again	EN
+.	EN
+What	EN
+होता	HI
+आप	HI
+जैसे	HI
+to	EN
+do	EN
+?	EN
+
+_	EN
+Remove	EN
+इससे	HI
+सूची	HI
+
+Folder	EN
+हटाना	HI
+असफल	HI
+.	EN
+Reason	EN
+:	EN
+%	EN
+s	EN
+
+_	EN
+Add	EN
+
+Rename	EN
+of	EN
+%	EN
+s	EN
+to	EN
+%	EN
+s	EN
+विफल	HI
+:	EN
+%	EN
+s	EN
+
+Local	EN
+%	EN
+s	EN
+Mailbox	EN
+Properties	EN
+
+New	EN
+Local	EN
+%	EN
+s	EN
+Mailbox	EN
+
+Remote	EN
+Mailbox	EN
+Configurator	EN
+
+Pass	EN
+_	EN
+वर्ड	HI
+:	EN
+
+_	EN
+Delete	EN
+संदेश	HI
+इससे	HI
+सर्वर	HI
+बाद	HI
+डाउनलोड	HI
+
+_	EN
+Enable	EN
+जाँचें	HI
+लिये	HI
+नई	HI
+डाक	HI
+
+_	EN
+Filter	EN
+संदेश	HI
+through	EN
+procmail	EN
+
+Fi	EN
+_	EN
+lter	EN
+Command	EN
+:	EN
+
+_	EN
+Username	EN
+:	EN
+
+F	EN
+_	EN
+पुराने	HI
+पथ	HI
+:	EN
+
+_	EN
+Identity	EN
+:	EN
+
+_	EN
+Subscribe	EN
+लिये	HI
+नई	HI
+डाक	HI
+जाँचें	HI
+
+The	EN
+फ़ोल्डर	HI
+संस्करण	HI
+to	EN
+be	EN
+लिखी	HI
+.	EN
+
+Scanning	EN
+%	EN
+s	EN
+.	EN
+Please	EN
+रुको	HI
+.	EN
+.	EN
+.	EN
+
+Scanning	EN
+of	EN
+%	EN
+s	EN
+असफल	HI
+:	EN
+%	EN
+s	EN
+Check	EN
+संजाल	HI
+कनेक्टिविटी	HI
+.	EN
+
+Scanning	EN
+of	EN
+%	EN
+s	EN
+असफल	HI
+:	EN
+%	EN
+s	EN
+
+Local	EN
+_	EN
+mbox	HI
+mailbox	EN
+.	EN
+.	EN
+.	EN
+
+Local	EN
+Mail	EN
+_	EN
+dir	EN
+mailbox	EN
+.	EN
+.	EN
+.	EN
+
+Local	EN
+M	EN
+_	EN
+H	EN
+mailbox	EN
+.	EN
+.	EN
+.	EN
+
+Remote	EN
+_	EN
+IMAP	EN
+mailbox	EN
+.	EN
+.	EN
+.	EN
+
+Remote	EN
+IMAP	EN
+_	EN
+folder	EN
+.	EN
+.	EN
+.	EN
+
+Remote	EN
+IMAP	EN
+_	EN
+subfolder	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Open	EN
+
+_	EN
+Unsubscribe	EN
+
+Mark	EN
+as	EN
+_	EN
+Inbox	EN
+
+_	EN
+Mark	EN
+as	EN
+Sentbox	EN
+
+Mark	EN
+as	EN
+_	EN
+Trash	EN
+
+Mark	EN
+as	EN
+D	EN
+_	EN
+raftbox	EN
+
+_	EN
+Edit	EN
+/	EN
+Apply	EN
+फ़िल्टर	HI
+
+The	EN
+पथ	HI
+"	EN
+%	EN
+s	EN
+"	EN
+करता	HI
+नहीं	HI
+सीसे	HI
+to	EN
+a	EN
+mailbox	EN
+.	EN
+
+Could	EN
+नही	HI
+लिखें	HI
+to	EN
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Get	EN
+नई	HI
+डाक	HI
+on	EN
+स्टार्टअप	HI
+
+Compose	EN
+a	EN
+नई	HI
+ईमेल	HI
+to	EN
+EMAIL	EN
+@	EN
+ADDRESS	EN
+
+Attach	EN
+संचिका	HI
+at	EN
+PATH	EN
+
+Opens	EN
+पहला	HI
+unread	EN
+mailbox	EN
+
+Opens	EN
+डिफॉल्ट	HI
+Inbox	EN
+on	EN
+स्टार्टअप	HI
+
+Prints	EN
+संख्या	HI
+unread	EN
+और	HI
+unsent	EN
+संदेश	HI
+
+Attach	EN
+फाइल	HI
+at	EN
+URI	EN
+
+Balsa	EN
+cannot	EN
+खुला	HI
+आपका	HI
+"	EN
+%	EN
+s	EN
+"	EN
+mailbox	EN
+.	EN
+
+Compressing	EN
+डाक	HI
+folders	EN
+.	EN
+.	EN
+.	EN
+
+Mail	EN
+_	EN
+बक्सा	HI
+
+Mail	EN
+_	EN
+बाक्स	HI
+
+_	EN
+More	EN
+
+_	EN
+Headers	EN
+
+_	EN
+Sort	EN
+Mailbox	EN
+
+H	EN
+_	EN
+आईडीई	HI
+संदेश	HI
+
+_	EN
+Tools	EN
+
+_	EN
+Filters	EN
+
+F	EN
+_	EN
+ilters	EN
+
+Manage	EN
+फ़िल्टर	HI
+
+_	EN
+Continue	EN
+
+Continue	EN
+संपादन	HI
+मौज़ूदा	HI
+सन्देश	HI
+
+_	EN
+Get	EN
+New	EN
+Mail	EN
+
+Fetch	EN
+नया	HI
+आवक	HI
+मेल	HI
+
+Send	EN
+संदेश	HI
+इससे	HI
+the	EN
+outbox	EN
+
+Send	EN
+और	HI
+_	EN
+Receive	EN
+Mail	EN
+
+Send	EN
+और	HI
+Receive	EN
+संदेश	HI
+
+_	EN
+Address	EN
+Book	EN
+.	EN
+.	EN
+.	EN
+
+Open	EN
+the	EN
+पता	HI
+किताबे	HI

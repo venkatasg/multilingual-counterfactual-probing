@@ -1,0 +1,19367 @@
+Give	EN
+अपने	HI
+अनुप्रयोग	HI
+an	EN
+सुगमता	HI
+workout	EN
+
+Accerciser	EN
+Accessibility	EN
+Explorer	EN
+
+The	EN
+मूलभूत	HI
+प्लगइन	HI
+ख़ाका	HI
+लिये	HI
+the	EN
+bottom	EN
+फलक	HI
+
+The	EN
+मूलभूत	HI
+प्लगइन	HI
+अभिन्यास	HI
+लिये	HI
+the	EN
+टॉप	HI
+पैनल	HI
+
+A	EN
+list	EN
+of	EN
+प्लगइन	HI
+उस	HI
+हैं	HI
+निष्क्रिय	HI
+by	EN
+डिफॉल्ट	HI
+
+Highlight	EN
+अवधि	HI
+
+The	EN
+अवधि	HI
+of	EN
+the	EN
+हाइलाइट	HI
+बक्सा	HI
+कब	HI
+selecting	EN
+accessible	EN
+नोड	HI
+
+Highlight	EN
+बार्डर	HI
+रंग	HI
+
+The	EN
+रंग	HI
+और	HI
+अस्पष्टता	HI
+of	EN
+the	EN
+highlight	EN
+किनारा	HI
+.	EN
+
+Highlight	EN
+भरें	HI
+रंग	HI
+
+The	EN
+रंग	HI
+और	HI
+अस्पष्टता	HI
+of	EN
+the	EN
+हाइलाइट	HI
+भरें	HI
+.	EN
+
+Browse	EN
+the	EN
+विभिन्न	HI
+विधियाँ	HI
+of	EN
+the	EN
+वर्तमान	HI
+accessible	EN
+
+Hide	EN
+निजी	HI
+गुण	HI
+
+Interactive	EN
+कंसोल	HI
+लिये	HI
+manipulating	EN
+फिलहाल	HI
+चयनित	HI
+accessible	EN
+
+_	EN
+Monitor	EN
+Events	EN
+
+C	EN
+_	EN
+lear	EN
+Selection	EN
+
+Selected	EN
+अनुप्रयोग	HI
+
+Selected	EN
+accessible	EN
+
+Shows	EN
+घटनाएँ	HI
+as	EN
+वे	HI
+occur	EN
+से	HI
+चयनित	HI
+प्रकार	HI
+और	HI
+स्रोत	HI
+
+Highlight	EN
+अंतिम	HI
+घटना	HI
+प्रविष्टि	HI
+
+Start	EN
+/	EN
+रोकें	HI
+ईवेंट	HI
+रिकार्डिंग	HI
+
+(	EN
+no	EN
+विवरण	HI
+)	EN
+
+_	EN
+Accessible	EN
+
+Perform	EN
+एक्शन	HI
+
+Acti	EN
+_	EN
+on	EN
+
+Ap	EN
+_	EN
+plication	EN
+
+Col	EN
+_	EN
+lection	EN
+
+MDI	EN
+-	EN
+Z	EN
+-	EN
+क्रम	HI
+
+Absolute	EN
+पद	HI
+
+Select	EN
+All	EN
+
+_	EN
+Selection	EN
+
+Selected	EN
+स्तंभ	HI
+
+Selected	EN
+पंक्तियां	HI
+
+नाम	HI
+(	EN
+x	EN
+,	EN
+y	EN
+)	EN
+
+Selected	EN
+Cell	EN
+
+Include	EN
+मूलभूत	HI
+
+Current	EN
+मान	HI
+
+Maximum	EN
+मूल्य	HI
+
+Minimum	EN
+मान	HI
+
+Interface	EN
+Viewer	EN
+
+Allows	EN
+देखने	HI
+of	EN
+विभिन्न	HI
+इंटरफ़ेस	HI
+गुण	HI
+
+(	EN
+not	EN
+implemented	EN
+)	EN
+
+Too	EN
+कई	HI
+selectable	EN
+children	EN
+
+Quick	EN
+Select	EN
+
+Plugin	EN
+साथ	HI
+विभिन्न	HI
+विधियां	HI
+of	EN
+selecting	EN
+accessibles	EN
+जल्दी	HI
+.	EN
+
+Inspect	EN
+पिछला	HI
+केन्द्रित	HI
+accessible	EN
+
+Inspect	EN
+accessible	EN
+अधीन	HI
+मूषक	HI
+
+The	EN
+धारा	HI
+लिपि	HI
+करेंगे	HI
+be	EN
+खोई	HI
+.	EN
+
+Confirm	EN
+साफ	HI
+
+No	EN
+वर्णन	HI
+
+AT	EN
+-	EN
+SPI	EN
+Validator	EN
+
+Validates	EN
+अनुप्रयोग	HI
+accessibility	EN
+
+Tests	EN
+मूलभूत	HI
+GUI	EN
+आवेदन	HI
+पहुँच	HI
+
+actionable	EN
+%	EN
+s	EN
+is	EN
+नही	HI
+focusable	EN
+or	EN
+selectable	EN
+
+इंटरएक्टिव	HI
+%	EN
+s	EN
+is	EN
+नहीं	HI
+actionable	EN
+
+अधिक	HI
+than	HI
+एक	HI
+केंद्रित	HI
+विजेट	HI
+
+%	EN
+s	EN
+रै	HI
+no	EN
+टेक्स्ट	HI
+इंटरफ़ेस	HI
+
+%	EN
+s	EN
+निर्देशिका	HI
+in	EN
+जनक	HI
+करता	HI
+नहीं	HI
+माचिस	HI
+बालक	HI
+index	EN
+
+Missing	EN
+reciprocal	EN
+लिये	HI
+%	EN
+s	EN
+रिश्ता	HI
+
+%	EN
+s	EN
+अनुपलब्ध	HI
+name	EN
+or	EN
+लेबल	HI
+
+focusable	EN
+%	EN
+s	EN
+रै	HI
+सारणी	HI
+इंटरफेस	HI
+,	EN
+no	EN
+चयन	HI
+इंटरफेस	HI
+
+%	EN
+s	EN
+रै	HI
+%	EN
+s	EN
+अवस्था	HI
+बिना	HI
+%	EN
+s	EN
+स्थिति	HI
+
+%	EN
+s	EN
+करता	HI
+नही	HI
+belong	EN
+to	EN
+a	EN
+सेट	HI
+
+%	EN
+(	EN
+rolename	EN
+)	EN
+s	EN
+सूचकांक	HI
+%	EN
+(	EN
+num	EN
+)	EN
+d	EN
+करता	HI
+नहीं	HI
+मैच	HI
+पंक्ति	HI
+और	HI
+स्तम्भ	HI
+
+%	EN
+(	EN
+rolename	EN
+)	EN
+s	EN
+अभिभावक	HI
+सूचकांक	HI
+%	EN
+(	EN
+num1	EN
+)	EN
+d	EN
+करता	HI
+नही	HI
+मिलाएँ	HI
+पंक्ति	HI
+और	HI
+कालम	HI
+निर्देशिका	HI
+%	EN
+(	EN
+num2	EN
+)	EN
+d	EN
+
+%	EN
+s	EN
+रै	HI
+no	EN
+नाम	HI
+or	EN
+विवरण	HI
+
+_	EN
+Preferences	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Contents	EN
+
+Accerciser	EN
+could	EN
+नहीं	HI
+देखें	HI
+the	EN
+एप्लिकेशन	HI
+on	EN
+अपने	HI
+डेस्कटॉप	HI
+.	EN
+You	EN
+जरूर	HI
+enable	EN
+डेस्कटॉप	HI
+पहुँच	HI
+to	EN
+फिक्स	HI
+ये	HI
+समस्या	HI
+.	EN
+Do	EN
+तुम	HI
+want	EN
+to	EN
+enable	EN
+it	EN
+अभी	HI
+?	EN
+
+Note	EN
+:	EN
+Changes	EN
+तभी	HI
+लें	HI
+प्रभाव	HI
+बाद	HI
+logout	EN
+.	EN
+
+_	EN
+Refresh	EN
+Registry	EN
+
+Refresh	EN
+सभी	HI
+
+Refresh	EN
+_	EN
+Node	EN
+
+Refresh	EN
+चयनित	HI
+नोड	HI
+'	EN
+s	EN
+children	EN
+
+Top	EN
+पटल	HI
+
+accerciser	EN
+Preferences	EN
+
+Global	EN
+Hotkeys	EN
+
+Highlight	EN
+अवधि	HI
+:	EN
+
+The	EN
+बॉर्डर	HI
+रंग	HI
+of	EN
+the	EN
+highlight	EN
+बक्सा	HI
+
+Fill	EN
+रंग	HI
+:	EN
+
+The	EN
+भरेंगे	HI
+रंग	HI
+of	EN
+the	EN
+हाइलाइट	HI
+बॉक्स	HI
+
+accerciser	EN
+Copyright	EN
+2006	EN
+,	EN
+2007	EN
+IBM	EN
+Corporation	EN
+(	EN
+BSD	EN
+)	EN
+
+The	EN
+New	EN
+BSD	EN
+License	EN
+See	EN
+the	EN
+COPYING	EN
+और	HI
+NOTICE	EN
+फाइलें	HI
+लिये	HI
+विवरण	HI
+.	EN
+
+_	EN
+Add	EN
+Bookmark	EN
+.	EN
+.	EN
+.	EN
+
+Bookmark	EN
+चयनित	HI
+accessible	EN
+.	EN
+
+_	EN
+Edit	EN
+Bookmarks	EN
+.	EN
+.	EN
+.	EN
+
+Manage	EN
+पसंदीदा	HI
+.	EN
+
+Edit	EN
+Bookmarks	EN
+.	EN
+.	EN
+.	EN
+
+Add	EN
+Bookmark	EN
+.	EN
+.	EN
+.	EN
+
+Plugin	EN
+Errors	EN
+
+No	EN
+दृश्य	HI
+
+_	EN
+Single	EN
+प्लगइन	HI
+दृश्य	HI
+
+Plugin	EN
+View	EN
+
+Plugin	EN
+View	EN
+(	EN
+%	EN
+d	EN
+)	EN
+
+_	EN
+New	EN
+देखें	HI
+.	EN
+.	EN
+.	EN
+
+New	EN
+View	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+File	EN
+
+_	EN
+Edit	EN
+
+_	EN
+Bookmarks	EN
+
+Full	EN
+नाम	HI
+
+Key	EN
+बाइंडिंग	HI
+
+A	EN
+सूची	HI
+of	EN
+प्लगइन	HI
+उस	HI
+हैं	HI
+विकलांग	HI
+by	EN
+मूलभूत	HI
+.	EN
+
+The	EN
+अवधि	HI
+of	EN
+the	EN
+highlight	EN
+बक्सा	HI
+कब	HI
+selecting	EN
+accessible	EN
+नोड	HI
+.	EN
+
+The	EN
+खाका	HI
+लिये	HI
+the	EN
+तल	HI
+पटल	HI
+
+The	EN
+खाका	HI
+लिये	HI
+the	EN
+बॉटम	HI
+पटल	HI
+pluginview	EN
+.	EN
+
+The	EN
+अभिन्यास	HI
+लिये	HI
+the	EN
+टॉप	HI
+पटल	HI
+
+The	EN
+ख़ाका	HI
+लिये	HI
+the	EN
+टॉप	HI
+पैनल	HI
+pluginview	EN
+.	EN
+
+Available	EN
+नया	HI
+pluginviews	EN
+
+The	EN
+डिफॉल्ट	HI
+प्लगइन	HI
+अभिन्यास	HI
+लिये	HI
+the	EN
+उपर	HI
+पैनल	HI
+.	EN
+
+Child	EN
+गणना	HI
+
+Selected	EN
+Cell	EN
+
+Start	EN
+:	EN
+0	EN
+
+End	EN
+:	EN
+0	EN
+
+Start	EN
+:	EN
+%	EN
+d	EN
+
+focusable	EN
+%	EN
+s	EN
+रै	HI
+a	EN
+सारणी	HI
+अंतरफलक	HI
+,	EN
+परन्तु	HI
+नहीं	HI
+a	EN
+चयन	HI
+इंटरफ़ेस	HI
+
+_	EN
+Hide	EN
+/	EN
+Show	EN
+Applications	EN
+बगैर	HI
+children	EN
+
+Plugin	EN
+Errors	EN
+
+_	EN
+Edit	EN
+
+_	EN
+Bookmarks	EN
+
+(	EN
+no	EN
+विवरण	HI
+)	EN
+
+_	EN
+New	EN
+view	EN
+.	EN
+.	EN
+.	EN
+
+The	EN
+अवधि	HI
+of	EN
+the	EN
+हाइलाइट	HI
+डिब्बा	HI
+जब	HI
+selecting	EN
+accessible	EN
+नोड	HI
+.	EN
+
+The	EN
+ख़ाका	HI
+for	EN
+the	EN
+बॉटम	HI
+पैनल	HI
+
+The	EN
+layout	EN
+लिये	HI
+the	EN
+नीचे	HI
+फलक	HI
+pluginview	EN
+.	EN
+
+The	EN
+अभिन्यास	HI
+for	EN
+the	EN
+शीर्ष	HI
+पैनल	HI
+
+The	EN
+ख़ाका	HI
+लिये	HI
+the	EN
+उपर	HI
+पटल	HI
+pluginview	EN
+.	EN
+
+Single	EN
+ख़ाका	HI
+दृश्य	HI
+
+Available	EN
+नया	HI
+pluginviews	EN
+
+The	EN
+मूलभूत	HI
+प्लगइन	HI
+खाका	HI
+लिये	HI
+the	EN
+उपर	HI
+पैनल	HI
+.	EN
+
+focusable	EN
+%	EN
+s	EN
+रै	HI
+a	EN
+टेबल	HI
+अंतरफलक	HI
+,	EN
+परन्तु	HI
+नही	HI
+a	EN
+चयन	HI
+अंतरफलक	HI
+
+accerciser	EN
+Copyright	EN
+(	EN
+c	EN
+)	EN
+2006	EN
+,	EN
+2007	EN
+IBM	EN
+Corporation	EN
+(	EN
+BSD	EN
+)	EN
+
+Position	EN
+of	EN
+the	EN
+आड़ा	HI
+विभाजित	HI
+of	EN
+the	EN
+मेन	HI
+window	EN
+.	EN
+
+Position	EN
+of	EN
+the	EN
+लंबवत	HI
+विभाजित	HI
+of	EN
+the	EN
+मुख्य	HI
+खिड़की	HI
+.	EN
+
+Default	EN
+विंडो	HI
+ऊंचाई	HI
+
+The	EN
+विंडो	HI
+ऊंचाई	HI
+मान	HI
+.	EN
+
+View	EN
+प्लगइन	HI
+in	EN
+a	EN
+अकेला	HI
+ख़ाका	HI
+.	EN
+
+This	EN
+सूची	HI
+contains	EN
+सभी	HI
+the	EN
+नई	HI
+उपलब्ध	HI
+pluginviews	EN
+
+Window	EN
+ऊँचाई	HI
+
+Window	EN
+ऊंचाई	HI
+मूल्य	HI
+.	EN
+
+Hotkey	EN
+संयोजन	HI
+
+Hotkey	EN
+संयोजन	HI
+लिये	HI
+संबंधित	HI
+एक्शन	HI
+.	EN
+
+Start	EN
+:	EN
+0	EN
+
+Default	EN
+GNOME	EN
+Theme	EN
+
+No	EN
+लिखे	HI
+
+No	EN
+पढ़े	HI
+
+Play	EN
+कई	HI
+अलग	HI
+solitaire	EN
+गेम	HI
+
+solitaire	EN
+.	EN
+कार्ड	HI
+.	EN
+klondike	EN
+.	EN
+स्पाइडर	HI
+.	EN
+freecell	EN
+.	EN
+धैर्य	HI
+.	EN
+
+Theme	EN
+संचिका	HI
+नाम	HI
+
+The	EN
+नाम	HI
+of	EN
+the	EN
+संचिका	HI
+साथ	HI
+the	EN
+ग्राफिक्स	HI
+लिये	HI
+the	EN
+कार्ड	HI
+.	EN
+
+Whether	EN
+or	EN
+नहीं	HI
+to	EN
+दिखाओ	HI
+the	EN
+टूलबार	HI
+
+Whether	EN
+or	EN
+नहीं	HI
+to	EN
+दिखाएँ	HI
+the	EN
+प्रस्थिति	HI
+पट्टी	HI
+
+Select	EN
+the	EN
+शैली	HI
+of	EN
+कंट्रोल	HI
+
+Select	EN
+whether	EN
+to	EN
+खीचें	HI
+the	EN
+कार्ड	HI
+or	EN
+to	EN
+क्लिक	HI
+on	EN
+the	EN
+स्त्रोत	HI
+फिर	HI
+the	EN
+मंज़िल	HI
+.	EN
+
+Whether	EN
+or	EN
+नहीं	HI
+to	EN
+play	EN
+कार्यक्रम	HI
+ध्वनियाँ	HI
+.	EN
+
+Whether	EN
+or	EN
+नही	HI
+to	EN
+एनिमेट	HI
+कार्ड	HI
+चालें	HI
+.	EN
+
+The	EN
+खेल	HI
+फाइल	HI
+to	EN
+उपयोग	HI
+
+The	EN
+नाम	HI
+of	EN
+the	EN
+स्कीम	HI
+फाइल	HI
+containing	EN
+the	EN
+solitaire	EN
+गेम	HI
+to	EN
+खेल	HI
+.	EN
+
+Statistics	EN
+of	EN
+गेम्स	HI
+निभाई	HI
+
+A	EN
+सूची	HI
+of	EN
+स्ट्रिंग्स	HI
+उस	HI
+आईये	HI
+in	EN
+the	EN
+form	EN
+of	EN
+a	EN
+quintuple	EN
+:	EN
+नाम	HI
+,	EN
+जीता	HI
+,	EN
+कुल	HI
+गेम	HI
+निभाई	HI
+,	EN
+सर्वश्रेष्ठ	HI
+समय	HI
+(	EN
+in	EN
+सेकेंड	HI
+)	EN
+और	HI
+worst	EN
+वक़्त	HI
+(	EN
+भी	HI
+in	EN
+सेकेंड	HI
+)	EN
+.	EN
+Unplayed	EN
+गेम	HI
+do	EN
+नही	HI
+need	EN
+to	EN
+be	EN
+represented	EN
+.	EN
+
+Recently	EN
+निभाई	HI
+games	EN
+
+A	EN
+सूची	HI
+of	EN
+recently	EN
+निभाई	HI
+गेम्स	HI
+.	EN
+
+New	EN
+Game	EN
+
+Change	EN
+Game	EN
+
+About	EN
+Aisleriot	EN
+
+Select	EN
+Game	EN
+
+_	EN
+Select	EN
+
+_	EN
+New	EN
+Game	EN
+
+_	EN
+Redo	EN
+Move	EN
+
+_	EN
+Restart	EN
+
+_	EN
+Undo	EN
+Move	EN
+
+_	EN
+Deal	EN
+
+_	EN
+Leave	EN
+Fullscreen	EN
+
+_	EN
+Pause	EN
+
+%	EN
+s	EN
+is	EN
+मुक्त	HI
+सॉफ्टवेयर	HI
+.	EN
+आप	HI
+can	EN
+redistribute	EN
+it	EN
+और	HI
+/	EN
+or	EN
+सुधारें	HI
+it	EN
+तहत	HI
+the	EN
+शर्तें	HI
+of	EN
+the	EN
+GNU	EN
+General	EN
+Public	EN
+License	EN
+as	EN
+प्रकाशित	HI
+by	EN
+the	EN
+Free	EN
+Software	EN
+Foundation	EN
+.	EN
+either	EN
+संस्करण	HI
+%	EN
+d	EN
+of	EN
+the	EN
+License	EN
+,	EN
+or	EN
+(	EN
+at	EN
+अपने	HI
+विकल्प	HI
+)	EN
+कोई	HI
+बाद	HI
+वर्जन	HI
+.	EN
+
+You	EN
+चाहिए	HI
+have	EN
+प्राप्त	HI
+a	EN
+कॉपी	HI
+of	EN
+the	EN
+GNU	EN
+General	EN
+Public	EN
+License	EN
+साथ	HI
+साथ	HI
+यह	HI
+कार्यक्रम	HI
+.	EN
+If	EN
+नही	HI
+,	EN
+देख	HI
+.	EN
+
+%	EN
+s	EN
+on	EN
+आरक्षित	HI
+
+%	EN
+s	EN
+on	EN
+स्टाक	HI
+
+%	EN
+s	EN
+on	EN
+tableau	EN
+
+%	EN
+s	EN
+on	EN
+अपशिष्ट	HI
+
+This	EN
+खेल	HI
+करता	HI
+नही	HI
+have	EN
+संकेत	HI
+सहायता	HI
+yet	EN
+.	EN
+
+Move	EN
+%	EN
+s	EN
+onto	EN
+%	EN
+s	EN
+.	EN
+
+This	EN
+गेम	HI
+is	EN
+असमर्थ	HI
+to	EN
+provide	EN
+a	EN
+hint	EN
+.	EN
+
+Aunt	EN
+Mary	EN
+
+Bakers	EN
+Game	EN
+
+Bear	EN
+River	EN
+
+Beleaguered	EN
+Castle	EN
+
+Diamond	EN
+Mine	EN
+
+First	EN
+Law	EN
+
+Forty	EN
+Thieves	EN
+
+Gay	EN
+Gordons	EN
+
+Gold	EN
+Mine	EN
+
+Kings	EN
+Audience	EN
+
+Klondike	EN
+Three	EN
+Decks	EN
+
+Napoleons	EN
+Tomb	EN
+
+Royal	EN
+East	EN
+
+Spider	EN
+Three	EN
+Decks	EN
+
+Straight	EN
+Up	EN
+
+Streets	EN
+And	EN
+Alleys	EN
+
+Thumb	EN
+And	EN
+Pouch	EN
+
+Will	EN
+O	EN
+The	EN
+Wisp	EN
+
+ऐस	HI
+of	EN
+चिड़ी	HI
+
+दो	HI
+of	EN
+चिड़ी	HI
+
+तीन	HI
+of	EN
+क्लब	HI
+
+चार	HI
+of	EN
+चिड़ी	HI
+
+पाँच	HI
+of	EN
+क्लब	HI
+
+six	EN
+of	EN
+क्लब	HI
+
+सात	HI
+of	EN
+क्लब	HI
+
+आठ	HI
+of	EN
+क्लब	HI
+
+नहला	HI
+of	EN
+चिड़ी	HI
+
+दहला	HI
+of	EN
+क्लब	HI
+
+जैक	HI
+of	EN
+क्लब	HI
+
+रानी	HI
+of	EN
+क्लब	HI
+
+किंग	HI
+of	EN
+चिड़ी	HI
+
+इक्का	HI
+of	EN
+हीरे	HI
+
+दो	HI
+of	EN
+हीरे	HI
+
+तीन	HI
+of	EN
+हीरे	HI
+
+चार	HI
+of	EN
+ईंट	HI
+
+पांच	HI
+of	EN
+ईंट	HI
+
+छः	HI
+of	EN
+हीरे	HI
+
+सात	HI
+of	EN
+ईंट	HI
+
+आठ	HI
+of	EN
+हीरे	HI
+
+नौ	HI
+of	EN
+हीरे	HI
+
+दस	HI
+of	EN
+हीरे	HI
+
+जोकर	HI
+of	EN
+ईंट	HI
+
+रानी	HI
+of	EN
+हीरे	HI
+
+बादशाह	HI
+of	EN
+ईंट	HI
+
+ऐस	HI
+of	EN
+दिल	HI
+
+दो	HI
+of	EN
+दिल	HI
+
+three	EN
+of	EN
+दिल	HI
+
+चार	HI
+of	EN
+दिल	HI
+
+पांच	HI
+of	EN
+दिलों	HI
+
+छक्का	HI
+of	EN
+दिलों	HI
+
+आठ	HI
+of	EN
+दिल	HI
+
+नहला	HI
+of	EN
+दिलों	HI
+
+टेन	HI
+of	EN
+दिलों	HI
+
+जोकर	HI
+of	EN
+दिलों	HI
+
+रानी	HI
+of	EN
+दिलों	HI
+
+किंग	HI
+of	EN
+hearts	EN
+
+महारानी	HI
+of	EN
+हुकुम	HI
+
+ब्लैक	HI
+joker	EN
+
+लाल	HI
+जोकर	HI
+
+Help	EN
+फ़ाइल	HI
+%	EN
+s	EN
+.	EN
+%	EN
+s	EN
+नही	HI
+मिला	HI
+
+Could	EN
+नही	HI
+शो	HI
+मदद	HI
+लिये	HI
+%	EN
+s	EN
+
+Whether	EN
+the	EN
+window	EN
+is	EN
+maximized	EN
+
+Whether	EN
+the	EN
+खिड़की	HI
+is	EN
+fullscreen	EN
+
+Window	EN
+ऊंचाई	HI
+
+GNOME	EN
+Solitaire	EN
+
+About	EN
+Solitaire	EN
+
+Select	EN
+the	EN
+खेल	HI
+क़िस्म	HI
+to	EN
+खेल	HI
+
+N	EN
+/	EN
+A	EN
+
+Congratulations	EN
+,	EN
+तुम	HI
+have	EN
+जीते	HI
+!	EN
+
+There	EN
+हैं	HI
+no	EN
+ज्यादा	HI
+moves	HI
+
+Card	EN
+गेम्स	HI
+:	EN
+
+Card	EN
+विषयवस्तु	HI
+:	EN
+
+About	EN
+AisleRiot	EN
+
+AisleRiot	EN
+provides	EN
+a	EN
+नियम	HI
+-	EN
+आधारित	HI
+solitaire	EN
+card	EN
+इंजन	HI
+उस	HI
+allows	EN
+अनेक	HI
+भिन्न	HI
+खेल	HI
+to	EN
+be	EN
+निभाई	HI
+.	EN
+
+GNOME	EN
+Games	EN
+वेब	HI
+साइटें	HI
+
+Play	EN
+%	EN
+s	EN
+
+Display	EN
+ताश	HI
+with	EN
+%	EN
+s	EN
+कार्ड	HI
+थीम	HI
+
+A	EN
+योजना	HI
+अपवाद	HI
+occurred	EN
+
+Please	EN
+रपट	HI
+ये	HI
+बग	HI
+to	EN
+the	EN
+डेवलपर्स	HI
+.	EN
+
+_	EN
+Don	EN
+'	EN
+t	EN
+रपट	HI
+
+_	EN
+Report	EN
+
+_	EN
+Game	EN
+
+_	EN
+View	EN
+
+_	EN
+Control	EN
+
+_	EN
+Help	EN
+
+Start	EN
+a	EN
+नई	HI
+खेल	HI
+
+Restart	EN
+the	EN
+गेम	HI
+
+_	EN
+Select	EN
+Game	EN
+
+Play	EN
+a	EN
+भिन्न	HI
+खेल	HI
+
+_	EN
+Recently	EN
+Played	EN
+
+Show	EN
+gameplay	EN
+आंकड़े	HI
+
+Close	EN
+this	EN
+खिड़की	HI
+
+Undo	EN
+the	EN
+आखिरी	HI
+चाल	HI
+
+Redo	EN
+the	EN
+undone	EN
+मूव	HI
+
+Deal	EN
+अगला	HI
+कार्ड	HI
+or	EN
+कार्ड	HI
+
+Get	EN
+a	EN
+संकेत	HI
+लिये	HI
+आपकी	HI
+अगला	HI
+move	EN
+
+View	EN
+सहायता	HI
+for	EN
+Aisleriot	EN
+
+View	EN
+सहायता	HI
+लिये	HI
+ये	HI
+खेल	HI
+
+About	EN
+ये	HI
+खेल	HI
+
+Install	EN
+कार्ड	HI
+थीम	HI
+
+Install	EN
+नया	HI
+कार्ड	HI
+थीम	HI
+से	HI
+the	EN
+वितरण	HI
+पैकेज	HI
+कोषों	HI
+
+_	EN
+Toolbar	EN
+
+Show	EN
+or	EN
+छुपा	HI
+the	EN
+टूलबार	HI
+
+Show	EN
+or	EN
+hide	EN
+statusbar	EN
+
+_	EN
+Click	EN
+to	EN
+Move	EN
+
+Pick	EN
+up	EN
+और	HI
+बूँद	HI
+ताश	HI
+by	EN
+clicking	EN
+
+_	EN
+Sound	EN
+
+Whether	EN
+or	EN
+नहीं	HI
+to	EN
+खेल	HI
+इवेंट	HI
+ध्वनियाँ	HI
+
+_	EN
+Animations	EN
+
+Whether	EN
+or	EN
+नहीं	HI
+to	EN
+एनिमेट	HI
+कार्ड	HI
+moves	HI
+
+Cannot	EN
+आरंभ	HI
+the	EN
+खेल	HI
+%	EN
+s	EN
+
+Aisleriot	EN
+cannot	EN
+ढूंढें	HI
+the	EN
+आखरी	HI
+खेल	HI
+आपको	HI
+निभाई	HI
+.	EN
+
+This	EN
+प्रायः	HI
+occurs	EN
+कब	HI
+आपको	HI
+run	EN
+an	EN
+वृद्ध	HI
+वर्जन	HI
+of	EN
+Aisleriot	EN
+जिससे	HI
+करता	HI
+नही	HI
+have	EN
+the	EN
+गेम	HI
+तुम	HI
+पिछला	HI
+played	EN
+.	EN
+The	EN
+डिफॉल्ट	HI
+गेम	HI
+,	EN
+Klondike	EN
+,	EN
+is	EN
+होने	HI
+प्रारंभ	HI
+बजाय	HI
+.	EN
+
+Base	EN
+Card	EN
+:	EN
+~	EN
+a	EN
+
+Base	EN
+Card	EN
+:	EN
+Ace	EN
+
+Base	EN
+Card	EN
+:	EN
+Jack	EN
+
+Base	EN
+Card	EN
+:	EN
+Queen	EN
+
+Base	EN
+Card	EN
+:	EN
+King	EN
+
+Stock	EN
+बाएँ	HI
+:	EN
+
+Stock	EN
+left	EN
+:	EN
+0	EN
+
+Deal	EN
+आदि	HI
+कार्ड	HI
+
+Try	EN
+rearranging	EN
+the	EN
+कार्ड	HI
+
+Unknown	EN
+रंग	HI
+
+the	EN
+काला	HI
+जोकर	HI
+
+the	EN
+रेड	HI
+जोकर	HI
+
+the	EN
+इक्का	HI
+of	EN
+चिड़ी	HI
+
+the	EN
+दो	HI
+of	EN
+क्लब	HI
+
+the	EN
+तीन	HI
+of	EN
+क्लब	HI
+
+the	EN
+चार	HI
+of	EN
+क्लब	HI
+
+the	EN
+five	EN
+of	EN
+चिड़ी	HI
+
+the	EN
+छः	HI
+of	EN
+चिड़ी	HI
+
+the	EN
+सात	HI
+of	EN
+चिड़ी	HI
+
+the	EN
+आठ	HI
+of	EN
+चिड़ी	HI
+
+the	EN
+नहला	HI
+of	EN
+क्लब	HI
+
+the	EN
+टेन	HI
+of	EN
+क्लब	HI
+
+the	EN
+जोकर	HI
+of	EN
+चिड़ी	HI
+
+the	EN
+महारानी	HI
+of	EN
+क्लब	HI
+
+the	EN
+राजा	HI
+of	EN
+क्लब	HI
+
+the	EN
+महारानी	HI
+of	EN
+हुकुम	HI
+
+the	EN
+इक्का	HI
+of	EN
+दिलों	HI
+
+the	EN
+दो	HI
+of	EN
+दिल	HI
+
+the	EN
+तीन	HI
+of	EN
+दिलों	HI
+
+the	EN
+चार	HI
+of	EN
+दिलों	HI
+
+the	EN
+पाँच	HI
+of	EN
+hearts	EN
+
+the	EN
+छक्का	HI
+of	EN
+दिलों	HI
+
+the	EN
+आठ	HI
+of	EN
+दिलों	HI
+
+the	EN
+nine	EN
+of	EN
+दिल	HI
+
+the	EN
+ten	EN
+of	EN
+दिल	HI
+
+the	EN
+जैक	HI
+of	EN
+दिल	HI
+
+the	EN
+रानी	HI
+of	EN
+दिलों	HI
+
+the	EN
+बादशाह	HI
+of	EN
+दिलों	HI
+
+the	EN
+ऐस	HI
+of	EN
+हीरे	HI
+
+the	EN
+दो	HI
+of	EN
+diamonds	EN
+
+the	EN
+तीन	HI
+of	EN
+हीरे	HI
+
+the	EN
+चार	HI
+of	EN
+हीरे	HI
+
+the	EN
+पाँच	HI
+of	EN
+ईंट	HI
+
+the	EN
+छह	HI
+of	EN
+हीरे	HI
+
+the	EN
+सात	HI
+of	EN
+ईंट	HI
+
+the	EN
+आठ	HI
+of	EN
+ईंट	HI
+
+the	EN
+nine	EN
+of	EN
+ईंट	HI
+
+the	EN
+दहला	HI
+of	EN
+ईंट	HI
+
+the	EN
+जोकर	HI
+of	EN
+हीरे	HI
+
+the	EN
+महारानी	HI
+of	EN
+ईंट	HI
+
+the	EN
+किंग	HI
+of	EN
+ईंट	HI
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+न्यास	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+खाली	HI
+न्यास	HI
+slot	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+tableau	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+रिक्त	HI
+tableau	EN
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+आरक्षित	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+खाली	HI
+आरक्षित	HI
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+खाली	HI
+किनारा	HI
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+रिक्त	HI
+कोना	HI
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+रिक्त	HI
+टॉप	HI
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+रिक्त	HI
+तल	HI
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+रिक्त	HI
+शेष	HI
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+खाली	HI
+सही	HI
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+रिक्त	HI
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+काले	HI
+जोकर	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+रेड	HI
+जोकर	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+इक्का	HI
+of	EN
+क्लब	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+दो	HI
+of	EN
+क्लब	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+तीन	HI
+of	EN
+क्लब	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+चार	HI
+of	EN
+क्लब	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+पाँच	HI
+of	EN
+clubs	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+छह	HI
+of	EN
+clubs	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+सात	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+आठ	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+नहला	HI
+of	EN
+क्लब	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+दहला	HI
+of	EN
+क्लब	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+जोकर	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+रानी	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+किंग	HI
+of	EN
+क्लब	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+अज्ञात	HI
+कार्ड	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+ऐस	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+दो	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+तीन	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+चार	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+पाँच	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+छक्का	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+सात	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+आठ	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+नौ	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+दस	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+जैक	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+महारानी	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+किंग	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+ऐस	HI
+of	EN
+दिल	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+दो	HI
+of	EN
+दिलों	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+तीन	HI
+of	EN
+दिल	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+चार	HI
+of	EN
+दिल	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+पांच	HI
+of	EN
+दिलों	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+छक्का	HI
+of	EN
+दिल	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+सात	HI
+of	EN
+दिलों	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+आठ	HI
+of	EN
+दिल	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+नौ	HI
+of	EN
+दिल	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+ten	EN
+of	EN
+दिल	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+जोकर	HI
+of	EN
+दिलों	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+महारानी	HI
+of	EN
+दिलों	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+बादशाह	HI
+of	EN
+दिलों	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+इक्का	HI
+of	EN
+ईंट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+two	EN
+of	EN
+diamonds	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+तीन	HI
+of	EN
+ईंट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+चार	HI
+of	EN
+हीरे	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+पाँच	HI
+of	EN
+हीरे	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+छक्का	HI
+of	EN
+diamonds	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+सात	HI
+of	EN
+ईंट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+आठ	HI
+of	EN
+हीरे	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+नौ	HI
+of	EN
+हीरे	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+टेन	HI
+of	EN
+हीरे	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+जैक	HI
+of	EN
+ईंट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+रानी	HI
+of	EN
+ईंट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+राजा	HI
+of	EN
+हीरे	HI
+.	EN
+
+Remove	EN
+the	EN
+काला	HI
+जोकर	HI
+.	EN
+
+Remove	EN
+the	EN
+रेड	HI
+joker	EN
+.	EN
+
+Remove	EN
+the	EN
+इक्का	HI
+of	EN
+क्लब	HI
+.	EN
+
+Remove	EN
+the	EN
+दो	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Remove	EN
+the	EN
+तीन	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Remove	EN
+the	EN
+चार	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Remove	EN
+the	EN
+पांच	HI
+of	EN
+क्लब	HI
+.	EN
+
+Remove	EN
+the	EN
+छह	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Remove	EN
+the	EN
+सात	HI
+of	EN
+क्लब	HI
+.	EN
+
+Remove	EN
+the	EN
+आठ	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Remove	EN
+the	EN
+नौ	HI
+of	EN
+क्लब	HI
+.	EN
+
+Remove	EN
+the	EN
+दस	HI
+of	EN
+क्लब	HI
+.	EN
+
+Remove	EN
+the	EN
+जोकर	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Remove	EN
+the	EN
+महारानी	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Remove	EN
+the	EN
+बादशाह	HI
+of	EN
+क्लब	HI
+.	EN
+
+Remove	EN
+the	EN
+इक्का	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Remove	EN
+the	EN
+two	EN
+of	EN
+हुकुम	HI
+.	EN
+
+Remove	EN
+the	EN
+तीन	HI
+of	EN
+spades	EN
+.	EN
+
+Remove	EN
+the	EN
+चार	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Remove	EN
+the	EN
+पाँच	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Remove	EN
+the	EN
+छः	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Remove	EN
+the	EN
+सात	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Remove	EN
+the	EN
+आठ	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Remove	EN
+the	EN
+नौ	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Remove	EN
+the	EN
+दस	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Remove	EN
+the	EN
+जैक	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Remove	EN
+the	EN
+महारानी	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Remove	EN
+the	EN
+राजा	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Remove	EN
+the	EN
+इक्का	HI
+of	EN
+दिल	HI
+.	EN
+
+Remove	EN
+the	EN
+दो	HI
+of	EN
+दिल	HI
+.	EN
+
+Remove	EN
+the	EN
+तीन	HI
+of	EN
+दिल	HI
+.	EN
+
+Remove	EN
+the	EN
+चार	HI
+of	EN
+दिलों	HI
+.	EN
+
+Remove	EN
+the	EN
+पांच	HI
+of	EN
+hearts	EN
+.	EN
+
+Remove	EN
+the	EN
+छक्का	HI
+of	EN
+दिलों	HI
+.	EN
+
+Remove	EN
+the	EN
+सात	HI
+of	EN
+दिलों	HI
+.	EN
+
+Remove	EN
+the	EN
+आठ	HI
+of	EN
+दिल	HI
+.	EN
+
+Remove	EN
+the	EN
+नहला	HI
+of	EN
+hearts	EN
+.	EN
+
+Remove	EN
+the	EN
+टेन	HI
+of	EN
+दिल	HI
+.	EN
+
+Remove	EN
+the	EN
+जैक	HI
+of	EN
+दिल	HI
+.	EN
+
+Remove	EN
+the	EN
+रानी	HI
+of	EN
+दिल	HI
+.	EN
+
+Remove	EN
+the	EN
+किंग	HI
+of	EN
+दिलों	HI
+.	EN
+
+Remove	EN
+the	EN
+ऐस	HI
+of	EN
+ईंट	HI
+.	EN
+
+Remove	EN
+the	EN
+दो	HI
+of	EN
+ईंट	HI
+.	EN
+
+Remove	EN
+the	EN
+तीन	HI
+of	EN
+ईंट	HI
+.	EN
+
+Remove	EN
+the	EN
+चार	HI
+of	EN
+हीरे	HI
+.	EN
+
+Remove	EN
+the	EN
+पाँच	HI
+of	EN
+ईंट	HI
+.	EN
+
+Remove	EN
+the	EN
+छक्का	HI
+of	EN
+हीरे	HI
+.	EN
+
+Remove	EN
+the	EN
+सात	HI
+of	EN
+हीरे	HI
+.	EN
+
+Remove	EN
+the	EN
+आठ	HI
+of	EN
+ईंट	HI
+.	EN
+
+Remove	EN
+the	EN
+नहला	HI
+of	EN
+ईंट	HI
+.	EN
+
+Remove	EN
+the	EN
+टेन	HI
+of	EN
+हीरे	HI
+.	EN
+
+Remove	EN
+the	EN
+जैक	HI
+of	EN
+ईंट	HI
+.	EN
+
+Remove	EN
+the	EN
+महारानी	HI
+of	EN
+ईंट	HI
+.	EN
+
+Remove	EN
+the	EN
+king	EN
+of	EN
+ईंट	HI
+.	EN
+
+Three	EN
+card	EN
+सौदे	HI
+
+Deal	EN
+another	EN
+दौर	HI
+
+Redeals	EN
+शेष	HI
+:	EN
+
+Deal	EN
+a	EN
+नया	HI
+कार्ड	HI
+from	EN
+the	EN
+डेक	HI
+
+Base	EN
+Card	EN
+:	EN
+
+Move	EN
+कुछ	HI
+onto	EN
+an	EN
+खाली	HI
+सही	HI
+-	EN
+hand	EN
+tableau	EN
+स्लॉट	HI
+
+Reserve	EN
+बाएं	HI
+:	EN
+
+Move	EN
+waste	EN
+पीछे	HI
+to	EN
+स्टॉक	HI
+
+Move	EN
+a	EN
+कार्ड	HI
+to	EN
+the	EN
+Foundation	EN
+
+Move	EN
+कुछ	HI
+into	EN
+the	EN
+रिक्त	HI
+Tableau	EN
+स्लॉट	HI
+
+Just	EN
+because	EN
+a	EN
+crosswalk	EN
+looks	EN
+जैसे	HI
+a	EN
+hopscotch	EN
+बोर्ड	HI
+doesn	EN
+'	EN
+t	EN
+औसत	HI
+it	EN
+is	EN
+एक	HI
+
+Look	EN
+both	EN
+तरीके	HI
+पहले	HI
+आपको	HI
+पार	HI
+the	EN
+गली	HI
+
+Have	EN
+तुम	HI
+पढ़े	HI
+the	EN
+मदद	HI
+संचिका	HI
+?	EN
+
+Odessa	EN
+is	EN
+a	EN
+बेहतर	HI
+खेल	HI
+.	EN
+Really	EN
+.	EN
+
+Tourniquets	EN
+हैं	HI
+नहीं	HI
+अनुशंसित	HI
+जबतक	HI
+in	EN
+the	EN
+direst	EN
+आपातकालीन	HI
+
+I	EN
+could	EN
+ज़रूर	HI
+उपयोग	HI
+a	EN
+backrub	EN
+सही	HI
+परिचय	HI
+अब	HI
+.	EN
+.	EN
+.	EN
+
+Monitors	EN
+won	EN
+'	EN
+t	EN
+दे	HI
+आपको	HI
+Vitamin	EN
+D	EN
+-	EN
+-	EN
+मगर	HI
+धूप	HI
+करेंगे	HI
+.	EN
+.	EN
+.	EN
+
+If	EN
+तुम	HI
+'	EN
+re	EN
+कभी	HI
+गुमशुदा	HI
+और	HI
+अकेले	HI
+in	EN
+the	EN
+वुड्स	HI
+,	EN
+हग	HI
+a	EN
+पेड़	HI
+
+Fishing	EN
+wire	EN
+makes	EN
+खराब	HI
+दंत	HI
+floss	EN
+
+Consistency	EN
+is	EN
+चाबी	HI
+
+When	EN
+बगैर	HI
+a	EN
+stapler	EN
+,	EN
+a	EN
+स्टेपल	HI
+और	HI
+a	EN
+रूलर	HI
+करेगी	HI
+कार्य	HI
+
+Never	EN
+उड़ा	HI
+in	EN
+a	EN
+डॉग	HI
+'	EN
+s	EN
+कान	HI
+
+Cards	EN
+शेष	HI
+:	EN
+~	EN
+a	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+an	EN
+ace	EN
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+दो	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+तीन	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+चार	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+पाँच	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+छक्का	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+सात	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+an	EN
+आठ	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+नहला	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+दहला	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+jack	EN
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+रानी	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+किंग	HI
+.	EN
+
+Unknown	EN
+मान	HI
+
+Deal	EN
+a	EN
+कार्ड	HI
+
+Move	EN
+a	EN
+राजा	HI
+onto	EN
+an	EN
+खाली	HI
+tableau	EN
+slot	EN
+.	EN
+
+No	EN
+संकेत	HI
+उपलब्धियाँ	HI
+सही	HI
+अब	HI
+
+Move	EN
+कुछ	HI
+on	EN
+to	EN
+an	EN
+खाली	HI
+आरक्षित	HI
+
+Six	EN
+Foundations	EN
+
+Five	EN
+Foundations	EN
+
+Four	EN
+Foundations	EN
+
+Play	EN
+a	EN
+कार्ड	HI
+to	EN
+फाउंडेशन	HI
+.	EN
+
+No	EN
+moves	HI
+.	EN
+
+Remove	EN
+the	EN
+इक्के	HI
+
+Remove	EN
+the	EN
+twos	EN
+
+Remove	EN
+the	EN
+threes	EN
+
+Remove	EN
+the	EN
+fives	EN
+
+Remove	EN
+the	EN
+छक्के	HI
+
+Remove	EN
+the	EN
+sevens	EN
+
+Remove	EN
+the	EN
+eights	EN
+
+Remove	EN
+the	EN
+nines	EN
+
+Remove	EN
+the	EN
+tens	HI
+
+Remove	EN
+the	EN
+jacks	EN
+
+Remove	EN
+the	EN
+मोहरे	HI
+
+Remove	EN
+the	EN
+राजाओं	HI
+
+I	EN
+'	EN
+m	EN
+नहीं	HI
+ज़रूर	HI
+
+Return	EN
+ताश	HI
+to	EN
+stock	EN
+
+Move	EN
+कुछ	HI
+onto	EN
+an	EN
+खाली	HI
+tableau	EN
+स्लॉट	HI
+.	EN
+
+Consider	EN
+चलती	HI
+कुछ	HI
+into	EN
+an	EN
+खाली	HI
+स्लॉट	HI
+
+Deal	EN
+a	EN
+कार्ड	HI
+इससे	HI
+भण्डार	HI
+
+No	EN
+चाल	HI
+हैं	HI
+संभावित	HI
+.	EN
+Undo	EN
+or	EN
+आरंभ	HI
+again	EN
+.	EN
+
+The	EN
+खेल	HI
+रै	HI
+no	EN
+हल	HI
+.	EN
+Undo	EN
+or	EN
+आरंभ	HI
+again	EN
+.	EN
+
+Double	EN
+click	EN
+any	EN
+कार्ड	HI
+to	EN
+redeal	EN
+.	EN
+
+No	EN
+संकेत	HI
+उपलब्धियाँ	HI
+.	EN
+
+Place	EN
+a	EN
+दो	HI
+in	EN
+the	EN
+leftmost	EN
+स्लॉट	HI
+of	EN
+पंक्ति	HI
+~	EN
+a	EN
+.	EN
+
+Add	EN
+to	EN
+the	EN
+अनुक्रम	HI
+in	EN
+पंक्ति	HI
+~	EN
+a	EN
+.	EN
+
+Place	EN
+the	EN
+दो	HI
+of	EN
+क्लब	HI
+अगला	HI
+to	EN
+the	EN
+इक्का	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Place	EN
+the	EN
+तीन	HI
+of	EN
+चिड़ी	HI
+अगला	HI
+to	EN
+the	EN
+दो	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Place	EN
+the	EN
+चार	HI
+of	EN
+चिड़ी	HI
+अगला	HI
+to	EN
+the	EN
+तीन	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Place	EN
+the	EN
+पांच	HI
+of	EN
+clubs	EN
+अगला	HI
+to	EN
+the	EN
+चार	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Place	EN
+the	EN
+छः	HI
+of	EN
+क्लब	HI
+अगला	HI
+to	EN
+the	EN
+पांच	HI
+of	EN
+क्लब	HI
+.	EN
+
+Place	EN
+the	EN
+सात	HI
+of	EN
+क्लब	HI
+अगला	HI
+to	EN
+the	EN
+छक्का	HI
+of	EN
+क्लब	HI
+.	EN
+
+Place	EN
+the	EN
+आठ	HI
+of	EN
+चिड़ी	HI
+अगला	HI
+to	EN
+the	EN
+सात	HI
+of	EN
+क्लब	HI
+.	EN
+
+Place	EN
+the	EN
+नौ	HI
+of	EN
+क्लब	HI
+अगला	HI
+to	EN
+the	EN
+आठ	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Place	EN
+the	EN
+दहला	HI
+of	EN
+चिड़ी	HI
+अगला	HI
+to	EN
+the	EN
+नौ	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Place	EN
+the	EN
+जैक	HI
+of	EN
+clubs	EN
+अगला	HI
+to	EN
+the	EN
+ten	EN
+of	EN
+क्लब	HI
+.	EN
+
+Place	EN
+the	EN
+महारानी	HI
+of	EN
+चिड़ी	HI
+अगला	HI
+to	EN
+the	EN
+जोकर	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Place	EN
+the	EN
+किंग	HI
+of	EN
+चिड़ी	HI
+अगला	HI
+to	EN
+the	EN
+महारानी	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Place	EN
+the	EN
+दो	HI
+of	EN
+हुकुम	HI
+अगला	HI
+to	EN
+the	EN
+ऐस	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Place	EN
+the	EN
+तीन	HI
+of	EN
+हुकुम	HI
+अगला	HI
+to	EN
+the	EN
+दो	HI
+of	EN
+spades	EN
+.	EN
+
+Place	EN
+the	EN
+चार	HI
+of	EN
+हुकुम	HI
+अगला	HI
+to	EN
+the	EN
+तीन	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Place	EN
+the	EN
+पाँच	HI
+of	EN
+हुकुम	HI
+अगला	HI
+to	EN
+the	EN
+चार	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Place	EN
+the	EN
+छक्का	HI
+of	EN
+हुकुम	HI
+अगला	HI
+to	EN
+the	EN
+पांच	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Place	EN
+the	EN
+सात	HI
+of	EN
+हुकुम	HI
+अगला	HI
+to	EN
+the	EN
+छक्का	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Place	EN
+the	EN
+आठ	HI
+of	EN
+हुकुम	HI
+next	EN
+to	EN
+the	EN
+सात	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Place	EN
+the	EN
+नौ	HI
+of	EN
+हुकुम	HI
+अगला	HI
+to	EN
+the	EN
+आठ	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Place	EN
+the	EN
+ten	EN
+of	EN
+हुकुम	HI
+अगला	HI
+to	EN
+the	EN
+नहला	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Place	EN
+the	EN
+जोकर	HI
+of	EN
+हुकुम	HI
+अगला	HI
+to	EN
+the	EN
+टेन	HI
+of	EN
+spades	EN
+.	EN
+
+Place	EN
+the	EN
+रानी	HI
+of	EN
+हुकुम	HI
+अगला	HI
+to	EN
+the	EN
+जैक	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Place	EN
+the	EN
+king	EN
+of	EN
+हुकुम	HI
+अगला	HI
+to	EN
+the	EN
+महारानी	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Place	EN
+the	EN
+दो	HI
+of	EN
+दिलों	HI
+अगला	HI
+to	EN
+the	EN
+ऐस	HI
+of	EN
+दिलों	HI
+.	EN
+
+Place	EN
+the	EN
+तीन	HI
+of	EN
+दिल	HI
+अगला	HI
+to	EN
+the	EN
+दो	HI
+of	EN
+दिलों	HI
+.	EN
+
+Place	EN
+the	EN
+चार	HI
+of	EN
+दिल	HI
+अगला	HI
+to	EN
+the	EN
+तीन	HI
+of	EN
+दिलों	HI
+.	EN
+
+Place	EN
+the	EN
+पांच	HI
+of	EN
+दिल	HI
+अगला	HI
+to	EN
+the	EN
+चार	HI
+of	EN
+दिलों	HI
+.	EN
+
+Place	EN
+the	EN
+छक्का	HI
+of	EN
+दिल	HI
+अगला	HI
+to	EN
+the	EN
+पाँच	HI
+of	EN
+दिल	HI
+.	EN
+
+Place	EN
+the	EN
+सात	HI
+of	EN
+दिल	HI
+अगला	HI
+to	EN
+the	EN
+छः	HI
+of	EN
+दिलों	HI
+.	EN
+
+Place	EN
+the	EN
+आठ	HI
+of	EN
+दिल	HI
+अगला	HI
+to	EN
+the	EN
+सात	HI
+of	EN
+दिल	HI
+.	EN
+
+Place	EN
+the	EN
+नहला	HI
+of	EN
+दिलों	HI
+अगला	HI
+to	EN
+the	EN
+आठ	HI
+of	EN
+दिलों	HI
+.	EN
+
+Place	EN
+the	EN
+टेन	HI
+of	EN
+दिल	HI
+अगला	HI
+to	EN
+the	EN
+नौ	HI
+of	EN
+दिलों	HI
+.	EN
+
+Place	EN
+the	EN
+जैक	HI
+of	EN
+दिलों	HI
+next	EN
+to	EN
+the	EN
+टेन	HI
+of	EN
+दिलों	HI
+.	EN
+
+Place	EN
+the	EN
+महारानी	HI
+of	EN
+दिल	HI
+अगला	HI
+to	EN
+the	EN
+जोकर	HI
+of	EN
+दिलों	HI
+.	EN
+
+Place	EN
+the	EN
+बादशाह	HI
+of	EN
+दिलों	HI
+अगला	HI
+to	EN
+the	EN
+रानी	HI
+of	EN
+दिल	HI
+.	EN
+
+Place	EN
+the	EN
+दो	HI
+of	EN
+हीरे	HI
+अगला	HI
+to	EN
+the	EN
+ऐस	HI
+of	EN
+हीरे	HI
+.	EN
+
+Place	EN
+the	EN
+तीन	HI
+of	EN
+ईंट	HI
+अगला	HI
+to	EN
+the	EN
+दो	HI
+of	EN
+ईंट	HI
+.	EN
+
+Place	EN
+the	EN
+चार	HI
+of	EN
+ईंट	HI
+अगला	HI
+to	EN
+the	EN
+तीन	HI
+of	EN
+हीरे	HI
+.	EN
+
+Place	EN
+the	EN
+पांच	HI
+of	EN
+ईंट	HI
+अगला	HI
+to	EN
+the	EN
+चार	HI
+of	EN
+ईंट	HI
+.	EN
+
+Place	EN
+the	EN
+छः	HI
+of	EN
+हीरे	HI
+अगला	HI
+to	EN
+the	EN
+पांच	HI
+of	EN
+ईंट	HI
+.	EN
+
+Place	EN
+the	EN
+सात	HI
+of	EN
+ईंट	HI
+अगला	HI
+to	EN
+the	EN
+छह	HI
+of	EN
+diamonds	EN
+.	EN
+
+Place	EN
+the	EN
+आठ	HI
+of	EN
+diamonds	EN
+अगला	HI
+to	EN
+the	EN
+सात	HI
+of	EN
+हीरे	HI
+.	EN
+
+Place	EN
+the	EN
+नहला	HI
+of	EN
+हीरे	HI
+अगला	HI
+to	EN
+the	EN
+आठ	HI
+of	EN
+ईंट	HI
+.	EN
+
+Place	EN
+the	EN
+दस	HI
+of	EN
+हीरे	HI
+अगला	HI
+to	EN
+the	EN
+नौ	HI
+of	EN
+ईंट	HI
+.	EN
+
+Place	EN
+the	EN
+जैक	HI
+of	EN
+diamonds	EN
+अगला	HI
+to	EN
+the	EN
+टेन	HI
+of	EN
+हीरे	HI
+.	EN
+
+Place	EN
+the	EN
+रानी	HI
+of	EN
+हीरे	HI
+अगला	HI
+to	EN
+the	EN
+जैक	HI
+of	EN
+ईंट	HI
+.	EN
+
+Place	EN
+the	EN
+बादशाह	HI
+of	EN
+ईंट	HI
+अगला	HI
+to	EN
+the	EN
+महारानी	HI
+of	EN
+हीरे	HI
+.	EN
+
+Randomly	EN
+Placed	EN
+Gaps	EN
+on	EN
+Redeal	EN
+
+Deals	EN
+बाएँ	HI
+:	EN
+~	EN
+a	EN
+
+Deal	EN
+a	EN
+row	EN
+
+Try	EN
+चलती	HI
+a	EN
+कार्ड	HI
+to	EN
+the	EN
+आरक्षित	HI
+
+Try	EN
+dealing	EN
+a	EN
+पंक्ति	HI
+of	EN
+ताश	HI
+
+Try	EN
+चलती	HI
+कार्ड	HI
+ढेर	HI
+around	EN
+
+Same	EN
+सूट	HI
+
+Select	EN
+a	EN
+कार्ड	HI
+से	HI
+the	EN
+आरक्षित	HI
+लिये	HI
+पहली	HI
+फाउंडेशन	HI
+pile	EN
+
+Move	EN
+a	EN
+card	EN
+इससे	HI
+the	EN
+आरक्षित	HI
+onto	EN
+the	EN
+खाली	HI
+tableau	EN
+स्लॉट	HI
+
+Stock	EN
+बायां	HI
+:	EN
+~	EN
+a	EN
+
+Deal	EN
+another	EN
+card	EN
+
+Move	EN
+a	EN
+कार्ड	HI
+or	EN
+बिल्ड	HI
+of	EN
+cards	EN
+on	EN
+to	EN
+the	EN
+खाली	HI
+स्लॉट	HI
+
+Deal	EN
+another	EN
+हाथ	HI
+
+Move	EN
+कार्ड	HI
+इससे	HI
+बरबाद	HI
+
+Move	EN
+अपशिष्ट	HI
+to	EN
+स्टाक	HI
+
+Stock	EN
+बाकी	HI
+:	EN
+~	EN
+a	EN
+
+Deal	EN
+a	EN
+नई	HI
+कार्ड	HI
+
+Try	EN
+चलती	HI
+कार्ड	HI
+bas	HI
+से	HI
+the	EN
+फाउंडेशन	HI
+
+Single	EN
+कार्ड	HI
+सौदे	HI
+
+No	EN
+redeals	EN
+
+Unlimited	EN
+redeals	EN
+
+Aim	EN
+to	EN
+जगह	HI
+the	EN
+सूट	HI
+in	EN
+the	EN
+ऑर्डर	HI
+जिससे	HI
+fits	EN
+the	EN
+वर्तमान	HI
+लेआउट	HI
+सर्वाधिक	HI
+naturally	EN
+.	EN
+
+Redeals	EN
+बायां	HI
+:	EN
+~	EN
+a	EN
+
+Deal	EN
+नया	HI
+cards	EN
+से	HI
+the	EN
+डेक	HI
+
+Place	EN
+ताश	HI
+on	EN
+to	EN
+the	EN
+Tableau	EN
+to	EN
+रूप	HI
+पोकर	HI
+हैंड्स	HI
+
+Deal	EN
+the	EN
+ताश	HI
+
+Move	EN
+waste	EN
+on	EN
+to	EN
+a	EN
+आरक्षित	HI
+स्लॉट	HI
+
+Undo	EN
+जबतक	HI
+वहा	HI
+हैं	HI
+काफी	HI
+ताश	HI
+to	EN
+भरेंगे	HI
+सब	HI
+tableau	EN
+ढेर	HI
+
+Please	EN
+fill	EN
+in	EN
+रिक्त	HI
+pile	EN
+पहला	HI
+.	EN
+
+Place	EN
+something	EN
+on	EN
+रिक्त	HI
+स्लॉट	HI
+
+Four	EN
+Suits	EN
+
+Two	EN
+Suits	EN
+
+One	EN
+Suit	EN
+
+Move	EN
+a	EN
+कार्ड	HI
+to	EN
+an	EN
+रिक्त	HI
+अस्थायी	HI
+स्लॉट	HI
+
+No	EN
+संकेत	HI
+उपलब्ध	HI
+
+Allow	EN
+अस्थायी	HI
+धब्बे	HI
+उपयोग	HI
+
+General	EN
+'	EN
+s	EN
+Patience	EN
+
+Blondes	EN
+और	HI
+Brunettes	EN
+
+Deal	EN
+a	EN
+कार्ड	HI
+इससे	HI
+the	EN
+डेक	HI
+
+Match	EN
+the	EN
+शीर्ष	HI
+दो	HI
+कार्ड	HI
+of	EN
+the	EN
+बर्बाद	HI
+.	EN
+
+Progressive	EN
+Rounds	EN
+
+Multiplier	EN
+Scoring	EN
+
+Move	EN
+a	EN
+निर्माण	HI
+of	EN
+ताश	HI
+on	EN
+to	EN
+the	EN
+खाली	HI
+Tableau	EN
+स्लॉट	HI
+
+Play	EN
+the	EN
+लोकप्रिय	HI
+FreeCell	EN
+कार्ड	HI
+गेम	HI
+
+_	EN
+Select	EN
+
+%	EN
+s	EN
+on	EN
+न्यास	HI
+
+%	EN
+s	EN
+on	EN
+स्टॉक	HI
+
+You	EN
+हैं	HI
+searching	EN
+for	EN
+a	EN
+%	EN
+s	EN
+.	EN
+
+About	EN
+FreeCell	EN
+Solitaire	EN
+
+AisleRiot	EN
+provides	EN
+a	EN
+शासन	HI
+-	EN
+आधारित	HI
+solitaire	EN
+कार्ड	HI
+इंजन	HI
+उस	HI
+allows	EN
+कई	HI
+अलग	HI
+गेम्स	HI
+to	EN
+be	EN
+निभाई	HI
+.	EN
+
+Display	EN
+कार्ड	HI
+साथ	HI
+%	EN
+s	EN
+कार्ड	HI
+थीम	HI
+
+_	EN
+Select	EN
+Game	EN
+
+You	EN
+चाहिए	HI
+have	EN
+प्राप्त	HI
+a	EN
+कॉपी	HI
+of	EN
+the	EN
+GNU	EN
+General	EN
+Public	EN
+License	EN
+साथ	HI
+साथ	HI
+इस	HI
+कार्यक्रम	HI
+.	EN
+If	EN
+नहीं	HI
+,	EN
+देखिए	HI
+.	EN
+
+File	EN
+is	EN
+नहीं	HI
+a	EN
+मान्य	HI
+.	EN
+डेस्कटॉप	HI
+फ़ाइल	HI
+
+Starting	EN
+%	EN
+s	EN
+
+Application	EN
+करता	HI
+नही	HI
+accept	EN
+दस्तावेज	HI
+on	EN
+कमांड	HI
+लाइन	HI
+
+Can	EN
+'	EN
+t	EN
+pass	EN
+दस्तावेज	HI
+URIs	EN
+to	EN
+a	EN
+'	EN
+Type	EN
+=	EN
+Link	EN
+'	EN
+डेस्कटॉप	HI
+प्रविष्टि	HI
+
+Not	EN
+a	EN
+launchable	EN
+वस्तु	HI
+
+Disable	EN
+कनेक्शन	HI
+to	EN
+सत्र	HI
+मैनेजर	HI
+
+Specify	EN
+file	EN
+containing	EN
+saved	EN
+कॉन्फ़िगरेशन	HI
+
+Specify	EN
+सत्र	HI
+प्रबन्धन	HI
+ID	EN
+
+Session	EN
+प्रबंधन	HI
+फंक्शन्स	HI
+:	EN
+
+Show	EN
+सत्र	HI
+प्रबन्धन	HI
+विकल्प	HI
+
+an	EN
+खाली	HI
+स्लॉट	HI
+on	EN
+the	EN
+फाउंडेशन	HI
+
+an	EN
+खाली	HI
+कोना	HI
+स्लॉट	HI
+
+an	EN
+रिक्त	HI
+बॉटम	HI
+स्लॉट	HI
+
+an	EN
+रिक्त	HI
+बाएँ	HI
+स्लॉट	HI
+
+an	EN
+खाली	HI
+सही	HI
+स्लॉट	HI
+
+खाली	HI
+स्लॉट	HI
+on	EN
+न्यास	HI
+
+the	EN
+न्यास	HI
+pile	EN
+
+Move	EN
+~	EN
+a	EN
+to	EN
+an	EN
+रिक्त	HI
+फाउंडेशन	HI
+
+Move	EN
+a	EN
+King	EN
+on	EN
+to	EN
+the	EN
+खाली	HI
+tableau	EN
+स्लॉट	HI
+
+Move	EN
+कुछ	HI
+on	EN
+to	EN
+an	EN
+रिक्त	HI
+आरक्षित	HI
+
+Play	EN
+a	EN
+कार्ड	HI
+to	EN
+फाउंडेशन	HI
+.	EN
+
+No	EN
+चाल	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+बंद	HI
+the	EN
+बिसात	HI
+
+Bug	EN
+!	EN
+बनाओ	HI
+-	EN
+संकेत	HI
+बुलाया	HI
+on	EN
+गलत	HI
+चाल	HI
+.	EN
+
+Place	EN
+the	EN
+~	EN
+a	EN
+अगला	HI
+to	EN
+~	EN
+a	EN
+.	EN
+
+Move	EN
+a	EN
+कार्ड	HI
+से	HI
+the	EN
+आरक्षित	HI
+on	EN
+to	EN
+the	EN
+खाली	HI
+tableau	EN
+स्लॉट	HI
+
+Move	EN
+~	EN
+a	EN
+to	EN
+an	EN
+रिक्त	HI
+फील्ड	HI
+
+Move	EN
+~	EN
+a	EN
+इससे	HI
+the	EN
+स्टॉक	HI
+to	EN
+an	EN
+empty	EN
+किनारा	HI
+or	EN
+tableau	EN
+स्लॉट	HI
+
+रिक्त	HI
+फाउंडेशन	HI
+
+Unknown	EN
+सूट	HI
+
+उपयुक्त	HI
+फाउंडेशन	HI
+pile	EN
+
+%	EN
+s	EN
+on	EN
+आरक्षित	HI
+
+%	EN
+s	EN
+on	EN
+बर्बाद	HI
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+न्यास	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+खाली	HI
+फाउंडेशन	HI
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+tableau	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+रिक्त	HI
+tableau	EN
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+रिक्त	HI
+किनारे	HI
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+खाली	HI
+कॉर्नर	HI
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+खाली	HI
+उपर	HI
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+खाली	HI
+बॉटम	HI
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+empty	EN
+बायां	HI
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+empty	EN
+सही	HI
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+रिक्त	HI
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+काले	HI
+जोकर	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+रेड	HI
+जोकर	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+इक्का	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+दो	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+तीन	HI
+of	EN
+क्लब	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+चार	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+पांच	HI
+of	EN
+क्लब	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+छः	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+सात	HI
+of	EN
+क्लब	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+आठ	HI
+of	EN
+क्लब	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+नौ	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+दस	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+जोकर	HI
+of	EN
+clubs	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+रानी	HI
+of	EN
+क्लब	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+किंग	HI
+of	EN
+क्लब	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+इक्का	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+दो	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+तीन	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+चार	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+पांच	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+छः	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+सात	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+आठ	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+नहला	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+दहला	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+जोकर	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+रानी	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+किंग	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+ऐस	HI
+of	EN
+दिल	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+दो	HI
+of	EN
+दिलों	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+तीन	HI
+of	EN
+दिलों	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+चार	HI
+of	EN
+दिल	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+पाँच	HI
+of	EN
+दिल	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+छक्का	HI
+of	EN
+दिल	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+सात	HI
+of	EN
+दिलों	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+आठ	HI
+of	EN
+दिल	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+नहला	HI
+of	EN
+दिल	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+दहला	HI
+of	EN
+दिलों	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+जैक	HI
+of	EN
+दिलों	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+महारानी	HI
+of	EN
+दिल	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+राजा	HI
+of	EN
+दिलों	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+इक्का	HI
+of	EN
+ईंट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+दो	HI
+of	EN
+ईंट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+तीन	HI
+of	EN
+हीरे	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+चार	HI
+of	EN
+हीरे	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+पाँच	HI
+of	EN
+ईंट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+छक्का	HI
+of	EN
+ईंट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+सात	HI
+of	EN
+diamonds	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+आठ	HI
+of	EN
+diamonds	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+नहला	HI
+of	EN
+हीरे	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+दस	HI
+of	EN
+ईंट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+जैक	HI
+of	EN
+हीरे	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+महारानी	HI
+of	EN
+diamonds	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+king	EN
+of	EN
+diamonds	EN
+.	EN
+
+Remove	EN
+the	EN
+दहला	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Remove	EN
+the	EN
+दस	HI
+of	EN
+हीरे	HI
+.	EN
+
+Remove	EN
+the	EN
+दहला	HI
+of	EN
+दिल	HI
+.	EN
+
+Remove	EN
+the	EN
+दस	HI
+of	EN
+हुकुम	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+an	EN
+इक्का	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+दो	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+तीन	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+चार	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+पांच	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+छह	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+सात	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+an	EN
+आठ	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+नहला	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+दहला	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+जैक	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+queen	EN
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+किंग	HI
+.	EN
+
+Six	EN
+Foundations	EN
+
+Five	EN
+Foundations	EN
+
+Four	EN
+Foundations	EN
+
+Play	EN
+a	EN
+कार्ड	HI
+to	EN
+न्यास	HI
+.	EN
+
+_	EN
+Animations	EN
+
+Whether	EN
+or	EN
+नही	HI
+to	EN
+एनिमेट	HI
+कार्ड	HI
+moves	HI
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+न्यास	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+खाली	HI
+फाउंडेशन	HI
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+tableau	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+empty	EN
+tableau	EN
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+आरक्षित	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+खाली	HI
+आरक्षित	HI
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+खाली	HI
+किनारा	HI
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+खाली	HI
+कॉर्नर	HI
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+रिक्त	HI
+शीर्ष	HI
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+खाली	HI
+तल	HI
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+खाली	HI
+शेष	HI
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+खाली	HI
+right	EN
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+रिक्त	HI
+स्लॉट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+काला	HI
+जोकर	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+रेड	HI
+जोकर	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+इक्का	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+दो	HI
+of	EN
+क्लब	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+three	EN
+of	EN
+क्लब	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+चार	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+पाँच	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+छक्का	HI
+of	EN
+क्लब	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+सात	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+आठ	HI
+of	EN
+क्लब	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+नहला	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+दस	HI
+of	EN
+क्लब	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+jack	EN
+of	EN
+चिड़ी	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+रानी	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+बादशाह	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+अनजान	HI
+कार्ड	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+रानी	HI
+of	EN
+हुकुम	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+ऐस	HI
+of	EN
+दिलों	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+दो	HI
+of	EN
+दिलों	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+तीन	HI
+of	EN
+दिल	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+चार	HI
+of	EN
+दिल	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+पाँच	HI
+of	EN
+दिल	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+छः	HI
+of	EN
+दिल	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+आठ	HI
+of	EN
+दिल	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+नहला	HI
+of	EN
+दिल	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+टेन	HI
+of	EN
+दिलों	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+जैक	HI
+of	EN
+दिलों	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+रानी	HI
+of	EN
+दिलों	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+बादशाह	HI
+of	EN
+दिल	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+इक्का	HI
+of	EN
+हीरे	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+दो	HI
+of	EN
+हीरे	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+तीन	HI
+of	EN
+हीरे	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+चार	HI
+of	EN
+हीरे	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+पांच	HI
+of	EN
+ईंट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+छक्का	HI
+of	EN
+हीरे	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+सात	HI
+of	EN
+ईंट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+आठ	HI
+of	EN
+ईंट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+नौ	HI
+of	EN
+ईंट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+दस	HI
+of	EN
+ईंट	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+जोकर	HI
+of	EN
+हीरे	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+महारानी	HI
+of	EN
+हीरे	HI
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+राजा	HI
+of	EN
+ईंट	HI
+.	EN
+
+Remove	EN
+the	EN
+दस	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Remove	EN
+the	EN
+दहला	HI
+of	EN
+ईंट	HI
+.	EN
+
+Remove	EN
+the	EN
+टेन	HI
+of	EN
+दिल	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+an	EN
+इक्का	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+दो	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+तीन	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+चार	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+पांच	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+छह	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+सात	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+an	EN
+आठ	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+नौ	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+टेन	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+जोकर	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+रानी	HI
+.	EN
+
+You	EN
+हैं	HI
+searching	EN
+लिये	HI
+a	EN
+राजा	HI
+.	EN
+
+Move	EN
+a	EN
+राजा	HI
+onto	EN
+an	EN
+खाली	HI
+tableau	EN
+slot	EN
+.	EN
+
+Move	EN
+कुछ	HI
+onto	EN
+an	EN
+खाली	HI
+tableau	EN
+स्लॉट	HI
+.	EN
+
+Move	EN
+a	EN
+कार्ड	HI
+से	HI
+the	EN
+reserve	EN
+onto	EN
+the	EN
+रिक्त	HI
+tableau	EN
+स्लॉट	HI
+
+Remove	EN
+the	EN
+बादशाह	HI
+of	EN
+चिड़ी	HI
+.	EN
+
+Remove	EN
+the	EN
+king	EN
+of	EN
+हीरे	HI
+.	EN
+
+Remove	EN
+the	EN
+राजा	HI
+of	EN
+दिलों	HI
+.	EN
+
+About	EN
+FreeCell	EN
+Solitaire	EN
+
+Aisleriot	EN
+provides	EN
+a	EN
+शासन	HI
+-	EN
+आधारित	HI
+solitaire	EN
+कार्ड	HI
+इंजन	HI
+कि	HI
+allows	EN
+अनेक	HI
+अलग	HI
+खेल	HI
+to	EN
+be	EN
+निभाई	HI
+.	EN
+
+Change	EN
+जिससे	HI
+एप्लिकेशन	HI
+हैं	HI
+दिखाया	HI
+on	EN
+the	EN
+main	EN
+मेनू	HI
+
+_	EN
+Revert	EN
+to	EN
+Original	EN
+
+Restore	EN
+the	EN
+डिफॉल्ट	HI
+मेन्यू	HI
+अभिन्यास	HI
+
+_	EN
+New	EN
+Menu	EN
+
+Move	EN
+Up	EN
+
+Move	EN
+Down	EN
+
+Revert	EN
+Changes	EN
+?	EN
+
+Revert	EN
+all	EN
+मेनू	HI
+to	EN
+मौलिक	HI
+settings	EN
+?	EN
+
+Add	EN
+or	EN
+हटाएँ	HI
+अनुप्रयोग	HI
+से	HI
+the	EN
+मेन	HI
+मेन्यू	HI
+
+Cannot	EN
+चलाएँ	HI
+command	EN
+:	EN
+"	EN
+%	EN
+s	EN
+"	EN
+
+execvp	EN
+विफल	HI
+
+Anjuta	EN
+Shell	EN
+
+Available	EN
+Plugins	EN
+
+Select	EN
+a	EN
+प्लगइन	HI
+
+Remember	EN
+इस	HI
+चयन	HI
+
+Available	EN
+प्लगइन	HI
+
+Activated	EN
+प्लगइन	HI
+
+Currently	EN
+activated	EN
+प्लगइन	HI
+
+Plugin	EN
+Manager	EN
+
+Profile	EN
+Name	EN
+
+Profile	EN
+Plugins	EN
+
+Failed	EN
+to	EN
+पढ़ें	HI
+'	EN
+%	EN
+s	EN
+'	EN
+:	EN
+%	EN
+s	EN
+
+No	EN
+पढ़ा	HI
+इजाजत	HI
+लिये	HI
+:	EN
+%	EN
+s	EN
+
+Are	EN
+आपको	HI
+निश्चित	HI
+आप	HI
+want	EN
+to	EN
+रीसेट	HI
+the	EN
+preferences	EN
+to	EN
+उनके	HI
+default	EN
+सेटिंग	HI
+?	EN
+
+Anjuta	EN
+Preferences	EN
+
+Anjuta	EN
+Preferences	EN
+Dialog	EN
+
+Select	EN
+the	EN
+वस्तुएँ	HI
+to	EN
+save	EN
+:	EN
+
+If	EN
+आपको	HI
+do	EN
+नही	HI
+सहेजें	HI
+,	EN
+सब	HI
+अपना	HI
+परिवर्तन	HI
+होगी	HI
+be	EN
+गुमशुदा	HI
+.	EN
+
+There	EN
+हैं	HI
+%	EN
+d	EN
+आइटम	HI
+साथ	HI
+unsaved	EN
+परिवर्तन	HI
+.	EN
+Save	EN
+परिवर्तन	HI
+पहले	HI
+closing	EN
+?	EN
+
+There	EN
+is	EN
+an	EN
+आइटम	HI
+with	EN
+unsaved	EN
+परिवर्तन	HI
+.	EN
+Save	EN
+परिवर्तन	HI
+पहले	HI
+closing	EN
+?	EN
+
+Unable	EN
+to	EN
+पढ़े	HI
+फाइल	HI
+:	EN
+%	EN
+s	EN
+.	EN
+
+Unable	EN
+to	EN
+बनाएँ	HI
+फाइल	HI
+:	EN
+%	EN
+s	EN
+.	EN
+
+Unable	EN
+to	EN
+पूर्ण	HI
+फाइल	HI
+नक़ल	HI
+
+Text	EN
+to	EN
+प्रतिपादन	HI
+
+Pixbuf	EN
+Object	EN
+
+The	EN
+pixbuf	EN
+to	EN
+प्रतिपादन	HI
+.	EN
+
+Widget	EN
+नहीं	HI
+पाये	HI
+:	EN
+%	EN
+s	EN
+
+Could	EN
+नहीं	HI
+ढूँढें	HI
+एप्लिकेशन	HI
+pixmap	EN
+संचिका	HI
+:	EN
+%	EN
+s	EN
+
+Scratchbox	EN
+Options	EN
+
+Install	EN
+as	EN
+रूट	HI
+:	EN
+
+Run	EN
+in	EN
+टर्मिनल	HI
+
+Completed	EN
+.	EN
+.	EN
+.	EN
+unsuccessful	EN
+
+Completed	EN
+.	EN
+.	EN
+.	EN
+कामयाब	HI
+
+Build	EN
+%	EN
+d	EN
+:	EN
+%	EN
+s	EN
+
+Configure	EN
+Parameters	EN
+:	EN
+
+_	EN
+Build	EN
+Project	EN
+
+Build	EN
+पूरा	HI
+परियोजना	HI
+
+_	EN
+Install	EN
+Project	EN
+
+Install	EN
+पूरे	HI
+project	EN
+
+_	EN
+Clean	EN
+Project	EN
+
+Clean	EN
+पूरा	HI
+परियोजना	HI
+
+Run	EN
+C	EN
+_	EN
+onfigure	EN
+.	EN
+.	EN
+.	EN
+
+Configure	EN
+प्रोजेक्ट	HI
+
+Run	EN
+_	EN
+Autogenerate	EN
+.	EN
+.	EN
+.	EN
+
+Autogenerate	EN
+प्रोजेक्ट	HI
+फाइलें	HI
+
+Build	EN
+परियोजना	HI
+tarball	EN
+distribution	EN
+
+_	EN
+Execute	EN
+Program	EN
+.	EN
+.	EN
+.	EN
+
+Execute	EN
+प्रोग्राम	HI
+
+_	EN
+Build	EN
+Module	EN
+
+_	EN
+Install	EN
+Module	EN
+
+Install	EN
+मोड्यूल	HI
+संबद्ध	HI
+साथ	HI
+मौज़ूदा	HI
+फ़ाइल	HI
+
+_	EN
+Clean	EN
+Module	EN
+
+Clean	EN
+मॉड्यूल	HI
+संबद्ध	HI
+साथ	HI
+मौजूदा	HI
+फाइल	HI
+
+Co	EN
+_	EN
+mpile	EN
+File	EN
+
+Compile	EN
+धारा	HI
+एडिटर	HI
+संचिका	HI
+
+_	EN
+Compile	EN
+
+Complie	EN
+फ़ाइल	HI
+
+Build	EN
+मॉड्यूल	HI
+
+_	EN
+Install	EN
+
+Install	EN
+मोड्यूल	HI
+
+Clean	EN
+मॉड्यूल	HI
+
+Co	EN
+_	EN
+mpile	EN
+
+_	EN
+Build	EN
+(	EN
+%	EN
+s	EN
+)	EN
+
+_	EN
+Install	EN
+(	EN
+%	EN
+s	EN
+)	EN
+
+Co	EN
+_	EN
+mpile	EN
+(	EN
+%	EN
+s	EN
+)	EN
+
+Build	EN
+कमांड	HI
+
+Build	EN
+पॉपअप	HI
+कमांड्स	HI
+
+Build	EN
+Autotools	EN
+
+No	EN
+फ़ाइल	HI
+or	EN
+Project	EN
+खोली	HI
+.	EN
+
+Program	EN
+'	EN
+%	EN
+s	EN
+'	EN
+करता	HI
+नहीं	HI
+exists	EN
+
+No	EN
+executable	EN
+लिये	HI
+इस	HI
+संचिका	HI
+.	EN
+
+Executable	EN
+'	EN
+%	EN
+s	EN
+'	EN
+is	EN
+नहीं	HI
+up	EN
+-	EN
+to	EN
+-	EN
+तारीख़	HI
+.	EN
+
+Update	EN
+the	EN
+ग्राफ़	HI
+
+General	EN
+Class	EN
+Properties	EN
+
+Add	EN
+to	EN
+Project	EN
+
+Base	EN
+Class	EN
+Inheritance	EN
+:	EN
+
+Header	EN
+File	EN
+:	EN
+
+Inline	EN
+the	EN
+डिक्लेरेशन	HI
+और	HI
+कार्यान्वयन	HI
+
+Source	EN
+File	EN
+:	EN
+
+Failed	EN
+to	EN
+लिखें	HI
+autogen	EN
+परिभाषा	HI
+फाइल	HI
+
+Failed	EN
+to	EN
+चलाएँ	HI
+autogen	EN
+:	EN
+%	EN
+s	EN
+
+CVS	EN
+:	EN
+Add	EN
+संचिका	HI
+/	EN
+निर्देशिका	HI
+
+CVS	EN
+:	EN
+Diff	EN
+फाइल	HI
+/	EN
+निर्देशिका	HI
+
+CVS	EN
+:	EN
+Import	EN
+
+CVS	EN
+:	EN
+Log	EN
+संचिका	HI
+/	EN
+निर्देशिका	HI
+
+CVS	EN
+:	EN
+Remove	EN
+संचिका	HI
+/	EN
+निर्देशिका	HI
+
+CVS	EN
+:	EN
+Update	EN
+फाइल	HI
+/	EN
+निर्देशिका	HI
+
+Choose	EN
+फ़ाइल	HI
+or	EN
+निर्देशिका	HI
+to	EN
+जोड़ें	HI
+:	EN
+
+Choose	EN
+फ़ाइल	HI
+or	EN
+निर्देशिका	HI
+to	EN
+कमिट	HI
+:	EN
+
+Choose	EN
+संचिका	HI
+or	EN
+निर्देशिका	HI
+to	EN
+diff	EN
+:	EN
+
+Choose	EN
+संचिका	HI
+or	EN
+निर्देशिका	HI
+to	EN
+निकालें	HI
+:	EN
+
+Choose	EN
+संचिका	HI
+or	EN
+निर्देशिका	HI
+to	EN
+अद्यतन	HI
+:	EN
+
+Create	EN
+नई	HI
+निर्देशिका	HI
+
+Delete	EN
+रिक्त	HI
+निर्देशिका	HI
+
+Log	EN
+सन्देश	HI
+:	EN
+
+Module	EN
+नाम	HI
+:	EN
+
+Project	EN
+रूट	HI
+निर्देशिका	HI
+:	EN
+
+Release	EN
+टैग	HI
+:	EN
+
+Use	EN
+revision	EN
+/	EN
+टैग	HI
+:	EN
+
+Use	EN
+revision	EN
+:	EN
+
+Vendor	EN
+टैग	HI
+:	EN
+
+Whole	EN
+प्रोजेक्ट	HI
+
+Please	EN
+भरेंगे	HI
+फील्ड	HI
+:	EN
+%	EN
+s	EN
+
+Unable	EN
+to	EN
+हटाएँ	HI
+संचिका	HI
+
+Are	EN
+आपको	HI
+ज़रूर	HI
+कि	HI
+आप	HI
+do	EN
+नहीं	HI
+want	EN
+a	EN
+लॉग	HI
+सन्देश	HI
+?	EN
+
+Commit	EN
+आपका	HI
+परिवर्तन	HI
+to	EN
+the	EN
+CVS	EN
+ट्री	HI
+
+_	EN
+Update	EN
+
+_	EN
+Show	EN
+Status	EN
+
+Show	EN
+the	EN
+स्थिति	HI
+of	EN
+a	EN
+फ़ाइल	HI
+/	EN
+निर्देशिका	HI
+
+_	EN
+Show	EN
+Log	EN
+
+Show	EN
+the	EN
+log	HI
+of	EN
+a	EN
+फाइल	HI
+/	EN
+निर्देशिका	HI
+
+_	EN
+Import	EN
+Tree	EN
+
+CVS	EN
+संचालन	HI
+
+CVS	EN
+पॉपअप	HI
+परिचालन	HI
+
+Add	EN
+Watch	EN
+
+Breakpoint	EN
+गुण	HI
+
+Change	EN
+Watch	EN
+
+Command	EN
+Line	EN
+Parameters	EN
+:	EN
+
+Debugger	EN
+कमांड	HI
+
+Debugger	EN
+कमांड	HI
+:	EN
+
+Display	EN
+प्रक्रम	HI
+_	EN
+पेड़	HI
+
+Enable	EN
+_	EN
+सभी	HI
+
+Program	EN
+पैरामीटर	HI
+
+Run	EN
+In	EN
+Terminal	EN
+
+Set	EN
+Signal	EN
+Property	EN
+
+Source	EN
+Directories	EN
+
+_	EN
+Attach	EN
+
+_	EN
+Condition	EN
+:	EN
+
+_	EN
+Hide	EN
+राहें	HI
+
+_	EN
+Pass	EN
+:	EN
+
+_	EN
+Remove	EN
+सब	HI
+
+Are	EN
+आपको	HI
+यकीनन	HI
+आप	HI
+want	EN
+to	EN
+हटाएँ	HI
+सब	HI
+the	EN
+breakpoints	EN
+?	EN
+
+_	EN
+Breakpoints	EN
+
+Toggle	EN
+Breakpoint	EN
+
+Toggle	EN
+breakpoint	EN
+at	EN
+the	EN
+मौजूदा	HI
+अवस्थिति	HI
+
+Add	EN
+Breakpoint	EN
+.	EN
+.	EN
+.	EN
+
+Add	EN
+a	EN
+breakpoint	EN
+
+Remove	EN
+Breakpoint	EN
+
+Remove	EN
+a	EN
+breakpoint	EN
+
+Jump	EN
+to	EN
+Breakpoint	EN
+
+Jump	EN
+to	EN
+breakpoint	EN
+लोकेशन	HI
+
+Edit	EN
+Breakpoint	EN
+
+Edit	EN
+breakpoint	EN
+गुण	HI
+
+Enable	EN
+Breakpoint	EN
+
+Enable	EN
+a	EN
+breakpoint	EN
+
+Disable	EN
+All	EN
+Breakpoints	EN
+
+Deactivate	EN
+सब	HI
+breakpoints	EN
+
+C	EN
+_	EN
+lear	EN
+All	EN
+Breakpoints	EN
+
+Delete	EN
+सब	HI
+breakpoints	EN
+
+Breakpoint	EN
+परिचालन	HI
+
+Debugger	EN
+Log	EN
+
+Location	EN
+:	EN
+%	EN
+s	EN
+,	EN
+लकीर	HI
+%	EN
+d	EN
+
+_	EN
+Start	EN
+Debugger	EN
+
+_	EN
+Attach	EN
+to	EN
+Process	EN
+.	EN
+.	EN
+.	EN
+
+Attach	EN
+to	EN
+a	EN
+कार्यशील	HI
+प्रोग्राम	HI
+
+Say	EN
+अलविदा	HI
+to	EN
+the	EN
+डिबगर	HI
+
+Debugger	EN
+Command	EN
+.	EN
+.	EN
+.	EN
+
+Info	EN
+_	EN
+Program	EN
+
+Display	EN
+एनोटेशन	HI
+on	EN
+the	EN
+execution	EN
+प्रस्थिति	HI
+of	EN
+the	EN
+प्रोग्राम	HI
+
+Display	EN
+the	EN
+सामग्री	HI
+of	EN
+कर्नेल	HI
+'	EN
+struct	EN
+उपयोगकर्ता	HI
+'	EN
+लिये	HI
+वर्तमान	HI
+बच्चा	HI
+
+Shared	EN
+Libraries	EN
+
+Show	EN
+साझेदारी	HI
+पुस्तकालय	HI
+mappings	EN
+
+Run	EN
+/	EN
+_	EN
+Continue	EN
+
+Continue	EN
+the	EN
+execution	EN
+of	EN
+the	EN
+कार्यक्रम	HI
+
+Single	EN
+कदम	HI
+into	EN
+फ़ंक्शन	HI
+
+Single	EN
+चरण	HI
+over	EN
+प्रकार्य	HI
+
+Single	EN
+स्टेप	HI
+आउट	HI
+of	EN
+the	EN
+फंक्शन	HI
+
+_	EN
+Run	EN
+to	EN
+Cursor	EN
+
+Run	EN
+to	EN
+the	EN
+संकेतक	HI
+
+Info	EN
+_	EN
+Global	EN
+Variables	EN
+
+Display	EN
+सूचना	HI
+परिचय	HI
+the	EN
+मौज़ूदा	HI
+फ़्रेम	HI
+of	EN
+चलाना	HI
+
+Display	EN
+प्रकार्य	HI
+वितर्क	HI
+of	EN
+the	EN
+मौजूदा	HI
+फ़्रेम	HI
+
+Pa	EN
+_	EN
+उपयोग	HI
+Program	EN
+
+Pauses	EN
+the	EN
+निष्पादन	HI
+of	EN
+the	EN
+प्रोग्राम	HI
+
+Debugger	EN
+operations	EN
+
+Shared	EN
+पुस्तकालयों	HI
+
+Modify	EN
+Signal	EN
+
+Send	EN
+to	EN
+प्रक्रम	HI
+
+Show	EN
+Line	EN
+Numbers	EN
+
+Whether	EN
+to	EN
+display	EN
+लकीर	HI
+संख्या	HI
+
+Set	EN
+धारा	HI
+फ्रेम	HI
+
+View	EN
+Source	EN
+
+Stack	EN
+फ्रेम	HI
+संचालन	HI
+
+Unable	EN
+to	EN
+निष्पादन	HI
+:	EN
+%	EN
+s	EN
+.	EN
+
+Unable	EN
+to	EN
+ओपन	HI
+the	EN
+फाइल	HI
+:	EN
+%	EN
+s	EN
+
+Missing	EN
+फ़ाइल	HI
+%	EN
+s	EN
+
+All	EN
+संचिका	HI
+
+Set	EN
+मौजूदा	HI
+थ्रेड	HI
+
+Thread	EN
+संचालन	HI
+
+Add	EN
+Watch	EN
+.	EN
+.	EN
+.	EN
+
+Remove	EN
+Watch	EN
+
+Update	EN
+Watch	EN
+
+Change	EN
+Value	EN
+
+Update	EN
+सभी	HI
+
+Remove	EN
+सभी	HI
+
+Watch	EN
+परिचालन	HI
+
+Search	EN
+Help	EN
+:	EN
+
+_	EN
+Goto	EN
+
+Previous	EN
+Help	EN
+
+Go	EN
+to	EN
+पिछला	HI
+सहायता	HI
+पेज	HI
+
+Go	EN
+to	EN
+अगला	HI
+मदद	HI
+पेज	HI
+
+Browse	EN
+API	EN
+Pages	EN
+
+Search	EN
+सहायता	HI
+लिये	HI
+the	EN
+वर्तमान	HI
+वर्ड	HI
+in	EN
+the	EN
+एडिटर	HI
+
+_	EN
+Search	EN
+Help	EN
+
+Help	EN
+परिचालन	HI
+
+Help	EN
+प्रदर्शित	HI
+
+Are	EN
+आपको	HI
+निश्चित	HI
+आपको	HI
+want	EN
+to	EN
+reload	EN
+'	EN
+%	EN
+s	EN
+'	EN
+?	EN
+Any	EN
+unsaved	EN
+परिवर्तन	HI
+करेंगे	HI
+be	EN
+खोया	HI
+.	EN
+
+Close	EN
+फाइल	HI
+
+Open	EN
+फाइल	HI
+
+Save	EN
+संचिका	HI
+as	EN
+
+The	EN
+फ़ाइल	HI
+'	EN
+%	EN
+s	EN
+'	EN
+already	EN
+exists	EN
+.	EN
+Do	EN
+तुम	HI
+want	EN
+to	EN
+बदलें	HI
+it	EN
+साथ	HI
+the	EN
+एक	HI
+तुम	HI
+हैं	HI
+छायांकन	HI
+?	EN
+
+_	EN
+Replace	EN
+
+'	EN
+हाशिये	HI
+'	EN
+वितर्क	HI
+
+Blank	EN
+Lines	EN
+
+Breaking	EN
+Long	EN
+Lines	EN
+
+After	EN
+Declarations	EN
+
+Continue	EN
+at	EN
+Parenth	EN
+.	EN
+
+Delete	EN
+the	EN
+स्टाइल	HI
+चयनित	HI
+in	EN
+the	EN
+कॉम्बो	HI
+style	HI
+चयनकर्ता	HI
+.	EN
+
+Do	EN
+नही	HI
+दिखाएँ	HI
+टैब	HI
+
+Enable	EN
+फाइलें	HI
+autosave	EN
+
+Indent	EN
+Preferences	EN
+
+Save	EN
+the	EN
+चयनित	HI
+Style	EN
+साथ	HI
+the	EN
+परिवर्धित	HI
+पैरामीटर	HI
+.	EN
+
+Sorted	EN
+in	EN
+वर्णमाला	HI
+अनुक्रम	HI
+
+Sorted	EN
+in	EN
+खोलने	HI
+ऑर्डर	HI
+
+Space	EN
+बाद	HI
+Cast	EN
+
+Go	EN
+to	EN
+Line	EN
+नंबर	HI
+:	EN
+
+_	EN
+Save	EN
+
+Save	EN
+वर्तमान	HI
+संचिका	HI
+
+Save	EN
+_	EN
+As	EN
+.	EN
+.	EN
+.	EN
+
+Save	EN
+the	EN
+मौजूदा	HI
+फ़ाइल	HI
+साथ	HI
+a	EN
+अलग	HI
+नाम	HI
+
+Save	EN
+A	EN
+_	EN
+ll	EN
+
+_	EN
+Close	EN
+File	EN
+
+Close	EN
+वर्तमान	HI
+फ़ाइल	HI
+
+Close	EN
+All	EN
+Files	EN
+
+Close	EN
+all	EN
+फ़ाइलें	HI
+
+Reload	EN
+मौजूदा	HI
+फ़ाइल	HI
+
+Swap	EN
+.	EN
+h	EN
+/	EN
+.	EN
+c	EN
+
+Swap	EN
+c	EN
+header	EN
+और	HI
+स्त्रोत	HI
+फाइल	HI
+
+Recent	EN
+_	EN
+Files	EN
+
+Print	EN
+the	EN
+मौज़ूदा	HI
+फाइल	HI
+
+_	EN
+Print	EN
+Preview	EN
+
+Print	EN
+पूर्वावलोकन	HI
+of	EN
+the	EN
+धारा	HI
+file	EN
+
+_	EN
+Transform	EN
+
+_	EN
+Make	EN
+Selection	EN
+Uppercase	EN
+
+Make	EN
+the	EN
+चयनित	HI
+टेक्स्ट	HI
+ऊपरी	HI
+
+Make	EN
+Selection	EN
+Lowercase	EN
+
+Make	EN
+the	EN
+चयनित	HI
+टेक्स्ट	HI
+लोअरकेस	HI
+
+_	EN
+Select	EN
+
+Select	EN
+_	EN
+All	EN
+
+Select	EN
+सब	HI
+पाठ	HI
+in	EN
+the	EN
+संपादक	HI
+
+Select	EN
+to	EN
+_	EN
+Brace	EN
+
+Select	EN
+the	EN
+पाठ	HI
+in	EN
+the	EN
+मिलान	HI
+braces	EN
+
+Select	EN
+_	EN
+Code	EN
+Block	EN
+
+Select	EN
+the	EN
+मौज़ूदा	HI
+कोड	HI
+खंड	HI
+
+Block	EN
+comment	HI
+the	EN
+चयनित	HI
+पाठ	HI
+
+Box	EN
+टिप्पणी	HI
+the	EN
+चयनित	HI
+पाठ	HI
+
+Stream	EN
+comment	HI
+the	EN
+चयनित	HI
+टेक्स्ट	HI
+
+_	EN
+Goto	EN
+Line	EN
+क्रमांक	HI
+
+Go	EN
+to	EN
+a	EN
+particular	EN
+पंक्ति	HI
+in	EN
+the	EN
+एडिटर	HI
+
+_	EN
+Line	EN
+Number	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Start	EN
+of	EN
+Block	EN
+
+Go	EN
+to	EN
+the	EN
+प्रारंभ	HI
+of	EN
+the	EN
+current	EN
+खंड	HI
+
+_	EN
+End	EN
+of	EN
+Block	EN
+
+Go	EN
+to	EN
+the	EN
+समाप्त	HI
+of	EN
+the	EN
+मौजूदा	HI
+ब्लाक	HI
+
+Previous	EN
+_	EN
+History	EN
+
+Goto	EN
+पिछला	HI
+इतिहास	HI
+
+Next	EN
+Histor	EN
+_	EN
+y	EN
+
+Goto	EN
+अगला	HI
+इतिहास	HI
+
+_	EN
+Edit	EN
+
+_	EN
+Editor	EN
+
+_	EN
+Add	EN
+Editor	EN
+View	EN
+
+Add	EN
+एक	HI
+ज्यादा	HI
+दृश्य	HI
+of	EN
+मौजूदा	HI
+दस्तावेज	HI
+
+_	EN
+Remove	EN
+Editor	EN
+View	EN
+
+Remove	EN
+वर्तमान	HI
+देखें	HI
+of	EN
+the	EN
+दस्तावेज	HI
+
+Undo	EN
+the	EN
+अंतिम	HI
+कार्रवाई	HI
+
+_	EN
+Redo	EN
+
+Redo	EN
+the	EN
+आखिरी	HI
+undone	EN
+कार्रवाई	HI
+
+Cut	EN
+the	EN
+चयनित	HI
+टेक्स्ट	HI
+from	EN
+the	EN
+एडिटर	HI
+to	EN
+the	EN
+clipboard	EN
+
+Copy	EN
+the	EN
+चयनित	HI
+text	EN
+to	EN
+the	EN
+clipboard	EN
+
+Paste	EN
+the	EN
+सामग्री	HI
+of	EN
+clipboard	EN
+at	EN
+the	EN
+मौज़ूदा	HI
+स्थिति	HI
+
+Delete	EN
+the	EN
+चयनित	HI
+पाठ	HI
+from	EN
+the	EN
+संपादक	HI
+
+AutoComplete	EN
+the	EN
+वर्तमान	HI
+वर्ड	HI
+
+_	EN
+Line	EN
+Number	EN
+Margin	EN
+
+Show	EN
+/	EN
+Hide	EN
+लकीर	HI
+संख्या	HI
+
+_	EN
+Marker	EN
+Margin	EN
+
+Show	EN
+/	EN
+Hide	EN
+मार्कर	HI
+हाशिया	HI
+
+Show	EN
+/	EN
+Hide	EN
+indentation	EN
+मार्गदर्शिका	HI
+
+_	EN
+White	EN
+Space	EN
+
+Line	EN
+_	EN
+Wrapping	EN
+
+Zoom	EN
+Out	EN
+
+_	EN
+Highlight	EN
+Mode	EN
+
+_	EN
+Close	EN
+All	EN
+Folds	EN
+
+_	EN
+Open	EN
+All	EN
+Folds	EN
+
+Open	EN
+सभी	HI
+code	EN
+फोल्ड	HI
+in	EN
+the	EN
+संपादक	HI
+
+Toggle	EN
+धारा	HI
+कोड	HI
+मोड़ें	HI
+in	EN
+the	EN
+संपादक	HI
+
+Bookmar	EN
+_	EN
+k	EN
+
+_	EN
+Toggle	EN
+Bookmark	EN
+
+Toggle	EN
+a	EN
+बुकमार्क	HI
+at	EN
+the	EN
+मौज़ूदा	HI
+रेखा	HI
+स्थिति	HI
+
+_	EN
+First	EN
+Bookmark	EN
+
+_	EN
+Previous	EN
+Bookmark	EN
+
+_	EN
+Next	EN
+Bookmark	EN
+
+_	EN
+Last	EN
+Bookmark	EN
+
+_	EN
+Clear	EN
+All	EN
+Bookmarks	EN
+
+Clear	EN
+पसंदीदा	HI
+
+Editor	EN
+फ़ाइल	HI
+परिचालन	HI
+
+Editor	EN
+छापें	HI
+संचालन	HI
+
+Editor	EN
+पाठ	HI
+परिवर्तन	HI
+
+Editor	EN
+कोड	HI
+commenting	EN
+
+Editor	EN
+संपादन	HI
+संचालन	HI
+
+Editor	EN
+ज़ूम	HI
+operations	EN
+
+Editor	EN
+सिंटेक्स	HI
+highlighting	EN
+शैलियाँ	HI
+
+Editor	EN
+पाठ	HI
+formating	EN
+
+Editor	EN
+बुकमार्क	HI
+
+Editor	EN
+दृश्य	HI
+सेटिंग्स	HI
+
+Goto	EN
+पंक्ति	HI
+
+Enter	EN
+the	EN
+लाइन	HI
+संख्या	HI
+to	EN
+जम्प	HI
+और	HI
+दबाएं	HI
+डालें	HI
+
+Basic	EN
+Indentation	EN
+
+Code	EN
+फोल्डिंग	HI
+
+Print	EN
+विकल्प	HI
+
+Add	EN
+रेखा	HI
+नंबर	HI
+हर	HI
+:	EN
+
+Add	EN
+पेज	HI
+शीर्षक	HI
+
+Back	EN
+रंग	HI
+:	EN
+
+Caret	EN
+(	EN
+संकेतक	HI
+)	EN
+रंग	HI
+:	EN
+
+Collapse	EN
+सब	HI
+कोड	HI
+फोल्ड	HI
+on	EN
+फाइल	HI
+खुला	HI
+
+Colors	EN
+&	EN
+Fonts	EN
+
+Compact	EN
+फोल्डिंग	HI
+
+Enable	EN
+braces	EN
+check	EN
+
+Enable	EN
+कोड	HI
+फोल्डिंग	HI
+
+Enable	EN
+पाइथन	HI
+टिप्पणियाँ	HI
+folding	EN
+
+Indent	EN
+closing	EN
+braces	EN
+
+Indent	EN
+खोलने	HI
+braces	EN
+
+Pressing	EN
+टैब	HI
+inserts	EN
+indentation	EN
+
+Selection	EN
+पृष्ठभूमि	HI
+:	EN
+
+Selection	EN
+अग्रभूमि	HI
+:	EN
+
+Tab	EN
+आकार	HI
+in	EN
+स्पेसेस	HI
+:	EN
+
+Use	EN
+मूलभूत	HI
+
+Use	EN
+टैब्स	HI
+लिये	HI
+indentation	EN
+
+View	EN
+Whitespaces	EN
+
+View	EN
+indentation	EN
+whitespaces	EN
+
+No	EN
+संचिका	HI
+to	EN
+प्रिंट	HI
+!	EN
+
+Unable	EN
+to	EN
+पाएँ	HI
+टेक्स्ट	HI
+बफर	HI
+लिये	HI
+छपाई	HI
+
+File	EN
+:	EN
+%	EN
+s	EN
+
+Print	EN
+Preview	EN
+
+The	EN
+फाइल	HI
+'	EN
+%	EN
+s	EN
+'	EN
+on	EN
+the	EN
+डिस्क	HI
+is	EN
+आदि	HI
+हालिया	HI
+than	HI
+the	EN
+धारा	HI
+बफ़र	HI
+.	EN
+Do	EN
+आपको	HI
+want	EN
+to	EN
+reload	EN
+it	EN
+?	EN
+
+Could	EN
+नही	HI
+पाएँ	HI
+फ़ाइल	HI
+info	EN
+
+Could	EN
+नही	HI
+खुला	HI
+फाइल	HI
+
+Error	EN
+जबकी	HI
+पढना	HI
+से	HI
+फाइल	HI
+
+Loading	EN
+संचिका	HI
+.	EN
+.	EN
+.	EN
+
+Could	EN
+नही	HI
+लोड	HI
+फ़ाइल	HI
+:	EN
+%	EN
+s	EN
+Details	EN
+:	EN
+%	EN
+s	EN
+
+File	EN
+loaded	EN
+सफलतापूर्वक	HI
+
+Saving	EN
+फाइल	HI
+.	EN
+.	EN
+.	EN
+
+Could	EN
+नही	HI
+सहेजें	HI
+इंटरमीडिएट	HI
+संचिका	HI
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+.	EN
+
+Could	EN
+नही	HI
+सहेजें	HI
+फाइल	HI
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+.	EN
+
+File	EN
+saved	EN
+सफलतापूर्वक	HI
+
+Tag	EN
+Definition	EN
+
+Tag	EN
+Declaration	EN
+
+Prev	EN
+mesg	EN
+
+Next	EN
+mesg	EN
+
+Prev	EN
+बुकमार्क	HI
+
+Next	EN
+बुकमार्क	HI
+
+Toggle	EN
+breakpoint	EN
+
+Step	EN
+in	EN
+
+Step	EN
+बाहर	HI
+
+Run	EN
+/	EN
+Continue	EN
+
+Toggle	EN
+Line	EN
+संख्याएँ	HI
+
+Toggle	EN
+Fold	EN
+Margin	EN
+
+Toggle	EN
+Guides	EN
+
+Toggle	EN
+Bookmark	EN
+
+Auto	EN
+फ़ॉर्मेट	HI
+
+Find	EN
+Usage	EN
+
+Open	EN
+साथ	HI
+:	EN
+
+Document	EN
+Manager	EN
+
+Anjuta	EN
+Projects	EN
+
+C	EN
+/	EN
+C	EN
++	EN
++	EN
+source	EN
+संचिका	HI
+
+C	EN
+#	EN
+सोर्स	HI
+संचिका	HI
+
+Java	EN
+स्रोत	HI
+फ़ाइलें	HI
+
+Pascal	EN
+स्त्रोत	HI
+फ़ाइलें	HI
+
+PHP	EN
+स्त्रोत	HI
+फ़ाइलें	HI
+
+Perl	EN
+स्त्रोत	HI
+फ़ाइलें	HI
+
+Python	EN
+सोर्स	HI
+संचिका	HI
+
+Shell	EN
+स्क्रिप्ट	HI
+फ़ाइलें	HI
+
+Lua	EN
+संचिका	HI
+
+Diff	EN
+files	EN
+
+Failed	EN
+to	EN
+activate	EN
+प्लगइन	HI
+:	EN
+%	EN
+s	EN
+
+_	EN
+New	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Open	EN
+.	EN
+.	EN
+.	EN
+
+Open	EN
+_	EN
+With	EN
+
+Open	EN
+साथ	HI
+
+New	EN
+फ़ाइल	HI
+,	EN
+परियोजना	HI
+और	HI
+परियोजना	HI
+components	EN
+.	EN
+
+Open	EN
+_	EN
+Recent	EN
+
+Open	EN
+हालिया	HI
+संचिका	HI
+
+Open	EN
+हाल	HI
+संचिका	HI
+
+No	EN
+सन्देश	HI
+details	EN
+
+No	EN
+फ़ाइल	HI
+details	EN
+
+Directory	EN
+फिल्टर	HI
+:	EN
+
+Choose	EN
+directories	EN
+
+Choose	EN
+संचिका	HI
+
+Do	EN
+नही	HI
+दिखाएँ	HI
+छुपा	HI
+निर्देशिका	HI
+
+Do	EN
+नही	HI
+दिखाएं	HI
+छुपा	HI
+संचिका	HI
+
+Ignore	EN
+निर्देशिका	HI
+
+Ignore	EN
+फ़ाइलें	HI
+
+_	EN
+Refresh	EN
+
+File	EN
+प्रबंधक	HI
+पॉपअप	HI
+क्रियाएँ	HI
+
+File	EN
+Information	EN
+
+Add	EN
+to	EN
+परियोजना	HI
+
+Add	EN
+to	EN
+repository	EN
+
+New	EN
+File	EN
+
+C	EN
+Source	EN
+File	EN
+
+C	EN
+-	EN
+C	EN
++	EN
++	EN
+Header	EN
+File	EN
+
+C	EN
++	EN
++	EN
+Source	EN
+File	EN
+
+C	EN
+#	EN
+Source	EN
+File	EN
+
+Java	EN
+Source	EN
+File	EN
+
+Perl	EN
+Source	EN
+File	EN
+
+Python	EN
+Source	EN
+File	EN
+
+Unable	EN
+to	EN
+बिल्ड	HI
+प्रयोक्ता	HI
+अंतरफलक	HI
+लिये	HI
+New	EN
+File	EN
+
+Command	EN
+Line	EN
+Parameters	EN
+
+Execute	EN
+Program	EN
+
+Run	EN
+in	EN
+Terminal	EN
+
+Loading	EN
+Core	EN
+:	EN
+
+Getting	EN
+ready	EN
+to	EN
+आरंभ	HI
+debugging	EN
+सत्र	HI
+.	EN
+.	EN
+.	EN
+
+No	EN
+executable	EN
+निर्दिष्ट	HI
+.	EN
+
+There	EN
+था	HI
+an	EN
+त्रुटि	HI
+whilst	EN
+शुभारंभ	HI
+the	EN
+डिबगर	HI
+.	EN
+
+Make	EN
+निश्चित	HI
+'	EN
+gdb	EN
+'	EN
+is	EN
+स्थापित	HI
+on	EN
+the	EN
+प्रणाली	HI
+.	EN
+
+Breakpoint	EN
+क्रमांक	HI
+%	EN
+s	EN
+हिट	HI
+
+The	EN
+कार्यक्रम	HI
+is	EN
+संलग्न	HI
+.	EN
+Do	EN
+तुम	HI
+still	EN
+want	EN
+to	EN
+रोकें	HI
+the	EN
+डिबगर	HI
+?	EN
+
+Cannot	EN
+चलाएँ	HI
+gnome	EN
+-	EN
+टर्मिनल	HI
+
+Program	EN
+संलग्न	HI
+
+Attaching	EN
+to	EN
+प्रक्रम	HI
+:	EN
+%	EN
+d	EN
+.	EN
+.	EN
+.	EN
+
+Program	EN
+terminated	EN
+
+Program	EN
+विलग	HI
+
+Detaching	EN
+the	EN
+प्रक्रिया	HI
+.	EN
+.	EN
+.	EN
+
+Interrupting	EN
+the	EN
+प्रक्रम	HI
+
+Error	EN
+whilst	EN
+signaling	EN
+the	EN
+प्रक्रम	HI
+.	EN
+
+_	EN
+Redo	EN
+:	EN
+%	EN
+s	EN
+
+Glade	EN
+परियोजना	HI
+'	EN
+%	EN
+s	EN
+'	EN
+saved	EN
+
+Save	EN
+glade	EN
+फ़ाइल	HI
+.	EN
+.	EN
+.	EN
+
+Save	EN
+glade	EN
+फाइल	HI
+as	EN
+.	EN
+.	EN
+.	EN
+
+Save	EN
+glade	EN
+परियोजना	HI
+.	EN
+.	EN
+.	EN
+
+Undo	EN
+अंतिम	HI
+एक्शन	HI
+
+Redo	EN
+आखिरी	HI
+undone	EN
+क्रिया	HI
+
+Cut	EN
+चयन	HI
+
+Copy	EN
+चयन	HI
+
+Paste	EN
+चयन	HI
+
+Delete	EN
+selection	EN
+
+_	EN
+Show	EN
+Clipboard	EN
+
+Show	EN
+clipboard	EN
+
+Save	EN
+glade	EN
+परियोजना	HI
+
+Save	EN
+as	EN
+glade	EN
+परियोजना	HI
+
+Close	EN
+वर्तमान	HI
+glade	EN
+प्रोजेक्ट	HI
+
+Glade	EN
+परिचालन	HI
+
+Not	EN
+स्थानीय	HI
+संचिका	HI
+:	EN
+%	EN
+s	EN
+
+Could	EN
+नही	HI
+ओपन	HI
+:	EN
+%	EN
+s	EN
+
+Could	EN
+नही	HI
+बनाएं	HI
+a	EN
+नई	HI
+glade	EN
+परियोजना	HI
+.	EN
+
+You	EN
+need	EN
+to	EN
+चुनें	HI
+a	EN
+to	EN
+do	EN
+वस्तु	HI
+before	EN
+आपको	HI
+can	EN
+संपादन	HI
+it	EN
+
+Add	EN
+Item	EN
+
+Edit	EN
+Item	EN
+
+Edit	EN
+Categories	EN
+
+You	EN
+need	EN
+to	EN
+चुनें	HI
+a	EN
+todo	EN
+मद	HI
+पहले	HI
+आपको	HI
+can	EN
+हटाएँ	HI
+it	EN
+
+Are	EN
+आपको	HI
+यकीनन	HI
+आप	HI
+want	EN
+to	EN
+हटाएँ	HI
+the	EN
+चयनित	HI
+todo	EN
+आइटम	HI
+?	EN
+
+Are	EN
+आप	HI
+पक्का	HI
+आप	HI
+want	EN
+to	EN
+निकालें	HI
+सब	HI
+the	EN
+पूरा	HI
+todo	EN
+वस्तुएं	HI
+?	EN
+
+Are	EN
+you	EN
+यकीनन	HI
+आपको	HI
+want	EN
+to	EN
+हटाएँ	HI
+सब	HI
+the	EN
+पूर्ण	HI
+todo	EN
+वस्तुएं	HI
+in	EN
+the	EN
+श्रेणी	HI
+"	EN
+%	EN
+s	EN
+"	EN
+?	EN
+
+no	EN
+अंत	HI
+समय	HI
+
+_	EN
+View	EN
+
+No	EN
+इजाजत	HI
+to	EN
+पढ़ा	HI
+the	EN
+फ़ाइल	HI
+.	EN
+
+File	EN
+is	EN
+नहीं	HI
+a	EN
+वैध	HI
+gtodo	EN
+संचिका	HI
+
+No	EN
+Gtodo	EN
+Client	EN
+to	EN
+save	EN
+.	EN
+
+Failed	EN
+to	EN
+हटाएँ	HI
+%	EN
+s	EN
+.	EN
+
+Failed	EN
+to	EN
+बनाएँ	HI
+/	EN
+open	EN
+फ़ाइल	HI
+.	EN
+
+Failed	EN
+to	EN
+लिखें	HI
+आंकड़ा	HI
+to	EN
+फ़ाइल	HI
+.	EN
+
+No	EN
+filename	EN
+supplied	EN
+.	EN
+
+_	EN
+Do	EN
+नहीं	HI
+दिखाएं	HI
+again	EN
+
+_	EN
+Tasks	EN
+
+Tasks	EN
+मैनेजर	HI
+
+Tasks	EN
+प्रबंधक	HI
+दृश्य	HI
+
+Show	EN
+in	EN
+मेन	HI
+खिडकी	HI
+
+Create	EN
+a	EN
+Task	EN
+List	EN
+
+Todo	EN
+List	EN
+
+Macro	EN
+टेक्स्ट	HI
+:	EN
+
+Header	EN
+_	EN
+c	EN
+
+Header	EN
+_	EN
+cpp	EN
+
+Header	EN
+_	EN
+csharp	EN
+
+Header	EN
+_	EN
+h	EN
+
+Header	EN
+_	EN
+पर्ल	HI
+
+Header	EN
+_	EN
+शेल	HI
+
+cvs	EN
+_	EN
+तिथि	HI
+
+cvs	EN
+_	EN
+header	EN
+
+cvs	EN
+_	EN
+संशोधन	HI
+
+Add	EN
+a	EN
+macro	EN
+
+Macro	EN
+संचालन	HI
+
+Message	EN
+रंगों	HI
+
+Messages	EN
+विकल्प	HI
+
+Normal	EN
+सन्देश	HI
+indicator	EN
+style	EN
+:	EN
+
+Number	EN
+of	EN
+पिछला	HI
+वर्ण	HI
+to	EN
+दिखाएं	HI
+:	EN
+
+Strike	EN
+-	EN
+Out	EN
+
+Truncate	EN
+लंबा	HI
+संदेश	HI
+
+Warning	EN
+संदेश	HI
+indicator	EN
+शैली	HI
+:	EN
+
+Close	EN
+सब	HI
+सन्देश	HI
+टैब	HI
+
+Error	EN
+लिखने	HI
+%	EN
+s	EN
+
+_	EN
+Next	EN
+Message	EN
+
+Next	EN
+संदेश	HI
+
+_	EN
+Previous	EN
+Message	EN
+
+Previous	EN
+सन्देश	HI
+
+_	EN
+Save	EN
+Message	EN
+
+Save	EN
+सन्देश	HI
+
+Next	EN
+/	EN
+Prev	EN
+Message	EN
+
+File	EN
+/	EN
+Directory	EN
+to	EN
+पैच	HI
+
+Patch	EN
+file	EN
+
+Patching	EN
+%	EN
+s	EN
+using	EN
+%	EN
+s	EN
+
+_	EN
+Tools	EN
+
+_	EN
+Patch	EN
+.	EN
+.	EN
+.	EN
+
+Patch	EN
+फ़ाइल	HI
+/	EN
+directories	EN
+
+Function	EN
+Name	EN
+
+Delete	EN
+Data	EN
+
+Flat	EN
+Profile	EN
+
+Function	EN
+Call	EN
+Tree	EN
+
+Select	EN
+Target	EN
+to	EN
+Profile	EN
+
+Time	EN
+Propagation	EN
+
+Do	EN
+नहीं	HI
+दिखाएं	HI
+स्थिर	HI
+फंक्शन्स	HI
+
+Do	EN
+नही	HI
+शो	HI
+ये	HI
+चिन्ह	HI
+:	EN
+
+Profiling	EN
+Options	EN
+
+Select	EN
+Other	EN
+Target	EN
+.	EN
+.	EN
+.	EN
+
+Show	EN
+uncalled	EN
+कृत्यों	HI
+
+Enter	EN
+the	EN
+परियोजना	HI
+नाम	HI
+:	EN
+
+Import	EN
+Project	EN
+
+Failed	EN
+to	EN
+रिफ्रेश	HI
+परियोजना	HI
+:	EN
+%	EN
+s	EN
+
+Project	EN
+गुण	HI
+
+No	EN
+गुण	HI
+उपलब्धियाँ	HI
+for	EN
+इस	HI
+target	EN
+
+Group	EN
+गुण	HI
+
+No	EN
+गुण	HI
+उपलब्धियाँ	HI
+लिये	HI
+ये	HI
+समूह	HI
+
+Are	EN
+तुम	HI
+निश्चित	HI
+तुम	HI
+want	EN
+to	EN
+निकालें	HI
+the	EN
+following	EN
+इससे	HI
+परियोजना	HI
+?	EN
+
+_	EN
+Project	EN
+
+_	EN
+Properties	EN
+
+Add	EN
+a	EN
+समूह	HI
+to	EN
+प्रोजेक्ट	HI
+
+Add	EN
+a	EN
+टारगेट	HI
+to	EN
+परियोजना	HI
+
+Add	EN
+_	EN
+Source	EN
+File	EN
+.	EN
+.	EN
+.	EN
+
+Add	EN
+a	EN
+स्त्रोत	HI
+फ़ाइल	HI
+to	EN
+प्रोजेक्ट	HI
+
+Close	EN
+Pro	EN
+_	EN
+ject	EN
+
+Close	EN
+प्रोजेक्ट	HI
+
+_	EN
+Add	EN
+To	EN
+Project	EN
+
+Add	EN
+_	EN
+Source	EN
+File	EN
+
+Remove	EN
+इससे	HI
+प्रोजेक्ट	HI
+
+Loading	EN
+परियोजना	HI
+:	EN
+%	EN
+s	EN
+
+Created	EN
+प्रोजेक्ट	HI
+दृश्य	HI
+.	EN
+.	EN
+.	EN
+
+Error	EN
+closing	EN
+प्रोजेक्ट	HI
+:	EN
+%	EN
+s	EN
+
+Project	EN
+मैनेजर	HI
+popup	EN
+कार्रवाइयों	HI
+
+Loaded	EN
+Project	EN
+.	EN
+.	EN
+.	EN
+Initializing	EN
+
+Loaded	EN
+Project	EN
+.	EN
+.	EN
+.	EN
+
+Application	EN
+Wizard	EN
+
+Enter	EN
+the	EN
+मूल	HI
+Project	EN
+एनोटेशन	HI
+
+Project	EN
+Name	EN
+:	EN
+
+Project	EN
+Type	EN
+
+Confim	EN
+the	EN
+following	EN
+सुचना	HI
+:	EN
+
+Project	EN
+Type	EN
+:	EN
+
+Unable	EN
+to	EN
+ढूँढें	HI
+कोई	HI
+परियोजना	HI
+टेम्पलेट	HI
+in	EN
+%	EN
+s	EN
+
+File	EN
+"	EN
+%	EN
+s	EN
+"	EN
+already	EN
+exists	EN
+.	EN
+Do	EN
+तुम	HI
+want	EN
+to	EN
+मिटाकर	HI
+it	EN
+?	EN
+
+Unable	EN
+to	EN
+build	EN
+प्रोजेक्ट	HI
+wizard	EN
+उपयोक्ता	HI
+इंटरफ़ेस	HI
+
+New	EN
+प्रोजेक्ट	HI
+रै	HI
+महरूम	HI
+निर्मित	HI
+सफलतापूर्वक	HI
+
+Creating	EN
+%	EN
+s	EN
+(	EN
+using	EN
+AutoGen	EN
+)	EN
+.	EN
+.	EN
+.	EN
+%	EN
+s	EN
+
+New	EN
+Project	EN
+Wizard	EN
+
+Add	EN
+internationalization	EN
+:	EN
+
+Add	EN
+साझेदारी	HI
+पुस्तकालय	HI
+सहायता	HI
+:	EN
+
+Configure	EN
+बाहरी	HI
+पैकेज	HI
+
+Configure	EN
+बाह्य	HI
+पैकेज	HI
+:	EN
+
+Create	EN
+glade	EN
+इंटरफ़ेस	HI
+फ़ाइल	HI
+
+Django	EN
+Project	EN
+एनोटेशन	HI
+
+Email	EN
+पता	HI
+:	EN
+
+General	EN
+Project	EN
+Information	EN
+
+General	EN
+Project	EN
+Infromation	EN
+
+Icon	EN
+File	EN
+:	EN
+
+Project	EN
+निर्देशिका	HI
+:	EN
+
+Project	EN
+नाम	HI
+:	EN
+
+Project	EN
+फंक्शन्स	HI
+
+Select	EN
+कोड	HI
+लाइसेंस	HI
+
+परियोजना	HI
+नाम	HI
+
+_	EN
+Sample	EN
+क्रिया	HI
+
+Sample	EN
+क्रिया	HI
+
+Sample	EN
+फाइल	HI
+संचालन	HI
+
+Search	EN
+Variable	EN
+
+Basic	EN
+Search	EN
+&	EN
+Replace	EN
+
+Choose	EN
+Directories	EN
+:	EN
+
+Choose	EN
+Files	EN
+:	EN
+
+Find	EN
+&	EN
+Replace	EN
+
+Ignore	EN
+Binary	EN
+Files	EN
+
+Ignore	EN
+Directories	EN
+:	EN
+
+Ignore	EN
+Files	EN
+:	EN
+
+Ignore	EN
+Hidden	EN
+Directories	EN
+
+Ignore	EN
+Hidden	EN
+Files	EN
+
+Max	EN
+.	EN
+Actions	EN
+
+Replace	EN
+With	EN
+:	EN
+
+Search	EN
+Action	EN
+:	EN
+
+Search	EN
+Expression	EN
+
+Search	EN
+Expression	EN
+:	EN
+
+Search	EN
+In	EN
+:	EN
+
+_	EN
+Search	EN
+
+Search	EN
+for	EN
+a	EN
+string	EN
+or	EN
+रेगुलर	HI
+एक्सप्रेशन	HI
+in	EN
+the	EN
+एडिटर	HI
+
+Find	EN
+_	EN
+Next	EN
+
+Repeat	EN
+the	EN
+आखरी	HI
+Find	EN
+कमांड	HI
+
+Find	EN
+और	HI
+R	EN
+_	EN
+eplace	EN
+.	EN
+.	EN
+.	EN
+
+Advanced	EN
+Search	EN
+And	EN
+Replace	EN
+
+New	EN
+एडवांस	HI
+ढूंढें	HI
+And	EN
+बदलें	HI
+सामान	HI
+
+Enter	EN
+the	EN
+चयनित	HI
+पाठ	HI
+as	EN
+the	EN
+ढूंढें	HI
+लक्ष्य	HI
+
+Fin	EN
+_	EN
+d	EN
+in	EN
+Files	EN
+.	EN
+.	EN
+.	EN
+
+Ne	EN
+_	EN
+xt	EN
+Occurrence	EN
+
+Find	EN
+the	EN
+अगला	HI
+occurrence	EN
+of	EN
+मौजूदा	HI
+शब्द	HI
+
+Pre	EN
+_	EN
+vious	EN
+Occurrence	EN
+
+Find	EN
+the	EN
+पिछले	HI
+occurrence	EN
+of	EN
+वर्तमान	HI
+शब्द	HI
+
+Incremental	EN
+ढूंढें	HI
+
+Search	EN
+Toolbar	EN
+
+Basic	EN
+Search	EN
+
+Search	EN
+पूरा	HI
+
+Replace	EN
+All	EN
+
+The	EN
+मिलान	HI
+"	EN
+%	EN
+s	EN
+"	EN
+था	HI
+नही	HI
+mile	HI
+.	EN
+Wrap	EN
+ढूंढें	HI
+around	EN
+the	EN
+दस्तावेज	HI
+?	EN
+
+The	EN
+माचिस	HI
+"	EN
+%	EN
+s	EN
+"	EN
+थी	HI
+नहीं	HI
+mile	HI
+.	EN
+
+Unable	EN
+to	EN
+बिल्ड	HI
+प्रयोक्ता	HI
+इंटरफ़ेस	HI
+लिये	HI
+Search	EN
+And	EN
+Replace	EN
+
+Could	EN
+नहीं	HI
+obtain	EN
+बैकअप	HI
+filename	EN
+
+Enable	EN
+VFS	EN
+फ़ाइल	HI
+निगरानी	HI
+
+Enable	EN
+कोड	HI
+समाप्ति	HI
+
+Highlight	EN
+मौजूदा	HI
+रेखा	HI
+
+Selected	EN
+पाठ	HI
+:	EN
+
+Print	EN
+पूर्वावलोकन	HI
+
+Remember	EN
+Password	EN
+
+Remember	EN
+यह	HI
+फैसला	HI
+
+Subversion	EN
+:	EN
+Diff	EN
+फाइल	HI
+/	EN
+निर्देशिका	HI
+
+_	EN
+Subversion	EN
+
+Commit	EN
+आपकी	HI
+परिवर्तन	HI
+to	EN
+the	EN
+Subversion	EN
+ट्री	HI
+
+_	EN
+Update	EN
+.	EN
+.	EN
+.	EN
+
+Diff	EN
+लोकल	HI
+वृक्ष	HI
+साथ	HI
+repositry	EN
+
+Subversion	EN
+संचालन	HI
+
+Subversion	EN
+पॉपअप	HI
+परिचालन	HI
+
+Revert	EN
+विफल	HI
+
+Update	EN
+हटाएँ	HI
+
+Update	EN
+जोड़ें	HI
+
+Update	EN
+समाप्त	HI
+
+Update	EN
+बाह्य	HI
+
+Status	EN
+समाप्त	HI
+
+Commit	EN
+परिवर्तित	HI
+
+Commit	EN
+added	EN
+
+Commit	EN
+विलोपित	HI
+
+Commit	EN
+replaced	EN
+
+Commit	EN
+postfix	EN
+
+Select	EN
+निर्देशिका	HI
+
+Directories	EN
+to	EN
+स्कैन	HI
+
+Anjuta	EN
+टैग	HI
+संचिका	HI
+
+Symbol	EN
+Browser	EN
+
+Create	EN
+API	EN
+टैग्स	HI
+:	EN
+
+Add	EN
+निर्देशिका	HI
+
+Update	EN
+globale	EN
+टैग	HI
+
+Tag	EN
+_	EN
+Definition	EN
+
+Goto	EN
+symbol	EN
+परिभाषा	HI
+
+Tag	EN
+De	EN
+_	EN
+claration	EN
+
+Goto	EN
+चिह्न	HI
+डिक्लेरेशन	HI
+
+Goto	EN
+_	EN
+Definition	EN
+
+Goto	EN
+De	EN
+_	EN
+claration	EN
+
+_	EN
+Find	EN
+Usage	EN
+
+Symbol	EN
+ब्राउजर	HI
+actions	EN
+
+Symbol	EN
+ब्राउजर	HI
+पॉपअप	HI
+क्रिया	HI
+
+Goto	EN
+चिह्न	HI
+
+Select	EN
+the	EN
+चिह्न	HI
+to	EN
+go	EN
+
+Terminal	EN
+options	EN
+
+Save	EN
+सभी	HI
+फ़ाइलें	HI
+
+Short	EN
+cut	EN
+:	EN
+
+Standard	EN
+त्रुटि	HI
+:	EN
+
+Tool	EN
+Editor	EN
+
+User	EN
+Tools	EN
+
+Variable	EN
+सूची	HI
+
+_	EN
+Variable	EN
+.	EN
+.	EN
+.	EN
+
+Are	EN
+तुम	HI
+यकीनन	HI
+आप	HI
+want	EN
+to	EN
+हटाएँ	HI
+the	EN
+'	EN
+%	EN
+s	EN
+'	EN
+टूल्स	HI
+?	EN
+
+Unable	EN
+to	EN
+बिल्ड	HI
+उपयोक्ता	HI
+इंटरफेस	HI
+लिये	HI
+औज़ार	HI
+सूची	HI
+
+Unable	EN
+to	EN
+निर्माण	HI
+यूजर	HI
+इंटरफ़ेस	HI
+लिये	HI
+टूल्स	HI
+परिवर्तनशील	HI
+
+You	EN
+जरूर	HI
+provide	EN
+a	EN
+औज़ार	HI
+नाम	HI
+!	EN
+
+You	EN
+जरूर	HI
+provide	EN
+a	EN
+tool	EN
+कमांड	HI
+!	EN
+
+A	EN
+टूल्स	HI
+साथ	HI
+the	EN
+वही	HI
+नाम	HI
+already	EN
+exists	EN
+!	EN
+
+Unable	EN
+to	EN
+संपादन	HI
+लिपि	HI
+
+Running	EN
+कमांड	HI
+:	EN
+
+Completed	EN
+.	EN
+.	EN
+.	EN
+unsuccessful	EN
+साथ	HI
+
+Unable	EN
+to	EN
+बनाएँ	HI
+a	EN
+बफ़र	HI
+,	EN
+कमांड	HI
+छोड़ा	HI
+
+Unable	EN
+to	EN
+खोलें	HI
+इनपुट	HI
+फाइल	HI
+%	EN
+s	EN
+,	EN
+Command	EN
+छोड़ा	HI
+
+Error	EN
+जब	HI
+लदान	HI
+बाहरी	HI
+टूल्स	HI
+
+Unable	EN
+to	EN
+खुला	HI
+%	EN
+s	EN
+लिये	HI
+लिखने	HI
+
+_	EN
+Configure	EN
+
+Configure	EN
+बाहरी	HI
+tools	EN
+
+Tool	EN
+संचालन	HI
+
+Command	EN
+line	EN
+parameters	EN
+
+Program	EN
+to	EN
+परीक्षा	HI
+:	EN
+
+Select	EN
+Tool	EN
+:	EN
+
+Open	EN
+Valgrind	EN
+log	HI
+फ़ाइल	HI
+
+_	EN
+Kill	EN
+Execution	EN
+
+Edit	EN
+Rules	EN
+
+Failed	EN
+to	EN
+बनाएँ	HI
+पाइप	HI
+to	EN
+'	EN
+%	EN
+s	EN
+'	EN
+:	EN
+%	EN
+s	EN
+
+Failed	EN
+to	EN
+बनाएं	HI
+बच्चे	HI
+प्रक्रम	HI
+'	EN
+%	EN
+s	EN
+'	EN
+:	EN
+%	EN
+s	EN
+
+Error	EN
+contains	EN
+
+Object	EN
+contains	EN
+
+Source	EN
+filename	EN
+contains	EN
+
+Shared	EN
+Object	EN
+
+Rule	EN
+नाम	HI
+:	EN
+
+Error	EN
+छायांकन	HI
+to	EN
+दमन	HI
+फ़ाइल	HI
+`	EN
+%	EN
+s	EN
+'	EN
+:	EN
+%	EN
+s	EN
+
+Anjuta	EN
+Plugin	EN
+
+Anjuta	EN
+Plugins	EN
+
+Loaded	EN
+Session	EN
+.	EN
+.	EN
+.	EN
+
+General	EN
+Information	EN
+:	EN
+
+Default	EN
+प्रोजेक्ट	HI
+निर्देशिका	HI
+
+User	EN
+ईमेल	HI
+पता	HI
+
+User	EN
+नाम	HI
+
+_	EN
+Full	EN
+Screen	EN
+
+Set	EN
+_	EN
+Default	EN
+Preferences	EN
+
+C	EN
+_	EN
+ustomize	EN
+Shortcuts	EN
+
+Manipulate	EN
+प्लगइन	HI
+
+_	EN
+User	EN
+'	EN
+s	EN
+Manual	EN
+
+Anjuta	EN
+उपयोगकर्ता	HI
+'	EN
+s	EN
+मैनुअल	HI
+
+Anjuta	EN
+_	EN
+Home	EN
+Page	EN
+
+Online	EN
+प्रलेखन	HI
+और	HI
+संसाधन	HI
+
+Submit	EN
+a	EN
+बग	HI
+रिपोर्ट	HI
+,	EN
+पैच	HI
+or	EN
+सुविधा	HI
+निवेदन	HI
+for	EN
+Anjuta	EN
+
+Ask	EN
+a	EN
+_	EN
+Question	EN
+
+About	EN
+Anjuta	EN
+
+Toggle	EN
+View	EN
+
+Value	EN
+doesn	EN
+'	EN
+t	EN
+मौजूद	HI
+
+Could	EN
+नहीं	HI
+खोलें	HI
+फ़ाइल	HI
+लिये	HI
+लिखना	HI
+
+The	EN
+फाइल	HI
+'	EN
+%	EN
+s	EN
+'	EN
+already	EN
+exists	EN
+.	EN
+Do	EN
+आपको	HI
+want	EN
+to	EN
+बदलें	HI
+it	EN
+साथ	HI
+the	EN
+एक	HI
+आप	HI
+हैं	HI
+छायांकन	HI
+?	EN
+.	EN
+
+Do	EN
+नही	HI
+दिखाएं	HI
+the	EN
+splashscreen	EN
+
+Quit	EN
+Anjuta	EN
+Test	EN
+Shell	EN
+
+_	EN
+Preferences	EN
+.	EN
+.	EN
+.	EN
+
+C	EN
+_	EN
+ustomize	EN
+शॉर्टकट	HI
+
+Anjuta	EN
+परीक्षण	HI
+शेल	HI
+
+Indentation	EN
+परिमाण	HI
+
+Brace	EN
+indentation	EN
+आकार	HI
+in	EN
+स्पेसेस	HI
+:	EN
+
+Enable	EN
+स्मार्ट	HI
+indentation	EN
+
+Pressing	EN
+tab	HI
+indents	HI
+
+Statement	EN
+indentation	EN
+आकार	HI
+in	EN
+स्पेसेस	HI
+:	EN
+
+Anjuta	EN
+File	EN
+Wizard	EN
+Plugin	EN
+
+Task	EN
+Manager	EN
+
+Macro	EN
+Plugin	EN
+
+Patch	EN
+Plugin	EN
+
+Patches	EN
+फाइलें	HI
+और	HI
+निर्देशिका	HI
+.	EN
+
+Sample	EN
+Plugin	EN
+
+Sample	EN
+Plugin	EN
+लिये	HI
+Anjuta	EN
+.	EN
+
+CVS	EN
+Plugin	EN
+
+Project	EN
+Wizard	EN
+
+Message	EN
+Manager	EN
+
+Debug	EN
+Manager	EN
+प्लगइन	HI
+.	EN
+
+Additional	EN
+निर्माण	HI
+विकल्प	HI
+:	EN
+
+Anjuta	EN
+मदद	HI
+खोजें	HI
+
+Automatically	EN
+लोड	HI
+अंतिम	HI
+Project	EN
+
+Build	EN
+कमांड	HI
+:	EN
+
+Build	EN
+files	EN
+
+Build	EN
+प्रतीक	HI
+ब्राउजर	HI
+automatically	EN
+
+Common	EN
+कमांड	HI
+:	EN
+
+Compiler	EN
+और	HI
+लिंकर	HI
+विकल्प	HI
+
+Data	EN
+मॉड्यूल	HI
+Makefile	EN
+.	EN
+am	EN
+
+Disable	EN
+overwriting	EN
+फ़ाइल	HI
+
+Document	EN
+मोड्यूल	HI
+Makefile	EN
+.	EN
+am	EN
+
+Enable	EN
+Debugging	EN
+
+GUI	EN
+संपादक	HI
+कमांड	HI
+:	EN
+
+HTML	EN
+_	EN
+दर्शक	HI
+:	EN
+
+Help	EN
+मोड्यूल	HI
+Makefile	EN
+.	EN
+am	EN
+
+Ignore	EN
+फाइलें	HI
+और	HI
+निर्देशिका	HI
+
+Include	EN
+Paths	EN
+
+Include	EN
+मॉड्यूल	HI
+Makefile	EN
+.	EN
+am	EN
+
+Info	EN
+Pages	EN
+
+Language	EN
+-	EN
+विशिष्ट	HI
+कमांड	HI
+:	EN
+
+Library	EN
+Paths	EN
+
+Load	EN
+_	EN
+यूजर	HI
+मूलभूत	HI
+
+Maximum	EN
+संख्या	HI
+of	EN
+स्वतंत्र	HI
+कार्य	HI
+(	EN
+0	EN
+no	EN
+सीमा	HI
+)	EN
+
+Menu	EN
+प्रतीक	HI
+:	EN
+
+Menu	EN
+अवस्थिति	HI
+:	EN
+
+New	EN
+फ़ाइल	HI
+
+Open	EN
+Project	EN
+
+Open	EN
+existing	EN
+Project	EN
+.	EN
+
+Open	EN
+आखिरी	HI
+working	EN
+Project	EN
+
+Output	EN
+संचिका	HI
+
+Project	EN
+Version	EN
+
+Project	EN
+कॉन्फ़िगर	HI
+.	EN
+in	EN
+
+Project	EN
+स्तर	HI
+
+Recent	EN
+Projects	EN
+:	EN
+
+Run	EN
+Configure	EN
+Script	EN
+
+Show	EN
+tooltips	EN
+
+User	EN
+जानकारी	HI
+
+User	EN
+नाम	HI
+:	EN
+
+_	EN
+Build	EN
+a	EN
+संचिका	HI
+:	EN
+
+_	EN
+Pixmap	EN
+संपादक	HI
+:	EN
+
+_	EN
+Terminal	EN
+:	EN
+
+Text	EN
+in	EN
+the	EN
+प्रविष्टि	HI
+
+The	EN
+मूल्य	HI
+"	EN
+%	EN
+s	EN
+"	EN
+is	EN
+नही	HI
+भाग	HI
+of	EN
+the	EN
+enum	EN
+"	EN
+%	EN
+s	EN
+"	EN
+
+The	EN
+सम्पत्ति	HI
+"	EN
+%	EN
+s	EN
+"	EN
+करता	HI
+नहीं	HI
+मौजूद	HI
+
+The	EN
+क़िस्म	HI
+"	EN
+%	EN
+s	EN
+"	EN
+is	EN
+not	EN
+a	EN
+वैध	HI
+प्रकार	HI
+.	EN
+
+The	EN
+प्रकार	HI
+"	EN
+%	EN
+s	EN
+"	EN
+is	EN
+नही	HI
+a	EN
+सेल	HI
+renderer	EN
+क़िस्म	HI
+.	EN
+
+No	EN
+क़िस्म	HI
+विशेषता	HI
+उल्लेखित	HI
+.	EN
+
+Dock	EN
+वस्तुएं	HI
+
+Build	EN
+Project	EN
+
+Building	EN
+the	EN
+पूरे	HI
+Project	EN
+:	EN
+
+Build	EN
+Distribution	EN
+
+Auto	EN
+generate	EN
+Project	EN
+
+Auto	EN
+generating	EN
+the	EN
+Project	EN
+:	EN
+
+Installing	EN
+the	EN
+Project	EN
+:	EN
+
+Clean	EN
+All	EN
+
+Cleaning	EN
+पूरे	HI
+of	EN
+the	EN
+Project	EN
+:	EN
+
+Do	EN
+आप	HI
+want	EN
+to	EN
+साफ	HI
+the	EN
+सूची	HI
+?	EN
+
+Include	EN
+राहें	HI
+
+The	EN
+टार्गेट	HI
+executable	EN
+of	EN
+this	EN
+Project	EN
+is	EN
+नही	HI
+executable	EN
+
+This	EN
+संचिका	HI
+रै	HI
+नहीं	HI
+महरूम	HI
+saved	EN
+.	EN
+Save	EN
+it	EN
+पहला	HI
+.	EN
+
+_	EN
+Execute	EN
+कार्यक्रम	HI
+
+Select	EN
+शीर्षक	HI
+फाइल	HI
+
+Select	EN
+स्त्रोत	HI
+फाइल	HI
+
+Output	EN
+Header	EN
+File	EN
+:	EN
+
+Output	EN
+Source	EN
+File	EN
+:	EN
+
+Add	EN
+to	EN
+current	EN
+Project	EN
+?	EN
+
+Enter	EN
+the	EN
+नाम	HI
+लिये	HI
+the	EN
+class	EN
+तुम	HI
+want	EN
+to	EN
+जोड़ें	HI
+.	EN
+
+Error	EN
+in	EN
+writing	EN
+फ़ाइलें	HI
+
+Do	EN
+_	EN
+n	EN
+'	EN
+t	EN
+save	EN
+
+Delete	EN
+Theme	EN
+
+Reload	EN
+Session	EN
+Defaults	EN
+
+_	EN
+Save	EN
+Theme	EN
+As	EN
+
+_	EN
+Toggle	EN
+पसंद	HI
+
+%	EN
+s	EN
+is	EN
+नही	HI
+a	EN
+'	EN
+.	EN
+h	EN
+'	EN
+संचिका	HI
+!	EN
+
+C	EN
+_	EN
+टेम्प्लेट	HI
+
+_	EN
+CVS	EN
+कीवर्ड	HI
+
+_	EN
+General	EN
+
+_	EN
+Header	EN
+
+Insert	EN
+a	EN
+फ़ाइल	HI
+शीर्षक	HI
+
+Current	EN
+_	EN
+Username	EN
+
+Insert	EN
+नाम	HI
+of	EN
+धारा	HI
+प्रयोक्ता	HI
+
+Current	EN
+_	EN
+Date	EN
+&	EN
+Time	EN
+
+Insert	EN
+मौज़ूदा	HI
+तिथि	HI
+&	EN
+वक़्त	HI
+
+Header	EN
+File	EN
+_	EN
+Template	EN
+
+Insert	EN
+a	EN
+मानक	HI
+शीर्षक	HI
+संचिका	HI
+template	EN
+
+Insert	EN
+a	EN
+स्विच	HI
+टेम्प्लेट	HI
+
+Insert	EN
+a	EN
+लिये	HI
+टेम्पलेट	HI
+
+Insert	EN
+a	EN
+जबकी	HI
+टेम्पलेट	HI
+
+_	EN
+Log	EN
+
+_	EN
+Revision	EN
+
+_	EN
+Source	EN
+
+File	EN
+विजार्ड	HI
+संचालन	HI
+
+All	EN
+breakpoints	EN
+विकलांग	HI
+.	EN
+
+All	EN
+breakpoints	EN
+सक्रिय	HI
+.	EN
+
+All	EN
+breakpoints	EN
+removed	EN
+.	EN
+
+Unsigned	EN
+decimal	EN
+
+Unable	EN
+to	EN
+निर्माण	HI
+उपयोगकर्ता	HI
+अंतरफलक	HI
+for	EN
+Memory	EN
+
+Display	EN
+लोकल	HI
+चर	HI
+of	EN
+the	EN
+मौजूदा	HI
+फ्रेम	HI
+
+Display	EN
+accessible	EN
+स्मृति	HI
+
+_	EN
+Restart	EN
+Program	EN
+
+Stop	EN
+और	HI
+restart	EN
+the	EN
+कार्यक्रम	HI
+
+S	EN
+_	EN
+शीर्ष	HI
+Program	EN
+
+Stop	EN
+the	EN
+कार्यक्रम	HI
+होने	HI
+debugged	EN
+
+Detach	EN
+से	HI
+an	EN
+संलग्न	HI
+कार्यक्रम	HI
+
+Show	EN
+CPU	EN
+रजिस्टर	HI
+सामग्री	HI
+
+Add	EN
+एक्सप्रेशन	HI
+
+Add	EN
+Watch	EN
+Expression	EN
+
+Modify	EN
+Watch	EN
+Expression	EN
+
+Modify	EN
+देखा	HI
+अभिव्यक्ति	HI
+
+Save	EN
+परिवर्तन	HI
+to	EN
+glade	EN
+परियोजना	HI
+"	EN
+%	EN
+s	EN
+"	EN
+पहले	HI
+closing	EN
+?	EN
+Your	EN
+परिवर्तन	HI
+होगा	HI
+be	EN
+गुमशुदा	HI
+if	EN
+तुम	HI
+डॉन	HI
+'	EN
+t	EN
+सहेजें	HI
+उन्हें	HI
+.	EN
+
+/	EN
+Item	EN
+/	EN
+_	EN
+Edit	EN
+
+/	EN
+_	EN
+View	EN
+
+Due	EN
+दिनांक	HI
+:	EN
+\	EN
+t	EN
+%	EN
+s	EN
+
+Pick	EN
+a	EN
+रंग	HI
+
+Cannot	EN
+खोलें	HI
+:	EN
+%	EN
+s	EN
+&	EN
+s	EN
+
+Loading	EN
+प्रोजेक्ट	HI
+.	EN
+Please	EN
+रुको	HI
+.	EN
+.	EN
+.	EN
+
+File	EN
+:	EN
+%	EN
+s	EN
+
+Saving	EN
+फ़ाइल	HI
+.	EN
+.	EN
+.	EN
+
+Sample	EN
+Plugin	EN
+
+Sample	EN
+Plugin	EN
+लिये	HI
+Anjuta	EN
+.	EN
+
+Function	EN
+Name	EN
+
+Flat	EN
+Profile	EN
+
+Call	EN
+Graph	EN
+
+_	EN
+Kill	EN
+Execution	EN
+
+_	EN
+Load	EN
+Log	EN
+
+Edit	EN
+Rules	EN
+
+Error	EN
+contains	EN
+
+_	EN
+Paste	EN
+
+Leak	EN
+जाँचें	HI
+:	EN
+
+Leak	EN
+रेज़ोल्यूशन	HI
+:	EN
+
+Keep	EN
+up	EN
+to	EN
+
+System	EN
+काल	HI
+:	EN
+
+Call	EN
+कड़ी	HI
+:	EN
+
+Powerful	EN
+डीबगिंग	HI
+tool	EN
+.	EN
+
+Valgrind	EN
+Plugin	EN
+
+Central	EN
+European	EN
+
+South	EN
+European	EN
+
+Chinese	EN
+Traditional	EN
+
+Cyrillic	EN
+/	EN
+Russian	EN
+
+Chinese	EN
+Simplified	EN
+
+Cyrillic	EN
+/	EN
+Ukrainian	EN
+
+Anjuta	EN
+Shell	EN
+
+Available	EN
+Plugins	EN
+
+Preferred	EN
+प्लगइन	HI
+
+Select	EN
+a	EN
+प्लगइन	HI
+
+Remember	EN
+इस	HI
+चयन	HI
+
+Available	EN
+प्लगइन	HI
+
+Activated	EN
+प्लगइन	HI
+
+Currently	EN
+activated	EN
+प्लगइन	HI
+
+Plugin	EN
+Manager	EN
+
+Profile	EN
+Name	EN
+
+Profile	EN
+Plugins	EN
+
+Anjuta	EN
+Preferences	EN
+
+_	EN
+Discard	EN
+परिवर्तन	HI
+
+Text	EN
+to	EN
+प्रतिपादन	HI
+
+The	EN
+pixbuf	EN
+to	EN
+रेंडर	HI
+.	EN
+
+Widget	EN
+नहीं	HI
+पाया	HI
+:	EN
+%	EN
+s	EN
+
+Regenerate	EN
+project	EN
+
+Select	EN
+Program	EN
+to	EN
+चलाएँ	HI
+:	EN
+
+Build	EN
+Directory	EN
+:	EN
+
+Configure	EN
+Project	EN
+
+Continue	EN
+on	EN
+त्रुटि	HI
+
+Install	EN
+as	EN
+जड़	HI
+:	EN
+
+Run	EN
+in	EN
+टर्मिनल	HI
+
+Run	EN
+अनेक	HI
+commands	EN
+at	EN
+a	EN
+वक़्त	HI
+:	EN
+
+Select	EN
+Program	EN
+
+Select	EN
+a	EN
+निर्माण	HI
+directory	EN
+
+Translate	EN
+संदेश	HI
+
+Entering	EN
+:	EN
+%	EN
+s	EN
+
+Leaving	EN
+:	EN
+%	EN
+s	EN
+
+Command	EN
+रद्द	HI
+by	EN
+उपयोगकर्ता	HI
+
+Build	EN
+%	EN
+d	EN
+:	EN
+%	EN
+s	EN
+
+_	EN
+Build	EN
+
+_	EN
+Build	EN
+Project	EN
+
+Build	EN
+पूरे	HI
+प्रोजेक्ट	HI
+
+_	EN
+Install	EN
+Project	EN
+
+Install	EN
+पूरे	HI
+प्रोजेक्ट	HI
+
+_	EN
+Clean	EN
+Project	EN
+
+Clean	EN
+पूरा	HI
+प्रोजेक्ट	HI
+
+C	EN
+_	EN
+onfigure	EN
+Project	EN
+.	EN
+.	EN
+.	EN
+
+Configure	EN
+प्रोजेक्ट	HI
+
+Build	EN
+_	EN
+Tarball	EN
+
+_	EN
+Install	EN
+
+Add	EN
+to	EN
+Project	EN
+
+_	EN
+Add	EN
+
+_	EN
+Remove	EN
+
+_	EN
+Update	EN
+
+Attach	EN
+to	EN
+प्रक्रिया	HI
+
+_	EN
+Location	EN
+:	EN
+
+_	EN
+Name	EN
+:	EN
+
+_	EN
+Value	EN
+:	EN
+
+Toggle	EN
+Breakpoint	EN
+
+Show	EN
+Line	EN
+Numbers	EN
+
+Whether	EN
+to	EN
+प्रदर्शक	HI
+लाइन	HI
+संख्याएँ	HI
+
+Whether	EN
+to	EN
+प्रदर्शित	HI
+लकीर	HI
+मार्कर	HI
+pixbufs	EN
+
+View	EN
+Source	EN
+
+Remove	EN
+Watch	EN
+
+Change	EN
+Value	EN
+
+Remove	EN
+all	EN
+
+_	EN
+Context	EN
+Help	EN
+
+Open	EN
+फाइल	HI
+
+Save	EN
+संचिका	HI
+as	EN
+
+Save	EN
+_	EN
+As	EN
+.	EN
+.	EN
+.	EN
+
+Save	EN
+the	EN
+वर्तमान	HI
+फ़ाइल	HI
+साथ	HI
+a	EN
+अलग	HI
+नाम	HI
+
+Close	EN
+All	EN
+
+_	EN
+Transform	EN
+
+Select	EN
+_	EN
+All	EN
+
+_	EN
+Search	EN
+
+Undo	EN
+the	EN
+आखिरी	HI
+कार्रवाई	HI
+
+_	EN
+Redo	EN
+
+Redo	EN
+the	EN
+आखिरी	HI
+undone	EN
+एक्शन	HI
+
+Copy	EN
+the	EN
+चयनित	HI
+पाठ	HI
+to	EN
+the	EN
+clipboard	EN
+
+_	EN
+Clear	EN
+
+Zoom	EN
+In	EN
+
+Zoom	EN
+Out	EN
+
+_	EN
+Highlight	EN
+Mode	EN
+
+_	EN
+Documents	EN
+
+Previous	EN
+Document	EN
+
+Next	EN
+Document	EN
+
+Open	EN
+'	EN
+%	EN
+s	EN
+'	EN
+
+Open	EN
+साथ	HI
+:	EN
+
+All	EN
+फ़ाइल	HI
+
+_	EN
+New	EN
+
+_	EN
+Open	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Open	EN
+
+Open	EN
+_	EN
+Recent	EN
+
+File	EN
+Manager	EN
+
+New	EN
+File	EN
+
+Select	EN
+A	EN
+Folder	EN
+
+_	EN
+Skip	EN
+
+_	EN
+Abort	EN
+
+_	EN
+Add	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Remove	EN
+.	EN
+.	EN
+.	EN
+
+Add	EN
+Item	EN
+
+Edit	EN
+Item	EN
+
+Edit	EN
+Categories	EN
+
+Due	EN
+तारीख़	HI
+
+_	EN
+Tasks	EN
+
+No	EN
+Date	EN
+
+_	EN
+Add	EN
+Macro	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Next	EN
+Message	EN
+
+Save	EN
+message	EN
+
+_	EN
+Tools	EN
+
+_	EN
+Project	EN
+
+_	EN
+Properties	EN
+
+_	EN
+Refresh	EN
+
+Close	EN
+परियोजना	HI
+
+Re	EN
+_	EN
+चाल	HI
+
+Select	EN
+directory	EN
+
+Icon	EN
+पसंद	HI
+
+A	EN
+जेनेरिक	HI
+C	EN
++	EN
++	EN
+प्रोजेक्ट	HI
+
+A	EN
+जेनेरिक	HI
+GTK	EN
++	EN
+प्रोजेक्ट	HI
+
+A	EN
+जेनेरिक	HI
+GTKmm	EN
+(	EN
+C	EN
++	EN
++	EN
+)	EN
+project	EN
+
+A	EN
+जेनरिक	HI
+Xlib	EN
+डॉक	HI
+एप्लेट	HI
+
+A	EN
+जेनेरिक	HI
+Xlib	EN
+परियोजना	HI
+
+A	EN
+जेनेरिक	HI
+परियोजना	HI
+
+A	EN
+जेनेरिक	HI
+wx	EN
+Widgets	EN
+प्रोजेक्ट	HI
+
+A	EN
+नमूना	HI
+SDL	EN
+प्रोजेक्ट	HI
+
+Add	EN
+C	EN
++	EN
++	EN
+सहायता	HI
+:	EN
+
+Add	EN
+gtk	EN
+-	EN
+दस्तावेज़	HI
+सिस्टम	HI
+:	EN
+
+Add	EN
+internationalization	EN
+:	EN
+
+Anjuta	EN
+Plugin	EN
+
+Email	EN
+पता	HI
+:	EN
+
+General	EN
+Project	EN
+Information	EN
+
+Icon	EN
+File	EN
+:	EN
+
+Icon	EN
+फ़ाइल	HI
+लिये	HI
+the	EN
+प्लगइन	HI
+
+Implement	EN
+प्लगइन	HI
+अंतरफलक	HI
+
+Interface	EN
+implemented	EN
+by	EN
+the	EN
+प्लगइन	HI
+
+Makefile	EN
+परियोजना	HI
+
+Makefile	EN
+-	EN
+आधारित	HI
+परियोजना	HI
+
+Project	EN
+नाम	HI
+:	EN
+
+Project	EN
+फंक्शन्स	HI
+
+प्रोजेक्ट	HI
+नाम	HI
+
+Program	EN
+Parameters	EN
+
+Load	EN
+Target	EN
+to	EN
+चलाएं	HI
+
+_	EN
+Run	EN
+
+Kill	EN
+कार्यक्रम	HI
+
+Program	EN
+Parameters	EN
+.	EN
+.	EN
+.	EN
+
+Run	EN
+परिचालन	HI
+
+Sample	EN
+फ़ाइल	HI
+परिचालन	HI
+
+Background	EN
+रंग	HI
+:	EN
+
+Disable	EN
+सिंटेक्स	HI
+highlighting	EN
+
+Foreground	EN
+color	EN
+:	EN
+
+Scratchbox	EN
+Options	EN
+
+No	EN
+Limit	EN
+
+_	EN
+Find	EN
+.	EN
+.	EN
+.	EN
+
+Find	EN
+_	EN
+Next	EN
+
+Find	EN
+_	EN
+Previous	EN
+
+Replace	EN
+अगला	HI
+मैच	HI
+
+Replace	EN
+सभी	HI
+मिलान	HI
+
+Replace	EN
+All	EN
+
+Highlight	EN
+वर्तमान	HI
+रेखा	HI
+
+View	EN
+Log	EN
+
+New	EN
+त्वरक	HI
+.	EN
+.	EN
+.	EN
+
+Opening	EN
+%	EN
+s	EN
+
+Discard	EN
+आउटपुट	HI
+
+Current	EN
+बफर	HI
+
+Current	EN
+चयन	HI
+
+Program	EN
+to	EN
+जांच	HI
+:	EN
+
+Select	EN
+Tool	EN
+:	EN
+
+Loaded	EN
+Session	EN
+.	EN
+.	EN
+.	EN
+
+Project	EN
+Defaults	EN
+
+Default	EN
+परियोजना	HI
+निर्देशिका	HI
+:	EN
+
+Developer	EN
+ईमेल	HI
+पता	HI
+:	EN
+
+Developer	EN
+नाम	HI
+:	EN
+
+_	EN
+File	EN
+
+_	EN
+Quit	EN
+
+_	EN
+Preferences	EN
+
+_	EN
+Full	EN
+Screen	EN
+
+Toggle	EN
+fullscreen	EN
+विधि	HI
+
+_	EN
+Frequently	EN
+Asked	EN
+Questions	EN
+
+Anjuta	EN
+अक्सर	HI
+पूछा	HI
+प्रश्न	HI
+
+Anjuta	EN
+_	EN
+Home	EN
+Page	EN
+
+_	EN
+About	EN
+
+Installed	EN
+प्लगइन	HI
+
+Indentation	EN
+परिमाण	HI
+
+Smart	EN
+Indentation	EN
+
+Enable	EN
+अनुकूली	HI
+indentation	EN
+
+Enable	EN
+कोड	HI
+पूर्णता	HI
+
+Enable	EN
+smart	EN
+indentation	EN
+
+Pressing	EN
+टैब	HI
+indents	HI
+
+Auto	EN
+Indent	EN
+
+Gdb	EN
+प्लगइन	HI
+.	EN
+
+Git	EN
+संस्करण	HI
+कंट्रोल	HI
+
+Devhelp	EN
+Plugin	EN
+लिये	HI
+Anjuta	EN
+.	EN
+
+Anjuta	EN
+File	EN
+Assistant	EN
+Plugin	EN
+
+File	EN
+Assistant	EN
+
+Glade	EN
+Plugin	EN
+लिये	HI
+Anjuta	EN
+.	EN
+
+Glade	EN
+इंटरफ़ेस	HI
+पंक्तियां	HI
+
+Task	EN
+Manager	EN
+
+Todo	EN
+Plugin	EN
+लिये	HI
+Anjuta	EN
+.	EN
+
+Macro	EN
+Plugin	EN
+
+Patch	EN
+Plugin	EN
+
+Automake	EN
+Build	EN
+
+Terminal	EN
+Plugin	EN
+लिये	HI
+Anjuta	EN
+.	EN
+
+A	EN
+संस्करण	HI
+कंट्रोल	HI
+सिस्टम	HI
+plugin	EN
+
+CVS	EN
+Plugin	EN
+
+Project	EN
+Import	EN
+Assistant	EN
+
+C	EN
++	EN
++	EN
+और	HI
+Java	EN
+समर्थन	HI
+Plugin	EN
+
+Project	EN
+Assistant	EN
+
+Component	EN
+लिये	HI
+searching	EN
+
+Project	EN
+Manager	EN
+
+Message	EN
+Manager	EN
+
+Debug	EN
+Manager	EN
+प्लगइन	HI
+.	EN
+
+Run	EN
+Program	EN
+
+Language	EN
+Manager	EN
+
+Failed	EN
+to	EN
+पढ़ा	HI
+'	EN
+%	EN
+s	EN
+'	EN
+:	EN
+%	EN
+s	EN
+
+Case	EN
+संवेदनशील	HI
+
+Enable	EN
+Python	EN
+टिप्पणियां	HI
+फोल्डिंग	HI
+
+Misc	EN
+फंक्शन्स	HI
+
+Print	EN
+फंक्शन्स	HI
+
+_	EN
+Replace	EN
+
+_	EN
+Copy	EN
+
+_	EN
+Edit	EN
+
+Up	EN
+to	EN
+तिथि	HI
+
+No	EN
+License	EN
+
+Shared	EN
+लाइब्रेरी	HI
+परिचालन	HI
+
+Signal	EN
+संचालन	HI
+
+Remove	EN
+पसंद	HI
+
+Open	EN
+a	EN
+फाइल	HI
+
+File	EN
+not	EN
+पाया	HI
+
+Open	EN
+With	EN
+
+Up	EN
+-	EN
+to	EN
+-	EN
+तिथि	HI
+
+Select	EN
+package	EN
+
+Select	EN
+Package	EN
+to	EN
+जोड़ें	HI
+:	EN
+
+Group	EN
+doesn	EN
+'	EN
+t	EN
+मौजूद	HI
+
+Unable	EN
+to	EN
+अपडेट	HI
+प्रोजेक्ट	HI
+
+Malformed	EN
+प्रोजेक्ट	HI
+
+Header	EN
+Files	EN
+
+Man	EN
+Documentation	EN
+
+Info	EN
+Documentation	EN
+
+Project	EN
+निर्देशिका	HI
+
+Package	EN
+नाम	HI
+:	EN
+
+Group	EN
+नाम	HI
+:	EN
+
+Install	EN
+निर्देशिका	HI
+:	EN
+
+Advanced	EN
+विकल्प	HI
+
+Install	EN
+निर्देशिका	HI
+:	EN
+
+Project	EN
+doesn	EN
+'	EN
+t	EN
+मौजूद	HI
+
+Loading	EN
+Core	EN
+:	EN
+%	EN
+s	EN
+
+Select	EN
+file	EN
+to	EN
+add	HI
+:	EN
+
+Select	EN
+संचिका	HI
+to	EN
+निकालें	HI
+:	EN
+
+Branch	EN
+नाम	HI
+:	EN
+
+Reset	EN
+to	EN
+:	EN
+
+Select	EN
+Files	EN
+to	EN
+Ignore	EN
+:	EN
+
+Apply	EN
+mailbox	EN
+फ़ाइल	HI
+
+Select	EN
+Mailbox	EN
+File	EN
+
+Delete	EN
+Tags	EN
+
+Clear	EN
+सभी	HI
+stashes	EN
+
+Stash	EN
+to	EN
+Apply	EN
+
+Select	EN
+a	EN
+file	EN
+
+Git	EN
+:	EN
+Pushing	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Changes	EN
+
+_	EN
+Files	EN
+
+Ignore	EN
+संचिका	HI
+
+_	EN
+Apply	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Branches	EN
+
+_	EN
+Continue	EN
+
+Skip	EN
+the	EN
+धारा	HI
+विरोधी	HI
+कमिट	HI
+और	HI
+continue	EN
+
+Create	EN
+a	EN
+टैग	HI
+
+Delete	EN
+टैग्स	HI
+
+Start	EN
+a	EN
+bisect	EN
+आपरेशन	HI
+
+Widget	EN
+नाम	HI
+
+End	EN
+of	EN
+संचिका	HI
+
+Save	EN
+the	EN
+मौजूदा	HI
+फ़ाइल	HI
+
+Redo	EN
+the	EN
+अंतिम	HI
+कार्रवाई	HI
+
+Cut	EN
+the	EN
+चयन	HI
+
+Copy	EN
+the	EN
+चयन	HI
+
+Delete	EN
+the	EN
+चयन	HI
+
+Glade	EN
+डिजाइनर	HI
+संचालन	HI
+
+HTML	EN
+निर्यात	HI
+फंक्शन्स	HI
+:	EN
+
+Failed	EN
+to	EN
+पढ़ें	HI
+संचिका	HI
+
+Underline	EN
+-	EN
+Plain	EN
+
+Underline	EN
+-	EN
+Squiggle	EN
+
+Underline	EN
+-	EN
+TT	EN
+
+No	EN
+Warnings	EN
+
+_	EN
+Copy	EN
+Message	EN
+
+Copy	EN
+message	EN
+
+Project	EN
+name	EN
+
+Import	EN
+से	HI
+वर्जन	HI
+नियंत्रण	HI
+प्रणाली	HI
+
+Import	EN
+विकल्प	HI
+
+Import	EN
+प्रोजेक्ट	HI
+
+_	EN
+Group	EN
+नाम	HI
+:	EN
+
+GbfProject	EN
+Object	EN
+
+No	EN
+परियोजना	HI
+loaded	EN
+
+Group	EN
+गुण	HI
+
+Initializing	EN
+Project	EN
+.	EN
+.	EN
+.	EN
+
+Project	EN
+Loaded	EN
+
+Select	EN
+परियोजना	HI
+प्रकार	HI
+
+Project	EN
+Type	EN
+:	EN
+%	EN
+s	EN
+
+Unknown	EN
+त्रुटि	HI
+.	EN
+
+Executing	EN
+:	EN
+%	EN
+s	EN
+
+Select	EN
+फाइल	HI
+
+Select	EN
+an	EN
+Image	EN
+File	EN
+
+Choose	EN
+Icon	EN
+
+Choose	EN
+फ़ाइल	HI
+
+A	EN
+GNOME	EN
+एप्लेट	HI
+प्रोजेक्ट	HI
+
+A	EN
+जेनरिक	HI
+minimal	EN
+और	HI
+चपटा	HI
+परियोजना	HI
+
+Stop	EN
+Program	EN
+
+Regular	EN
+अभिव्यक्ति	HI
+
+Create	EN
+File	EN
+/	EN
+Project	EN
+
+Recent	EN
+Projects	EN
+
+Anjuta	EN
+Home	EN
+Page	EN
+
+Anjuta	EN
+Manual	EN
+
+Subversion	EN
+Options	EN
+
+_	EN
+Find	EN
+Symbol	EN
+.	EN
+.	EN
+.	EN
+
+Opening	EN
+%	EN
+s	EN
+
+Running	EN
+कमांड	HI
+:	EN
+%	EN
+s	EN
+.	EN
+.	EN
+.	EN
+
+Project	EN
+जड़	HI
+URI	EN
+
+Project	EN
+जड़	HI
+पथ	HI
+
+Currently	EN
+संपादित	HI
+फाइल	HI
+नाम	HI
+
+Currently	EN
+संपादित	HI
+फ़ाइल	HI
+निर्देशिका	HI
+
+Currently	EN
+चयनित	HI
+text	EN
+in	EN
+एडिटर	HI
+
+Current	EN
+लाइन	HI
+in	EN
+संपादक	HI
+
+Icons	EN
+केवल	HI
+
+Parenthese	EN
+indentation	EN
+
+Symbol	EN
+Database	EN
+Plugin	EN
+लिये	HI
+Anjuta	EN
+.	EN
+
+Makefile	EN
+backend	EN
+
+Makefile	EN
+backend	EN
+लिये	HI
+प्रोजेक्ट	HI
+प्रबंधक	HI
+
+C	EN
+_	EN
+onfigure	EN
+Project	EN
+
+General	EN
+Class	EN
+Properties	EN
+
+Author	EN
+Email	EN
+Address	EN
+:	EN
+
+CVS	EN
+Options	EN
+
+Remote	EN
+डिबगिंग	HI
+
+Save	EN
+_	EN
+As	EN
+
+Preview	EN
+the	EN
+धारा	HI
+फाइल	HI
+in	EN
+प्रिंट	HI
+फ़ॉर्मेट	HI
+
+_	EN
+Line	EN
+Number	EN
+
+File	EN
+Information	EN
+
+Generic	EN
+नियम	HI
+
+Configure	EN
+फाइल	HI
+
+Interface	EN
+फाइल	HI
+
+Attaching	EN
+to	EN
+प्रक्रम	HI
+:	EN
+%	EN
+d	EN
+
+Detaching	EN
+the	EN
+प्रक्रिया	HI
+
+Select	EN
+a	EN
+Folder	EN
+
+_	EN
+View	EN
+log	HI
+
+_	EN
+Merge	EN
+
+_	EN
+Start	EN
+
+_	EN
+Create	EN
+टैग	HI
+
+_	EN
+Reset	EN
+पेड़	HI
+
+Task	EN
+मैनेजर	HI
+
+Task	EN
+मैनेजर	HI
+देखें	HI
+
+To	EN
+-	EN
+do	EN
+Manager	EN
+
+To	EN
+-	EN
+do	EN
+List	EN
+Preferences	EN
+
+_	EN
+Add	EN
+Macro	EN
+
+_	EN
+Patch	EN
+
+Project	EN
+नाम	HI
+
+Import	EN
+फंक्शन्स	HI
+
+Shortcut	EN
+:	EN
+%	EN
+s	EN
+
+Confirm	EN
+हटाएँ	HI
+
+_	EN
+Add	EN
+to	EN
+Project	EN
+
+Initializing	EN
+Project	EN
+
+A	EN
+shared	EN
+or	EN
+a	EN
+static	EN
+पुस्तकालयों	HI
+परियोजना	HI
+
+Build	EN
+पुस्तकालयों	HI
+as	EN
+
+Regular	EN
+अभिव्यक्ति	HI
+
+File	EN
+Filter	EN
+
+_	EN
+Find	EN
+
+_	EN
+View	EN
+Log	EN
+
+Available	EN
+API	EN
+टैग	HI
+
+New	EN
+त्वरक	HI
+
+Insert	EN
+into	EN
+बफर	HI
+
+Loaded	EN
+Session	EN
+
+Parenthesis	EN
+indentation	EN
+
+Auto	EN
+-	EN
+Indent	EN
+
+GNU	EN
+Debugger	EN
+Plugin	EN
+
+Error	EN
+:	EN
+%	EN
+s	EN
+
+Error	EN
+:	EN
+cant	EN
+bind	EN
+बंदरगाह	HI
+
+Anjuta	EN
+JS	EN
+Debugger	EN
+Plugin	EN
+
+JS	EN
+Support	EN
+Plugin	EN
+
+JavaScript	EN
+Support	EN
+Plugin	EN
+
+Min	EN
+अक्षर	HI
+लिये	HI
+समाप्ति	HI
+
+Marked	EN
+up	EN
+पाठ	HI
+to	EN
+प्रतिपादन	HI
+
+Underline	EN
+सेट	HI
+
+_	EN
+Continue	EN
+/	EN
+Suspend	EN
+
+Available	EN
+सुदंर	HI
+प्रिंटर	HI
+
+आदि	HI
+children	EN
+
+Register	EN
+Function	EN
+
+Gdb	EN
+Debugger	EN
+
+PyGTK	EN
+प्रोजेक्ट	HI
+using	EN
+automake	EN
+
+Default	EN
+मान	HI
+
+Develop	EN
+सॉफ्टवेयर	HI
+in	EN
+an	EN
+एकीकृत	HI
+विकास	HI
+परिवेश	HI
+
+Unable	EN
+to	EN
+ढूँढें	HI
+प्लगइन	HI
+module	EN
+%	EN
+s	EN
+
+Unable	EN
+to	EN
+ढूँढें	HI
+प्लगइन	HI
+रजिस्ट्रेशन	HI
+फंक्शन	HI
+%	EN
+s	EN
+in	EN
+मोड्यूल	HI
+%	EN
+s	EN
+
+Unknown	EN
+गलती	HI
+in	EN
+मोड्यूल	HI
+%	EN
+s	EN
+
+Missing	EN
+अवस्थिति	HI
+of	EN
+प्लगइन	HI
+%	EN
+s	EN
+
+Missing	EN
+प्रकार	HI
+पारिभाषित	HI
+by	EN
+प्लगइन	HI
+%	EN
+s	EN
+
+प्लगइन	HI
+%	EN
+s	EN
+fails	EN
+to	EN
+रजिस्टर	HI
+क़िस्म	HI
+%	EN
+s	EN
+
+The	EN
+फ़ाइल	HI
+आप	HI
+हैं	HI
+trying	EN
+to	EN
+ओपन	HI
+contains	EN
+an	EN
+अमान्य	HI
+बाइट	HI
+क्रम	HI
+.	EN
+
+Anjuta	EN
+was	EN
+नहीं	HI
+समर्थ	HI
+to	EN
+automatically	EN
+determine	EN
+the	EN
+एन्कोडिंग	HI
+of	EN
+the	EN
+फाइल	HI
+आपको	HI
+want	EN
+to	EN
+ओपन	HI
+.	EN
+
+Cannot	EN
+चलाएँ	HI
+कमांड	HI
+:	EN
+"	EN
+%	EN
+s	EN
+"	EN
+
+execvp	EN
+विफल	HI
+
+Anjuta	EN
+शेल	HI
+उस	HI
+करेंगे	HI
+contain	EN
+the	EN
+प्लगइन	HI
+
+Plugin	EN
+'	EN
+%	EN
+s	EN
+'	EN
+करता	HI
+नही	HI
+want	EN
+to	EN
+be	EN
+deactivated	EN
+
+Could	EN
+नही	HI
+load	EN
+%	EN
+s	EN
+This	EN
+प्रायः	HI
+यानि	HI
+उस	HI
+आपके	HI
+संस्थापन	HI
+is	EN
+भ्रष्ट	HI
+.	EN
+The	EN
+त्रुटि	HI
+सन्देश	HI
+अग्रणी	HI
+to	EN
+ये	HI
+was	EN
+:	EN
+%	EN
+s	EN
+
+Only	EN
+दिखाओ	HI
+उपयोगकर्ता	HI
+activatable	EN
+प्लगइन	HI
+
+These	EN
+हैं	HI
+the	EN
+प्लगइन	HI
+चयनित	HI
+by	EN
+तुम	HI
+कब	HI
+Anjuta	EN
+prompted	EN
+to	EN
+चुनें	HI
+एक	HI
+of	EN
+अनेक	HI
+उपयुक्त	HI
+प्लगइन	HI
+.	EN
+Removing	EN
+the	EN
+वरीयता	HI
+प्लगइन	HI
+होगी	HI
+let	EN
+Anjuta	EN
+संकेत	HI
+आप	HI
+again	EN
+to	EN
+चुनें	HI
+अलग	HI
+प्लगइन	HI
+.	EN
+
+Forget	EN
+चयनित	HI
+प्लगइन	HI
+
+Please	EN
+चुनें	HI
+a	EN
+प्लगइन	HI
+to	EN
+activate	EN
+
+No	EN
+प्लगइन	HI
+is	EN
+समर्थ	HI
+to	EN
+लोड	HI
+अन्य	HI
+प्लगइन	HI
+in	EN
+%	EN
+s	EN
+
+Current	EN
+चिपचिपा	HI
+of	EN
+प्रोफाइल	HI
+
+Currently	EN
+उपलब्ध	HI
+प्लगइन	HI
+पाये	HI
+in	EN
+प्लगइन	HI
+पथ	HI
+
+Anjuta	EN
+शेल	HI
+लिये	HI
+जिससे	HI
+the	EN
+प्लगइन	HI
+हैं	HI
+बनाया	HI
+
+Anjuta	EN
+प्रस्थिति	HI
+to	EN
+use	EN
+in	EN
+लोडिंग	HI
+और	HI
+unloading	EN
+of	EN
+प्लगइन	HI
+
+The	EN
+प्लगइन	HI
+मैनेजर	HI
+to	EN
+उपयोग	HI
+लिये	HI
+resolving	EN
+प्लगइन	HI
+
+Name	EN
+of	EN
+the	EN
+प्लगइन	HI
+रूपरेखा	HI
+
+List	EN
+of	EN
+प्लगइन	HI
+लिये	HI
+इस	HI
+रूपरेखा	HI
+
+File	EN
+to	EN
+syncronize	EN
+the	EN
+प्रोफ़ाइल	HI
+XML	EN
+
+Please	EN
+चुनें	HI
+a	EN
+प्लगइन	HI
+इससे	HI
+the	EN
+सूची	HI
+
+Failed	EN
+to	EN
+पढ़ें	HI
+'	EN
+%	EN
+s	EN
+'	EN
+:	EN
+XML	EN
+पार्स	HI
+गलती	HI
+.	EN
+Invalid	EN
+or	EN
+दूषित	HI
+Anjuta	EN
+प्लगइन	HI
+profile	EN
+.	EN
+
+%	EN
+s	EN
+:	EN
+Install	EN
+it	EN
+इससे	HI
+'	EN
+%	EN
+s	EN
+'	EN
+
+Failed	EN
+to	EN
+पढ़ा	HI
+'	EN
+%	EN
+s	EN
+'	EN
+:	EN
+Following	EN
+अनिवार्य	HI
+प्लगइन	HI
+हैं	HI
+missing	EN
+:	EN
+%	EN
+s	EN
+
+Select	EN
+the	EN
+items	EN
+to	EN
+सहेजें	HI
+:	EN
+
+If	EN
+आपको	HI
+do	EN
+नहीं	HI
+सहेजें	HI
+,	EN
+सब	HI
+अपना	HI
+परिवर्तन	HI
+होगा	HI
+be	EN
+खोई	HI
+.	EN
+
+There	EN
+is	EN
+an	EN
+वस्तु	HI
+साथ	HI
+unsaved	EN
+परिवर्तन	HI
+.	EN
+Save	EN
+changes	EN
+पहले	HI
+closing	EN
+?	EN
+
+You	EN
+do	EN
+नही	HI
+seem	EN
+to	EN
+have	EN
+PackageKit	EN
+स्थापित	HI
+.	EN
+PackageKit	EN
+is	EN
+जरूरी	HI
+लिये	HI
+installing	EN
+अनुपलब्ध	HI
+पैकेज	HI
+.	EN
+Please	EN
+स्थापना	HI
+"	EN
+packagekit	EN
+-	EN
+gnome	EN
+"	EN
+पैकेज	HI
+from	EN
+अपने	HI
+वितरण	HI
+,	EN
+or	EN
+स्थापना	HI
+the	EN
+लापता	HI
+packages	EN
+हस्तचालित	HI
+.	EN
+
+The	EN
+"	EN
+%	EN
+s	EN
+"	EN
+पैकेज	HI
+is	EN
+नहीं	HI
+स्थापित	HI
+.	EN
+Please	EN
+स्थापना	HI
+it	EN
+.	EN
+
+The	EN
+"	EN
+%	EN
+s	EN
+"	EN
+उपयोगी	HI
+is	EN
+not	EN
+संस्थापित	HI
+.	EN
+Please	EN
+स्थापना	HI
+it	EN
+.	EN
+
+Cannot	EN
+ढूंढें	HI
+a	EN
+टर्मिनल	HI
+.	EN
+using	EN
+xterm	EN
+,	EN
+सम	HI
+if	EN
+it	EN
+मई	HI
+नहीं	HI
+कार्यालय	HI
+
+Cannot	EN
+चलाएँ	HI
+कमांड	HI
+:	EN
+%	EN
+s	EN
+(	EN
+using	EN
+शेल	HI
+%	EN
+s	EN
+)	EN
+
+Unable	EN
+to	EN
+display	EN
+सहायता	HI
+.	EN
+Please	EN
+मेक	HI
+ज़रूर	HI
+the	EN
+Anjuta	EN
+प्रलेखन	HI
+पैकेज	HI
+is	EN
+संस्थापित	HI
+.	EN
+It	EN
+can	EN
+be	EN
+डाउनलोड	HI
+से	HI
+एचटीटीपी	HI
+:	EN
+/	EN
+/	EN
+anjuta	EN
+.	EN
+org	HI
+.	EN
+
+Unable	EN
+to	EN
+लोड	HI
+उपयोक्ता	HI
+इंटरफेस	HI
+फाइल	HI
+:	EN
+%	EN
+s	EN
+
+Help	EN
+टेक्स्ट	HI
+
+Text	EN
+to	EN
+दिखाओ	HI
+the	EN
+प्रयोक्ता	HI
+कया	HI
+to	EN
+डालें	HI
+into	EN
+the	EN
+एंट्री	HI
+
+Path	EN
+उस	HI
+dropped	EN
+फ़ाइल	HI
+चाहिए	HI
+be	EN
+रिश्तेदार	HI
+to	EN
+
+Drop	EN
+a	EN
+फाइल	HI
+or	EN
+एंटर	HI
+a	EN
+पाथ	HI
+यहां	HI
+
+Select	EN
+Files	EN
+
+Path	EN
+कि	HI
+सभी	HI
+फाइलें	HI
+in	EN
+the	EN
+सूची	HI
+चाहिए	HI
+be	EN
+सापेक्ष	HI
+to	EN
+
+Show	EN
+Add	EN
+बटन	HI
+
+Display	EN
+an	EN
+Add	EN
+बटन	HI
+
+Could	EN
+नही	HI
+ढूंढें	HI
+अनुप्रयोग	HI
+pixmap	EN
+संचिका	HI
+:	EN
+%	EN
+s	EN
+
+Please	EN
+बताएँ	HI
+group	EN
+नाम	HI
+
+Group	EN
+name	EN
+can	EN
+सिर्फ	HI
+contain	EN
+alphanumeric	EN
+or	EN
+"	EN
+#	EN
+$	EN
+:	EN
+%	EN
++	EN
+,	EN
+-	EN
+.	EN
+=	EN
+@	EN
+^	EN
+_	EN
+`	EN
+~	EN
+"	EN
+अक्षर	HI
+
+Project	EN
+doesn	EN
+'	EN
+t	EN
+मौजूद	HI
+or	EN
+अवैध	HI
+path	EN
+
+Please	EN
+बताएँ	HI
+निशाना	HI
+नाम	HI
+
+Shared	EN
+पुस्तकालय	HI
+निशाना	HI
+नाम	HI
+जरूर	HI
+be	EN
+of	EN
+the	EN
+फॉर्म	HI
+'	EN
+lib	EN
+.	EN
+la	EN
+'	EN
+
+Static	EN
+पुस्तकालय	HI
+निशाना	HI
+name	EN
+जरूर	HI
+be	EN
+of	EN
+the	EN
+form	EN
+'	EN
+lib	EN
+.	EN
+a	EN
+'	EN
+
+Highlight	EN
+निर्माण	HI
+चेतावनी	HI
+और	HI
+गलतियाँ	HI
+in	EN
+एडिटर	HI
+
+No	EN
+executables	EN
+in	EN
+ये	HI
+प्रोजेक्ट	HI
+!	EN
+
+No	EN
+फाइल	HI
+or	EN
+project	EN
+फिलहाल	HI
+opened	EN
+.	EN
+
+Program	EN
+'	EN
+%	EN
+s	EN
+'	EN
+is	EN
+नही	HI
+a	EN
+लोकल	HI
+संचिका	HI
+
+Program	EN
+'	EN
+%	EN
+s	EN
+'	EN
+करता	HI
+नही	HI
+मौजूद	HI
+
+Program	EN
+'	EN
+%	EN
+s	EN
+'	EN
+करता	HI
+नहीं	HI
+have	EN
+चलाना	HI
+इजाजत	HI
+
+No	EN
+executable	EN
+लिये	HI
+इस	HI
+फ़ाइल	HI
+.	EN
+
+Executable	EN
+'	EN
+%	EN
+s	EN
+'	EN
+is	EN
+नही	HI
+up	EN
+-	EN
+to	EN
+-	EN
+तारीख	HI
+.	EN
+
+चेतावनी	HI
+:	EN
+-	EN
+पुरानी	HI
+
+गलती	HI
+:	EN
+-	EN
+ओल्ड	HI
+
+Command	EN
+exited	EN
+साथ	HI
+स्थिति	HI
+%	EN
+d	EN
+
+Command	EN
+छोड़ा	HI
+by	EN
+उपयोगकर्ता	HI
+
+Command	EN
+terminated	EN
+साथ	HI
+सिग्नल	HI
+%	EN
+d	EN
+
+Command	EN
+terminated	EN
+लिये	HI
+an	EN
+अज्ञात	HI
+कारण	HI
+
+Total	EN
+वक्त	HI
+लिया	HI
+:	EN
+%	EN
+lu	EN
+secs	EN
+
+Before	EN
+using	EN
+इस	HI
+नई	HI
+विन्यास	HI
+,	EN
+the	EN
+डिफॉल्ट	HI
+एक	HI
+needs	EN
+to	EN
+be	EN
+removed	EN
+.	EN
+Do	EN
+आपको	HI
+want	EN
+to	EN
+do	EN
+उस	HI
+?	EN
+
+Cannot	EN
+कम्पाइल	HI
+"	EN
+%	EN
+s	EN
+"	EN
+:	EN
+No	EN
+प्रतियां	HI
+शासन	HI
+पारिभाषित	HI
+लिये	HI
+यह	HI
+फाइल	HI
+प्रकार	HI
+.	EN
+
+Build	EN
+प्रोजेक्ट	HI
+tarball	EN
+वितरण	HI
+
+_	EN
+Build	EN
+Module	EN
+
+Build	EN
+मोड्यूल	HI
+संबद्ध	HI
+साथ	HI
+मौजूदा	HI
+संचिका	HI
+
+_	EN
+Install	EN
+Module	EN
+
+Install	EN
+मॉड्यूल	HI
+संबद्ध	HI
+with	EN
+मौज़ूदा	HI
+file	EN
+
+Clean	EN
+मॉड्यूल	HI
+संबद्ध	HI
+साथ	HI
+धारा	HI
+फ़ाइल	HI
+
+Co	EN
+_	EN
+mpile	EN
+File	EN
+
+Compile	EN
+वर्तमान	HI
+संपादक	HI
+संचिका	HI
+
+Select	EN
+Configuration	EN
+
+Select	EN
+current	EN
+कॉन्फ़िगरेशन	HI
+
+Remove	EN
+Configuration	EN
+
+Clean	EN
+project	EN
+(	EN
+distclean	EN
+)	EN
+और	HI
+हटाएँ	HI
+कॉन्फ़िगरेशन	HI
+निर्देशिका	HI
+if	EN
+संभव	HI
+
+_	EN
+Compile	EN
+
+Compile	EN
+फ़ाइल	HI
+
+Build	EN
+मॉड्यूल	HI
+
+Install	EN
+मॉड्यूल	HI
+
+_	EN
+Clean	EN
+
+Clean	EN
+मोड्यूल	HI
+
+_	EN
+Cancel	EN
+कमांड	HI
+
+Cancel	EN
+निर्माण	HI
+कमांड	HI
+
+_	EN
+Build	EN
+(	EN
+%	EN
+s	EN
+)	EN
+
+_	EN
+Install	EN
+(	EN
+%	EN
+s	EN
+)	EN
+
+_	EN
+Clean	EN
+(	EN
+%	EN
+s	EN
+)	EN
+
+Co	EN
+_	EN
+mpile	EN
+
+Build	EN
+कमांड	HI
+
+Build	EN
+पॉपअप	HI
+कमांड	HI
+
+Build	EN
+Autotools	EN
+
+Error	EN
+जबकी	HI
+सेटिंग	HI
+up	EN
+निर्माण	HI
+पर्यावरण	HI
+:	EN
+%	EN
+s	EN
+
+Command	EN
+छोड़ा	HI
+
+No	EN
+License	EN
+
+Inline	EN
+the	EN
+घोषणा	HI
+और	HI
+क्रियान्वयन	HI
+
+General	EN
+Class	EN
+Properties	EN
+
+GObject	EN
+Prefix	EN
+और	HI
+Type	EN
+:	EN
+
+Constants	EN
+/	EN
+Variables	EN
+
+Initializer	EN
+Arguments	EN
+:	EN
+
+Author	EN
+Email	EN
+Address	EN
+:	EN
+
+Header	EN
+File	EN
+:	EN
+
+Source	EN
+File	EN
+:	EN
+
+Add	EN
+to	EN
+Repository	EN
+
+Header	EN
+or	EN
+स्त्रोत	HI
+फ़ाइल	HI
+रै	HI
+नहीं	HI
+महरूम	HI
+बनाए	HI
+
+Autogen	EN
+टेम्पलेट	HI
+प्रयुक्त	HI
+लिये	HI
+the	EN
+शीर्षक	HI
+संचिका	HI
+
+Autogen	EN
+टेम्पलेट	HI
+प्रयुक्त	HI
+लिये	HI
+the	EN
+कार्यान्वयन	HI
+संचिका	HI
+
+File	EN
+to	EN
+जिससे	HI
+the	EN
+processed	EN
+टेम्प्लेट	HI
+होगी	HI
+be	EN
+लिखा	HI
+
+Failed	EN
+to	EN
+लिखे	HI
+autogen	EN
+परिभाषा	HI
+संचिका	HI
+
+Could	EN
+नहीं	HI
+ढूंढें	HI
+autogen	EN
+वर्जन	HI
+5	EN
+.	EN
+कृपया	HI
+स्थापना	HI
+the	EN
+autogen	EN
+पैकेज	HI
+.	EN
+You	EN
+can	EN
+मिलेंगी	HI
+it	EN
+इससे	HI
+एचटीटीपी	HI
+:	EN
+/	EN
+/	EN
+autogen	EN
+.	EN
+sourceforge	HI
+.	EN
+जाल	HI
+.	EN
+
+Failed	EN
+to	EN
+निष्पादन	HI
+autogen	EN
+:	EN
+%	EN
+s	EN
+
+Guess	EN
+से	HI
+क़िस्म	HI
+
+XML	EN
+वर्णन	HI
+of	EN
+the	EN
+उपयोक्ता	HI
+इंटरफ़ेस	HI
+
+Standard	EN
+diff	EN
+
+Password	EN
+सर्वर	HI
+(	EN
+pserver	EN
+)	EN
+
+CVS	EN
+Preferences	EN
+
+Path	EN
+to	EN
+"	EN
+cvs	EN
+"	EN
+कमांड	HI
+
+Compression	EN
+Level	EN
+(	EN
+0	EN
+=	EN
+बन्द	HI
+,	EN
+10	EN
+=	EN
+max	EN
+)	EN
+:	EN
+
+Ignore	EN
+.	EN
+cvsrc	EN
+फाइल	HI
+(	EN
+अनुशंसित	HI
+)	EN
+
+CVS	EN
+Options	EN
+
+CVS	EN
+:	EN
+Add	EN
+फ़ाइल	HI
+/	EN
+निर्देशिका	HI
+
+Choose	EN
+फाइल	HI
+or	EN
+निर्देशिका	HI
+to	EN
+जोड़ें	HI
+:	EN
+
+File	EN
+is	EN
+शब्दकोष	HI
+
+Choose	EN
+फाइल	HI
+or	EN
+directory	EN
+to	EN
+हटाएँ	HI
+:	EN
+
+Please	EN
+व्याख्या	HI
+:	EN
+Pressing	EN
+OK	EN
+होगी	HI
+हटाएँ	HI
+the	EN
+file	EN
+इससे	HI
+डिस्क	HI
+और	HI
+से	HI
+CVS	EN
+.	EN
+Of	EN
+पाठ्यक्रम	HI
+,	EN
+the	EN
+फाइल	HI
+जीता	HI
+'	EN
+t	EN
+be	EN
+removed	EN
+इससे	HI
+CVS	EN
+पहले	HI
+आप	HI
+उपयोग	HI
+CVS	EN
+Commit	EN
+.	EN
+You	EN
+have	EN
+महरूम	HI
+डराया	HI
+!	EN
+
+Choose	EN
+file	EN
+or	EN
+निर्देशिका	HI
+to	EN
+कमिट	HI
+:	EN
+
+Log	EN
+message	EN
+:	EN
+
+Choose	EN
+file	EN
+or	EN
+निर्देशिका	HI
+to	EN
+अद्यतन	HI
+:	EN
+
+Create	EN
+नया	HI
+निर्देशिका	HI
+
+Reset	EN
+चिपचिपा	HI
+टैग	HI
+
+Choose	EN
+फाइल	HI
+or	EN
+निर्देशिका	HI
+to	EN
+मिलेंगी	HI
+the	EN
+प्रस्थिति	HI
+इससे	HI
+:	EN
+
+Choose	EN
+फ़ाइल	HI
+or	EN
+निर्देशिका	HI
+to	EN
+diff	EN
+:	EN
+
+Unified	EN
+फॉर्मेट	HI
+बजाय	HI
+of	EN
+संदर्भ	HI
+फॉर्मेट	HI
+
+Use	EN
+संशोधन	HI
+:	EN
+
+Choose	EN
+फाइल	HI
+or	EN
+निर्देशिका	HI
+to	EN
+मिलेंगी	HI
+लॉग	HI
+लिये	HI
+:	EN
+
+Project	EN
+रूट	HI
+निर्देशिका	HI
+:	EN
+
+Vendor	EN
+टैग	HI
+:	EN
+
+Release	EN
+टैग	HI
+:	EN
+
+Module	EN
+Details	EN
+:	EN
+
+Please	EN
+enter	EN
+a	EN
+filename	EN
+!	EN
+
+Please	EN
+भरें	HI
+field	EN
+:	EN
+%	EN
+s	EN
+
+CVS	EN
+command	EN
+is	EN
+दौड़ना	HI
+!	EN
+Please	EN
+इंतजार	HI
+जबतक	HI
+it	EN
+is	EN
+समाप्त	HI
+!	EN
+
+Unable	EN
+to	EN
+हटाएँ	HI
+फाइल	HI
+
+Are	EN
+तुम	HI
+यकीनन	HI
+उस	HI
+आप	HI
+want	EN
+to	EN
+pass	HI
+an	EN
+empty	EN
+लॉग	HI
+संदेश	HI
+?	EN
+
+Are	EN
+आपको	HI
+ज़रूर	HI
+उस	HI
+आपको	HI
+do	EN
+नही	HI
+want	EN
+a	EN
+log	HI
+सन्देश	HI
+?	EN
+
+CVS	EN
+कमांड	HI
+असफल	HI
+.	EN
+See	EN
+अरदास	HI
+लिये	HI
+विवरण	HI
+
+CVS	EN
+कमांड	HI
+is	EN
+दौड़ना	HI
+कृपया	HI
+इंतजार	HI
+जबतक	HI
+it	EN
+finishes	EN
+!	EN
+
+Add	EN
+a	EN
+नई	HI
+फ़ाइल	HI
+/	EN
+निर्देशिका	HI
+to	EN
+the	EN
+CVS	EN
+tree	EN
+
+Remove	EN
+a	EN
+संचिका	HI
+/	EN
+निर्देशिका	HI
+इससे	HI
+CVS	EN
+पेड़	HI
+
+Commit	EN
+आपके	HI
+changes	EN
+to	EN
+the	EN
+CVS	EN
+ट्री	HI
+
+Syncronize	EN
+अपना	HI
+लोकल	HI
+कॉपी	HI
+साथ	HI
+the	EN
+CVS	EN
+पेड़	HI
+
+Show	EN
+भिन्नताएं	HI
+between	EN
+अपने	HI
+लोकल	HI
+कॉपी	HI
+और	HI
+the	EN
+वृक्ष	HI
+
+_	EN
+Show	EN
+Status	EN
+
+Show	EN
+the	EN
+प्रस्थिति	HI
+of	EN
+a	EN
+फ़ाइल	HI
+/	EN
+निर्देशिका	HI
+
+_	EN
+Show	EN
+Log	EN
+
+Show	EN
+the	EN
+लॉग	HI
+of	EN
+a	EN
+फाइल	HI
+/	EN
+निर्देशिका	HI
+
+_	EN
+Import	EN
+Tree	EN
+
+Import	EN
+a	EN
+new	EN
+स्त्रोत	HI
+वृक्ष	HI
+to	EN
+CVS	EN
+
+CVS	EN
+संचालन	HI
+
+CVS	EN
+पॉपअप	HI
+संचालन	HI
+
+Enable	EN
+CLang	EN
+कोड	HI
+analyzer	EN
+
+The	EN
+प्रोजेक्ट	HI
+needs	EN
+to	EN
+be	EN
+reconfigured	EN
+बाद	HI
+enabling	EN
+यह	HI
+विकल्प	HI
+.	EN
+Please	EN
+चलेगी	HI
+Build	EN
+-	EN
+>	EN
+Configure	EN
+!	EN
+
+Couldn	EN
+'	EN
+t	EN
+ढूँढें	HI
+clang	EN
+analyzer	EN
+,	EN
+please	HI
+जाँच	HI
+if	EN
+it	EN
+is	EN
+installed	EN
+और	HI
+if	EN
+the	EN
+राहें	HI
+हैं	HI
+विन्यस्त	HI
+correctly	EN
+in	EN
+the	EN
+प्राथमिकताएँ	HI
+
+CLang	EN
+Analyzer	EN
+
+_	EN
+Process	EN
+to	EN
+संलग्न	HI
+to	EN
+:	EN
+
+_	EN
+Hide	EN
+पथ	HI
+
+Hide	EN
+प्रक्रिया	HI
+पारा	HI
+_	EN
+मीटर	HI
+
+Display	EN
+प्रक्रम	HI
+_	EN
+वृक्ष	HI
+
+_	EN
+Attach	EN
+
+Enable	EN
+_	EN
+सब	HI
+
+_	EN
+Disable	EN
+सभी	HI
+
+_	EN
+Remove	EN
+सभी	HI
+
+Add	EN
+Watch	EN
+
+_	EN
+Automatic	EN
+अद्यतन	HI
+
+Change	EN
+Watch	EN
+
+Breakpoint	EN
+गुण	HI
+
+_	EN
+Pass	EN
+गणना	HI
+:	EN
+
+Enter	EN
+an	EN
+पता	HI
+in	EN
+hexadecimal	EN
+or	EN
+चुनें	HI
+एक	HI
+in	EN
+the	EN
+आंकड़ा	HI
+
+CPU	EN
+Registers	EN
+
+Shared	EN
+लाइब्रेरी	HI
+
+Set	EN
+Signal	EN
+Property	EN
+
+Program	EN
+Interrupt	EN
+
+Start	EN
+Debugger	EN
+
+Debugger	EN
+कमांड	HI
+
+Debugger	EN
+कमांड	HI
+:	EN
+
+Source	EN
+Directories	EN
+
+Select	EN
+one	EN
+निर्देशिका	HI
+
+Connect	EN
+to	EN
+दूरस्थ	HI
+टार्गेट	HI
+
+TCP	EN
+/	EN
+IP	EN
+Connection	EN
+
+Serial	EN
+Line	EN
+Connection	EN
+
+Remote	EN
+डिबगिंग	HI
+
+Are	EN
+आपको	HI
+यकीनन	HI
+आपको	HI
+want	EN
+to	EN
+debug	EN
+a	EN
+program	EN
+नहीं	HI
+using	EN
+the	EN
+Debug	EN
+कॉन्फ़िगरेशन	HI
+?	EN
+When	EN
+optimizations	EN
+हैं	HI
+सक्रिय	HI
+,	EN
+the	EN
+डिबगर	HI
+cannot	EN
+always	EN
+पहचानें	HI
+the	EN
+स्रोत	HI
+कोड	HI
+सम्बन्धित	HI
+to	EN
+the	EN
+निर्देश	HI
+,	EN
+so	EN
+कुछ	HI
+कमांड	HI
+can	EN
+perform	EN
+in	EN
+a	EN
+अजीब	HI
+तरीका	HI
+,	EN
+विशेषकर	HI
+steps	EN
+.	EN
+
+Are	EN
+आप	HI
+पक्का	HI
+आप	HI
+want	EN
+to	EN
+हटाएँ	HI
+all	EN
+the	EN
+breakpoints	EN
+?	EN
+
+Toggle	EN
+breakpoint	EN
+at	EN
+the	EN
+current	EN
+लोकेशन	HI
+
+Add	EN
+Breakpoint	EN
+
+Add	EN
+a	EN
+breakpoint	EN
+
+Remove	EN
+Breakpoint	EN
+
+Remove	EN
+a	EN
+breakpoint	EN
+
+Edit	EN
+Breakpoint	EN
+
+Edit	EN
+breakpoint	EN
+गुण	HI
+
+Enable	EN
+Breakpoint	EN
+
+Enable	EN
+a	EN
+breakpoint	EN
+
+Disable	EN
+All	EN
+Breakpoints	EN
+
+Deactivate	EN
+सब	HI
+breakpoints	EN
+
+R	EN
+_	EN
+emove	EN
+All	EN
+Breakpoints	EN
+
+Remove	EN
+सभी	HI
+breakpoints	EN
+
+Jump	EN
+to	EN
+Breakpoint	EN
+
+Jump	EN
+to	EN
+breakpoint	EN
+लोकेशन	HI
+
+Disable	EN
+Breakpoint	EN
+
+Disable	EN
+a	EN
+breakpoint	EN
+
+Pass	EN
+गणना	HI
+
+Breakpoint	EN
+संचालन	HI
+
+_	EN
+Go	EN
+to	EN
+पता	HI
+
+Debugger	EN
+Log	EN
+
+Pa	EN
+_	EN
+उपयोग	HI
+Program	EN
+
+Pauses	EN
+the	EN
+चलाना	HI
+of	EN
+the	EN
+कार्यक्रम	HI
+
+Run	EN
+/	EN
+_	EN
+Continue	EN
+
+Continue	EN
+the	EN
+निष्पादन	HI
+of	EN
+the	EN
+प्रोग्राम	HI
+
+Debugger	EN
+terminated	EN
+साथ	HI
+त्रुटि	HI
+%	EN
+d	EN
+:	EN
+%	EN
+s	EN
+
+Program	EN
+रै	HI
+प्राप्त	HI
+संकेत	HI
+:	EN
+%	EN
+s	EN
+
+_	EN
+Start	EN
+Debugger	EN
+
+_	EN
+Debug	EN
+Program	EN
+
+Start	EN
+डिबगर	HI
+और	HI
+लोड	HI
+the	EN
+कार्यक्रम	HI
+
+Start	EN
+डिबगर	HI
+और	HI
+संलग्न	HI
+to	EN
+a	EN
+दौड़ना	HI
+कार्यक्रम	HI
+
+Stop	EN
+Debugger	EN
+
+Say	EN
+अलविदा	HI
+to	EN
+the	EN
+डिबगर	HI
+
+Add	EN
+सोर्स	HI
+राहें	HI
+
+Add	EN
+additional	EN
+स्रोत	HI
+पथ	HI
+
+Debugger	EN
+Command	EN
+
+Custom	EN
+डिबगर	HI
+कमांड	HI
+
+_	EN
+Info	EN
+
+Display	EN
+सुचना	HI
+on	EN
+the	EN
+संचिका	HI
+the	EN
+डिबगर	HI
+is	EN
+क्रियाशील	HI
+साथ	HI
+
+Display	EN
+जानकारी	HI
+on	EN
+the	EN
+चलाना	HI
+स्टेटस	HI
+of	EN
+the	EN
+program	EN
+
+Display	EN
+the	EN
+विषयवस्तु	HI
+of	EN
+कर्नेल	HI
+'	EN
+struct	EN
+यूजर	HI
+'	EN
+लिये	HI
+मौजूदा	HI
+बच्चा	HI
+
+Shared	EN
+Libraries	EN
+
+Show	EN
+साझा	HI
+पुस्तकालय	HI
+mappings	EN
+
+_	EN
+Continue	EN
+/	EN
+Suspend	EN
+
+Continue	EN
+or	EN
+बर्खास्तगी	HI
+the	EN
+निष्पादन	HI
+of	EN
+the	EN
+प्रोग्राम	HI
+
+Step	EN
+_	EN
+In	EN
+
+Single	EN
+स्टेप	HI
+into	EN
+फंक्शन	HI
+
+Step	EN
+O	EN
+_	EN
+ver	EN
+
+Single	EN
+चरण	HI
+over	EN
+प्रकार्य	HI
+
+Step	EN
+_	EN
+Out	EN
+
+Single	EN
+स्टेप	HI
+आउट	HI
+of	EN
+फंक्शन	HI
+
+_	EN
+Run	EN
+to	EN
+Cursor	EN
+
+Run	EN
+to	EN
+the	EN
+संकेतक	HI
+
+_	EN
+Run	EN
+से	HI
+Cursor	EN
+
+Run	EN
+इससे	HI
+the	EN
+कर्सर	HI
+
+Info	EN
+_	EN
+Global	EN
+Variables	EN
+
+Display	EN
+सभी	HI
+वैश्विक	HI
+और	HI
+स्थिर	HI
+परिवर्तनीय	HI
+of	EN
+the	EN
+कार्यक्रम	HI
+
+Display	EN
+सुचना	HI
+परिचय	HI
+the	EN
+वर्तमान	HI
+फ़्रेम	HI
+of	EN
+निष्पादन	HI
+
+Display	EN
+फलन	HI
+वितर्क	HI
+of	EN
+the	EN
+धारा	HI
+ढांचा	HI
+
+Unable	EN
+to	EN
+ढूँढें	HI
+a	EN
+डिबगर	HI
+प्लगइन	HI
+supporting	EN
+a	EN
+लक्ष्य	HI
+साथ	HI
+%	EN
+s	EN
+MIME	EN
+प्रकार	HI
+
+Symbols	EN
+read	EN
+
+Shared	EN
+पुस्तकालयों	HI
+संचालन	HI
+
+Send	EN
+to	EN
+प्रक्रिया	HI
+
+Unable	EN
+to	EN
+चलाएँ	HI
+:	EN
+%	EN
+s	EN
+.	EN
+
+Unable	EN
+to	EN
+खोलें	HI
+the	EN
+फाइल	HI
+:	EN
+%	EN
+s	EN
+
+Unable	EN
+to	EN
+खुला	HI
+%	EN
+s	EN
+.	EN
+Debugger	EN
+cannot	EN
+प्रारंभ	HI
+.	EN
+
+Unable	EN
+to	EN
+detect	EN
+MIME	EN
+प्रकार	HI
+of	EN
+%	EN
+s	EN
+.	EN
+Debugger	EN
+cannot	EN
+प्रारंभ	HI
+.	EN
+
+The	EN
+प्रोग्राम	HI
+is	EN
+दौड़ना	HI
+.	EN
+Do	EN
+आप	HI
+स्टिल	HI
+want	EN
+to	EN
+रोकें	HI
+the	EN
+डिबगर	HI
+?	EN
+
+Update	EN
+Watch	EN
+
+Update	EN
+सब	HI
+
+Automatic	EN
+अपडेट	HI
+
+Watch	EN
+संचालन	HI
+
+Search	EN
+Help	EN
+:	EN
+
+_	EN
+Go	EN
+to	EN
+
+Browse	EN
+API	EN
+Pages	EN
+
+Search	EN
+मदद	HI
+लिये	HI
+the	EN
+धारा	HI
+वर्ड	HI
+in	EN
+the	EN
+संपादक	HI
+
+_	EN
+Search	EN
+Help	EN
+
+Search	EN
+लिये	HI
+a	EN
+पद	HI
+in	EN
+मदद	HI
+
+Help	EN
+परिचालन	HI
+
+Are	EN
+आपको	HI
+निश्चित	HI
+you	EN
+want	EN
+to	EN
+reload	EN
+'	EN
+%	EN
+s	EN
+'	EN
+?	EN
+Any	EN
+unsaved	EN
+परिवर्तन	HI
+होगी	HI
+be	EN
+खोया	HI
+.	EN
+
+Add	EN
+पसंद	HI
+
+Remove	EN
+बुकमार्क	HI
+
+Close	EN
+फाइल	HI
+
+The	EN
+फ़ाइल	HI
+'	EN
+%	EN
+s	EN
+'	EN
+already	EN
+exists	EN
+.	EN
+Do	EN
+आप	HI
+want	EN
+to	EN
+बदलें	HI
+it	EN
+साथ	HI
+the	EN
+एक	HI
+आप	HI
+हैं	HI
+छायांकन	HI
+?	EN
+
+Enable	EN
+फाइलें	HI
+autosave	EN
+
+Save	EN
+संचिका	HI
+अंतराल	HI
+in	EN
+मिनट	HI
+
+Sorted	EN
+in	EN
+ओपनिंग	HI
+अनुक्रम	HI
+
+Sorted	EN
+by	EN
+सबसे	HI
+हाल	HI
+उपयोग	HI
+
+Sorted	EN
+in	EN
+वर्णमाला	HI
+order	EN
+
+Save	EN
+मौजूदा	HI
+फ़ाइल	HI
+
+Save	EN
+_	EN
+As	EN
+
+Save	EN
+A	EN
+_	EN
+ll	EN
+
+Save	EN
+सब	HI
+फिलहाल	HI
+ओपन	HI
+संचिका	HI
+,	EN
+मगर	HI
+नई	HI
+फाइलें	HI
+
+_	EN
+Close	EN
+File	EN
+
+Close	EN
+धारा	HI
+फ़ाइल	HI
+
+Close	EN
+सब	HI
+फ़ाइलें	HI
+
+Close	EN
+Others	EN
+
+Close	EN
+अन्य	HI
+दस्तावेज	HI
+
+Reload	EN
+वर्तमान	HI
+फ़ाइल	HI
+
+Recent	EN
+_	EN
+Files	EN
+
+Print	EN
+the	EN
+धारा	HI
+फाइल	HI
+
+_	EN
+Print	EN
+Preview	EN
+
+Preview	EN
+the	EN
+मौजूदा	HI
+फ़ाइल	HI
+in	EN
+प्रिंट	HI
+प्रारूप	HI
+
+_	EN
+Make	EN
+Selection	EN
+Uppercase	EN
+
+Make	EN
+the	EN
+चयनित	HI
+पाठ	HI
+ऊपरी	HI
+
+Make	EN
+Selection	EN
+Lowercase	EN
+
+Make	EN
+the	EN
+चयनित	HI
+पाठ	HI
+लोअरकेस	HI
+
+Convert	EN
+EOL	EN
+to	EN
+CRLF	EN
+
+Convert	EN
+End	EN
+Of	EN
+Line	EN
+वर्ण	HI
+to	EN
+DOS	EN
+EOL	EN
+(	EN
+CRLF	EN
+)	EN
+
+Convert	EN
+EOL	EN
+to	EN
+LF	EN
+
+Convert	EN
+End	EN
+Of	EN
+Line	EN
+वर्ण	HI
+to	EN
+Unix	EN
+EOL	EN
+(	EN
+LF	EN
+)	EN
+
+Convert	EN
+EOL	EN
+to	EN
+CR	EN
+
+Convert	EN
+End	EN
+Of	EN
+Line	EN
+वर्ण	HI
+to	EN
+Mac	EN
+OS	EN
+EOL	EN
+(	EN
+CR	EN
+)	EN
+
+Convert	EN
+EOL	EN
+to	EN
+Majority	EN
+EOL	EN
+
+Convert	EN
+End	EN
+Of	EN
+Line	EN
+किरदार	HI
+to	EN
+the	EN
+अधिकांश	HI
+आम	HI
+EOL	EN
+मिला	HI
+in	EN
+the	EN
+फाइल	HI
+
+Select	EN
+सब	HI
+टेक्स्ट	HI
+in	EN
+the	EN
+एडिटर	HI
+
+Select	EN
+_	EN
+Code	EN
+Block	EN
+
+Select	EN
+the	EN
+मौजूदा	HI
+code	EN
+खंड	HI
+
+_	EN
+Block	EN
+Comment	EN
+/	EN
+Uncomment	EN
+
+Block	EN
+टिप्पणी	HI
+the	EN
+चयनित	HI
+टेक्स्ट	HI
+
+Bo	EN
+_	EN
+x	EN
+Comment	EN
+/	EN
+Uncomment	EN
+
+Box	EN
+comment	HI
+the	EN
+चयनित	HI
+text	EN
+
+_	EN
+Stream	EN
+Comment	EN
+/	EN
+Uncomment	EN
+
+Stream	EN
+टिप्पणी	HI
+the	EN
+चयनित	HI
+टेक्स्ट	HI
+
+_	EN
+Line	EN
+Number	EN
+
+Go	EN
+to	EN
+a	EN
+particular	EN
+लकीर	HI
+in	EN
+the	EN
+संपादक	HI
+
+Go	EN
+to	EN
+the	EN
+मैचिंग	HI
+brace	EN
+in	EN
+the	EN
+संपादक	HI
+
+_	EN
+Start	EN
+of	EN
+Block	EN
+
+Go	EN
+to	EN
+the	EN
+आरंभ	HI
+of	EN
+the	EN
+मौज़ूदा	HI
+ब्लॉक	HI
+
+_	EN
+End	EN
+of	EN
+Block	EN
+
+Go	EN
+to	EN
+the	EN
+अंत	HI
+of	EN
+the	EN
+मौजूदा	HI
+ब्लाक	HI
+
+Previous	EN
+_	EN
+History	EN
+
+Go	EN
+to	EN
+पिछले	HI
+इतिहास	HI
+
+Next	EN
+Histor	EN
+_	EN
+y	EN
+
+Go	EN
+to	EN
+अगला	HI
+इतिहास	HI
+
+_	EN
+Quick	EN
+Search	EN
+
+Quick	EN
+संपादक	HI
+अंतःस्थापित	HI
+ढूंढें	HI
+
+Search	EN
+लिये	HI
+अगला	HI
+appearance	EN
+of	EN
+पद	HI
+.	EN
+
+Find	EN
+और	HI
+R	EN
+_	EN
+eplace	EN
+
+Search	EN
+और	HI
+बदलें	HI
+
+Repeat	EN
+the	EN
+अंतिम	HI
+Find	EN
+कमांड	HI
+
+Clear	EN
+Highlight	EN
+
+Clear	EN
+सब	HI
+highlighted	EN
+टेक्स्ट	HI
+
+Case	EN
+Sensitive	EN
+
+Highlight	EN
+All	EN
+
+Highlight	EN
+all	EN
+आवृत्ति	HI
+
+Regular	EN
+Expression	EN
+
+Search	EN
+using	EN
+रेगुलर	HI
+expressions	EN
+
+_	EN
+Add	EN
+Editor	EN
+View	EN
+
+Add	EN
+एक	HI
+ज्यादा	HI
+देखें	HI
+of	EN
+धारा	HI
+दस्तावेज	HI
+
+_	EN
+Remove	EN
+Editor	EN
+View	EN
+
+Remove	EN
+वर्तमान	HI
+देखें	HI
+of	EN
+the	EN
+दस्तावेज	HI
+
+Cut	EN
+the	EN
+चयनित	HI
+पाठ	HI
+इससे	HI
+the	EN
+संपादक	HI
+to	EN
+the	EN
+clipboard	EN
+
+Paste	EN
+the	EN
+सामग्री	HI
+of	EN
+clipboard	EN
+at	EN
+the	EN
+वर्तमान	HI
+स्थिति	HI
+
+Delete	EN
+the	EN
+चयनित	HI
+पाठ	HI
+from	EN
+the	EN
+संपादक	HI
+
+_	EN
+Line	EN
+Number	EN
+Margin	EN
+
+Show	EN
+/	EN
+Hide	EN
+पंक्ति	HI
+संख्याएँ	HI
+
+_	EN
+Marker	EN
+Margin	EN
+
+Show	EN
+/	EN
+Hide	EN
+marker	EN
+हाशिया	HI
+
+_	EN
+Code	EN
+Fold	EN
+Margin	EN
+
+Show	EN
+/	EN
+Hide	EN
+code	EN
+गुना	HI
+हाशिया	HI
+
+_	EN
+Indentation	EN
+Guides	EN
+
+Show	EN
+/	EN
+Hide	EN
+indentation	EN
+मार्गदर्शिका	HI
+
+Show	EN
+/	EN
+Hide	EN
+सफेद	HI
+स्पेसेस	HI
+
+_	EN
+Line	EN
+End	EN
+Characters	EN
+
+Show	EN
+/	EN
+Hide	EN
+पंक्ति	HI
+समाप्ति	HI
+किरदार	HI
+
+Line	EN
+_	EN
+Wrapping	EN
+
+Enable	EN
+/	EN
+निष्क्रिय	HI
+रेखा	HI
+wrapping	EN
+
+Zoom	EN
+in	EN
+:	EN
+Increase	EN
+फ़ॉन्ट	HI
+आकार	HI
+
+Zoom	EN
+आउट	HI
+:	EN
+Decrease	EN
+फ़ॉन्ट	HI
+आकार	HI
+
+_	EN
+Close	EN
+All	EN
+Folds	EN
+
+Close	EN
+सभी	HI
+कोड	HI
+फोल्ड	HI
+in	EN
+the	EN
+एडिटर	HI
+
+_	EN
+Open	EN
+All	EN
+Folds	EN
+
+Open	EN
+सब	HI
+कोड	HI
+फोल्ड	HI
+in	EN
+the	EN
+संपादक	HI
+
+_	EN
+Toggle	EN
+Current	EN
+Fold	EN
+
+Toggle	EN
+वर्तमान	HI
+संहिता	HI
+गुना	HI
+in	EN
+the	EN
+एडिटर	HI
+
+Switch	EN
+to	EN
+पिछला	HI
+दस्तावेज़	HI
+
+Switch	EN
+to	EN
+अगला	HI
+दस्तावेज़	HI
+
+_	EN
+Toggle	EN
+Bookmark	EN
+
+Toggle	EN
+बुकमार्क	HI
+at	EN
+the	EN
+मौजूदा	HI
+रेखा	HI
+स्थिति	HI
+
+_	EN
+Previous	EN
+Bookmark	EN
+
+Jump	EN
+to	EN
+the	EN
+पिछले	HI
+पसंद	HI
+in	EN
+the	EN
+संचिका	HI
+
+_	EN
+Next	EN
+Bookmark	EN
+
+Jump	EN
+to	EN
+the	EN
+अगला	HI
+पसंद	HI
+in	EN
+the	EN
+file	EN
+
+_	EN
+Clear	EN
+All	EN
+Bookmarks	EN
+
+Clear	EN
+बुकमार्क	HI
+
+Editor	EN
+संचिका	HI
+परिचालन	HI
+
+Editor	EN
+छपाई	HI
+परिचालन	HI
+
+Simple	EN
+searching	EN
+
+Toggle	EN
+ढूंढें	HI
+विकल्प	HI
+
+Go	EN
+to	EN
+
+Autosave	EN
+failed	EN
+लिये	HI
+%	EN
+s	EN
+
+Search	EN
+लिये	HI
+"	EN
+%	EN
+s	EN
+"	EN
+पहुँचे	HI
+the	EN
+समाप्ति	HI
+और	HI
+लपेटा	HI
+around	EN
+.	EN
+
+Search	EN
+लिये	HI
+"	EN
+%	EN
+s	EN
+"	EN
+पहुँचे	HI
+the	EN
+समाप्त	HI
+और	HI
+लपेटा	HI
+around	EN
+लेकीन	HI
+no	EN
+नया	HI
+माचिस	HI
+थी	HI
+मिली	HI
+.	EN
+
+Search	EN
+लिये	HI
+"	EN
+%	EN
+s	EN
+"	EN
+पहुँचे	HI
+the	EN
+समाप्ति	HI
+और	HI
+थी	HI
+जारी	HI
+at	EN
+the	EN
+top	EN
+.	EN
+
+Search	EN
+लिये	HI
+"	EN
+%	EN
+s	EN
+"	EN
+पहुंचा	HI
+the	EN
+समाप्त	HI
+और	HI
+था	HI
+जारी	HI
+at	EN
+the	EN
+टॉप	HI
+परन्तु	HI
+no	EN
+नई	HI
+मिलान	HI
+was	EN
+mile	HI
+.	EN
+
+Search	EN
+लिये	HI
+"	EN
+%	EN
+s	EN
+"	EN
+पहुँचे	HI
+उपर	HI
+और	HI
+था	HI
+जारी	HI
+at	EN
+the	EN
+bottom	EN
+.	EN
+
+Search	EN
+लिये	HI
+"	EN
+%	EN
+s	EN
+"	EN
+पहुंचा	HI
+टॉप	HI
+और	HI
+थी	HI
+जारी	HI
+at	EN
+the	EN
+तल	HI
+परन्तु	HI
+no	EN
+नई	HI
+माचिस	HI
+था	HI
+found	EN
+.	EN
+
+Replace	EN
+सभी	HI
+
+No	EN
+वस्तुएँ	HI
+mile	HI
+
+No	EN
+recently	EN
+प्रयुक्त	HI
+संसाधन	HI
+मिली	HI
+साथ	HI
+URI	EN
+"	EN
+%	EN
+s	EN
+"	EN
+
+This	EN
+फंक्शन	HI
+is	EN
+नही	HI
+implemented	EN
+लिये	HI
+विजेट	HI
+of	EN
+कक्षा	HI
+'	EN
+%	EN
+s	EN
+'	EN
+
+Cannot	EN
+खुला	HI
+"	EN
+%	EN
+s	EN
+"	EN
+.	EN
+%	EN
+s	EN
+
+Cannot	EN
+खुला	HI
+"	EN
+%	EN
+s	EN
+"	EN
+.	EN
+There	EN
+is	EN
+no	EN
+प्लगइन	HI
+,	EN
+डिफॉल्ट	HI
+कार्रवाई	HI
+,	EN
+or	EN
+एप्लिकेशन	HI
+विन्यस्त	HI
+to	EN
+हैंडल	HI
+ये	HI
+फ़ाइल	HI
+क़िस्म	HI
+.	EN
+MIME	EN
+क़िस्म	HI
+:	EN
+%	EN
+s	EN
+You	EN
+may	HI
+चुनें	HI
+to	EN
+कोशिश	HI
+ओपनिंग	HI
+it	EN
+साथ	HI
+the	EN
+following	EN
+प्लगइन	HI
+or	EN
+एप्लिकेशन	HI
+.	EN
+
+Document	EN
+Manager	EN
+
+Anjuta	EN
+Projects	EN
+
+C	EN
+/	EN
+C	EN
++	EN
++	EN
+सोर्स	HI
+संचिका	HI
+
+C	EN
+#	EN
+सोर्स	HI
+संचिका	HI
+
+Java	EN
+सोर्स	HI
+फाइलें	HI
+
+Pascal	EN
+स्रोत	HI
+फ़ाइल	HI
+
+PHP	EN
+स्त्रोत	HI
+फाइलें	HI
+
+Perl	EN
+स्त्रोत	HI
+फ़ाइल	HI
+
+Python	EN
+सोर्स	HI
+फाइलें	HI
+
+Hypertext	EN
+मार्कअप	HI
+फ़ाइल	HI
+
+Lua	EN
+फ़ाइलें	HI
+
+Diff	EN
+फ़ाइल	HI
+
+Failed	EN
+to	EN
+activate	EN
+प्लगइन	HI
+:	EN
+%	EN
+s	EN
+
+_	EN
+Open	EN
+
+Open	EN
+_	EN
+With	EN
+
+Open	EN
+साथ	HI
+
+File	EN
+Loader	EN
+
+New	EN
+संचिका	HI
+,	EN
+परियोजना	HI
+और	HI
+प्रोजेक्ट	HI
+components	EN
+.	EN
+
+Open	EN
+हाल	HI
+फ़ाइल	HI
+
+Open	EN
+हालिया	HI
+संचिका	HI
+
+Open	EN
+a	EN
+फ़ाइल	HI
+
+File	EN
+नहीं	HI
+पाया	HI
+
+Please	EN
+चुनें	HI
+a	EN
+प्लगइन	HI
+to	EN
+खुला	HI
+%	EN
+s	EN
+.	EN
+
+Open	EN
+With	EN
+
+Root	EN
+निर्देशिका	HI
+if	EN
+no	EN
+प्रोजेक्ट	HI
+is	EN
+खुला	HI
+:	EN
+
+Choose	EN
+Directory	EN
+to	EN
+दिखाओ	HI
+if	EN
+no	EN
+परियोजना	HI
+is	EN
+खोलें	HI
+
+Do	EN
+नहीं	HI
+शो	HI
+बाइनरी	HI
+फ़ाइलें	HI
+(	EN
+.	EN
+o	EN
+,	EN
+.	EN
+la	EN
+,	EN
+आदि	HI
+.	EN
+)	EN
+
+Do	EN
+नही	HI
+शो	HI
+छुपा	HI
+files	EN
+
+Do	EN
+नहीं	HI
+दिखाओ	HI
+backup	EN
+फाइलें	HI
+
+Do	EN
+नही	HI
+show	EN
+unversioned	EN
+फ़ाइलें	HI
+
+URI	EN
+of	EN
+the	EN
+शीर्ष	HI
+-	EN
+सर्वाधिक	HI
+पथ	HI
+प्रदर्शित	HI
+
+Rename	EN
+फ़ाइल	HI
+or	EN
+निर्देशिका	HI
+
+File	EN
+प्रबंधक	HI
+पॉपअप	HI
+क्रिया	HI
+
+File	EN
+Information	EN
+
+Enter	EN
+the	EN
+File	EN
+नाम	HI
+.	EN
+The	EN
+extension	EN
+करेगी	HI
+be	EN
+added	EN
+according	EN
+to	EN
+the	EN
+प्रकार	HI
+.	EN
+
+Add	EN
+License	EN
+Information	EN
+
+Create	EN
+सम्बन्धित	HI
+शीर्षक	HI
+संचिका	HI
+
+Use	EN
+Template	EN
+लिये	HI
+the	EN
+Header	EN
+file	EN
+
+Add	EN
+to	EN
+परियोजना	HI
+
+Add	EN
+to	EN
+repository	EN
+
+C	EN
+Source	EN
+File	EN
+
+C	EN
+/	EN
+C	EN
++	EN
++	EN
+Header	EN
+File	EN
+
+C	EN
++	EN
++	EN
+Source	EN
+File	EN
+
+C	EN
+#	EN
+Source	EN
+File	EN
+
+Java	EN
+Source	EN
+File	EN
+
+Perl	EN
+Source	EN
+File	EN
+
+Python	EN
+Source	EN
+File	EN
+
+Vala	EN
+Source	EN
+File	EN
+
+BSD	EN
+Public	EN
+License	EN
+
+Unable	EN
+to	EN
+निर्माण	HI
+उपयोगकर्ता	HI
+अंतरफलक	HI
+लिये	HI
+New	EN
+File	EN
+
+Missing	EN
+नाम	HI
+
+Project	EN
+doesn	EN
+'	EN
+t	EN
+allow	EN
+to	EN
+सेट	HI
+गुण	HI
+
+Shared	EN
+Library	EN
+
+Static	EN
+Library	EN
+
+Lisp	EN
+Module	EN
+
+Header	EN
+Files	EN
+
+Man	EN
+Documentation	EN
+
+Unable	EN
+to	EN
+पार्स	HI
+प्रोजेक्ट	HI
+फाइल	HI
+
+Project	EN
+नाम	HI
+,	EN
+it	EN
+can	EN
+contain	EN
+स्पेसेस	HI
+by	EN
+उदाहरण	HI
+'	EN
+GNU	EN
+Autoconf	EN
+'	EN
+
+Project	EN
+संस्करण	HI
+,	EN
+typically	EN
+a	EN
+few	EN
+numbers	EN
+जुदा	HI
+by	EN
+बिन्दु	HI
+by	EN
+उदाहरण	HI
+'	EN
+1	EN
+.	EN
+0	EN
+.	EN
+0	EN
+'	EN
+
+An	EN
+email	EN
+पता	HI
+or	EN
+a	EN
+कड़ी	HI
+to	EN
+a	EN
+वेब	HI
+पेज	HI
+कहाँ	HI
+the	EN
+उपयोक्ता	HI
+can	EN
+रिपोर्ट	HI
+बग	HI
+.	EN
+It	EN
+is	EN
+वैकल्पिक	HI
+.	EN
+
+Package	EN
+नाम	HI
+:	EN
+
+Package	EN
+नाम	HI
+,	EN
+it	EN
+can	EN
+contains	EN
+तभी	HI
+alphanumerics	EN
+और	HI
+underscore	EN
+अक्षर	HI
+.	EN
+It	EN
+is	EN
+उत्पन्न	HI
+इससे	HI
+the	EN
+project	EN
+नाम	HI
+if	EN
+नही	HI
+provided	EN
+.	EN
+
+An	EN
+कड़ी	HI
+to	EN
+the	EN
+प्रोजेक्ट	HI
+वेब	HI
+पृष्ठ	HI
+if	EN
+provided	EN
+.	EN
+
+Linker	EN
+फ्लैग	HI
+:	EN
+
+Common	EN
+अतिरिक्त	HI
+लिंकर	HI
+फ्लैग्स	HI
+लिये	HI
+सब	HI
+लक्ष्य	HI
+in	EN
+यह	HI
+group	EN
+.	EN
+
+C	EN
+preprocessor	EN
+फ्लैग्स	HI
+:	EN
+
+Common	EN
+अतिरिक्त	HI
+C	EN
+preprocessor	EN
+फ्लैग	HI
+लिये	HI
+सभी	HI
+लक्ष्य	HI
+in	EN
+ये	HI
+समूह	HI
+.	EN
+
+C	EN
+संकलक	HI
+फ़्लैग	HI
+:	EN
+
+Common	EN
+अतिरिक्त	HI
+C	EN
+संकलक	HI
+फ्लैग्स	HI
+लिये	HI
+सभी	HI
+targets	EN
+in	EN
+यह	HI
+ग्रुप	HI
+.	EN
+
+C	EN
++	EN
++	EN
+संकलक	HI
+ध्वज	HI
+:	EN
+
+Common	EN
+अतिरिक्त	HI
+C	EN
++	EN
++	EN
+संकलक	HI
+फ्लैग	HI
+लिये	HI
+सब	HI
+लक्ष्य	HI
+in	EN
+यह	HI
+समूह	HI
+.	EN
+
+Common	EN
+अतिरिक्त	HI
+Java	EN
+संकलक	HI
+फ़्लैग	HI
+लिये	HI
+सभी	HI
+targets	EN
+in	EN
+यह	HI
+group	EN
+.	EN
+
+Vala	EN
+संकलक	HI
+पताका	HI
+:	EN
+
+Common	EN
+अतिरिक्त	HI
+Vala	EN
+compiler	EN
+ध्वज	HI
+लिये	HI
+सभी	HI
+लक्ष्य	HI
+in	EN
+ये	HI
+समूह	HI
+.	EN
+
+Fortran	EN
+संकलक	HI
+फ्लैग	HI
+:	EN
+
+Common	EN
+अतिरिक्त	HI
+Fortran	EN
+संकलक	HI
+फ़्लैग	HI
+लिये	HI
+all	EN
+लक्ष्य	HI
+in	EN
+इस	HI
+समूह	HI
+.	EN
+
+Objective	EN
+C	EN
+संकलक	HI
+ध्वज	HI
+:	EN
+
+Common	EN
+अतिरिक्त	HI
+Objective	EN
+C	EN
+संकलक	HI
+पताका	HI
+for	EN
+सभी	HI
+लक्ष्य	HI
+in	EN
+इस	HI
+ग्रुप	HI
+.	EN
+
+Lex	EN
+/	EN
+Flex	EN
+फ्लैग्स	HI
+:	EN
+
+Common	EN
+अतिरिक्त	HI
+Lex	EN
+or	EN
+Flex	EN
+lexical	HI
+analyser	EN
+जेनरेटर	HI
+ध्वज	HI
+लिये	HI
+सब	HI
+लक्ष्य	HI
+in	EN
+यह	HI
+समूह	HI
+.	EN
+
+Yacc	EN
+/	EN
+Bison	EN
+फ़्लैग	HI
+:	EN
+
+Common	EN
+अतिरिक्त	HI
+Yacc	EN
+or	EN
+Bison	EN
+parser	EN
+सृजनकर्ता	HI
+फ्लैग	HI
+लिये	HI
+सब	HI
+लक्ष्य	HI
+in	EN
+इस	HI
+ग्रुप	HI
+.	EN
+
+List	EN
+of	EN
+अनुकूलित	HI
+अधिष्ठापन	HI
+निर्देशिका	HI
+प्रयुक्त	HI
+by	EN
+लक्ष्य	HI
+in	EN
+इस	HI
+समूह	HI
+.	EN
+
+Do	EN
+नही	HI
+स्थापना	HI
+:	EN
+
+Build	EN
+परन्तु	HI
+do	EN
+नहीं	HI
+स्थापना	HI
+the	EN
+निशाना	HI
+.	EN
+
+It	EN
+has	EN
+to	EN
+be	EN
+a	EN
+मानक	HI
+निर्देशिका	HI
+or	EN
+a	EN
+मनपसंद	HI
+एक	HI
+परिभाषित	HI
+in	EN
+समूह	HI
+गुण	HI
+.	EN
+
+Additional	EN
+लिंकर	HI
+पताका	HI
+लिये	HI
+यह	HI
+टारगेट	HI
+.	EN
+
+Additional	EN
+लाइब्रेरी	HI
+:	EN
+
+Additional	EN
+libraries	EN
+लिये	HI
+इस	HI
+लक्ष्य	HI
+.	EN
+
+Additional	EN
+वस्तुएँ	HI
+:	EN
+
+Additional	EN
+ऑब्जेक्ट	HI
+फ़ाइल	HI
+लिये	HI
+यह	HI
+target	EN
+.	EN
+
+Additional	EN
+C	EN
+preprocessor	EN
+फ़्लैग	HI
+लिये	HI
+यह	HI
+टार्गेट	HI
+.	EN
+
+Additional	EN
+C	EN
+संकलक	HI
+फ्लैग	HI
+for	EN
+यह	HI
+टारगेट	HI
+.	EN
+
+Additional	EN
+C	EN
++	EN
++	EN
+compiler	EN
+ध्वज	HI
+लिये	HI
+ये	HI
+टार्गेट	HI
+.	EN
+
+Additional	EN
+Java	EN
+संकलक	HI
+ध्वज	HI
+लिये	HI
+ये	HI
+टार्गेट	HI
+.	EN
+
+Additional	EN
+Vala	EN
+संकलक	HI
+फ्लैग	HI
+लिये	HI
+इस	HI
+लक्ष्य	HI
+.	EN
+
+Additional	EN
+Fortran	EN
+संकलक	HI
+पताका	HI
+लिये	HI
+इस	HI
+टारगेट	HI
+.	EN
+
+Additional	EN
+Objective	EN
+C	EN
+संकलक	HI
+फ्लैग्स	HI
+लिये	HI
+यह	HI
+निशाना	HI
+.	EN
+
+Additional	EN
+Lex	EN
+or	EN
+Flex	EN
+lexical	HI
+analyser	EN
+जनरेटर	HI
+फ़्लैग	HI
+for	EN
+इस	HI
+लक्ष्य	HI
+.	EN
+
+Additional	EN
+Yacc	EN
+or	EN
+Bison	EN
+parser	EN
+सृजनकर्ता	HI
+फ़्लैग	HI
+लिये	HI
+इस	HI
+निशाना	HI
+.	EN
+
+Additional	EN
+dependencies	EN
+:	EN
+
+Additional	EN
+dependencies	EN
+लिये	HI
+यह	HI
+टारगेट	HI
+.	EN
+
+Include	EN
+in	EN
+वितरण	HI
+:	EN
+
+Include	EN
+ये	HI
+टारगेट	HI
+in	EN
+the	EN
+वितरित	HI
+पैकेज	HI
+.	EN
+
+Build	EN
+लिये	HI
+जाँचें	HI
+सिर्फ	HI
+:	EN
+
+Build	EN
+ये	HI
+निशाना	HI
+केवल	HI
+कब	HI
+running	EN
+स्वचालित	HI
+परीक्षण	HI
+.	EN
+
+Do	EN
+नही	HI
+उपयोग	HI
+उपसर्ग	HI
+:	EN
+
+Do	EN
+नही	HI
+rename	EN
+the	EN
+target	EN
+साथ	HI
+an	EN
+वैकल्पिक	HI
+उपसर्ग	HI
+,	EN
+प्रयुक्त	HI
+to	EN
+avoid	EN
+overwritting	EN
+तंत्र	HI
+कार्यक्रम	HI
+.	EN
+
+Keep	EN
+रिश्तेदार	HI
+लक्ष्य	HI
+पथ	HI
+लिये	HI
+installing	EN
+it	EN
+.	EN
+By	EN
+उदाहरण	HI
+if	EN
+आप	HI
+have	EN
+a	EN
+program	EN
+subdir	EN
+/	EN
+ऐप	HI
+स्थापित	HI
+in	EN
+बिन	HI
+निर्देशिका	HI
+it	EN
+होगी	HI
+be	EN
+संस्थापित	HI
+in	EN
+बिन	HI
+/	EN
+subdir	EN
+/	EN
+ऐप	HI
+not	EN
+in	EN
+bin	HI
+/	EN
+ऐप	HI
+.	EN
+
+Section	EN
+जहाँ	HI
+हैं	HI
+संस्थापित	HI
+the	EN
+पुरुष	HI
+पन्ने	HI
+.	EN
+Valid	EN
+अनुभाग	HI
+names	EN
+हैं	HI
+the	EN
+अंक	HI
+0	EN
+through	EN
+9	EN
+,	EN
+और	HI
+the	EN
+अक्षर	HI
+l	EN
+और	HI
+n	EN
+.	EN
+
+Loading	EN
+Executable	EN
+:	EN
+%	EN
+s	EN
+
+Loading	EN
+Core	EN
+:	EN
+%	EN
+s	EN
+
+Unable	EN
+to	EN
+ढूंढें	HI
+:	EN
+%	EN
+s	EN
+.	EN
+Unable	EN
+to	EN
+initialize	EN
+डिबगर	HI
+.	EN
+Make	EN
+यकीनन	HI
+Anjuta	EN
+is	EN
+संस्थापित	HI
+correctly	EN
+.	EN
+
+Getting	EN
+तैयार	HI
+to	EN
+आरंभ	HI
+डिबगिंग	HI
+सत्र	HI
+
+Loading	EN
+Executable	EN
+:	EN
+
+No	EN
+executable	EN
+उल्लेखित	HI
+.	EN
+
+Open	EN
+an	EN
+executable	EN
+or	EN
+संलग्न	HI
+to	EN
+a	EN
+प्रक्रिया	HI
+to	EN
+प्रारंभ	HI
+डिबगिंग	HI
+.	EN
+
+There	EN
+थी	HI
+an	EN
+त्रुटि	HI
+whilst	EN
+शुभारंभ	HI
+the	EN
+debugger	EN
+.	EN
+
+Make	EN
+यकीनन	HI
+'	EN
+gdb	EN
+'	EN
+is	EN
+installed	EN
+on	EN
+the	EN
+तन्त्र	HI
+.	EN
+
+Program	EN
+exited	EN
+सामान्यतः	HI
+
+Program	EN
+exited	EN
+साथ	HI
+गलती	HI
+संहिता	HI
+%	EN
+s	EN
+
+Breakpoint	EN
+क्रमांक	HI
+%	EN
+s	EN
+hit	HI
+
+Function	EN
+समाप्त	HI
+
+Stepping	EN
+समाप्त	HI
+
+Location	EN
+पहुंचा	HI
+
+The	EN
+प्रोग्राम	HI
+is	EN
+संलग्न	HI
+.	EN
+Do	EN
+आप	HI
+स्टिल	HI
+want	EN
+to	EN
+रोकें	HI
+the	EN
+डिबगर	HI
+?	EN
+
+Unable	EN
+to	EN
+कनेक्ट	HI
+to	EN
+दूरस्थ	HI
+टारगेट	HI
+,	EN
+%	EN
+s	EN
+Do	EN
+तुम	HI
+want	EN
+to	EN
+कोशिश	HI
+again	EN
+?	EN
+
+Debugger	EN
+कनेक्ट	HI
+
+Program	EN
+संलग्न	HI
+
+Attaching	EN
+to	EN
+प्रक्रिया	HI
+:	EN
+%	EN
+d	EN
+
+A	EN
+प्रक्रिया	HI
+is	EN
+already	EN
+दौड़ना	HI
+.	EN
+Would	EN
+आपको	HI
+like	HI
+to	EN
+terminate	EN
+it	EN
+और	HI
+संलग्न	HI
+the	EN
+नया	HI
+प्रक्रम	HI
+?	EN
+
+Anjuta	EN
+is	EN
+unable	EN
+to	EN
+संलग्न	HI
+to	EN
+itself	EN
+.	EN
+
+Program	EN
+terminated	EN
+
+Program	EN
+विलग	HI
+
+Detaching	EN
+the	EN
+प्रक्रम	HI
+
+Interrupting	EN
+the	EN
+प्रक्रम	HI
+
+आदि	HI
+children	EN
+
+Sending	EN
+signal	EN
+%	EN
+s	EN
+to	EN
+the	EN
+प्रक्रम	HI
+:	EN
+%	EN
+d	EN
+
+Error	EN
+whilst	EN
+signaling	HI
+the	EN
+प्रक्रिया	HI
+.	EN
+
+Failed	EN
+to	EN
+बनाएं	HI
+FIFO	EN
+फ़ाइल	HI
+नामित	HI
+%	EN
+s	EN
+.	EN
+The	EN
+कार्यक्रम	HI
+करेंगे	HI
+run	EN
+बगैर	HI
+a	EN
+टर्मिनल	HI
+.	EN
+
+Cannot	EN
+प्रारंभ	HI
+टर्मिनल	HI
+लिये	HI
+debugging	EN
+.	EN
+
+The	EN
+रजिस्टर	HI
+प्रकार्य	HI
+hasn	EN
+'	EN
+t	EN
+महरूम	HI
+मिली	HI
+automatically	EN
+in	EN
+the	EN
+following	EN
+सुन्दर	HI
+प्रिंटर	HI
+फ़ाइल	HI
+:	EN
+%	EN
+s	EN
+You	EN
+need	EN
+to	EN
+भरें	HI
+yourself	EN
+the	EN
+रजिस्टर	HI
+फंक्शन	HI
+स्तम्भ	HI
+पहले	HI
+enabling	EN
+the	EN
+पंक्ति	HI
+.	EN
+Most	EN
+of	EN
+the	EN
+समय	HI
+the	EN
+पंजीकरण	HI
+प्रकार्य	HI
+नाम	HI
+contains	EN
+the	EN
+वर्ड	HI
+"	EN
+register	EN
+"	EN
+.	EN
+
+Select	EN
+a	EN
+सुंदर	HI
+मुद्रक	HI
+फ़ाइल	HI
+
+Register	EN
+Function	EN
+
+Gdb	EN
+Debugger	EN
+
+Add	EN
+Files	EN
+:	EN
+
+Remote	EN
+नाम	HI
+:	EN
+
+Mailbox	EN
+फ़ाइलें	HI
+to	EN
+लागू	HI
+:	EN
+
+Add	EN
+हस्ताक्षरित	HI
+बन्द	HI
+by	EN
+रेखा	HI
+
+Drop	EN
+or	EN
+एंटर	HI
+संशोधन	HI
+यहां	HI
+
+Commit	EN
+to	EN
+चेरी	HI
+चुनें	HI
+:	EN
+
+Show	EN
+सोर्स	HI
+संशोधन	HI
+in	EN
+log	HI
+सन्देश	HI
+
+Append	EN
+हस्ताक्षरित	HI
+-	EN
+of	EN
+-	EN
+by	EN
+लाइन	HI
+
+Log	EN
+Message	EN
+:	EN
+
+This	EN
+कमिट	HI
+concludes	EN
+a	EN
+असफल	HI
+मिलाएं	HI
+(	EN
+उपयोग	HI
+-	EN
+i	EN
+)	EN
+
+Use	EN
+अनुकूलित	HI
+रचयिता	HI
+सूचना	HI
+:	EN
+
+E	EN
+-	EN
+डाक	HI
+:	EN
+
+Repository	EN
+दिमाग़	HI
+.	EN
+Drop	EN
+or	EN
+क़िस्म	HI
+a	EN
+भिन्न	HI
+संशोधन	HI
+here	EN
+
+Check	EN
+बाहर	HI
+the	EN
+शाखा	HI
+बाद	HI
+it	EN
+is	EN
+बनाया	HI
+
+Tag	EN
+name	EN
+:	EN
+
+Sign	EN
+इस	HI
+टैग	HI
+
+Whole	EN
+परियोजना	HI
+.	EN
+Drop	EN
+a	EN
+फाइल	HI
+यहा	HI
+or	EN
+क़िस्म	HI
+a	EN
+पाथ	HI
+to	EN
+देखें	HI
+a	EN
+फाइल	HI
+or	EN
+फ़ोल्डर	HI
+log	HI
+
+Whole	EN
+परियोजना	HI
+.	EN
+Drop	EN
+a	EN
+file	EN
+यहा	HI
+to	EN
+देखें	HI
+a	EN
+फाइल	HI
+or	EN
+फोल्डर	HI
+log	HI
+
+View	EN
+the	EN
+Log	EN
+लिये	HI
+File	EN
+/	EN
+Folder	EN
+:	EN
+
+Short	EN
+Log	EN
+
+पेज	HI
+1	EN
+
+पेज	HI
+2	EN
+
+Revision	EN
+to	EN
+मिलाएँ	HI
+साथ	HI
+:	EN
+
+Use	EN
+a	EN
+मनपसंद	HI
+लॉग	HI
+संदेश	HI
+:	EN
+
+Repository	EN
+उद्गम	HI
+.	EN
+Drop	EN
+or	EN
+type	EN
+a	EN
+अलग	HI
+संशोधन	HI
+यहाँ	HI
+
+Generate	EN
+धब्बे	HI
+relative	EN
+to	EN
+:	EN
+
+Folder	EN
+to	EN
+बनाएँ	HI
+धब्बे	HI
+in	EN
+:	EN
+
+Repository	EN
+to	EN
+pull	EN
+इससे	HI
+:	EN
+
+Append	EN
+लाने	HI
+आंकड़ा	HI
+
+Commit	EN
+on	EN
+फास्ट	HI
+-	EN
+आगे	HI
+merges	EN
+
+Do	EN
+नहीं	HI
+follow	EN
+टैग	HI
+
+Repository	EN
+to	EN
+धक्का	HI
+to	EN
+:	EN
+
+Push	EN
+सभी	HI
+टैग्स	HI
+
+Push	EN
+सब	HI
+शाखा	HI
+और	HI
+टैग	HI
+
+Remote	EN
+Repositories	EN
+:	EN
+
+Remove	EN
+Files	EN
+:	EN
+
+Previous	EN
+कमिट	HI
+.	EN
+Drop	EN
+or	EN
+enter	EN
+a	EN
+भिन्न	HI
+संशोधन	HI
+यहा	HI
+
+Drop	EN
+or	EN
+क़िस्म	HI
+a	EN
+संशोधन	HI
+यहा	HI
+
+Commit	EN
+to	EN
+revert	EN
+:	EN
+
+Stash	EN
+indexed	EN
+परिवर्तन	HI
+
+Add	EN
+Files	EN
+
+Please	EN
+enter	EN
+a	EN
+दूरस्थ	HI
+नाम	HI
+.	EN
+
+Please	EN
+डालें	HI
+a	EN
+URL	EN
+
+Add	EN
+Remote	EN
+
+Apply	EN
+Mailbox	EN
+Files	EN
+
+No	EN
+stash	EN
+चयनित	HI
+.	EN
+
+Check	EN
+Out	EN
+Files	EN
+
+Please	EN
+enter	EN
+a	EN
+लॉग	HI
+सन्देश	HI
+.	EN
+
+Please	EN
+एंटर	HI
+the	EN
+कमिट	HI
+रचयिता	HI
+'	EN
+s	EN
+नाम	HI
+
+Please	EN
+डालें	HI
+the	EN
+कमिट	HI
+लेखक	HI
+'	EN
+s	EN
+e	EN
+-	EN
+मेल	HI
+पता	HI
+.	EN
+
+Please	EN
+डालें	HI
+a	EN
+संशोधन	HI
+.	EN
+
+Commit	EN
+%	EN
+s	EN
+.	EN
+diff	EN
+
+No	EN
+संशोधन	HI
+चयनित	HI
+
+Please	EN
+एंटर	HI
+a	EN
+कमिट	HI
+.	EN
+
+Please	EN
+डालें	HI
+a	EN
+शाखा	HI
+नाम	HI
+.	EN
+
+Please	EN
+एंटर	HI
+a	EN
+टैग	HI
+नाम	HI
+.	EN
+
+Create	EN
+Tag	EN
+
+No	EN
+रिमोट	HI
+चयनित	HI
+.	EN
+
+No	EN
+टैग्स	HI
+चयनित	HI
+.	EN
+
+Tag	EN
+:	EN
+%	EN
+s	EN
+
+Remote	EN
+:	EN
+%	EN
+s	EN
+
+Git	EN
+Warning	EN
+
+Please	EN
+डालें	HI
+a	EN
+URL	EN
+.	EN
+
+No	EN
+रिमोट	HI
+चयनित	HI
+
+Remove	EN
+Files	EN
+
+Selected	EN
+Remote	EN
+:	EN
+
+No	EN
+रिमोट	HI
+चयनित	HI
+.	EN
+using	EN
+मूल	HI
+by	EN
+डिफॉल्ट	HI
+.	EN
+To	EN
+धक्का	HI
+to	EN
+a	EN
+भिन्न	HI
+रिमोट	HI
+,	EN
+चुनें	HI
+एक	HI
+इससे	HI
+the	EN
+Remotes	EN
+सूची	HI
+above	EN
+.	EN
+
+No	EN
+विरोधी	HI
+संचिका	HI
+चयनित	HI
+.	EN
+
+Changes	EN
+to	EN
+be	EN
+वचनबद्ध	HI
+
+Changed	EN
+लेकिन	HI
+नही	HI
+अद्यतनीकृत	HI
+
+No	EN
+मंचन	HI
+संचिका	HI
+चयनित	HI
+.	EN
+
+Branch	EN
+औज़ार	HI
+
+Create	EN
+a	EN
+शाखा	HI
+
+Delete	EN
+चयनित	HI
+शाखाएं	HI
+
+Switch	EN
+to	EN
+the	EN
+चयनित	HI
+शाखा	HI
+
+Merge	EN
+a	EN
+संशोधन	HI
+into	EN
+the	EN
+धारा	HI
+शाखा	HI
+
+Tag	EN
+उपकरण	HI
+
+Create	EN
+a	EN
+टैग	HI
+
+Delete	EN
+चयनित	HI
+टैग्स	HI
+
+Show	EN
+a	EN
+diff	EN
+of	EN
+uncommitted	EN
+परिवर्तन	HI
+in	EN
+an	EN
+एडिटर	HI
+
+Add	EN
+फाइलें	HI
+to	EN
+the	EN
+अनुक्रमणिका	HI
+
+Remove	EN
+फ़ाइलें	HI
+से	HI
+the	EN
+repository	EN
+
+Check	EN
+आउट	HI
+
+Revert	EN
+changes	EN
+in	EN
+unstaged	EN
+फ़ाइलें	HI
+
+Remove	EN
+मंचन	HI
+files	EN
+इससे	HI
+the	EN
+इंडेक्स	HI
+
+Mark	EN
+चयनित	HI
+विरोधी	HI
+फाइलें	HI
+as	EN
+resolved	EN
+
+Remote	EN
+repository	EN
+टूल्स	HI
+
+Add	EN
+a	EN
+दूरस्थ	HI
+
+Add	EN
+a	EN
+रिमोट	HI
+repository	EN
+
+Delete	EN
+चयनित	HI
+रिमोट	HI
+
+Delete	EN
+a	EN
+रिमोट	HI
+
+Push	EN
+परिवर्तन	HI
+to	EN
+a	EN
+दूरस्थ	HI
+repository	EN
+
+Pull	EN
+परिवर्तन	HI
+से	HI
+a	EN
+remote	EN
+repository	EN
+
+Fetch	EN
+परिवर्तन	HI
+से	HI
+रिमोट	HI
+कोषों	HI
+
+Rebase	EN
+against	EN
+चयनित	HI
+दूरस्थ	HI
+
+Start	EN
+a	EN
+rebase	EN
+संचालन	HI
+रिश्तेदार	HI
+to	EN
+the	EN
+चयनित	HI
+रिमोट	HI
+repository	EN
+
+Continue	EN
+a	EN
+rebase	EN
+साथ	HI
+resolved	EN
+विरोध	HI
+
+Skip	EN
+the	EN
+मौज़ूदा	HI
+संशोधन	HI
+
+Abort	EN
+the	EN
+rebase	EN
+और	HI
+वापसी	HI
+the	EN
+repository	EN
+to	EN
+इसकी	HI
+पिछले	HI
+राज्य	HI
+
+Stash	EN
+टूल्स	HI
+
+Apply	EN
+चयनित	HI
+stash	EN
+
+Apply	EN
+stashed	EN
+परिवर्तन	HI
+वापस	HI
+into	EN
+the	EN
+working	EN
+पेड़	HI
+
+Apply	EN
+stash	EN
+और	HI
+restore	EN
+निर्देशिका	HI
+
+Apply	EN
+stashed	EN
+परिवर्तन	HI
+पिछे	HI
+into	EN
+the	EN
+working	EN
+ट्री	HI
+और	HI
+the	EN
+निर्देशिका	HI
+
+Diff	EN
+selected	EN
+stash	EN
+
+Show	EN
+a	EN
+diff	EN
+of	EN
+the	EN
+चयनित	HI
+stash	EN
+
+Drop	EN
+चयनित	HI
+stash	EN
+
+Delete	EN
+the	EN
+selected	EN
+stash	EN
+
+Clear	EN
+सभी	HI
+stashes	EN
+
+Delete	EN
+सब	HI
+stashes	EN
+in	EN
+यह	HI
+repository	EN
+
+Revision	EN
+उपकरण	HI
+
+Show	EN
+कमिट	HI
+diff	EN
+
+Show	EN
+a	EN
+diff	EN
+of	EN
+the	EN
+selected	EN
+संशोधन	HI
+
+Merge	EN
+an	EN
+व्यक्ति	HI
+कमिट	HI
+इससे	HI
+another	EN
+शाखा	HI
+
+Reset	EN
+पेड़	HI
+
+Reset	EN
+वृक्ष	HI
+to	EN
+a	EN
+पिछला	HI
+संशोधन	HI
+
+Revert	EN
+कमिट	HI
+
+Revert	EN
+a	EN
+कमिट	HI
+
+Patch	EN
+श्रेणी	HI
+
+Generate	EN
+a	EN
+patch	EN
+श्रेणी	HI
+
+Mailbox	EN
+फाइलें	HI
+
+Apply	EN
+mailbox	EN
+फ़ाइल	HI
+
+Apply	EN
+धब्बे	HI
+से	HI
+mailbox	EN
+संचिका	HI
+
+Continue	EN
+applying	EN
+धब्बे	HI
+साथ	HI
+resolved	EN
+विरोध	HI
+
+Skip	EN
+the	EN
+वर्तमान	HI
+patch	EN
+in	EN
+the	EN
+श्रेणी	HI
+
+Stop	EN
+applying	EN
+the	EN
+पैच	HI
+श्रेणी	HI
+और	HI
+वापसी	HI
+the	EN
+वृक्ष	HI
+to	EN
+इसके	HI
+पिछला	HI
+राज्य	HI
+
+Git	EN
+Tasks	EN
+
+Select	EN
+विजेट्स	HI
+in	EN
+the	EN
+workspace	EN
+
+Drag	EN
+और	HI
+resize	EN
+widgets	EN
+in	EN
+the	EN
+workspace	EN
+
+Not	EN
+स्थानीय	HI
+संचिका	HI
+:	EN
+%	EN
+s	EN
+
+Could	EN
+नही	HI
+ओपन	HI
+%	EN
+s	EN
+
+Could	EN
+नही	HI
+बनाएँ	HI
+a	EN
+नया	HI
+glade	EN
+परियोजना	HI
+.	EN
+
+Invalid	EN
+Glade	EN
+फ़ाइल	HI
+नाम	HI
+
+Underline	EN
+-	EN
+Plain	EN
+
+Error	EN
+संदेश	HI
+indicator	EN
+style	HI
+:	EN
+
+Warning	EN
+सन्देश	HI
+indicator	EN
+शैली	HI
+:	EN
+
+Normal	EN
+संदेश	HI
+indicator	EN
+शैली	HI
+:	EN
+
+Message	EN
+रंग	HI
+
+Close	EN
+सब	HI
+संदेश	HI
+टैब्स	HI
+
+Error	EN
+लिखकर	HI
+%	EN
+s	EN
+
+_	EN
+Copy	EN
+Message	EN
+
+Copy	EN
+संदेश	HI
+
+_	EN
+Save	EN
+Message	EN
+
+Next	EN
+/	EN
+Previous	EN
+Message	EN
+
+Unable	EN
+to	EN
+पार्स	HI
+बना	HI
+फ़ाइल	HI
+
+Select	EN
+पैकेज	HI
+
+Select	EN
+Package	EN
+to	EN
+add	HI
+:	EN
+
+Add	EN
+_	EN
+मोड्यूल	HI
+
+Add	EN
+_	EN
+Package	EN
+
+File	EN
+/	EN
+Directory	EN
+to	EN
+पैच	HI
+
+Patch	EN
+संचिका	HI
+
+Please	EN
+चुनें	HI
+the	EN
+निर्देशिका	HI
+जहाँ	HI
+the	EN
+patch	EN
+चाहिए	HI
+be	EN
+लागू	HI
+
+Patching	EN
+%	EN
+s	EN
+using	EN
+%	EN
+s	EN
+
+There	EN
+हैं	HI
+unfinished	EN
+कार्य	HI
+:	EN
+प्लीज	HI
+रुको	HI
+जबतक	HI
+वे	HI
+हैं	HI
+सम्पन्न	HI
+.	EN
+
+Patch	EN
+विफल	HI
+.	EN
+Please	EN
+review	EN
+the	EN
+नाकामी	HI
+संदेश	HI
+.	EN
+Examine	EN
+और	HI
+हटाएँ	HI
+कोई	HI
+अस्वीकृत	HI
+फ़ाइलें	HI
+.	EN
+
+File	EN
+/	EN
+Directory	EN
+to	EN
+पैच	HI
+:	EN
+
+Patch	EN
+फ़ाइल	HI
+:	EN
+
+Patch	EN
+फाइलें	HI
+/	EN
+निर्देशिका	HI
+
+A	EN
+फ़ाइल	HI
+named	EN
+"	EN
+%	EN
+s	EN
+"	EN
+already	EN
+exists	EN
+.	EN
+Do	EN
+आपको	HI
+want	EN
+to	EN
+बदलें	HI
+it	EN
+?	EN
+
+A	EN
+फाइल	HI
+नामित	HI
+"	EN
+%	EN
+s	EN
+"	EN
+cannot	EN
+be	EN
+लिखा	HI
+:	EN
+%	EN
+s	EN
+.	EN
+Check	EN
+if	EN
+तुम	HI
+have	EN
+लिखें	HI
+पहुँच	HI
+to	EN
+the	EN
+परियोजना	HI
+निर्देशिका	HI
+.	EN
+
+Please	EN
+चुनें	HI
+a	EN
+प्रोजेक्ट	HI
+backend	EN
+to	EN
+ओपन	HI
+%	EN
+s	EN
+.	EN
+
+Open	EN
+With	EN
+
+Could	EN
+नहीं	HI
+ढूंढें	HI
+a	EN
+मान्य	HI
+प्रोजेक्ट	HI
+backend	EN
+लिये	HI
+the	EN
+दी	HI
+निर्देशिका	HI
+(	EN
+%	EN
+s	EN
+)	EN
+.	EN
+Please	EN
+चुनें	HI
+a	EN
+भिन्न	HI
+निर्देशिका	HI
+,	EN
+or	EN
+कोशिश	HI
+upgrading	EN
+to	EN
+a	EN
+नई	HI
+संस्करण	HI
+of	EN
+Anjuta	EN
+.	EN
+
+Couldn	EN
+'	EN
+t	EN
+जाँच	HI
+आउट	HI
+the	EN
+supplied	EN
+URI	EN
+"	EN
+%	EN
+s	EN
+"	EN
+.	EN
+The	EN
+गलती	HI
+लौटे	HI
+था	HI
+:	EN
+"	EN
+%	EN
+s	EN
+"	EN
+
+Project	EN
+नाम	HI
+
+Import	EN
+from	EN
+फोल्डर	HI
+
+Import	EN
+से	HI
+वर्जन	HI
+कंट्रोल	HI
+तन्त्र	HI
+
+Import	EN
+विकल्प	HI
+
+New	EN
+Directory	EN
+
+Specify	EN
+_	EN
+जहां	HI
+to	EN
+बनाएं	HI
+the	EN
+निर्देशिका	HI
+:	EN
+
+Add	EN
+Source	EN
+
+Select	EN
+the	EN
+_	EN
+टारगेट	HI
+लिये	HI
+the	EN
+नई	HI
+स्त्रोत	HI
+फ़ाइल	HI
+:	EN
+
+_	EN
+Select	EN
+फाइल	HI
+to	EN
+जोड़ें	HI
+
+Source	EN
+फ़ाइलें	HI
+:	EN
+
+Add	EN
+Library	EN
+
+Select	EN
+the	EN
+_	EN
+निशाना	HI
+लिये	HI
+the	EN
+पुस्तकालयों	HI
+:	EN
+
+New	EN
+Library	EN
+
+Package	EN
+सूची	HI
+:	EN
+
+Browse	EN
+अन्य	HI
+नोड	HI
+
+No	EN
+परियोजना	HI
+loaded	EN
+
+Refreshing	EN
+symbol	EN
+वृक्ष	HI
+
+Failed	EN
+to	EN
+refresh	EN
+परियोजना	HI
+:	EN
+%	EN
+s	EN
+
+Are	EN
+you	EN
+ज़रूर	HI
+आप	HI
+want	EN
+to	EN
+निकालें	HI
+the	EN
+following	EN
+ग्रुप	HI
+इससे	HI
+the	EN
+प्रोजेक्ट	HI
+?	EN
+
+Are	EN
+तुम	HI
+निश्चित	HI
+आप	HI
+want	EN
+to	EN
+निकालें	HI
+the	EN
+following	EN
+टारगेट	HI
+से	HI
+the	EN
+परियोजना	HI
+?	EN
+
+Are	EN
+तुम	HI
+यकीनन	HI
+आपको	HI
+want	EN
+to	EN
+हटाएँ	HI
+the	EN
+following	EN
+स्रोत	HI
+संचिका	HI
+from	EN
+the	EN
+परियोजना	HI
+?	EN
+
+Are	EN
+तुम	HI
+पक्का	HI
+आप	HI
+want	EN
+to	EN
+निकालें	HI
+the	EN
+following	EN
+पैकेज	HI
+इससे	HI
+the	EN
+परियोजना	HI
+?	EN
+
+Are	EN
+तुम	HI
+पक्का	HI
+आप	HI
+want	EN
+to	EN
+हटाएँ	HI
+the	EN
+following	EN
+मॉड्यूल	HI
+इससे	HI
+the	EN
+प्रोजेक्ट	HI
+?	EN
+
+Are	EN
+आपको	HI
+यकीनन	HI
+आपको	HI
+want	EN
+to	EN
+निकालें	HI
+the	EN
+following	EN
+तत्व	HI
+से	HI
+the	EN
+प्रोजेक्ट	HI
+?	EN
+
+Shortcut	EN
+:	EN
+%	EN
+s	EN
+
+Package	EN
+:	EN
+%	EN
+s	EN
+
+The	EN
+समूह	HI
+करेगा	HI
+be	EN
+विलोपित	HI
+इससे	HI
+the	EN
+file	EN
+तंत्र	HI
+.	EN
+
+The	EN
+ग्रुप	HI
+होगी	HI
+not	EN
+be	EN
+deleted	EN
+से	HI
+the	EN
+संचिका	HI
+सिस्टम	HI
+.	EN
+
+The	EN
+सोर्स	HI
+संचिका	HI
+करेंगे	HI
+be	EN
+विलोपित	HI
+इससे	HI
+the	EN
+फाइल	HI
+तन्त्र	HI
+.	EN
+
+The	EN
+सोर्स	HI
+फाइल	HI
+करेगी	HI
+नही	HI
+be	EN
+मिटाया	HI
+from	EN
+the	EN
+फाइल	HI
+तन्त्र	HI
+.	EN
+
+Confirm	EN
+निकालें	HI
+
+Failed	EN
+to	EN
+हटाएँ	HI
+'	EN
+%	EN
+s	EN
+'	EN
+:	EN
+%	EN
+s	EN
+
+Failed	EN
+to	EN
+retrieve	EN
+URI	EN
+जानकारी	HI
+of	EN
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+New	EN
+_	EN
+Directory	EN
+
+Add	EN
+a	EN
+नया	HI
+निर्देशिका	HI
+to	EN
+the	EN
+परियोजना	HI
+
+Add	EN
+a	EN
+नई	HI
+निशाना	HI
+to	EN
+the	EN
+प्रोजेक्ट	HI
+
+Add	EN
+_	EN
+Source	EN
+File	EN
+
+Add	EN
+a	EN
+स्रोत	HI
+संचिका	HI
+to	EN
+a	EN
+लक्ष्य	HI
+
+Add	EN
+_	EN
+Library	EN
+
+New	EN
+_	EN
+Library	EN
+
+Add	EN
+a	EN
+नया	HI
+पैकेज	HI
+to	EN
+the	EN
+परियोजना	HI
+
+Project	EN
+गुण	HI
+
+Close	EN
+Pro	EN
+_	EN
+ject	EN
+
+Add	EN
+a	EN
+लाइब्रेरी	HI
+to	EN
+a	EN
+लक्ष्य	HI
+
+New	EN
+_	EN
+Library	EN
+
+Add	EN
+a	EN
+new	EN
+पुस्तकालयों	HI
+to	EN
+the	EN
+प्रोजेक्ट	HI
+
+_	EN
+Add	EN
+to	EN
+Project	EN
+
+Properties	EN
+of	EN
+ग्रुप	HI
+/	EN
+निशाना	HI
+/	EN
+source	EN
+
+Remove	EN
+इससे	HI
+परियोजना	HI
+
+_	EN
+Sort	EN
+
+Sort	EN
+शॉर्टकट	HI
+
+Failed	EN
+to	EN
+पार्स	HI
+project	EN
+(	EN
+the	EN
+प्रोजेक्ट	HI
+is	EN
+खोली	HI
+,	EN
+but	EN
+वहीँ	HI
+करेंगे	HI
+be	EN
+no	EN
+परियोजना	HI
+देखें	HI
+)	EN
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Update	EN
+प्रोजेक्ट	HI
+दृश्य	HI
+
+Loading	EN
+प्रोजेक्ट	HI
+:	EN
+%	EN
+s	EN
+
+Error	EN
+closing	EN
+प्रोजेक्ट	HI
+:	EN
+%	EN
+s	EN
+
+Project	EN
+प्रबंधक	HI
+क्रिया	HI
+
+Project	EN
+मैनेजर	HI
+पॉपअप	HI
+actions	EN
+
+Initializing	EN
+Project	EN
+
+Project	EN
+Loaded	EN
+
+Select	EN
+स्त्रोत	HI
+
+This	EN
+सम्पत्ति	HI
+is	EN
+नही	HI
+modifiable	EN
+.	EN
+
+Module	EN
+गुण	HI
+
+Package	EN
+गुण	HI
+
+Unknown	EN
+properties	EN
+
+Cannot	EN
+जोड़ें	HI
+समूह	HI
+
+No	EN
+जनक	HI
+ग्रुप	HI
+चयनित	HI
+
+Cannot	EN
+add	HI
+सोर्स	HI
+फ़ाइल	HI
+
+The	EN
+चयनित	HI
+नोड	HI
+cannot	EN
+contain	EN
+सोर्स	HI
+फ़ाइल	HI
+.	EN
+
+Cannot	EN
+जोड़ें	HI
+टारगेट	HI
+
+No	EN
+ग्रुप	HI
+चयनित	HI
+
+Cannot	EN
+add	EN
+मॉड्यूल	HI
+
+No	EN
+लक्ष्य	HI
+रै	HI
+महरूम	HI
+चयनित	HI
+
+Missing	EN
+मॉड्यूल	HI
+नाम	HI
+
+Cannot	EN
+add	HI
+पैकेज	HI
+
+Confirm	EN
+the	EN
+following	EN
+एनोटेशन	HI
+:	EN
+
+Project	EN
+Type	EN
+:	EN
+%	EN
+s	EN
+
+Unable	EN
+to	EN
+ढूँढें	HI
+कोई	HI
+परियोजना	HI
+टेम्पलेट	HI
+in	EN
+%	EN
+s	EN
+
+Field	EN
+"	EN
+%	EN
+s	EN
+"	EN
+is	EN
+अनिवार्य	HI
+.	EN
+Please	EN
+एंटर	HI
+it	EN
+.	EN
+
+Field	EN
+"	EN
+%	EN
+s	EN
+"	EN
+जरूर	HI
+contains	EN
+तभी	HI
+letters	EN
+,	EN
+अंक	HI
+or	EN
+the	EN
+following	EN
+अक्षर	HI
+"	EN
+#	EN
+$	EN
+:	EN
+%	EN
+%	EN
++	EN
+,	EN
+.	EN
+=	EN
+@	EN
+^	EN
+_	EN
+`	EN
+~	EN
+"	EN
+.	EN
+In	EN
+अलावा	HI
+आपको	HI
+cannot	EN
+have	EN
+a	EN
+अग्रणी	HI
+डैश	HI
+.	EN
+Please	EN
+फिक्स	HI
+it	EN
+.	EN
+
+Field	EN
+"	EN
+%	EN
+s	EN
+"	EN
+जरूर	HI
+contains	EN
+केवल	HI
+letters	HI
+,	EN
+अंक	HI
+,	EN
+the	EN
+following	EN
+वर्ण	HI
+"	EN
+#	EN
+$	EN
+:	EN
+%	EN
+%	EN
++	EN
+,	EN
+.	EN
+=	EN
+@	EN
+^	EN
+_	EN
+`	EN
+~	EN
+"	EN
+or	EN
+निर्देशिका	HI
+separators	EN
+.	EN
+In	EN
+अलावा	HI
+आप	HI
+cannot	EN
+have	EN
+a	EN
+अग्रणी	HI
+डैश	HI
+.	EN
+Please	EN
+फिक्स	HI
+it	EN
+.	EN
+
+Unknown	EN
+गलती	HI
+.	EN
+
+Directory	EN
+"	EN
+%	EN
+s	EN
+"	EN
+is	EN
+नहीं	HI
+खाली	HI
+.	EN
+Project	EN
+रचना	HI
+could	EN
+फेल	HI
+if	EN
+कुछ	HI
+फाइलें	HI
+cannot	EN
+be	EN
+लिखी	HI
+.	EN
+Do	EN
+आपको	HI
+want	EN
+to	EN
+continue	EN
+?	EN
+
+File	EN
+"	EN
+%	EN
+s	EN
+"	EN
+already	EN
+exists	EN
+.	EN
+Do	EN
+you	EN
+want	EN
+to	EN
+मिटाकर	HI
+it	EN
+?	EN
+
+Invalid	EN
+प्रविष्टि	HI
+
+Missing	EN
+प्रोग्राम	HI
+:	EN
+%	EN
+s	EN
+.	EN
+
+Missing	EN
+संकुल	HI
+:	EN
+%	EN
+s	EN
+.	EN
+
+Some	EN
+महत्वपूर्ण	HI
+कार्यक्रम	HI
+or	EN
+विकास	HI
+पैकेज	HI
+आवश्यक	HI
+to	EN
+बिल्ड	HI
+इस	HI
+प्रोजेक्ट	HI
+हैं	HI
+अनुपलब्ध	HI
+.	EN
+Please	EN
+make	EN
+यकीनन	HI
+वे	HI
+हैं	HI
+संस्थापित	HI
+properly	EN
+पहले	HI
+generating	EN
+the	EN
+project	EN
+.	EN
+
+Install	EN
+लापता	HI
+संकुल	HI
+
+The	EN
+अनुपलब्ध	HI
+प्रोग्राम	HI
+हैं	HI
+प्रायः	HI
+हिस्से	HI
+of	EN
+कुछ	HI
+वितरण	HI
+पैकेज	HI
+और	HI
+can	EN
+be	EN
+खोजा	HI
+लिये	HI
+in	EN
+आपका	HI
+Application	EN
+Manager	EN
+.	EN
+Similarly	EN
+,	EN
+the	EN
+विकास	HI
+पैकेज	HI
+हैं	HI
+contained	EN
+in	EN
+खास	HI
+संकुल	HI
+कि	HI
+आपकी	HI
+वितरण	HI
+provides	EN
+to	EN
+allow	EN
+विकास	HI
+of	EN
+परियोजनाएं	HI
+आधारित	HI
+on	EN
+उनसे	HI
+.	EN
+They	EN
+प्रायः	HI
+समाप्ति	HI
+साथ	HI
+a	EN
+"	EN
+-	EN
+dev	HI
+"	EN
+or	EN
+"	EN
+-	EN
+devel	EN
+"	EN
+प्रत्यय	HI
+in	EN
+पैकेज	HI
+names	EN
+और	HI
+can	EN
+be	EN
+मिली	HI
+by	EN
+searching	EN
+in	EN
+आपकी	HI
+Application	EN
+Manager	EN
+.	EN
+
+Missing	EN
+components	EN
+
+Unable	EN
+to	EN
+बिल्ड	HI
+प्रोजेक्ट	HI
+सहायक	HI
+उपयोक्ता	HI
+इंटरफेस	HI
+पढना	HI
+%	EN
+s	EN
+.	EN
+
+New	EN
+प्रोजेक्ट	HI
+सृजन	HI
+रै	HI
+विफल	HI
+.	EN
+
+Skipping	EN
+%	EN
+s	EN
+:	EN
+संचिका	HI
+already	EN
+exists	EN
+
+Creating	EN
+%	EN
+s	EN
+Failed	EN
+to	EN
+बनाएँ	HI
+निर्देशिका	HI
+
+Creating	EN
+%	EN
+s	EN
+(	EN
+using	EN
+AutoGen	EN
+)	EN
+%	EN
+s	EN
+
+Creating	EN
+%	EN
+s	EN
+%	EN
+s	EN
+
+Unable	EN
+to	EN
+निकालें	HI
+प्रोजेक्ट	HI
+टेम्प्लेट	HI
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+New	EN
+Project	EN
+Assistant	EN
+
+Select	EN
+फाइल	HI
+
+Select	EN
+an	EN
+Image	EN
+File	EN
+
+Choose	EN
+Icon	EN
+
+Choose	EN
+निर्देशिका	HI
+
+Project	EN
+Name	EN
+:	EN
+
+Options	EN
+लिये	HI
+परियोजना	HI
+निर्माण	HI
+प्रणाली	HI
+
+Select	EN
+संहिता	HI
+लाइसेंस	HI
+
+Adds	EN
+C	EN
++	EN
++	EN
+सहायता	HI
+to	EN
+the	EN
+परियोजना	HI
+so	EN
+उस	HI
+C	EN
++	EN
++	EN
+स्त्रोत	HI
+files	EN
+can	EN
+be	EN
+built	EN
+
+Add	EN
+साझेदारी	HI
+पुस्तकालय	HI
+सहायता	HI
+:	EN
+
+Adds	EN
+support	HI
+लिये	HI
+बिल्डिंग	HI
+साझा	HI
+पुस्तकालय	HI
+in	EN
+आपके	HI
+project	EN
+
+Configure	EN
+बाहरी	HI
+संकुल	HI
+:	EN
+
+Use	EN
+pkg	EN
+-	EN
+config	HI
+to	EN
+जोड़ें	HI
+पुस्तकालय	HI
+support	HI
+से	HI
+अन्य	HI
+पैकेज	HI
+
+Configure	EN
+बाह्य	HI
+संकुल	HI
+
+Check	EN
+the	EN
+संकुल	HI
+कि	HI
+अपना	HI
+परियोजना	HI
+requires	EN
+
+Adds	EN
+support	EN
+लिये	HI
+internationalization	EN
+so	EN
+उस	HI
+आपका	HI
+प्रोजेक्ट	HI
+can	EN
+have	EN
+अनुवाद	HI
+in	EN
+अलग	HI
+भाषा	HI
+
+Python	EN
+webproject	EN
+using	EN
+Django	EN
+Web	EN
+Framework	EN
+
+GTK	EN
++	EN
+(	EN
+सरल	HI
+)	EN
+
+Simple	EN
+GTK	EN
++	EN
+प्रोजेक्ट	HI
+
+gtk	EN
+-	EN
+दस्तावेज़	HI
+is	EN
+प्रयुक्त	HI
+to	EN
+प्रतियां	HI
+API	EN
+documentations	EN
+लिये	HI
+GObject	EN
+आधारित	HI
+क्लासेस	HI
+
+Use	EN
+GtkBuilder	EN
+लिये	HI
+उपयोक्ता	HI
+अंतरफलक	HI
+:	EN
+
+Use	EN
+GtkBuilder	EN
+to	EN
+बनाएं	HI
+the	EN
+उपयोक्ता	HI
+-	EN
+अंतरफलक	HI
+in	EN
+a	EN
+आलेखीय	HI
+राह	HI
+और	HI
+लोड	HI
+it	EN
+इससे	HI
+xml	EN
+files	EN
+at	EN
+runtime	EN
+
+Require	EN
+Package	EN
+:	EN
+
+Give	EN
+a	EN
+पैकेज	HI
+नाम	HI
+उस	HI
+अपना	HI
+प्रोजेक्ट	HI
+आवश्यकता	HI
+.	EN
+You	EN
+may	HI
+भी	HI
+जिक्र	HI
+क्या	HI
+is	EN
+the	EN
+आवश्यक	HI
+वर्जन	HI
+of	EN
+the	EN
+पैकेज	HI
+.	EN
+For	EN
+उदाहरण	HI
+,	EN
+'	EN
+libgnomeui	EN
+-	EN
+2	EN
+.	EN
+0	EN
+'	EN
+or	EN
+'	EN
+libgnomeui	EN
+-	EN
+2	EN
+.	EN
+0	EN
+>	EN
+=	EN
+2	EN
+.	EN
+2	EN
+.	EN
+0	EN
+'	EN
+
+Anjuta	EN
+प्लगइन	HI
+project	EN
+उस	HI
+उपयोग	HI
+libanjuta	EN
+फ्रेमवर्क	HI
+
+Project	EN
+नाम	HI
+जरूर	HI
+नहीं	HI
+contain	EN
+स्पेसेस	HI
+,	EN
+क्योकि	HI
+it	EN
+करेगी	HI
+be	EN
+the	EN
+नाम	HI
+of	EN
+the	EN
+परियोजना	HI
+निर्माण	HI
+टारगेट	HI
+(	EN
+executable	EN
+,	EN
+लाइब्रेरी	HI
+etc	HI
+.	EN
+)	EN
+
+Display	EN
+शीर्षक	HI
+of	EN
+the	EN
+प्लगइन	HI
+
+Plugin	EN
+Description	EN
+:	EN
+
+Display	EN
+विवरण	HI
+of	EN
+the	EN
+प्लगइन	HI
+
+Plugin	EN
+Dependencies	EN
+:	EN
+
+Comma	EN
+अलग	HI
+,	EN
+अन्य	HI
+प्लगइन	HI
+उस	HI
+ये	HI
+प्लगइन	HI
+depends	EN
+on	EN
+.	EN
+It	EN
+could	EN
+be	EN
+either	EN
+प्राथमिक	HI
+इंटरफेस	HI
+नाम	HI
+or	EN
+plugin	EN
+अवस्थिति	HI
+(	EN
+पुस्तकालय	HI
+:	EN
+वर्ग	HI
+)	EN
+
+Create	EN
+Gtk	EN
+Builder	EN
+अंतरफलक	HI
+संचिका	HI
+
+Create	EN
+a	EN
+टेम्प्लेट	HI
+Gtk	EN
+Builder	EN
+अंतरफलक	HI
+फाइल	HI
+
+Plugin	EN
+रै	HI
+मेनू	HI
+or	EN
+/	EN
+और	HI
+toolbars	EN
+
+Whether	EN
+the	EN
+प्लगइन	HI
+रै	HI
+मेनू	HI
+or	EN
+toolbars	EN
+
+Values	EN
+to	EN
+देखिये	HI
+
+Shell	EN
+मान	HI
+to	EN
+देखिये	HI
+
+Value	EN
+Name	EN
+:	EN
+
+Name	EN
+of	EN
+the	EN
+मान	HI
+to	EN
+देखिये	HI
+
+Plugin	EN
+अंतरफलक	HI
+to	EN
+implement	EN
+
+A	EN
+जेनरिक	HI
+natively	EN
+compiled	EN
+जावा	HI
+प्रोजेक्ट	HI
+using	EN
+the	EN
+GNU	EN
+Java	EN
+Compiler	EN
+(	EN
+gcj	EN
+)	EN
+
+GCJ	EN
+needs	EN
+to	EN
+जानिए	HI
+जिससे	HI
+वर्ग	HI
+contains	EN
+the	EN
+मुख्य	HI
+(	EN
+)	EN
+फंक्शन	HI
+
+A	EN
+जेनेरिक	HI
+java	EN
+परियोजना	HI
+using	EN
+automake	EN
+परियोजना	HI
+प्रबंधन	HI
+
+A	EN
+जेनेरिक	HI
+पाइथन	HI
+परियोजना	HI
+using	EN
+automake	EN
+परियोजना	HI
+प्रबंधन	HI
+
+PyGTK	EN
+परियोजना	HI
+using	EN
+automake	EN
+
+Project	EN
+निर्देशिका	HI
+,	EN
+आउटपुट	HI
+फ़ाइल	HI
+इत्यादि	HI
+.	EN
+
+Require	EN
+SDL	EN
+वर्जन	HI
+:	EN
+
+Mininum	EN
+SDL	EN
+वर्जन	HI
+आवश्यक	HI
+
+A	EN
+साझेदारी	HI
+or	EN
+a	EN
+स्थिर	HI
+पुस्तकालय	HI
+प्रोजेक्ट	HI
+
+Build	EN
+पुस्तकालय	HI
+as	EN
+
+Select	EN
+लाइब्रेरी	HI
+type	EN
+to	EN
+बिल्ड	HI
+
+Shared	EN
+और	HI
+Static	EN
+लाइब्रेरी	HI
+
+Only	EN
+Shared	EN
+
+Only	EN
+Static	EN
+
+GTK	EN
++	EN
+(	EN
+Application	EN
+)	EN
+
+Full	EN
+features	EN
+Gtk	EN
++	EN
+Application	EN
+साथ	HI
+फ़ाइल	HI
+हैंडलिंग	HI
+
+Run	EN
+in	EN
+Terminal	EN
+
+Working	EN
+Directory	EN
+:	EN
+
+Choose	EN
+a	EN
+working	EN
+निर्देशिका	HI
+
+Program	EN
+निर्देशिका	HI
+'	EN
+%	EN
+s	EN
+'	EN
+is	EN
+नही	HI
+लोकल	HI
+
+Missing	EN
+फ़ाइल	HI
+%	EN
+s	EN
+
+The	EN
+प्रोग्राम	HI
+is	EN
+दौड़ना	HI
+.	EN
+Do	EN
+आपको	HI
+want	EN
+to	EN
+restart	EN
+it	EN
+?	EN
+
+Run	EN
+कार्यक्रम	HI
+बगैर	HI
+डिबगर	HI
+
+Program	EN
+Parameters	EN
+
+Set	EN
+मौज़ूदा	HI
+प्रोग्राम	HI
+,	EN
+वितर्क	HI
+,	EN
+आदि	HI
+.	EN
+
+Command	EN
+प्रयुक्त	HI
+लिये	HI
+starting	EN
+a	EN
+टर्मिनल	HI
+
+Insert	EN
+a	EN
+snippet	EN
+using	EN
+the	EN
+ट्रिगर	HI
+-	EN
+कुंजी	HI
+
+Insert	EN
+a	EN
+snippet	EN
+using	EN
+स्वचालित	HI
+-	EN
+समाप्ति	HI
+
+Import	EN
+snippets	EN
+to	EN
+the	EN
+डेटाबेस	HI
+
+_	EN
+Export	EN
+snippets	EN
+
+Export	EN
+snippets	EN
+इससे	HI
+the	EN
+डेटाबेस	HI
+
+Snippets	EN
+Manager	EN
+कार्रवाइयों	HI
+
+Instant	EN
+मान	HI
+
+Add	EN
+Snippet	EN
+
+Add	EN
+Snippets	EN
+Group	EN
+
+Default	EN
+मूल्य	HI
+
+Error	EN
+:	EN
+You	EN
+जरूर	HI
+चुनें	HI
+at	EN
+तनिक	HI
+एक	HI
+भाषा	HI
+लिये	HI
+the	EN
+snippet	EN
+!	EN
+
+Error	EN
+:	EN
+The	EN
+ट्रिगर	HI
+कुंजी	HI
+is	EN
+already	EN
+in	EN
+उपयोग	HI
+लिये	HI
+एक	HI
+of	EN
+the	EN
+भाषाएँ	HI
+!	EN
+
+Error	EN
+:	EN
+The	EN
+ट्रिगर	HI
+चाबी	HI
+can	EN
+केवल	HI
+contain	EN
+alphanumeric	EN
+वर्ण	HI
+और	HI
+_	EN
+!	EN
+
+Error	EN
+:	EN
+You	EN
+हेवन	HI
+'	EN
+t	EN
+डाला	HI
+a	EN
+ट्रिगर	HI
+कुंजी	HI
+लिये	HI
+the	EN
+snippet	EN
+!	EN
+
+Select	EN
+the	EN
+नाम	HI
+of	EN
+the	EN
+Snippet	EN
+.	EN
+The	EN
+भूमिका	HI
+of	EN
+the	EN
+नाम	HI
+is	EN
+purely	EN
+सूचनात्मक	HI
+.	EN
+
+Warning	EN
+:	EN
+You	EN
+चाहिए	HI
+चुनें	HI
+a	EN
+नाम	HI
+लिये	HI
+the	EN
+snippet	EN
+!	EN
+
+Select	EN
+the	EN
+Snippets	EN
+Group	EN
+to	EN
+जिससे	HI
+ये	HI
+snippet	EN
+belongs	EN
+.	EN

@@ -1,0 +1,19367 @@
+Give	EN
+your	EN
+프로그램	KO
+an	EN
+접근성	KO
+workout	EN
+
+Accerciser	EN
+Accessibility	EN
+Explorer	EN
+
+The	EN
+기본	KO
+plugin	EN
+배치	KO
+for	EN
+the	EN
+아래	KO
+패널	KO
+
+The	EN
+기본	KO
+plugin	EN
+레이아웃	KO
+for	EN
+the	EN
+인기	KO
+패널	KO
+
+A	EN
+명단	KO
+of	EN
+플러그인	KO
+that	EN
+are	EN
+비활성화	KO
+by	EN
+기본값	KO
+
+Highlight	EN
+duration	EN
+
+The	EN
+기간	KO
+of	EN
+the	EN
+강조	KO
+box	KO
+언제	KO
+selecting	EN
+접근	KO
+노드	KO
+
+Highlight	EN
+경계선	KO
+색상	KO
+
+The	EN
+색상	KO
+그리고	KO
+투명도	KO
+of	EN
+the	EN
+강조하기	KO
+테두리	KO
+.	EN
+
+Highlight	EN
+채우기	KO
+색상	KO
+
+The	EN
+색상	KO
+and	EN
+투명도	KO
+of	EN
+the	EN
+강조	KO
+fill	KO
+.	EN
+
+Browse	EN
+the	EN
+various	EN
+메서드	KO
+of	EN
+the	EN
+현재	KO
+접근	KO
+
+Hide	EN
+비공개	KO
+속성	KO
+
+Interactive	EN
+콘솔	KO
+for	EN
+manipulating	EN
+현재	KO
+selected	EN
+접근	KO
+
+_	EN
+Monitor	EN
+Events	EN
+
+C	EN
+_	EN
+리어	KO
+Selection	EN
+
+Selected	EN
+어플리케이션	KO
+
+Selected	EN
+접근	KO
+
+Shows	EN
+행사	KO
+as	EN
+그들은	KO
+occur	EN
+출신	KO
+selected	EN
+유형	KO
+그리고	KO
+출처	KO
+
+Highlight	EN
+마지막	KO
+이벤트	KO
+항목	KO
+
+Start	EN
+/	EN
+멈추기	KO
+이벤트	KO
+녹음	KO
+
+(	EN
+no	EN
+설명	KO
+)	EN
+
+_	EN
+Accessible	EN
+
+Perform	EN
+액션	KO
+
+Acti	EN
+_	EN
+on	EN
+
+Ap	EN
+_	EN
+plication	EN
+
+Col	EN
+_	EN
+lection	EN
+
+MDI	EN
+-	EN
+Z	EN
+-	EN
+순서	KO
+
+Absolute	EN
+직위	KO
+
+Select	EN
+All	EN
+
+_	EN
+Selection	EN
+
+Selected	EN
+칼럼	KO
+
+Selected	EN
+rows	EN
+
+이름	KO
+(	EN
+x	EN
+,	EN
+y	EN
+)	EN
+
+Selected	EN
+Cell	EN
+
+Include	EN
+기본값	KO
+
+Current	EN
+가치	KO
+
+Maximum	EN
+가치	KO
+
+Minimum	EN
+가치	KO
+
+Interface	EN
+Viewer	EN
+
+Allows	EN
+보기	KO
+of	EN
+various	EN
+인터페이스	KO
+특성	KO
+
+(	EN
+아님	KO
+구현	KO
+)	EN
+
+Too	EN
+많은	KO
+selectable	EN
+자녀	KO
+
+Quick	EN
+Select	EN
+
+Plugin	EN
+함께	KO
+various	EN
+방법	KO
+of	EN
+selecting	EN
+accessibles	EN
+빠르게	KO
+.	EN
+
+Inspect	EN
+last	EN
+focused	EN
+접근	KO
+
+Inspect	EN
+접근	KO
+under	EN
+생쥐	KO
+
+The	EN
+전류	KO
+문자	KO
+will	EN
+be	EN
+로스트	KO
+.	EN
+
+Confirm	EN
+맑음	KO
+
+No	EN
+묘사	KO
+
+AT	EN
+-	EN
+SPI	EN
+Validator	EN
+
+Validates	EN
+어플리케이션	KO
+접근성	KO
+
+Tests	EN
+fundamental	EN
+GUI	EN
+애플리케이션	KO
+접근성	KO
+
+actionable	EN
+%	EN
+s	EN
+is	EN
+아님	KO
+focusable	EN
+or	EN
+selectable	EN
+
+대화형	KO
+%	EN
+s	EN
+is	EN
+아님	KO
+actionable	EN
+
+기타	KO
+than	EN
+하나	KO
+focused	EN
+위젯	KO
+
+%	EN
+s	EN
+has	EN
+no	EN
+텍스트	KO
+인터페이스	KO
+
+%	EN
+s	EN
+인덱스	KO
+in	EN
+부모님	KO
+does	EN
+아님	KO
+일치하기	KO
+아이유	KO
+색인	KO
+
+Missing	EN
+reciprocal	EN
+for	EN
+%	EN
+s	EN
+관계	KO
+
+%	EN
+s	EN
+missing	KO
+이름	KO
+or	EN
+라벨	KO
+
+focusable	EN
+%	EN
+s	EN
+has	EN
+탁자	KO
+인터페이스	KO
+,	EN
+no	EN
+선택	KO
+인터페이스	KO
+
+%	EN
+s	EN
+has	EN
+%	EN
+s	EN
+state	EN
+without	KO
+%	EN
+s	EN
+상태	KO
+
+%	EN
+s	EN
+does	EN
+아님	KO
+belong	EN
+to	EN
+a	EN
+set	EN
+
+%	EN
+(	EN
+rolename	EN
+)	EN
+s	EN
+색인	KO
+%	EN
+(	EN
+num	KO
+)	EN
+d	EN
+does	EN
+아님	KO
+일치합니다	KO
+row	EN
+그리고	KO
+칼럼	KO
+
+%	EN
+(	EN
+rolename	EN
+)	EN
+s	EN
+부모님	KO
+색인	KO
+%	EN
+(	EN
+num1	EN
+)	EN
+d	EN
+does	EN
+아님	KO
+매치	KO
+row	EN
+그리고	KO
+칼럼	KO
+색인	KO
+%	EN
+(	EN
+num2	EN
+)	EN
+d	EN
+
+%	EN
+s	EN
+has	EN
+no	EN
+이름	KO
+or	EN
+description	EN
+
+_	EN
+Preferences	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Contents	EN
+
+Accerciser	EN
+could	EN
+아님	KO
+see	EN
+the	EN
+어플리케이션	KO
+on	EN
+your	EN
+데스크탑	KO
+.	EN
+You	EN
+must	EN
+사용하기	KO
+데스크톱	KO
+접근성	KO
+to	EN
+고쳐	KO
+이거	KO
+문제	KO
+.	EN
+Do	EN
+당신	KO
+want	EN
+to	EN
+사용하기	KO
+it	EN
+지금	KO
+?	EN
+
+Note	EN
+:	EN
+Changes	EN
+단발	KO
+take	KO
+영향	KO
+after	EN
+로그아웃	KO
+.	EN
+
+_	EN
+Refresh	EN
+Registry	EN
+
+Refresh	EN
+전체	KO
+
+Refresh	EN
+_	EN
+Node	EN
+
+Refresh	EN
+selected	EN
+노드	KO
+'	EN
+s	EN
+어린이	KO
+
+Top	EN
+패널	KO
+
+accerciser	EN
+Preferences	EN
+
+Global	EN
+Hotkeys	EN
+
+Highlight	EN
+기간	KO
+:	EN
+
+The	EN
+테두리	KO
+컬러	KO
+of	EN
+the	EN
+하이라이트	KO
+박스	KO
+
+Fill	EN
+색상	KO
+:	EN
+
+The	EN
+채워	KO
+색상	KO
+of	EN
+the	EN
+하이라이트	KO
+박스	KO
+
+accerciser	EN
+Copyright	EN
+2006	EN
+,	EN
+2007	EN
+IBM	EN
+Corporation	EN
+(	EN
+BSD	EN
+)	EN
+
+The	EN
+New	EN
+BSD	EN
+License	EN
+See	EN
+the	EN
+COPYING	EN
+그리고	KO
+NOTICE	EN
+파일	KO
+for	EN
+세부사항	KO
+.	EN
+
+_	EN
+Add	EN
+Bookmark	EN
+.	EN
+.	EN
+.	EN
+
+Bookmark	EN
+selected	EN
+접근	KO
+.	EN
+
+_	EN
+Edit	EN
+Bookmarks	EN
+.	EN
+.	EN
+.	EN
+
+Manage	EN
+책갈피	KO
+.	EN
+
+Edit	EN
+Bookmarks	EN
+.	EN
+.	EN
+.	EN
+
+Add	EN
+Bookmark	EN
+.	EN
+.	EN
+.	EN
+
+Plugin	EN
+Errors	EN
+
+No	EN
+보기	KO
+
+_	EN
+Single	EN
+플러그인	KO
+보기	KO
+
+Plugin	EN
+View	EN
+
+Plugin	EN
+View	EN
+(	EN
+%	EN
+d	EN
+)	EN
+
+_	EN
+New	EN
+조회	KO
+.	EN
+.	EN
+.	EN
+
+New	EN
+View	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+File	EN
+
+_	EN
+Edit	EN
+
+_	EN
+Bookmarks	EN
+
+Full	EN
+이름	KO
+
+Key	EN
+구속력	KO
+
+A	EN
+list	EN
+of	EN
+플러그인	KO
+that	EN
+are	EN
+비활성화	KO
+by	EN
+기본값	KO
+.	EN
+
+The	EN
+기간	KO
+of	EN
+the	EN
+강조하기	KO
+상자	KO
+언제	KO
+selecting	EN
+접근	KO
+노드	KO
+.	EN
+
+The	EN
+배치	KO
+for	EN
+the	EN
+밑바닥	KO
+패널	KO
+
+The	EN
+배치	KO
+for	EN
+the	EN
+아래	KO
+패널	KO
+pluginview	EN
+.	EN
+
+The	EN
+레이아웃	KO
+for	EN
+the	EN
+top	KO
+패널	KO
+
+The	EN
+배치	KO
+for	EN
+the	EN
+인기	KO
+패널	KO
+pluginview	EN
+.	EN
+
+Available	EN
+new	EN
+pluginviews	EN
+
+The	EN
+기본	KO
+플러그인	KO
+레이아웃	KO
+for	EN
+the	EN
+top	KO
+패널	KO
+.	EN
+
+Child	EN
+카운트	KO
+
+Selected	EN
+Cell	EN
+
+Start	EN
+:	EN
+0	EN
+
+End	EN
+:	EN
+0	EN
+
+Start	EN
+:	EN
+%	EN
+d	EN
+
+focusable	EN
+%	EN
+s	EN
+has	EN
+a	EN
+탁자	KO
+인터페이스	KO
+,	EN
+하지만	KO
+아님	KO
+a	EN
+선택	KO
+인터페이스	KO
+
+_	EN
+Hide	EN
+/	EN
+Show	EN
+Applications	EN
+without	KO
+자녀	KO
+
+Plugin	EN
+Errors	EN
+
+_	EN
+Edit	EN
+
+_	EN
+Bookmarks	EN
+
+(	EN
+no	EN
+묘사	KO
+)	EN
+
+_	EN
+New	EN
+보기	KO
+.	EN
+.	EN
+.	EN
+
+The	EN
+기간	KO
+of	EN
+the	EN
+강조하기	KO
+box	KO
+언제쯤	KO
+selecting	EN
+접근	KO
+노드	KO
+.	EN
+
+The	EN
+배치	KO
+for	EN
+the	EN
+바닥	KO
+패널	KO
+
+The	EN
+layout	KO
+for	EN
+the	EN
+바닥	KO
+패널	KO
+pluginview	EN
+.	EN
+
+The	EN
+layout	KO
+for	EN
+the	EN
+인기	KO
+패널	KO
+
+The	EN
+배치	KO
+for	EN
+the	EN
+top	KO
+패널	KO
+pluginview	EN
+.	EN
+
+Single	EN
+배치	KO
+보기	KO
+
+Available	EN
+new	EN
+pluginviews	EN
+
+The	EN
+기본	KO
+플러그인	KO
+배치	KO
+for	EN
+the	EN
+top	EN
+패널	KO
+.	EN
+
+focusable	EN
+%	EN
+s	EN
+has	EN
+a	EN
+테이블	KO
+interface	EN
+,	EN
+그러나	KO
+아님	KO
+a	EN
+선택	KO
+인터페이스	KO
+
+accerciser	EN
+Copyright	EN
+(	EN
+c	EN
+)	EN
+2006	EN
+,	EN
+2007	EN
+IBM	EN
+Corporation	EN
+(	EN
+BSD	EN
+)	EN
+
+Position	EN
+of	EN
+the	EN
+horizontal	EN
+스플리트	KO
+of	EN
+the	EN
+메인	KO
+window	EN
+.	EN
+
+Position	EN
+of	EN
+the	EN
+세로	KO
+스플릿	KO
+of	EN
+the	EN
+메인	KO
+창문	KO
+.	EN
+
+Default	EN
+창문	KO
+높이	KO
+
+The	EN
+창문	KO
+높이	KO
+가치	KO
+.	EN
+
+View	EN
+플러그인	KO
+in	EN
+a	EN
+싱글	KO
+layout	KO
+.	EN
+
+This	EN
+리스트	KO
+포함함	KO
+모두	KO
+the	EN
+new	EN
+available	EN
+pluginviews	EN
+
+Window	EN
+높이	KO
+
+Window	EN
+높이	KO
+가치	KO
+.	EN
+
+Hotkey	EN
+조합	KO
+
+Hotkey	EN
+조합	KO
+for	EN
+관련	KO
+작업	KO
+.	EN
+
+Start	EN
+:	EN
+0	EN
+
+Default	EN
+GNOME	EN
+Theme	EN
+
+No	EN
+쓰기	KO
+
+No	EN
+읽어보기	KO
+
+Play	EN
+많은	KO
+다름	KO
+solitaire	EN
+게임	KO
+
+solitaire	EN
+.	EN
+카드	KO
+.	EN
+klondike	EN
+.	EN
+스파이더	KO
+.	EN
+freecell	EN
+.	EN
+patience	EN
+.	EN
+
+Theme	EN
+파일	KO
+이름	KO
+
+The	EN
+이름	KO
+of	EN
+the	EN
+파일	KO
+with	EN
+the	EN
+그래픽스	KO
+for	EN
+the	EN
+카드	KO
+.	EN
+
+Whether	EN
+or	EN
+아님	KO
+to	EN
+공연	KO
+the	EN
+도구모음	KO
+
+Whether	EN
+or	EN
+아님	KO
+to	EN
+표시	KO
+the	EN
+상태	KO
+bar	EN
+
+Select	EN
+the	EN
+스타일	KO
+of	EN
+제어하기	KO
+
+Select	EN
+whether	EN
+to	EN
+끌기	KO
+the	EN
+카드	KO
+or	EN
+to	EN
+클릭	KO
+on	EN
+the	EN
+소스	KO
+그때	KO
+the	EN
+목적지	KO
+.	EN
+
+Whether	EN
+or	EN
+아님	KO
+to	EN
+play	EN
+이벤트	KO
+소리	KO
+.	EN
+
+Whether	EN
+or	EN
+아님	KO
+to	EN
+애니메이트	KO
+카드	KO
+움직임	KO
+.	EN
+
+The	EN
+경기	KO
+파일	KO
+to	EN
+이용하기	KO
+
+The	EN
+이름	KO
+of	EN
+the	EN
+배열	KO
+파일	KO
+containing	EN
+the	EN
+solitaire	EN
+게임	KO
+to	EN
+연주	KO
+.	EN
+
+Statistics	EN
+of	EN
+게임	KO
+played	EN
+
+A	EN
+목록	KO
+of	EN
+문자열	KO
+that	EN
+come	EN
+in	EN
+the	EN
+형식	KO
+of	EN
+a	EN
+quintuple	EN
+:	EN
+이름	KO
+,	EN
+wins	EN
+,	EN
+총액	KO
+게임	KO
+played	EN
+,	EN
+베스트	KO
+time	KO
+(	EN
+in	EN
+seconds	EN
+)	EN
+그리고	KO
+최악	KO
+time	KO
+(	EN
+또한	KO
+in	EN
+seconds	EN
+)	EN
+.	EN
+Unplayed	EN
+게임	KO
+do	EN
+아님	KO
+need	EN
+to	EN
+be	EN
+represented	EN
+.	EN
+
+Recently	EN
+played	EN
+게임	KO
+
+A	EN
+리스트	KO
+of	EN
+최근에	KO
+played	EN
+게임	KO
+.	EN
+
+New	EN
+Game	EN
+
+Change	EN
+Game	EN
+
+About	EN
+Aisleriot	EN
+
+Select	EN
+Game	EN
+
+_	EN
+Select	EN
+
+_	EN
+New	EN
+Game	EN
+
+_	EN
+Redo	EN
+Move	EN
+
+_	EN
+Restart	EN
+
+_	EN
+Undo	EN
+Move	EN
+
+_	EN
+Deal	EN
+
+_	EN
+Leave	EN
+Fullscreen	EN
+
+_	EN
+Pause	EN
+
+%	EN
+s	EN
+is	EN
+자유	KO
+소프트웨어	KO
+.	EN
+당신	KO
+can	EN
+재배포	KO
+it	EN
+그리고	KO
+/	EN
+or	EN
+수정	KO
+it	EN
+under	EN
+the	EN
+약관	KO
+of	EN
+the	EN
+GNU	EN
+General	EN
+Public	EN
+License	EN
+as	EN
+출판됨	KO
+by	EN
+the	EN
+Free	EN
+Software	EN
+Foundation	EN
+.	EN
+either	EN
+버전	KO
+%	EN
+d	EN
+of	EN
+the	EN
+License	EN
+,	EN
+or	EN
+(	EN
+at	EN
+your	EN
+옵션	KO
+)	EN
+any	EN
+나중에	KO
+버전	KO
+.	EN
+
+You	EN
+should	EN
+have	EN
+받았습니다	KO
+a	EN
+카피	KO
+of	EN
+the	EN
+GNU	EN
+General	EN
+Public	EN
+License	EN
+along	EN
+함께	KO
+이거	KO
+프로그램	KO
+.	EN
+If	EN
+아님	KO
+,	EN
+see	EN
+.	EN
+
+%	EN
+s	EN
+on	EN
+reserve	EN
+
+%	EN
+s	EN
+on	EN
+주식	KO
+
+%	EN
+s	EN
+on	EN
+타블로	KO
+
+%	EN
+s	EN
+on	EN
+폐기물	KO
+
+This	EN
+게임	KO
+does	EN
+아님	KO
+have	EN
+hint	EN
+후원	KO
+아직	KO
+.	EN
+
+Move	EN
+%	EN
+s	EN
+onto	EN
+%	EN
+s	EN
+.	EN
+
+This	EN
+경기	KO
+is	EN
+unable	EN
+to	EN
+provide	EN
+a	EN
+힌트	KO
+.	EN
+
+Aunt	EN
+Mary	EN
+
+Bakers	EN
+Game	EN
+
+Bear	EN
+River	EN
+
+Beleaguered	EN
+Castle	EN
+
+Diamond	EN
+Mine	EN
+
+First	EN
+Law	EN
+
+Forty	EN
+Thieves	EN
+
+Gay	EN
+Gordons	EN
+
+Gold	EN
+Mine	EN
+
+Kings	EN
+Audience	EN
+
+Klondike	EN
+Three	EN
+Decks	EN
+
+Napoleons	EN
+Tomb	EN
+
+Royal	EN
+East	EN
+
+Spider	EN
+Three	EN
+Decks	EN
+
+Straight	EN
+Up	EN
+
+Streets	EN
+And	EN
+Alleys	EN
+
+Thumb	EN
+And	EN
+Pouch	EN
+
+Will	EN
+O	EN
+The	EN
+Wisp	EN
+
+ace	KO
+of	EN
+클럽	KO
+
+두분	KO
+of	EN
+클럽	KO
+
+three	EN
+of	EN
+클럽	KO
+
+four	EN
+of	EN
+클럽	KO
+
+파이브	KO
+of	EN
+클럽	KO
+
+여섯	KO
+of	EN
+클럽	KO
+
+seven	EN
+of	EN
+클럽	KO
+
+여덟	KO
+of	EN
+클럽	KO
+
+아홉	KO
+of	EN
+클럽	KO
+
+ten	EN
+of	EN
+클럽	KO
+
+젝스키스	KO
+of	EN
+클럽	KO
+
+여왕	KO
+of	EN
+클럽	KO
+
+king	EN
+of	EN
+클럽	KO
+
+ace	KO
+of	EN
+diamonds	KO
+
+두두	KO
+of	EN
+다이아몬드	KO
+
+three	EN
+of	EN
+다이아몬드	KO
+
+four	EN
+of	EN
+diamonds	KO
+
+파이브	KO
+of	EN
+다이아몬드	KO
+
+여섯	KO
+of	EN
+다이아몬드	KO
+
+일곱	KO
+of	EN
+diamonds	KO
+
+여덟	KO
+of	EN
+다이아몬드	KO
+
+아홉	KO
+of	EN
+다이아몬드	KO
+
+ten	EN
+of	EN
+diamonds	KO
+
+젝스키스	KO
+of	EN
+diamonds	KO
+
+여왕	KO
+of	EN
+다이아몬드	KO
+
+king	EN
+of	EN
+diamonds	KO
+
+에이스	KO
+of	EN
+하트	KO
+
+two	EN
+of	EN
+하트	KO
+
+three	EN
+of	EN
+하트	KO
+
+four	EN
+of	EN
+하트	KO
+
+다섯	KO
+of	EN
+하트	KO
+
+여섯	KO
+of	EN
+하트	KO
+
+여덟	KO
+of	EN
+하트	KO
+
+아홉	KO
+of	EN
+hearts	EN
+
+ten	EN
+of	EN
+하트	KO
+
+젝스키스	KO
+of	EN
+하트	KO
+
+여왕	KO
+of	EN
+하트	KO
+
+king	EN
+of	EN
+하트	KO
+
+여왕	KO
+of	EN
+스페이드	KO
+
+검정색	KO
+joker	EN
+
+붉은	KO
+joker	EN
+
+Help	EN
+파일	KO
+%	EN
+s	EN
+.	EN
+%	EN
+s	EN
+아님	KO
+찾았습니다	KO
+
+Could	EN
+아님	KO
+공연	KO
+도움말	KO
+for	EN
+%	EN
+s	EN
+
+Whether	EN
+the	EN
+창문	KO
+is	EN
+최대화	KO
+
+Whether	EN
+the	EN
+창문	KO
+is	EN
+fullscreen	EN
+
+Window	EN
+키는	KO
+
+GNOME	EN
+Solitaire	EN
+
+About	EN
+Solitaire	EN
+
+Select	EN
+the	EN
+게임	KO
+형식	KO
+to	EN
+연주	KO
+
+N	EN
+/	EN
+A	EN
+
+Congratulations	EN
+,	EN
+당신	KO
+have	EN
+won	EN
+!	EN
+
+There	EN
+are	EN
+no	EN
+기타	KO
+moves	KO
+
+Card	EN
+games	EN
+:	EN
+
+Card	EN
+주제	KO
+:	EN
+
+About	EN
+AisleRiot	EN
+
+AisleRiot	EN
+provides	EN
+a	EN
+법칙	KO
+-	EN
+기반으로	KO
+solitaire	EN
+카드	KO
+엔진	KO
+that	EN
+allows	EN
+많은	KO
+다르다	KO
+게임	KO
+to	EN
+be	EN
+played	EN
+.	EN
+
+GNOME	EN
+Games	EN
+웹툰	KO
+사이트	KO
+
+Play	EN
+%	EN
+s	EN
+
+Display	EN
+카드	KO
+함께	KO
+%	EN
+s	EN
+카드	KO
+테마	KO
+
+A	EN
+배열	KO
+예외	KO
+occurred	EN
+
+Please	EN
+보고	KO
+이거	KO
+버그	KO
+to	EN
+the	EN
+개발자	KO
+.	EN
+
+_	EN
+Don	EN
+'	EN
+t	EN
+보고서	KO
+
+_	EN
+Report	EN
+
+_	EN
+Game	EN
+
+_	EN
+View	EN
+
+_	EN
+Control	EN
+
+_	EN
+Help	EN
+
+Start	EN
+a	EN
+new	EN
+game	EN
+
+Restart	EN
+the	EN
+경기	KO
+
+_	EN
+Select	EN
+Game	EN
+
+Play	EN
+a	EN
+달라	KO
+경기	KO
+
+_	EN
+Recently	EN
+Played	EN
+
+Show	EN
+gameplay	EN
+통계	KO
+
+Close	EN
+이거	KO
+창문	KO
+
+Undo	EN
+the	EN
+마지막	KO
+움직여	KO
+
+Redo	EN
+the	EN
+undone	EN
+움직임	KO
+
+Deal	EN
+다음	KO
+카드	KO
+or	EN
+카드	KO
+
+Get	EN
+a	EN
+힌트	KO
+for	EN
+your	EN
+넥스트	KO
+움직여	KO
+
+View	EN
+도움	KO
+for	EN
+Aisleriot	EN
+
+View	EN
+도움	KO
+for	EN
+이거	KO
+경기	KO
+
+About	EN
+이거	KO
+게임	KO
+
+Install	EN
+카드	KO
+주제	KO
+
+Install	EN
+new	EN
+카드	KO
+주제	KO
+출신	KO
+the	EN
+분포	KO
+packages	EN
+repositories	EN
+
+_	EN
+Toolbar	EN
+
+Show	EN
+or	EN
+숨기기	KO
+the	EN
+도구모음	KO
+
+Show	EN
+or	EN
+숨기기	KO
+statusbar	EN
+
+_	EN
+Click	EN
+to	EN
+Move	EN
+
+Pick	EN
+up	EN
+그리고	KO
+방울	KO
+카드	KO
+by	EN
+clicking	EN
+
+_	EN
+Sound	EN
+
+Whether	EN
+or	EN
+아님	KO
+to	EN
+연주	KO
+이벤트	KO
+소리	KO
+
+_	EN
+Animations	EN
+
+Whether	EN
+or	EN
+아님	KO
+to	EN
+애니메이트	KO
+card	EN
+움직임	KO
+
+Cannot	EN
+시작하기	KO
+the	EN
+경기	KO
+%	EN
+s	EN
+
+Aisleriot	EN
+cannot	EN
+찾기	KO
+the	EN
+마지막	KO
+경기	KO
+귀하	KO
+played	EN
+.	EN
+
+This	EN
+보통	KO
+발생	KO
+when	EN
+당신	KO
+런닝	KO
+an	EN
+older	EN
+version	EN
+of	EN
+Aisleriot	EN
+어느	KO
+does	EN
+아님	KO
+have	EN
+the	EN
+경기	KO
+당신은	KO
+마지막	KO
+played	EN
+.	EN
+The	EN
+기본값	KO
+경기	KO
+,	EN
+Klondike	EN
+,	EN
+is	EN
+being	EN
+시작됨	KO
+대신에	KO
+.	EN
+
+Base	EN
+Card	EN
+:	EN
+~	EN
+a	EN
+
+Base	EN
+Card	EN
+:	EN
+Ace	EN
+
+Base	EN
+Card	EN
+:	EN
+Jack	EN
+
+Base	EN
+Card	EN
+:	EN
+Queen	EN
+
+Base	EN
+Card	EN
+:	EN
+King	EN
+
+Stock	EN
+왼쪽	KO
+:	EN
+
+Stock	EN
+left	EN
+:	EN
+0	EN
+
+Deal	EN
+기타	KO
+카드	KO
+
+Try	EN
+rearranging	EN
+the	EN
+카드	KO
+
+Unknown	EN
+color	EN
+
+the	EN
+검정색	KO
+joker	EN
+
+the	EN
+붉은색	KO
+joker	EN
+
+the	EN
+ace	KO
+of	EN
+클럽	KO
+
+the	EN
+두두	KO
+of	EN
+클럽	KO
+
+the	EN
+three	EN
+of	EN
+클럽	KO
+
+the	EN
+four	EN
+of	EN
+클럽	KO
+
+the	EN
+다섯	KO
+of	EN
+클럽	KO
+
+the	EN
+six	EN
+of	EN
+클럽	KO
+
+the	EN
+seven	EN
+of	EN
+클럽	KO
+
+the	EN
+여덟	KO
+of	EN
+클럽	KO
+
+the	EN
+아홉	KO
+of	EN
+클럽	KO
+
+the	EN
+ten	EN
+of	EN
+클럽	KO
+
+the	EN
+젝스키스	KO
+of	EN
+클럽	KO
+
+the	EN
+여왕	KO
+of	EN
+클럽	KO
+
+the	EN
+king	EN
+of	EN
+클럽	KO
+
+the	EN
+여왕	KO
+of	EN
+스페이드	KO
+
+the	EN
+ace	KO
+of	EN
+하트	KO
+
+the	EN
+두분	KO
+of	EN
+하트	KO
+
+the	EN
+three	EN
+of	EN
+hearts	EN
+
+the	EN
+four	EN
+of	EN
+하트	KO
+
+the	EN
+파이브	KO
+of	EN
+hearts	EN
+
+the	EN
+여섯	KO
+of	EN
+하트	KO
+
+the	EN
+eight	KO
+of	EN
+하트	KO
+
+the	EN
+아홉	KO
+of	EN
+하트	KO
+
+the	EN
+ten	EN
+of	EN
+하트	KO
+
+the	EN
+젝스키스	KO
+of	EN
+하트	KO
+
+the	EN
+여왕	KO
+of	EN
+하트	KO
+
+the	EN
+king	EN
+of	EN
+하트	KO
+
+the	EN
+ace	KO
+of	EN
+다이아몬드	KO
+
+the	EN
+두두	KO
+of	EN
+diamonds	KO
+
+the	EN
+three	EN
+of	EN
+다이아몬드	KO
+
+the	EN
+four	EN
+of	EN
+다이아몬드	KO
+
+the	EN
+five	EN
+of	EN
+diamonds	KO
+
+the	EN
+여섯	KO
+of	EN
+diamonds	KO
+
+the	EN
+세븐	KO
+of	EN
+다이아몬드	KO
+
+the	EN
+여덟	KO
+of	EN
+다이아몬드	KO
+
+the	EN
+아홉	KO
+of	EN
+diamonds	EN
+
+the	EN
+ten	EN
+of	EN
+다이아몬드	KO
+
+the	EN
+젝스키스	KO
+of	EN
+다이아몬드	KO
+
+the	EN
+여왕	KO
+of	EN
+diamonds	KO
+
+the	EN
+king	EN
+of	EN
+diamonds	KO
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+foundation	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+파운데이션	KO
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+타블로	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+타블로	KO
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+reserve	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+reserve	EN
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+edge	KO
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+구석	KO
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+top	KO
+slot	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+아래쪽	KO
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+좌파	KO
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+오른쪽	KO
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+검은색	KO
+joker	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+레드	KO
+joker	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+ace	KO
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+두분	KO
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+three	EN
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+four	EN
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+다섯	KO
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여섯	KO
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+세븐	KO
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여덟	KO
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+nine	EN
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+ten	EN
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+젝스키스	KO
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+queen	EN
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+king	EN
+of	EN
+clubs	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+unknown	EN
+카드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+에이스	KO
+of	EN
+스페이드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+두두	KO
+of	EN
+스페이드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+three	EN
+of	EN
+스페이드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+four	EN
+of	EN
+스페이드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+다섯	KO
+of	EN
+스페이드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여섯	KO
+of	EN
+spades	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+일곱	KO
+of	EN
+스페이드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여덟	KO
+of	EN
+스페이드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+아홉	KO
+of	EN
+스페이드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+ten	EN
+of	EN
+스페이드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+젝스키스	KO
+of	EN
+스페이드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여왕	KO
+of	EN
+스페이드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+king	EN
+of	EN
+spades	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+ace	KO
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+두분	KO
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+three	EN
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+four	EN
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+파이브	KO
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여섯	KO
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+일곱	KO
+of	EN
+hearts	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여덟	KO
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+아홉	KO
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+ten	EN
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+젝스키스	KO
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여왕	KO
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+king	EN
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+ace	KO
+of	EN
+diamonds	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+두두	KO
+of	EN
+diamonds	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+three	EN
+of	EN
+diamonds	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+four	EN
+of	EN
+다이아몬드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+파이브	KO
+of	EN
+diamonds	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여섯	KO
+of	EN
+다이아몬드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+일곱	KO
+of	EN
+diamonds	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+eight	KO
+of	EN
+다이아몬드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+아홉	KO
+of	EN
+다이아몬드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+ten	EN
+of	EN
+다이아몬드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+젝스키스	KO
+of	EN
+diamonds	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여왕	KO
+of	EN
+diamonds	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+king	EN
+of	EN
+diamonds	KO
+.	EN
+
+Remove	EN
+the	EN
+검정색	KO
+joker	EN
+.	EN
+
+Remove	EN
+the	EN
+레드	KO
+joker	EN
+.	EN
+
+Remove	EN
+the	EN
+에이스	KO
+of	EN
+클럽	KO
+.	EN
+
+Remove	EN
+the	EN
+두분	KO
+of	EN
+클럽	KO
+.	EN
+
+Remove	EN
+the	EN
+three	EN
+of	EN
+클럽	KO
+.	EN
+
+Remove	EN
+the	EN
+four	EN
+of	EN
+clubs	EN
+.	EN
+
+Remove	EN
+the	EN
+다섯	KO
+of	EN
+클럽	KO
+.	EN
+
+Remove	EN
+the	EN
+여섯	KO
+of	EN
+클럽	KO
+.	EN
+
+Remove	EN
+the	EN
+세븐	KO
+of	EN
+클럽	KO
+.	EN
+
+Remove	EN
+the	EN
+eight	KO
+of	EN
+클럽	KO
+.	EN
+
+Remove	EN
+the	EN
+아홉	KO
+of	EN
+클럽	KO
+.	EN
+
+Remove	EN
+the	EN
+ten	EN
+of	EN
+클럽	KO
+.	EN
+
+Remove	EN
+the	EN
+젝스키스	KO
+of	EN
+클럽	KO
+.	EN
+
+Remove	EN
+the	EN
+여왕	KO
+of	EN
+클럽	KO
+.	EN
+
+Remove	EN
+the	EN
+king	EN
+of	EN
+클럽	KO
+.	EN
+
+Remove	EN
+the	EN
+ace	KO
+of	EN
+스페이드	KO
+.	EN
+
+Remove	EN
+the	EN
+두두	KO
+of	EN
+스페이드	KO
+.	EN
+
+Remove	EN
+the	EN
+three	EN
+of	EN
+스페이드	KO
+.	EN
+
+Remove	EN
+the	EN
+four	EN
+of	EN
+스페이드	KO
+.	EN
+
+Remove	EN
+the	EN
+파이브	KO
+of	EN
+스페이드	KO
+.	EN
+
+Remove	EN
+the	EN
+여섯	KO
+of	EN
+스페이드	KO
+.	EN
+
+Remove	EN
+the	EN
+세븐	KO
+of	EN
+스페이드	KO
+.	EN
+
+Remove	EN
+the	EN
+여덟	KO
+of	EN
+스페이드	KO
+.	EN
+
+Remove	EN
+the	EN
+아홉	KO
+of	EN
+스페이드	KO
+.	EN
+
+Remove	EN
+the	EN
+ten	EN
+of	EN
+스페이드	KO
+.	EN
+
+Remove	EN
+the	EN
+젝스키스	KO
+of	EN
+스페이드	KO
+.	EN
+
+Remove	EN
+the	EN
+여왕	KO
+of	EN
+스페이드	KO
+.	EN
+
+Remove	EN
+the	EN
+king	EN
+of	EN
+스페이드	KO
+.	EN
+
+Remove	EN
+the	EN
+ace	KO
+of	EN
+하트	KO
+.	EN
+
+Remove	EN
+the	EN
+두두	KO
+of	EN
+하트	KO
+.	EN
+
+Remove	EN
+the	EN
+three	EN
+of	EN
+하트	KO
+.	EN
+
+Remove	EN
+the	EN
+four	EN
+of	EN
+하트	KO
+.	EN
+
+Remove	EN
+the	EN
+파이브	KO
+of	EN
+하트	KO
+.	EN
+
+Remove	EN
+the	EN
+여섯	KO
+of	EN
+하트	KO
+.	EN
+
+Remove	EN
+the	EN
+일곱	KO
+of	EN
+하트	KO
+.	EN
+
+Remove	EN
+the	EN
+eight	KO
+of	EN
+하트	KO
+.	EN
+
+Remove	EN
+the	EN
+아홉	KO
+of	EN
+하트	KO
+.	EN
+
+Remove	EN
+the	EN
+ten	EN
+of	EN
+하트	KO
+.	EN
+
+Remove	EN
+the	EN
+젝스키스	KO
+of	EN
+하트	KO
+.	EN
+
+Remove	EN
+the	EN
+여왕	KO
+of	EN
+하트	KO
+.	EN
+
+Remove	EN
+the	EN
+king	EN
+of	EN
+하트	KO
+.	EN
+
+Remove	EN
+the	EN
+ace	KO
+of	EN
+diamonds	EN
+.	EN
+
+Remove	EN
+the	EN
+두분	KO
+of	EN
+diamonds	KO
+.	EN
+
+Remove	EN
+the	EN
+three	EN
+of	EN
+다이아몬드	KO
+.	EN
+
+Remove	EN
+the	EN
+four	EN
+of	EN
+diamonds	KO
+.	EN
+
+Remove	EN
+the	EN
+다섯	KO
+of	EN
+diamonds	KO
+.	EN
+
+Remove	EN
+the	EN
+여섯	KO
+of	EN
+diamonds	KO
+.	EN
+
+Remove	EN
+the	EN
+일곱	KO
+of	EN
+diamonds	EN
+.	EN
+
+Remove	EN
+the	EN
+eight	EN
+of	EN
+다이아몬드	KO
+.	EN
+
+Remove	EN
+the	EN
+아홉	KO
+of	EN
+diamonds	KO
+.	EN
+
+Remove	EN
+the	EN
+ten	EN
+of	EN
+다이아몬드	KO
+.	EN
+
+Remove	EN
+the	EN
+젝스키스	KO
+of	EN
+다이아몬드	KO
+.	EN
+
+Remove	EN
+the	EN
+여왕	KO
+of	EN
+diamonds	EN
+.	EN
+
+Remove	EN
+the	EN
+king	EN
+of	EN
+다이아몬드	KO
+.	EN
+
+Three	EN
+카드	KO
+deals	EN
+
+Deal	EN
+또다른	KO
+라운드	KO
+
+Redeals	EN
+왼쪽	KO
+:	EN
+
+Deal	EN
+a	EN
+new	EN
+카드	KO
+출신	KO
+the	EN
+갑판	KO
+
+Base	EN
+Card	EN
+:	EN
+
+Move	EN
+무언가	KO
+onto	EN
+an	EN
+비어	KO
+오른쪽	KO
+-	EN
+핸드	KO
+타블로	KO
+슬롯	KO
+
+Reserve	EN
+좌파	KO
+:	EN
+
+Move	EN
+폐기물	KO
+back	EN
+to	EN
+재고	KO
+
+Move	EN
+a	EN
+카드	KO
+to	EN
+the	EN
+Foundation	EN
+
+Move	EN
+뭔가	KO
+into	EN
+the	EN
+비어	KO
+Tableau	EN
+슬롯	KO
+
+Just	EN
+왜냐면	KO
+a	EN
+crosswalk	EN
+looks	EN
+like	EN
+a	EN
+hopscotch	EN
+게시판	KO
+doesn	EN
+'	EN
+t	EN
+평균	KO
+it	EN
+is	EN
+하나	KO
+
+Look	EN
+둘다	KO
+방법	KO
+전에	KO
+귀하	KO
+크로스	KO
+the	EN
+스트리트	KO
+
+Have	EN
+귀하	KO
+읽고	KO
+the	EN
+도움	KO
+파일	KO
+?	EN
+
+Odessa	EN
+is	EN
+a	EN
+better	EN
+경기	KO
+.	EN
+Really	EN
+.	EN
+
+Tourniquets	EN
+are	EN
+아님	KO
+권장	KO
+unless	EN
+in	EN
+the	EN
+direst	EN
+응급	KO
+
+I	EN
+could	EN
+sure	EN
+이용	KO
+a	EN
+backrub	EN
+오른쪽	KO
+대략	KO
+이제	KO
+.	EN
+.	EN
+.	EN
+
+Monitors	EN
+won	EN
+'	EN
+t	EN
+give	EN
+당신은	KO
+Vitamin	EN
+D	EN
+-	EN
+-	EN
+그런데	KO
+sunlight	EN
+will	EN
+.	EN
+.	EN
+.	EN
+
+If	EN
+당신은	KO
+'	EN
+re	EN
+ever	EN
+잃어버린	KO
+그리고	KO
+홀로	KO
+in	EN
+the	EN
+우즈	KO
+,	EN
+포옹	KO
+a	EN
+나무	KO
+
+Fishing	EN
+와이어	KO
+makes	EN
+bad	KO
+치과	KO
+floss	EN
+
+Consistency	EN
+is	EN
+키키	KO
+
+When	EN
+without	KO
+a	EN
+stapler	EN
+,	EN
+a	EN
+staple	EN
+그리고	KO
+a	EN
+통치자	KO
+will	EN
+퇴근	KO
+
+Never	EN
+blow	EN
+in	EN
+a	EN
+개그	KO
+'	EN
+s	EN
+ear	EN
+
+Cards	EN
+남음	KO
+:	EN
+~	EN
+a	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+an	EN
+에이스	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+두분	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+three	EN
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+four	EN
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+파이브	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+여섯	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+세븐	KO
+.	EN
+
+You	EN
+are	EN
+searching	EN
+for	EN
+an	EN
+eight	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+아홉	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+ten	EN
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+젝스키스	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+queen	EN
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+king	EN
+.	EN
+
+Unknown	EN
+가치	KO
+
+Deal	EN
+a	EN
+카드	KO
+
+Move	EN
+a	EN
+king	EN
+onto	EN
+an	EN
+비어	KO
+타블로	KO
+슬롯	KO
+.	EN
+
+No	EN
+힌트	KO
+available	EN
+오른쪽	KO
+지금	KO
+
+Move	EN
+뭔가	KO
+on	EN
+to	EN
+an	EN
+비어	KO
+reserve	EN
+
+Six	EN
+Foundations	EN
+
+Five	EN
+Foundations	EN
+
+Four	EN
+Foundations	EN
+
+Play	EN
+a	EN
+카드	KO
+to	EN
+재단	KO
+.	EN
+
+No	EN
+움직임	KO
+.	EN
+
+Remove	EN
+the	EN
+에이스	KO
+
+Remove	EN
+the	EN
+twos	EN
+
+Remove	EN
+the	EN
+threes	EN
+
+Remove	EN
+the	EN
+fives	EN
+
+Remove	EN
+the	EN
+sixes	EN
+
+Remove	EN
+the	EN
+sevens	EN
+
+Remove	EN
+the	EN
+eights	EN
+
+Remove	EN
+the	EN
+nines	EN
+
+Remove	EN
+the	EN
+tens	EN
+
+Remove	EN
+the	EN
+jacks	EN
+
+Remove	EN
+the	EN
+퀸스	KO
+
+Remove	EN
+the	EN
+킹스	KO
+
+I	EN
+'	EN
+m	EN
+아님	KO
+sure	EN
+
+Return	EN
+카드	KO
+to	EN
+주식	KO
+
+Move	EN
+무엇인가	KO
+onto	EN
+an	EN
+비어	KO
+타블로	KO
+슬롯	KO
+.	EN
+
+Consider	EN
+움직임	KO
+something	KO
+into	EN
+an	EN
+비어	KO
+슬롯	KO
+
+Deal	EN
+a	EN
+카드	KO
+출신	KO
+재고	KO
+
+No	EN
+moves	EN
+are	EN
+가능	KO
+.	EN
+Undo	EN
+or	EN
+start	EN
+또다시	KO
+.	EN
+
+The	EN
+게임	KO
+has	EN
+no	EN
+해결책	KO
+.	EN
+Undo	EN
+or	EN
+시작하기	KO
+다시	KO
+.	EN
+
+Double	EN
+click	EN
+any	EN
+카드	KO
+to	EN
+redeal	EN
+.	EN
+
+No	EN
+힌트	KO
+available	EN
+.	EN
+
+Place	EN
+a	EN
+두분	KO
+in	EN
+the	EN
+leftmost	EN
+슬롯	KO
+of	EN
+row	EN
+~	EN
+a	EN
+.	EN
+
+Add	EN
+to	EN
+the	EN
+sequence	EN
+in	EN
+row	EN
+~	EN
+a	EN
+.	EN
+
+Place	EN
+the	EN
+두두	KO
+of	EN
+클럽	KO
+next	EN
+to	EN
+the	EN
+에이스	KO
+of	EN
+클럽	KO
+.	EN
+
+Place	EN
+the	EN
+three	EN
+of	EN
+클럽	KO
+다음	KO
+to	EN
+the	EN
+두두	KO
+of	EN
+클럽	KO
+.	EN
+
+Place	EN
+the	EN
+four	EN
+of	EN
+clubs	EN
+넥스트	KO
+to	EN
+the	EN
+three	EN
+of	EN
+클럽	KO
+.	EN
+
+Place	EN
+the	EN
+파이브	KO
+of	EN
+클럽	KO
+next	EN
+to	EN
+the	EN
+four	EN
+of	EN
+클럽	KO
+.	EN
+
+Place	EN
+the	EN
+여섯	KO
+of	EN
+클럽	KO
+넥스트	KO
+to	EN
+the	EN
+파이브	KO
+of	EN
+클럽	KO
+.	EN
+
+Place	EN
+the	EN
+세븐	KO
+of	EN
+클럽	KO
+다음	KO
+to	EN
+the	EN
+여섯	KO
+of	EN
+클럽	KO
+.	EN
+
+Place	EN
+the	EN
+eight	KO
+of	EN
+클럽	KO
+다음	KO
+to	EN
+the	EN
+세븐	KO
+of	EN
+클럽	KO
+.	EN
+
+Place	EN
+the	EN
+아홉	KO
+of	EN
+클럽	KO
+다음	KO
+to	EN
+the	EN
+여덟	KO
+of	EN
+clubs	EN
+.	EN
+
+Place	EN
+the	EN
+ten	EN
+of	EN
+클럽	KO
+다음	KO
+to	EN
+the	EN
+아홉	KO
+of	EN
+클럽	KO
+.	EN
+
+Place	EN
+the	EN
+젝스키스	KO
+of	EN
+클럽	KO
+다음	KO
+to	EN
+the	EN
+ten	EN
+of	EN
+클럽	KO
+.	EN
+
+Place	EN
+the	EN
+여왕	KO
+of	EN
+클럽	KO
+다음	KO
+to	EN
+the	EN
+젝스키스	KO
+of	EN
+클럽	KO
+.	EN
+
+Place	EN
+the	EN
+king	EN
+of	EN
+클럽	KO
+다음	KO
+to	EN
+the	EN
+여왕	KO
+of	EN
+클럽	KO
+.	EN
+
+Place	EN
+the	EN
+두두	KO
+of	EN
+스페이드	KO
+넥스트	KO
+to	EN
+the	EN
+ace	KO
+of	EN
+스페이드	KO
+.	EN
+
+Place	EN
+the	EN
+three	EN
+of	EN
+스페이드	KO
+다음	KO
+to	EN
+the	EN
+두분	KO
+of	EN
+스페이드	KO
+.	EN
+
+Place	EN
+the	EN
+four	EN
+of	EN
+spades	EN
+넥스트	KO
+to	EN
+the	EN
+three	EN
+of	EN
+스페이드	KO
+.	EN
+
+Place	EN
+the	EN
+다섯	KO
+of	EN
+스페이드	KO
+다음	KO
+to	EN
+the	EN
+four	EN
+of	EN
+스페이드	KO
+.	EN
+
+Place	EN
+the	EN
+여섯	KO
+of	EN
+스페이드	KO
+다음	KO
+to	EN
+the	EN
+파이브	KO
+of	EN
+스페이드	KO
+.	EN
+
+Place	EN
+the	EN
+일곱	KO
+of	EN
+스페이드	KO
+다음	KO
+to	EN
+the	EN
+여섯	KO
+of	EN
+스페이드	KO
+.	EN
+
+Place	EN
+the	EN
+eight	KO
+of	EN
+스페이드	KO
+넥스트	KO
+to	EN
+the	EN
+일곱	KO
+of	EN
+스페이드	KO
+.	EN
+
+Place	EN
+the	EN
+아홉	KO
+of	EN
+스페이드	KO
+다음	KO
+to	EN
+the	EN
+eight	KO
+of	EN
+스페이드	KO
+.	EN
+
+Place	EN
+the	EN
+ten	EN
+of	EN
+스페이드	KO
+다음	KO
+to	EN
+the	EN
+아홉	KO
+of	EN
+spades	EN
+.	EN
+
+Place	EN
+the	EN
+젝스키스	KO
+of	EN
+스페이드	KO
+다음	KO
+to	EN
+the	EN
+ten	EN
+of	EN
+스페이드	KO
+.	EN
+
+Place	EN
+the	EN
+여왕	KO
+of	EN
+스페이드	KO
+넥스트	KO
+to	EN
+the	EN
+젝스키스	KO
+of	EN
+스페이드	KO
+.	EN
+
+Place	EN
+the	EN
+king	EN
+of	EN
+스페이드	KO
+next	EN
+to	EN
+the	EN
+여왕	KO
+of	EN
+스페이드	KO
+.	EN
+
+Place	EN
+the	EN
+두분	KO
+of	EN
+하트	KO
+다음	KO
+to	EN
+the	EN
+ace	KO
+of	EN
+하트	KO
+.	EN
+
+Place	EN
+the	EN
+three	EN
+of	EN
+하트	KO
+다음	KO
+to	EN
+the	EN
+두분	KO
+of	EN
+하트	KO
+.	EN
+
+Place	EN
+the	EN
+four	EN
+of	EN
+하트	KO
+다음	KO
+to	EN
+the	EN
+three	EN
+of	EN
+하트	KO
+.	EN
+
+Place	EN
+the	EN
+다섯	KO
+of	EN
+하트	KO
+다음	KO
+to	EN
+the	EN
+four	EN
+of	EN
+하트	KO
+.	EN
+
+Place	EN
+the	EN
+six	EN
+of	EN
+하트	KO
+넥스트	KO
+to	EN
+the	EN
+파이브	KO
+of	EN
+하트	KO
+.	EN
+
+Place	EN
+the	EN
+세븐	KO
+of	EN
+하트	KO
+넥스트	KO
+to	EN
+the	EN
+여섯	KO
+of	EN
+하트	KO
+.	EN
+
+Place	EN
+the	EN
+여덟	KO
+of	EN
+하트	KO
+넥스트	KO
+to	EN
+the	EN
+세븐	KO
+of	EN
+하트	KO
+.	EN
+
+Place	EN
+the	EN
+아홉	KO
+of	EN
+하트	KO
+다음	KO
+to	EN
+the	EN
+eight	EN
+of	EN
+hearts	EN
+.	EN
+
+Place	EN
+the	EN
+ten	EN
+of	EN
+하트	KO
+넥스트	KO
+to	EN
+the	EN
+아홉	KO
+of	EN
+하트	KO
+.	EN
+
+Place	EN
+the	EN
+젝스키스	KO
+of	EN
+하트	KO
+넥스트	KO
+to	EN
+the	EN
+ten	EN
+of	EN
+하트	KO
+.	EN
+
+Place	EN
+the	EN
+여왕	KO
+of	EN
+하트	KO
+다음	KO
+to	EN
+the	EN
+젝스키스	KO
+of	EN
+하트	KO
+.	EN
+
+Place	EN
+the	EN
+king	EN
+of	EN
+하트	KO
+다음	KO
+to	EN
+the	EN
+여왕	KO
+of	EN
+하트	KO
+.	EN
+
+Place	EN
+the	EN
+두두	KO
+of	EN
+다이아몬드	KO
+다음	KO
+to	EN
+the	EN
+ace	KO
+of	EN
+다이아몬드	KO
+.	EN
+
+Place	EN
+the	EN
+three	EN
+of	EN
+다이아몬드	KO
+다음	KO
+to	EN
+the	EN
+two	EN
+of	EN
+diamonds	KO
+.	EN
+
+Place	EN
+the	EN
+four	EN
+of	EN
+diamonds	KO
+다음	KO
+to	EN
+the	EN
+three	EN
+of	EN
+다이아몬드	KO
+.	EN
+
+Place	EN
+the	EN
+파이브	KO
+of	EN
+diamonds	KO
+다음	KO
+to	EN
+the	EN
+four	EN
+of	EN
+diamonds	KO
+.	EN
+
+Place	EN
+the	EN
+여섯	KO
+of	EN
+diamonds	KO
+다음	KO
+to	EN
+the	EN
+파이브	KO
+of	EN
+diamonds	KO
+.	EN
+
+Place	EN
+the	EN
+세븐	KO
+of	EN
+다이아몬드	KO
+다음	KO
+to	EN
+the	EN
+여섯	KO
+of	EN
+diamonds	KO
+.	EN
+
+Place	EN
+the	EN
+eight	KO
+of	EN
+diamonds	KO
+넥스트	KO
+to	EN
+the	EN
+세븐	KO
+of	EN
+다이아몬드	KO
+.	EN
+
+Place	EN
+the	EN
+아홉	KO
+of	EN
+다이아몬드	KO
+다음	KO
+to	EN
+the	EN
+eight	KO
+of	EN
+다이아몬드	KO
+.	EN
+
+Place	EN
+the	EN
+ten	EN
+of	EN
+다이아몬드	KO
+next	EN
+to	EN
+the	EN
+아홉	KO
+of	EN
+diamonds	EN
+.	EN
+
+Place	EN
+the	EN
+젝스키스	KO
+of	EN
+diamonds	KO
+다음	KO
+to	EN
+the	EN
+ten	EN
+of	EN
+diamonds	KO
+.	EN
+
+Place	EN
+the	EN
+여왕	KO
+of	EN
+다이아몬드	KO
+넥스트	KO
+to	EN
+the	EN
+젝스키스	KO
+of	EN
+diamonds	KO
+.	EN
+
+Place	EN
+the	EN
+king	EN
+of	EN
+diamonds	KO
+다음	KO
+to	EN
+the	EN
+여왕	KO
+of	EN
+diamonds	KO
+.	EN
+
+Randomly	EN
+Placed	EN
+Gaps	EN
+on	EN
+Redeal	EN
+
+Deals	EN
+왼쪽	KO
+:	EN
+~	EN
+a	EN
+
+Deal	EN
+a	EN
+row	EN
+
+Try	EN
+이사	KO
+a	EN
+카드	KO
+to	EN
+the	EN
+reserve	EN
+
+Try	EN
+dealing	EN
+a	EN
+row	EN
+of	EN
+카드	KO
+
+Try	EN
+이사	KO
+카드	KO
+piles	EN
+주변	KO
+
+Same	EN
+suit	EN
+
+Select	EN
+a	EN
+카드	KO
+출신	KO
+the	EN
+reserve	EN
+for	EN
+퍼스트	KO
+재단	KO
+pile	EN
+
+Move	EN
+a	EN
+카드	KO
+출신	KO
+the	EN
+reserve	EN
+onto	EN
+the	EN
+비어	KO
+타블로	KO
+슬롯	KO
+
+Stock	EN
+좌파	KO
+:	EN
+~	EN
+a	EN
+
+Deal	EN
+또다른	KO
+카드	KO
+
+Move	EN
+a	EN
+카드	KO
+or	EN
+빌드	KO
+of	EN
+카드	KO
+on	EN
+to	EN
+the	EN
+비어	KO
+슬롯	KO
+
+Deal	EN
+또다른	KO
+핸드	KO
+
+Move	EN
+카드	KO
+출신	KO
+폐기물	KO
+
+Move	EN
+waste	EN
+to	EN
+재고	KO
+
+Stock	EN
+남음	KO
+:	EN
+~	EN
+a	EN
+
+Deal	EN
+a	EN
+new	EN
+카드	KO
+
+Try	EN
+이사	KO
+카드	KO
+다운	KO
+출신	KO
+the	EN
+foundation	EN
+
+Single	EN
+카드	KO
+deals	EN
+
+No	EN
+redeals	EN
+
+Unlimited	EN
+redeals	EN
+
+Aim	EN
+to	EN
+장소	KO
+the	EN
+양복	KO
+in	EN
+the	EN
+주문	KO
+어느	KO
+fits	EN
+the	EN
+현재	KO
+배치	KO
+대부분의	KO
+자연스럽게	KO
+.	EN
+
+Redeals	EN
+왼쪽	KO
+:	EN
+~	EN
+a	EN
+
+Deal	EN
+new	EN
+카드	KO
+출신	KO
+the	EN
+갑판	KO
+
+Place	EN
+cards	EN
+on	EN
+to	EN
+the	EN
+Tableau	EN
+to	EN
+양식	KO
+포커	KO
+hands	EN
+
+Deal	EN
+the	EN
+카드	KO
+
+Move	EN
+폐기물	KO
+on	EN
+to	EN
+a	EN
+reserve	EN
+슬롯	KO
+
+Undo	EN
+until	EN
+거기	KO
+are	EN
+충분히	KO
+카드	KO
+to	EN
+채워	KO
+모두	KO
+타블로	KO
+piles	EN
+
+Please	EN
+fill	KO
+in	EN
+비어	KO
+pile	EN
+처음	KO
+.	EN
+
+Place	EN
+something	KO
+on	EN
+비어	KO
+슬롯	KO
+
+Four	EN
+Suits	EN
+
+Two	EN
+Suits	EN
+
+One	EN
+Suit	EN
+
+Move	EN
+a	EN
+카드	KO
+to	EN
+an	EN
+비어	KO
+임시	KO
+슬롯	KO
+
+No	EN
+힌트	KO
+available	EN
+
+Allow	EN
+일시적	KO
+스팟	KO
+사용하기	KO
+
+General	EN
+'	EN
+s	EN
+Patience	EN
+
+Blondes	EN
+그리고	KO
+Brunettes	EN
+
+Deal	EN
+a	EN
+카드	KO
+출신	KO
+the	EN
+갑판	KO
+
+Match	EN
+the	EN
+top	KO
+두두	KO
+카드	KO
+of	EN
+the	EN
+폐기물	KO
+.	EN
+
+Progressive	EN
+Rounds	EN
+
+Multiplier	EN
+Scoring	EN
+
+Move	EN
+a	EN
+빌드	KO
+of	EN
+카드	KO
+on	EN
+to	EN
+the	EN
+비어	KO
+Tableau	EN
+슬롯	KO
+
+Play	EN
+the	EN
+인기가요	KO
+FreeCell	EN
+카드	KO
+경기	KO
+
+_	EN
+Select	EN
+
+%	EN
+s	EN
+on	EN
+파운데이션	KO
+
+%	EN
+s	EN
+on	EN
+주식	KO
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+%	EN
+s	EN
+.	EN
+
+About	EN
+FreeCell	EN
+Solitaire	EN
+
+AisleRiot	EN
+provides	EN
+a	EN
+법칙	KO
+-	EN
+기반	KO
+solitaire	EN
+카드	KO
+엔진	KO
+that	EN
+allows	EN
+많은	KO
+다르다	KO
+게임	KO
+to	EN
+be	EN
+played	EN
+.	EN
+
+Display	EN
+카드	KO
+함께	KO
+%	EN
+s	EN
+card	EN
+테마	KO
+
+_	EN
+Select	EN
+Game	EN
+
+You	EN
+should	EN
+have	EN
+받았습니다	KO
+a	EN
+사본	KO
+of	EN
+the	EN
+GNU	EN
+General	EN
+Public	EN
+License	EN
+along	EN
+함께	KO
+이거	KO
+프로그램	KO
+.	EN
+If	EN
+아님	KO
+,	EN
+see	EN
+.	EN
+
+File	EN
+is	EN
+아님	KO
+a	EN
+유효한	KO
+.	EN
+데스크톱	KO
+파일	KO
+
+Starting	EN
+%	EN
+s	EN
+
+Application	EN
+does	EN
+아님	KO
+수락	KO
+문서	KO
+on	EN
+명령	KO
+라인	KO
+
+Can	EN
+'	EN
+t	EN
+패스	KO
+문서로	KO
+URIs	EN
+to	EN
+a	EN
+'	EN
+Type	EN
+=	EN
+Link	EN
+'	EN
+데스크탑	KO
+항목	KO
+
+Not	EN
+a	EN
+launchable	EN
+아이템	KO
+
+Disable	EN
+커넥션	KO
+to	EN
+세션	KO
+관리자	KO
+
+Specify	EN
+파일	KO
+containing	EN
+saved	EN
+설정	KO
+
+Specify	EN
+세션	KO
+경영	KO
+ID	EN
+
+Session	EN
+경영	KO
+옵션	KO
+:	EN
+
+Show	EN
+세션	KO
+관리	KO
+옵션	KO
+
+an	EN
+비어	KO
+슬롯	KO
+on	EN
+the	EN
+파운데이션	KO
+
+an	EN
+비어	KO
+모퉁이	KO
+슬롯	KO
+
+an	EN
+비어	KO
+아래쪽	KO
+슬롯	KO
+
+an	EN
+empty	EN
+좌파	KO
+슬롯	KO
+
+an	EN
+비어	KO
+오른쪽	KO
+슬롯	KO
+
+비어	KO
+슬롯	KO
+on	EN
+재단	KO
+
+the	EN
+파운데이션	KO
+pile	EN
+
+Move	EN
+~	EN
+a	EN
+to	EN
+an	EN
+비어	KO
+재단	KO
+
+Move	EN
+a	EN
+King	EN
+on	EN
+to	EN
+the	EN
+비어	KO
+타블로	KO
+슬롯	KO
+
+Move	EN
+something	EN
+on	EN
+to	EN
+an	EN
+비어	KO
+reserve	EN
+
+Play	EN
+a	EN
+카드	KO
+to	EN
+파운데이션	KO
+.	EN
+
+No	EN
+moves	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+끄기	KO
+the	EN
+이사회	KO
+
+Bug	EN
+!	EN
+make	EN
+-	EN
+힌트	KO
+called	EN
+on	EN
+가짜	KO
+이동	KO
+.	EN
+
+Place	EN
+the	EN
+~	EN
+a	EN
+다음	KO
+to	EN
+~	EN
+a	EN
+.	EN
+
+Move	EN
+a	EN
+카드	KO
+출신	KO
+the	EN
+reserve	EN
+on	EN
+to	EN
+the	EN
+비어	KO
+타블로	KO
+slot	EN
+
+Move	EN
+~	EN
+a	EN
+to	EN
+an	EN
+비어	KO
+현장	KO
+
+Move	EN
+~	EN
+a	EN
+출신	KO
+the	EN
+주식	KO
+to	EN
+an	EN
+비어	KO
+엣지	KO
+or	EN
+타블로	KO
+슬롯	KO
+
+비어	KO
+파운데이션	KO
+
+Unknown	EN
+슈트	KO
+
+appropriate	EN
+파운데이션	KO
+pile	EN
+
+%	EN
+s	EN
+on	EN
+reserve	EN
+
+%	EN
+s	EN
+on	EN
+폐기물	KO
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+파운데이션	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+foundation	EN
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+타블로	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+타블로	KO
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+empty	EN
+모서리	KO
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+empty	EN
+코너	KO
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+top	KO
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+아래	KO
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+왼쪽	KO
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+오른쪽	KO
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+검은색	KO
+joker	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+레드	KO
+joker	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+에이스	KO
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+두두	KO
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+three	EN
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+four	EN
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+다섯	KO
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여섯	KO
+of	EN
+clubs	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+세븐	KO
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+eight	KO
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+아홉	KO
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+ten	EN
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+젝스키스	KO
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여왕	KO
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+king	EN
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+ace	KO
+of	EN
+스페이드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+두두	KO
+of	EN
+spades	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+three	EN
+of	EN
+스페이드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+four	EN
+of	EN
+스페이드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+five	EN
+of	EN
+스페이드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여섯	KO
+of	EN
+스페이드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+세븐	KO
+of	EN
+스페이드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여덟	KO
+of	EN
+스페이드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+아홉	KO
+of	EN
+스페이드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+ten	EN
+of	EN
+스페이드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+젝스키스	KO
+of	EN
+스페이드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여왕	KO
+of	EN
+스페이드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+king	EN
+of	EN
+스페이드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+ace	KO
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+두두	KO
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+three	EN
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+four	EN
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+파이브	KO
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여섯	KO
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+세븐	KO
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+eight	KO
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+nine	EN
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+ten	EN
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+젝스키스	KO
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여왕	KO
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+king	EN
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+에이스	KO
+of	EN
+diamonds	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+두두	KO
+of	EN
+다이아몬드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+three	EN
+of	EN
+다이아몬드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+four	EN
+of	EN
+diamonds	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+파이브	KO
+of	EN
+diamonds	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여섯	KO
+of	EN
+diamonds	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+일곱	KO
+of	EN
+diamonds	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+eight	KO
+of	EN
+다이아몬드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+아홉	KO
+of	EN
+다이아몬드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+ten	EN
+of	EN
+다이아몬드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+젝스키스	KO
+of	EN
+다이아몬드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여왕	KO
+of	EN
+다이아몬드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+king	EN
+of	EN
+다이아몬드	KO
+.	EN
+
+Remove	EN
+the	EN
+ten	EN
+of	EN
+클럽	KO
+.	EN
+
+Remove	EN
+the	EN
+ten	EN
+of	EN
+diamonds	EN
+.	EN
+
+Remove	EN
+the	EN
+ten	EN
+of	EN
+하트	KO
+.	EN
+
+Remove	EN
+the	EN
+ten	EN
+of	EN
+스페이드	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+an	EN
+에이스	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+두분	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+three	EN
+.	EN
+
+You	EN
+are	EN
+searching	EN
+for	EN
+a	EN
+four	EN
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+다섯	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+여섯	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+세븐	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+an	EN
+eight	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+아홉	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+ten	EN
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+젝스키스	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+여왕	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+king	EN
+.	EN
+
+Six	EN
+Foundations	EN
+
+Five	EN
+Foundations	EN
+
+Four	EN
+Foundations	EN
+
+Play	EN
+a	EN
+카드	KO
+to	EN
+파운데이션	KO
+.	EN
+
+_	EN
+Animations	EN
+
+Whether	EN
+or	EN
+아님	KO
+to	EN
+애니메이트	KO
+카드	KO
+moves	KO
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+재단	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+파운데이션	KO
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+타블로	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+타블로	KO
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+reserve	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+reserve	EN
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+엣지	KO
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+구석	KO
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+인기	KO
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+바닥	KO
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+좌파	KO
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+오른쪽	KO
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+an	EN
+비어	KO
+슬롯	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+블랙	KO
+joker	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+레드	KO
+joker	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+ace	EN
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+두두	KO
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+three	EN
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+four	EN
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+다섯	KO
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여섯	KO
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+일곱	KO
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여덟	KO
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+아홉	KO
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+ten	EN
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+젝스키스	KO
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여왕	KO
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+king	EN
+of	EN
+클럽	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+unknown	EN
+카드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여왕	KO
+of	EN
+스페이드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+ace	KO
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+두두	KO
+of	EN
+hearts	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+three	EN
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+four	EN
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+five	EN
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여섯	KO
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여덟	KO
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+아홉	KO
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+ten	EN
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+젝스키스	KO
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여왕	KO
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+king	EN
+of	EN
+하트	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+ace	KO
+of	EN
+다이아몬드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+두두	KO
+of	EN
+다이아몬드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+three	EN
+of	EN
+diamonds	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+four	EN
+of	EN
+다이아몬드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+다섯	KO
+of	EN
+다이아몬드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여섯	KO
+of	EN
+diamonds	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+일곱	KO
+of	EN
+diamonds	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여덟	KO
+of	EN
+다이아몬드	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+아홉	KO
+of	EN
+diamonds	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+ten	EN
+of	EN
+diamonds	EN
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+젝스키스	KO
+of	EN
+diamonds	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+여왕	KO
+of	EN
+diamonds	KO
+.	EN
+
+Move	EN
+~	EN
+a	EN
+onto	EN
+the	EN
+king	EN
+of	EN
+diamonds	EN
+.	EN
+
+Remove	EN
+the	EN
+ten	EN
+of	EN
+클럽	KO
+.	EN
+
+Remove	EN
+the	EN
+ten	EN
+of	EN
+다이아몬드	KO
+.	EN
+
+Remove	EN
+the	EN
+ten	EN
+of	EN
+하트	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+an	EN
+에이스	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+두분	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+three	EN
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+four	EN
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+다섯	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+여섯	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+일곱	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+an	EN
+eight	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+아홉	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+ten	EN
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+젝스키스	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+여왕	KO
+.	EN
+
+You	EN
+are	EN
+검색	KO
+for	EN
+a	EN
+king	EN
+.	EN
+
+Move	EN
+a	EN
+king	EN
+onto	EN
+an	EN
+비어	KO
+타블로	KO
+슬롯	KO
+.	EN
+
+Move	EN
+무엇인가	KO
+onto	EN
+an	EN
+비어	KO
+타블로	KO
+슬롯	KO
+.	EN
+
+Move	EN
+a	EN
+카드	KO
+출신	KO
+the	EN
+reserve	EN
+onto	EN
+the	EN
+비어	KO
+타블로	KO
+슬롯	KO
+
+Remove	EN
+the	EN
+king	EN
+of	EN
+클럽	KO
+.	EN
+
+Remove	EN
+the	EN
+king	EN
+of	EN
+다이아몬드	KO
+.	EN
+
+Remove	EN
+the	EN
+king	EN
+of	EN
+하트	KO
+.	EN
+
+About	EN
+FreeCell	EN
+Solitaire	EN
+
+Aisleriot	EN
+provides	EN
+a	EN
+규칙	KO
+-	EN
+기반	KO
+solitaire	EN
+카드	KO
+엔진	KO
+that	EN
+allows	EN
+많은	KO
+달라	KO
+게임	KO
+to	EN
+be	EN
+played	EN
+.	EN
+
+Change	EN
+어느	KO
+어플리케이션	KO
+are	EN
+표시됨	KO
+on	EN
+the	EN
+메인	KO
+메뉴	KO
+
+_	EN
+Revert	EN
+to	EN
+Original	EN
+
+Restore	EN
+the	EN
+기본	KO
+메뉴	KO
+레이아웃	KO
+
+_	EN
+New	EN
+Menu	EN
+
+Move	EN
+Up	EN
+
+Move	EN
+Down	EN
+
+Revert	EN
+Changes	EN
+?	EN
+
+Revert	EN
+전체	KO
+메뉴	KO
+to	EN
+원본	KO
+설정	KO
+?	EN
+
+Add	EN
+or	EN
+삭제하기	KO
+어플리케이션	KO
+출신	KO
+the	EN
+메인	KO
+메뉴	KO
+
+Cannot	EN
+execute	EN
+커맨드	KO
+:	EN
+"	EN
+%	EN
+s	EN
+"	EN
+
+execvp	EN
+failed	EN
+
+Anjuta	EN
+Shell	EN
+
+Available	EN
+Plugins	EN
+
+Select	EN
+a	EN
+플러그인	KO
+
+Remember	EN
+이거	KO
+선택	KO
+
+Available	EN
+플러그인	KO
+
+Activated	EN
+플러그인	KO
+
+Currently	EN
+activated	EN
+플러그인	KO
+
+Plugin	EN
+Manager	EN
+
+Profile	EN
+Name	EN
+
+Profile	EN
+Plugins	EN
+
+Failed	EN
+to	EN
+읽기	KO
+'	EN
+%	EN
+s	EN
+'	EN
+:	EN
+%	EN
+s	EN
+
+No	EN
+read	EN
+permission	EN
+for	EN
+:	EN
+%	EN
+s	EN
+
+Are	EN
+you	EN
+sure	EN
+귀하	KO
+want	EN
+to	EN
+리셋	KO
+the	EN
+환경설정	KO
+to	EN
+그들의	KO
+기본	KO
+설정	KO
+?	EN
+
+Anjuta	EN
+Preferences	EN
+
+Anjuta	EN
+Preferences	EN
+Dialog	EN
+
+Select	EN
+the	EN
+항목	KO
+to	EN
+저장하기	KO
+:	EN
+
+If	EN
+귀하	KO
+do	EN
+아님	KO
+저장	KO
+,	EN
+전체	KO
+your	EN
+변경	KO
+will	EN
+be	EN
+로스트	KO
+.	EN
+
+There	EN
+are	EN
+%	EN
+d	EN
+품목	KO
+함께	KO
+unsaved	EN
+변경	KO
+.	EN
+Save	EN
+변화	KO
+전에	KO
+닫기	KO
+?	EN
+
+There	EN
+is	EN
+an	EN
+아이템	KO
+함께	KO
+unsaved	EN
+변화	KO
+.	EN
+Save	EN
+변화	KO
+이전	KO
+닫기	KO
+?	EN
+
+Unable	EN
+to	EN
+읽고	KO
+파일	KO
+:	EN
+%	EN
+s	EN
+.	EN
+
+Unable	EN
+to	EN
+만듭니다	KO
+파일	KO
+:	EN
+%	EN
+s	EN
+.	EN
+
+Unable	EN
+to	EN
+완료	KO
+파일	KO
+복사	KO
+
+Text	EN
+to	EN
+렌더링	KO
+
+Pixbuf	EN
+Object	EN
+
+The	EN
+pixbuf	EN
+to	EN
+렌더링	KO
+.	EN
+
+Widget	EN
+아님	KO
+찾았습니다	KO
+:	EN
+%	EN
+s	EN
+
+Could	EN
+아님	KO
+찾기	KO
+어플리케이션	KO
+pixmap	EN
+파일	KO
+:	EN
+%	EN
+s	EN
+
+Scratchbox	EN
+Options	EN
+
+Install	EN
+as	EN
+뿌리	KO
+:	EN
+
+Run	EN
+in	EN
+터미널	KO
+
+Completed	EN
+.	EN
+.	EN
+.	EN
+unsuccessful	EN
+
+Completed	EN
+.	EN
+.	EN
+.	EN
+성공적	KO
+
+Build	EN
+%	EN
+d	EN
+:	EN
+%	EN
+s	EN
+
+Configure	EN
+Parameters	EN
+:	EN
+
+_	EN
+Build	EN
+Project	EN
+
+Build	EN
+whole	EN
+프로젝트	KO
+
+_	EN
+Install	EN
+Project	EN
+
+Install	EN
+whole	EN
+project	EN
+
+_	EN
+Clean	EN
+Project	EN
+
+Clean	EN
+whole	EN
+프로젝트	KO
+
+Run	EN
+C	EN
+_	EN
+onfigure	EN
+.	EN
+.	EN
+.	EN
+
+Configure	EN
+프로젝트	KO
+
+Run	EN
+_	EN
+Autogenerate	EN
+.	EN
+.	EN
+.	EN
+
+Autogenerate	EN
+프로젝트	KO
+파일	KO
+
+Build	EN
+프로젝트	KO
+tarball	EN
+배포판	KO
+
+_	EN
+Execute	EN
+Program	EN
+.	EN
+.	EN
+.	EN
+
+Execute	EN
+프로그램	KO
+
+_	EN
+Build	EN
+Module	EN
+
+_	EN
+Install	EN
+Module	EN
+
+Install	EN
+모듈	KO
+연관	KO
+함께	KO
+현재	KO
+파일	KO
+
+_	EN
+Clean	EN
+Module	EN
+
+Clean	EN
+module	EN
+연관	KO
+함께	KO
+전류	KO
+파일	KO
+
+Co	EN
+_	EN
+mpile	EN
+File	EN
+
+Compile	EN
+현재	KO
+편집자	KO
+파일	KO
+
+_	EN
+Compile	EN
+
+Complie	EN
+파일	KO
+
+Build	EN
+모듈	KO
+
+_	EN
+Install	EN
+
+Install	EN
+모듈	KO
+
+Clean	EN
+모듈	KO
+
+Co	EN
+_	EN
+mpile	EN
+
+_	EN
+Build	EN
+(	EN
+%	EN
+s	EN
+)	EN
+
+_	EN
+Install	EN
+(	EN
+%	EN
+s	EN
+)	EN
+
+Co	EN
+_	EN
+mpile	EN
+(	EN
+%	EN
+s	EN
+)	EN
+
+Build	EN
+명령	KO
+
+Build	EN
+팝업	KO
+명령어	KO
+
+Build	EN
+Autotools	EN
+
+No	EN
+파일	KO
+or	EN
+Project	EN
+개설	KO
+.	EN
+
+Program	EN
+'	EN
+%	EN
+s	EN
+'	EN
+does	EN
+아님	KO
+존재함	KO
+
+No	EN
+executable	EN
+for	EN
+이거	KO
+파일	KO
+.	EN
+
+Executable	EN
+'	EN
+%	EN
+s	EN
+'	EN
+is	EN
+아님	KO
+up	EN
+-	EN
+to	EN
+-	EN
+date	EN
+.	EN
+
+Update	EN
+the	EN
+그래프	KO
+
+General	EN
+Class	EN
+Properties	EN
+
+Add	EN
+to	EN
+Project	EN
+
+Base	EN
+Class	EN
+Inheritance	EN
+:	EN
+
+Header	EN
+File	EN
+:	EN
+
+Inline	EN
+the	EN
+선언	KO
+그리고	KO
+구현	KO
+
+Source	EN
+File	EN
+:	EN
+
+Failed	EN
+to	EN
+글쓰기	KO
+autogen	EN
+정의	KO
+파일	KO
+
+Failed	EN
+to	EN
+실행	KO
+autogen	EN
+:	EN
+%	EN
+s	EN
+
+CVS	EN
+:	EN
+Add	EN
+파일	KO
+/	EN
+디렉터리	KO
+
+CVS	EN
+:	EN
+Diff	EN
+파일	KO
+/	EN
+directory	EN
+
+CVS	EN
+:	EN
+Import	EN
+
+CVS	EN
+:	EN
+Log	EN
+파일	KO
+/	EN
+디렉터리	KO
+
+CVS	EN
+:	EN
+Remove	EN
+파일	KO
+/	EN
+디렉터리	KO
+
+CVS	EN
+:	EN
+Update	EN
+파일	KO
+/	EN
+디렉터리	KO
+
+Choose	EN
+파일	KO
+or	EN
+디렉토리	KO
+to	EN
+추가하기	KO
+:	EN
+
+Choose	EN
+파일	KO
+or	EN
+디렉터리	KO
+to	EN
+커밋	KO
+:	EN
+
+Choose	EN
+파일	KO
+or	EN
+디렉토리	KO
+to	EN
+차이점	KO
+:	EN
+
+Choose	EN
+file	EN
+or	EN
+디렉토리	KO
+to	EN
+지우기	KO
+:	EN
+
+Choose	EN
+파일	KO
+or	EN
+디렉터리	KO
+to	EN
+갱신	KO
+:	EN
+
+Create	EN
+new	EN
+디렉터리	KO
+
+Delete	EN
+비어	KO
+디렉토리	KO
+
+Log	EN
+메시지	KO
+:	EN
+
+Module	EN
+이름	KO
+:	EN
+
+Project	EN
+루트	KO
+디렉터리	KO
+:	EN
+
+Release	EN
+태그	KO
+:	EN
+
+Use	EN
+리비전	KO
+/	EN
+태그	KO
+:	EN
+
+Use	EN
+리비전	KO
+:	EN
+
+Vendor	EN
+태그	KO
+:	EN
+
+Whole	EN
+프로젝트	KO
+
+Please	EN
+fill	KO
+필드	KO
+:	EN
+%	EN
+s	EN
+
+Unable	EN
+to	EN
+삭제하기	KO
+파일	KO
+
+Are	EN
+당신은	KO
+sure	EN
+that	EN
+당신	KO
+do	EN
+아님	KO
+want	EN
+a	EN
+로그	KO
+메시지	KO
+?	EN
+
+Commit	EN
+your	EN
+변화	KO
+to	EN
+the	EN
+CVS	EN
+나무	KO
+
+_	EN
+Update	EN
+
+_	EN
+Show	EN
+Status	EN
+
+Show	EN
+the	EN
+상태	KO
+of	EN
+a	EN
+파일	KO
+/	EN
+디렉토리	KO
+
+_	EN
+Show	EN
+Log	EN
+
+Show	EN
+the	EN
+로그	KO
+of	EN
+a	EN
+파일	KO
+/	EN
+디렉터리	KO
+
+_	EN
+Import	EN
+Tree	EN
+
+CVS	EN
+작전	KO
+
+CVS	EN
+팝업	KO
+작전	KO
+
+Add	EN
+Watch	EN
+
+Breakpoint	EN
+속성	KO
+
+Change	EN
+Watch	EN
+
+Command	EN
+Line	EN
+Parameters	EN
+:	EN
+
+Debugger	EN
+command	EN
+
+Debugger	EN
+명령	KO
+:	EN
+
+Display	EN
+과정	KO
+_	EN
+트리	KO
+
+Enable	EN
+_	EN
+모두	KO
+
+Program	EN
+매개변수	KO
+
+Run	EN
+In	EN
+Terminal	EN
+
+Set	EN
+Signal	EN
+Property	EN
+
+Source	EN
+Directories	EN
+
+_	EN
+Attach	EN
+
+_	EN
+Condition	EN
+:	EN
+
+_	EN
+Hide	EN
+경로	KO
+
+_	EN
+Pass	EN
+:	EN
+
+_	EN
+Remove	EN
+모두	KO
+
+Are	EN
+귀하	KO
+sure	EN
+귀하	KO
+want	EN
+to	EN
+삭제	KO
+전체	KO
+the	EN
+breakpoints	EN
+?	EN
+
+_	EN
+Breakpoints	EN
+
+Toggle	EN
+Breakpoint	EN
+
+Toggle	EN
+breakpoint	EN
+at	EN
+the	EN
+전류	KO
+위치	KO
+
+Add	EN
+Breakpoint	EN
+.	EN
+.	EN
+.	EN
+
+Add	EN
+a	EN
+breakpoint	EN
+
+Remove	EN
+Breakpoint	EN
+
+Remove	EN
+a	EN
+breakpoint	EN
+
+Jump	EN
+to	EN
+Breakpoint	EN
+
+Jump	EN
+to	EN
+breakpoint	EN
+위치	KO
+
+Edit	EN
+Breakpoint	EN
+
+Edit	EN
+breakpoint	EN
+자산	KO
+
+Enable	EN
+Breakpoint	EN
+
+Enable	EN
+a	EN
+breakpoint	EN
+
+Disable	EN
+All	EN
+Breakpoints	EN
+
+Deactivate	EN
+전체	KO
+breakpoints	EN
+
+C	EN
+_	EN
+리어	KO
+All	EN
+Breakpoints	EN
+
+Delete	EN
+전체	KO
+breakpoints	EN
+
+Breakpoint	EN
+작전	KO
+
+Debugger	EN
+Log	EN
+
+Location	EN
+:	EN
+%	EN
+s	EN
+,	EN
+라인	KO
+%	EN
+d	EN
+
+_	EN
+Start	EN
+Debugger	EN
+
+_	EN
+Attach	EN
+to	EN
+Process	EN
+.	EN
+.	EN
+.	EN
+
+Attach	EN
+to	EN
+a	EN
+런닝	KO
+프로그램	KO
+
+Say	EN
+굿바이	KO
+to	EN
+the	EN
+디버거	KO
+
+Debugger	EN
+Command	EN
+.	EN
+.	EN
+.	EN
+
+Info	EN
+_	EN
+Program	EN
+
+Display	EN
+정보	KO
+on	EN
+the	EN
+처형	KO
+상태	KO
+of	EN
+the	EN
+프로그램	KO
+
+Display	EN
+the	EN
+내용	KO
+of	EN
+커널	KO
+'	EN
+struct	EN
+사용자	KO
+'	EN
+for	EN
+전류	KO
+아이유	KO
+
+Shared	EN
+Libraries	EN
+
+Show	EN
+공유	KO
+도서관	KO
+매핑	KO
+
+Run	EN
+/	EN
+_	EN
+Continue	EN
+
+Continue	EN
+the	EN
+실행	KO
+of	EN
+the	EN
+프로그램	KO
+
+Single	EN
+단계	KO
+into	EN
+함수	KO
+
+Single	EN
+걸음	KO
+over	EN
+함수	KO
+
+Single	EN
+단계	KO
+아웃	KO
+of	EN
+the	EN
+함수	KO
+
+_	EN
+Run	EN
+to	EN
+Cursor	EN
+
+Run	EN
+to	EN
+the	EN
+커서	KO
+
+Info	EN
+_	EN
+Global	EN
+Variables	EN
+
+Display	EN
+정보	KO
+대략	KO
+the	EN
+현재	KO
+프레임	KO
+of	EN
+실행	KO
+
+Display	EN
+함수	KO
+인자	KO
+of	EN
+the	EN
+전류	KO
+액자	KO
+
+Pa	EN
+_	EN
+사용하기	KO
+Program	EN
+
+Pauses	EN
+the	EN
+실행	KO
+of	EN
+the	EN
+프로그램	KO
+
+Debugger	EN
+운영	KO
+
+Shared	EN
+도서관	KO
+
+Modify	EN
+Signal	EN
+
+Send	EN
+to	EN
+과정	KO
+
+Show	EN
+Line	EN
+Numbers	EN
+
+Whether	EN
+to	EN
+표시	KO
+라인	KO
+숫자	KO
+
+Set	EN
+현재	KO
+액자	KO
+
+View	EN
+Source	EN
+
+Stack	EN
+액자	KO
+작전	KO
+
+Unable	EN
+to	EN
+실행	KO
+:	EN
+%	EN
+s	EN
+.	EN
+
+Unable	EN
+to	EN
+open	EN
+the	EN
+파일	KO
+:	EN
+%	EN
+s	EN
+
+Missing	EN
+파일	KO
+%	EN
+s	EN
+
+All	EN
+파일	KO
+
+Set	EN
+현재	KO
+스레드	KO
+
+Thread	EN
+operations	EN
+
+Add	EN
+Watch	EN
+.	EN
+.	EN
+.	EN
+
+Remove	EN
+Watch	EN
+
+Update	EN
+Watch	EN
+
+Change	EN
+Value	EN
+
+Update	EN
+모두	KO
+
+Remove	EN
+전체	KO
+
+Watch	EN
+운영	KO
+
+Search	EN
+Help	EN
+:	EN
+
+_	EN
+Goto	EN
+
+Previous	EN
+Help	EN
+
+Go	EN
+to	EN
+이전	KO
+help	EN
+페이지	KO
+
+Go	EN
+to	EN
+다음	KO
+도움	KO
+페이지	KO
+
+Browse	EN
+API	EN
+Pages	EN
+
+Search	EN
+도움말	KO
+for	EN
+the	EN
+전류	KO
+단어	KO
+in	EN
+the	EN
+편집기	KO
+
+_	EN
+Search	EN
+Help	EN
+
+Help	EN
+운영	KO
+
+Help	EN
+디스플레이	KO
+
+Are	EN
+당신	KO
+sure	EN
+귀하	KO
+want	EN
+to	EN
+reload	EN
+'	EN
+%	EN
+s	EN
+'	EN
+?	EN
+Any	EN
+unsaved	EN
+변화	KO
+will	EN
+be	EN
+로스트	KO
+.	EN
+
+Close	EN
+파일	KO
+
+Open	EN
+파일	KO
+
+Save	EN
+파일	KO
+as	EN
+
+The	EN
+file	EN
+'	EN
+%	EN
+s	EN
+'	EN
+벌써	KO
+존재함	KO
+.	EN
+Do	EN
+귀하	KO
+want	EN
+to	EN
+대체	KO
+it	EN
+함께	KO
+the	EN
+하나	KO
+you	EN
+are	EN
+저장	KO
+?	EN
+
+_	EN
+Replace	EN
+
+'	EN
+indent	EN
+'	EN
+인자	KO
+
+Blank	EN
+Lines	EN
+
+Breaking	EN
+Long	EN
+Lines	EN
+
+After	EN
+Declarations	EN
+
+Continue	EN
+at	EN
+Parenth	EN
+.	EN
+
+Delete	EN
+the	EN
+스타일	KO
+selected	EN
+in	EN
+the	EN
+콤보	KO
+스타일	KO
+selector	EN
+.	EN
+
+Do	EN
+아님	KO
+show	EN
+tabs	EN
+
+Enable	EN
+파일	KO
+autosave	EN
+
+Indent	EN
+Preferences	EN
+
+Save	EN
+the	EN
+selected	EN
+Style	EN
+함께	KO
+the	EN
+modified	EN
+매개변수	KO
+.	EN
+
+Sorted	EN
+in	EN
+alphabetical	EN
+주문	KO
+
+Sorted	EN
+in	EN
+개봉	KO
+주문	KO
+
+Space	EN
+after	EN
+Cast	EN
+
+Go	EN
+to	EN
+Line	EN
+번호	KO
+:	EN
+
+_	EN
+Save	EN
+
+Save	EN
+현재	KO
+파일	KO
+
+Save	EN
+_	EN
+As	EN
+.	EN
+.	EN
+.	EN
+
+Save	EN
+the	EN
+현재	KO
+파일	KO
+함께	KO
+a	EN
+다름	KO
+이름	KO
+
+Save	EN
+A	EN
+_	EN
+ll	EN
+
+_	EN
+Close	EN
+File	EN
+
+Close	EN
+current	EN
+파일	KO
+
+Close	EN
+All	EN
+Files	EN
+
+Close	EN
+all	EN
+파일	KO
+
+Reload	EN
+현재	KO
+file	EN
+
+Swap	EN
+.	EN
+h	EN
+/	EN
+.	EN
+c	EN
+
+Swap	EN
+c	EN
+헤더	KO
+그리고	KO
+출처	KO
+파일	KO
+
+Recent	EN
+_	EN
+Files	EN
+
+Print	EN
+the	EN
+전류	KO
+파일	KO
+
+_	EN
+Print	EN
+Preview	EN
+
+Print	EN
+미리보기	KO
+of	EN
+the	EN
+전류	KO
+파일	KO
+
+_	EN
+Transform	EN
+
+_	EN
+Make	EN
+Selection	EN
+Uppercase	EN
+
+Make	EN
+the	EN
+selected	EN
+텍스트	KO
+대소문자	KO
+
+Make	EN
+Selection	EN
+Lowercase	EN
+
+Make	EN
+the	EN
+selected	EN
+문자	KO
+소문자	KO
+
+_	EN
+Select	EN
+
+Select	EN
+_	EN
+All	EN
+
+Select	EN
+전체	KO
+문자	KO
+in	EN
+the	EN
+editor	EN
+
+Select	EN
+to	EN
+_	EN
+Brace	EN
+
+Select	EN
+the	EN
+문자	KO
+in	EN
+the	EN
+일치	KO
+교정	KO
+
+Select	EN
+_	EN
+Code	EN
+Block	EN
+
+Select	EN
+the	EN
+전류	KO
+코드	KO
+블럭	KO
+
+Block	EN
+댓글	KO
+the	EN
+selected	EN
+문구	KO
+
+Box	EN
+댓글	KO
+the	EN
+selected	EN
+텍스트	KO
+
+Stream	EN
+코멘트	KO
+the	EN
+selected	EN
+문구	KO
+
+_	EN
+Goto	EN
+Line	EN
+번호	KO
+
+Go	EN
+to	EN
+a	EN
+특정	KO
+라인	KO
+in	EN
+the	EN
+편집자	KO
+
+_	EN
+Line	EN
+Number	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Start	EN
+of	EN
+Block	EN
+
+Go	EN
+to	EN
+the	EN
+시작	KO
+of	EN
+the	EN
+전류	KO
+차단	KO
+
+_	EN
+End	EN
+of	EN
+Block	EN
+
+Go	EN
+to	EN
+the	EN
+끝내기	KO
+of	EN
+the	EN
+현재	KO
+블록	KO
+
+Previous	EN
+_	EN
+History	EN
+
+Goto	EN
+이전	KO
+내역	KO
+
+Next	EN
+Histor	EN
+_	EN
+y	EN
+
+Goto	EN
+넥스트	KO
+기록	KO
+
+_	EN
+Edit	EN
+
+_	EN
+Editor	EN
+
+_	EN
+Add	EN
+Editor	EN
+View	EN
+
+Add	EN
+하나	KO
+기타	KO
+보기	KO
+of	EN
+전류	KO
+문서로	KO
+
+_	EN
+Remove	EN
+Editor	EN
+View	EN
+
+Remove	EN
+current	EN
+조회	KO
+of	EN
+the	EN
+문서	KO
+
+Undo	EN
+the	EN
+라스트	KO
+작업	KO
+
+_	EN
+Redo	EN
+
+Redo	EN
+the	EN
+라스트	KO
+undone	EN
+동작	KO
+
+Cut	EN
+the	EN
+selected	EN
+텍스트	KO
+출신	KO
+the	EN
+편집자	KO
+to	EN
+the	EN
+clipboard	EN
+
+Copy	EN
+the	EN
+selected	EN
+텍스트	KO
+to	EN
+the	EN
+clipboard	EN
+
+Paste	EN
+the	EN
+콘텐츠	KO
+of	EN
+clipboard	EN
+at	EN
+the	EN
+현재	KO
+위치	KO
+
+Delete	EN
+the	EN
+selected	EN
+문구	KO
+출신	KO
+the	EN
+편집기	KO
+
+AutoComplete	EN
+the	EN
+전류	KO
+워드	KO
+
+_	EN
+Line	EN
+Number	EN
+Margin	EN
+
+Show	EN
+/	EN
+Hide	EN
+라인	KO
+숫자	KO
+
+_	EN
+Marker	EN
+Margin	EN
+
+Show	EN
+/	EN
+Hide	EN
+마커	KO
+margin	EN
+
+Show	EN
+/	EN
+Hide	EN
+들여쓰기	KO
+가이드	KO
+
+_	EN
+White	EN
+Space	EN
+
+Line	EN
+_	EN
+Wrapping	EN
+
+Zoom	EN
+Out	EN
+
+_	EN
+Highlight	EN
+Mode	EN
+
+_	EN
+Close	EN
+All	EN
+Folds	EN
+
+_	EN
+Open	EN
+All	EN
+Folds	EN
+
+Open	EN
+전체	KO
+부호	KO
+주름	KO
+in	EN
+the	EN
+에디터	KO
+
+Toggle	EN
+현재	KO
+부호	KO
+접어	KO
+in	EN
+the	EN
+편집기	KO
+
+Bookmar	EN
+_	EN
+k	EN
+
+_	EN
+Toggle	EN
+Bookmark	EN
+
+Toggle	EN
+a	EN
+책갈피	KO
+at	EN
+the	EN
+전류	KO
+라인	KO
+포지션	KO
+
+_	EN
+First	EN
+Bookmark	EN
+
+_	EN
+Previous	EN
+Bookmark	EN
+
+_	EN
+Next	EN
+Bookmark	EN
+
+_	EN
+Last	EN
+Bookmark	EN
+
+_	EN
+Clear	EN
+All	EN
+Bookmarks	EN
+
+Clear	EN
+책갈피	KO
+
+Editor	EN
+파일	KO
+운영	KO
+
+Editor	EN
+프린트	KO
+작전	KO
+
+Editor	EN
+텍스트	KO
+변형	KO
+
+Editor	EN
+code	EN
+댓글	KO
+
+Editor	EN
+편집	KO
+작전	KO
+
+Editor	EN
+zoom	EN
+작전	KO
+
+Editor	EN
+구문	KO
+강조	KO
+스타일	KO
+
+Editor	EN
+텍스트	KO
+formating	EN
+
+Editor	EN
+책갈피	KO
+
+Editor	EN
+보기	KO
+설정	KO
+
+Goto	EN
+라인	KO
+
+Enter	EN
+the	EN
+라인	KO
+숫자	KO
+to	EN
+점프	KO
+그리고	KO
+프레스	KO
+입력합니다	KO
+
+Basic	EN
+Indentation	EN
+
+Code	EN
+접힘	KO
+
+Print	EN
+옵션	KO
+
+Add	EN
+라인	KO
+번호	KO
+꼴찌	KO
+:	EN
+
+Add	EN
+페이지	KO
+헤더	KO
+
+Back	EN
+컬러	KO
+:	EN
+
+Caret	EN
+(	EN
+커서	KO
+)	EN
+color	EN
+:	EN
+
+Collapse	EN
+전체	KO
+code	EN
+주름	KO
+on	EN
+파일	KO
+열기	KO
+
+Colors	EN
+&	EN
+Fonts	EN
+
+Compact	EN
+접힘	KO
+
+Enable	EN
+교정	KO
+점검	KO
+
+Enable	EN
+코드	KO
+접힘	KO
+
+Enable	EN
+파이썬	KO
+댓글	KO
+접힘	KO
+
+Indent	EN
+닫기	KO
+교정	KO
+
+Indent	EN
+개봉	KO
+교정	KO
+
+Pressing	EN
+tab	EN
+inserts	EN
+들여쓰기	KO
+
+Selection	EN
+배경색	KO
+:	EN
+
+Selection	EN
+전경	KO
+:	EN
+
+Tab	EN
+크기	KO
+in	EN
+공백	KO
+:	EN
+
+Use	EN
+기본값	KO
+
+Use	EN
+tabs	EN
+for	EN
+들여쓰기	KO
+
+View	EN
+Whitespaces	EN
+
+View	EN
+들여쓰기	KO
+whitespaces	EN
+
+No	EN
+파일	KO
+to	EN
+프린트	KO
+!	EN
+
+Unable	EN
+to	EN
+get	KO
+텍스트	KO
+버퍼	KO
+for	EN
+인쇄	KO
+
+File	EN
+:	EN
+%	EN
+s	EN
+
+Print	EN
+Preview	EN
+
+The	EN
+파일	KO
+'	EN
+%	EN
+s	EN
+'	EN
+on	EN
+the	EN
+디스크	KO
+is	EN
+기타	KO
+최근	KO
+than	EN
+the	EN
+현재	KO
+버퍼	KO
+.	EN
+Do	EN
+귀하	KO
+want	EN
+to	EN
+reload	EN
+it	EN
+?	EN
+
+Could	EN
+아님	KO
+받기	KO
+파일	KO
+정보	KO
+
+Could	EN
+아님	KO
+열기	KO
+파일	KO
+
+Error	EN
+동안	KO
+읽고	KO
+출신	KO
+파일	KO
+
+Loading	EN
+파일	KO
+.	EN
+.	EN
+.	EN
+
+Could	EN
+아님	KO
+로드	KO
+파일	KO
+:	EN
+%	EN
+s	EN
+Details	EN
+:	EN
+%	EN
+s	EN
+
+File	EN
+loaded	EN
+successfully	EN
+
+Saving	EN
+파일	KO
+.	EN
+.	EN
+.	EN
+
+Could	EN
+아님	KO
+저장	KO
+중간	KO
+파일	KO
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+.	EN
+
+Could	EN
+아님	KO
+저장	KO
+파일	KO
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+.	EN
+
+File	EN
+saved	EN
+성공적	KO
+
+Tag	EN
+Definition	EN
+
+Tag	EN
+Declaration	EN
+
+Prev	EN
+mesg	EN
+
+Next	EN
+mesg	EN
+
+Prev	EN
+즐겨찾기	KO
+
+Next	EN
+bookmark	EN
+
+Toggle	EN
+breakpoint	EN
+
+Step	EN
+in	EN
+
+Step	EN
+아웃	KO
+
+Run	EN
+/	EN
+Continue	EN
+
+Toggle	EN
+Line	EN
+숫자	KO
+
+Toggle	EN
+Fold	EN
+Margin	EN
+
+Toggle	EN
+Guides	EN
+
+Toggle	EN
+Bookmark	EN
+
+Auto	EN
+형식	KO
+
+Find	EN
+Usage	EN
+
+Open	EN
+함께	KO
+:	EN
+
+Document	EN
+Manager	EN
+
+Anjuta	EN
+Projects	EN
+
+C	EN
+/	EN
+C	EN
++	EN
++	EN
+원본	KO
+파일	KO
+
+C	EN
+#	EN
+출처	KO
+파일	KO
+
+Java	EN
+출처	KO
+파일	KO
+
+Pascal	EN
+출처	KO
+파일	KO
+
+PHP	EN
+소스	KO
+파일	KO
+
+Perl	EN
+원본	KO
+파일	KO
+
+Python	EN
+원본	KO
+파일	KO
+
+Shell	EN
+스크립트	KO
+파일	KO
+
+Lua	EN
+파일	KO
+
+Diff	EN
+파일	KO
+
+Failed	EN
+to	EN
+활성화	KO
+plugin	EN
+:	EN
+%	EN
+s	EN
+
+_	EN
+New	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Open	EN
+.	EN
+.	EN
+.	EN
+
+Open	EN
+_	EN
+With	EN
+
+Open	EN
+함께	KO
+
+New	EN
+파일	KO
+,	EN
+project	EN
+그리고	KO
+프로젝트	KO
+성분	KO
+.	EN
+
+Open	EN
+_	EN
+Recent	EN
+
+Open	EN
+최근	KO
+파일	KO
+
+Open	EN
+최근	KO
+파일	KO
+
+No	EN
+message	EN
+세부사항	KO
+
+No	EN
+파일	KO
+세부사항	KO
+
+Directory	EN
+필터	KO
+:	EN
+
+Choose	EN
+디렉토리	KO
+
+Choose	EN
+파일	KO
+
+Do	EN
+아님	KO
+표시	KO
+숨김	KO
+디렉터리	KO
+
+Do	EN
+아님	KO
+공연	KO
+숨겨져	KO
+파일	KO
+
+Ignore	EN
+디렉토리	KO
+
+Ignore	EN
+파일	KO
+
+_	EN
+Refresh	EN
+
+File	EN
+매니저	KO
+팝업	KO
+액션	KO
+
+File	EN
+Information	EN
+
+Add	EN
+to	EN
+프로젝트	KO
+
+Add	EN
+to	EN
+저장소	KO
+
+New	EN
+File	EN
+
+C	EN
+Source	EN
+File	EN
+
+C	EN
+-	EN
+C	EN
++	EN
++	EN
+Header	EN
+File	EN
+
+C	EN
++	EN
++	EN
+Source	EN
+File	EN
+
+C	EN
+#	EN
+Source	EN
+File	EN
+
+Java	EN
+Source	EN
+File	EN
+
+Perl	EN
+Source	EN
+File	EN
+
+Python	EN
+Source	EN
+File	EN
+
+Unable	EN
+to	EN
+빌드	KO
+사용자	KO
+인터페이스	KO
+for	EN
+New	EN
+File	EN
+
+Command	EN
+Line	EN
+Parameters	EN
+
+Execute	EN
+Program	EN
+
+Run	EN
+in	EN
+Terminal	EN
+
+Loading	EN
+Core	EN
+:	EN
+
+Getting	EN
+준비	KO
+to	EN
+시작하기	KO
+디버그	KO
+세션	KO
+.	EN
+.	EN
+.	EN
+
+No	EN
+executable	EN
+지정됨	KO
+.	EN
+
+There	EN
+was	EN
+an	EN
+오류	KO
+whilst	EN
+런칭	KO
+the	EN
+디버거	KO
+.	EN
+
+Make	EN
+sure	EN
+'	EN
+gdb	KO
+'	EN
+is	EN
+설치됨	KO
+on	EN
+the	EN
+체계	KO
+.	EN
+
+Breakpoint	EN
+숫자	KO
+%	EN
+s	EN
+히트	KO
+
+The	EN
+프로그램	KO
+is	EN
+첨부	KO
+.	EN
+Do	EN
+당신	KO
+여전히	KO
+want	EN
+to	EN
+중지	KO
+the	EN
+디버거	KO
+?	EN
+
+Cannot	EN
+처형	KO
+그놈	KO
+-	EN
+터미널	KO
+
+Program	EN
+첨부된	KO
+
+Attaching	EN
+to	EN
+프로세스	KO
+:	EN
+%	EN
+d	EN
+.	EN
+.	EN
+.	EN
+
+Program	EN
+terminated	EN
+
+Program	EN
+detached	EN
+
+Detaching	EN
+the	EN
+과정	KO
+.	EN
+.	EN
+.	EN
+
+Interrupting	EN
+the	EN
+절차	KO
+
+Error	EN
+whilst	EN
+신호	KO
+the	EN
+프로세스	KO
+.	EN
+
+_	EN
+Redo	EN
+:	EN
+%	EN
+s	EN
+
+Glade	EN
+프로젝트	KO
+'	EN
+%	EN
+s	EN
+'	EN
+saved	EN
+
+Save	EN
+glade	EN
+파일	KO
+.	EN
+.	EN
+.	EN
+
+Save	EN
+glade	EN
+파일	KO
+as	EN
+.	EN
+.	EN
+.	EN
+
+Save	EN
+glade	EN
+프로젝트	KO
+.	EN
+.	EN
+.	EN
+
+Undo	EN
+마지막	KO
+작업	KO
+
+Redo	EN
+라스트	KO
+undone	EN
+액션	KO
+
+Cut	EN
+선택	KO
+
+Copy	EN
+선택	KO
+
+Paste	EN
+선택	KO
+
+Delete	EN
+선택	KO
+
+_	EN
+Show	EN
+Clipboard	EN
+
+Show	EN
+clipboard	EN
+
+Save	EN
+glade	EN
+프로젝트	KO
+
+Save	EN
+as	EN
+glade	EN
+프로젝트	KO
+
+Close	EN
+전류	KO
+glade	EN
+프로젝트	KO
+
+Glade	EN
+operations	EN
+
+Not	EN
+로컬	KO
+파일	KO
+:	EN
+%	EN
+s	EN
+
+Could	EN
+아님	KO
+open	EN
+:	EN
+%	EN
+s	EN
+
+Could	EN
+아님	KO
+만드세요	KO
+a	EN
+new	EN
+glade	EN
+프로젝트	KO
+.	EN
+
+You	EN
+need	EN
+to	EN
+선택	KO
+a	EN
+to	EN
+do	EN
+항목	KO
+전에	KO
+당신은	KO
+can	EN
+edit	EN
+it	EN
+
+Add	EN
+Item	EN
+
+Edit	EN
+Item	EN
+
+Edit	EN
+Categories	EN
+
+You	EN
+need	EN
+to	EN
+선택	KO
+a	EN
+todo	EN
+품목	KO
+이전	KO
+당신은	KO
+can	EN
+제거	KO
+it	EN
+
+Are	EN
+당신	KO
+sure	EN
+귀하	KO
+want	EN
+to	EN
+삭제	KO
+the	EN
+selected	EN
+todo	EN
+항목	KO
+?	EN
+
+Are	EN
+당신	KO
+sure	EN
+you	EN
+want	EN
+to	EN
+제거	KO
+전체	KO
+the	EN
+완료되었습니다	KO
+todo	EN
+상품	KO
+?	EN
+
+Are	EN
+당신	KO
+sure	EN
+당신은	KO
+want	EN
+to	EN
+삭제	KO
+전체	KO
+the	EN
+완료	KO
+todo	EN
+항목	KO
+in	EN
+the	EN
+분류	KO
+"	EN
+%	EN
+s	EN
+"	EN
+?	EN
+
+no	EN
+끝내기	KO
+타임	KO
+
+_	EN
+View	EN
+
+No	EN
+허락	KO
+to	EN
+읽고	KO
+the	EN
+파일	KO
+.	EN
+
+File	EN
+is	EN
+아님	KO
+a	EN
+valid	EN
+gtodo	EN
+파일	KO
+
+No	EN
+Gtodo	EN
+Client	EN
+to	EN
+저장하기	KO
+.	EN
+
+Failed	EN
+to	EN
+삭제하기	KO
+%	EN
+s	EN
+.	EN
+
+Failed	EN
+to	EN
+만드세요	KO
+/	EN
+오픈	KO
+파일	KO
+.	EN
+
+Failed	EN
+to	EN
+글쓰기	KO
+자료	KO
+to	EN
+파일	KO
+.	EN
+
+No	EN
+filename	EN
+supplied	EN
+.	EN
+
+_	EN
+Do	EN
+아님	KO
+표시	KO
+다시	KO
+
+_	EN
+Tasks	EN
+
+Tasks	EN
+매니저	KO
+
+Tasks	EN
+관리자	KO
+조회	KO
+
+Show	EN
+in	EN
+메인	KO
+창문	KO
+
+Create	EN
+a	EN
+Task	EN
+List	EN
+
+Todo	EN
+List	EN
+
+Macro	EN
+문자	KO
+:	EN
+
+Header	EN
+_	EN
+c	EN
+
+Header	EN
+_	EN
+cpp	KO
+
+Header	EN
+_	EN
+csharp	EN
+
+Header	EN
+_	EN
+h	EN
+
+Header	EN
+_	EN
+perl	EN
+
+Header	EN
+_	EN
+껍질	KO
+
+cvs	EN
+_	EN
+date	EN
+
+cvs	KO
+_	EN
+헤더	KO
+
+cvs	EN
+_	EN
+리비전	KO
+
+Add	EN
+a	EN
+매크로	KO
+
+Macro	EN
+운영	KO
+
+Message	EN
+색상	KO
+
+Messages	EN
+옵션	KO
+
+Normal	EN
+message	EN
+지표	KO
+스타일	KO
+:	EN
+
+Number	EN
+of	EN
+마지막	KO
+등장인물	KO
+to	EN
+표시	KO
+:	EN
+
+Strike	EN
+-	EN
+Out	EN
+
+Truncate	EN
+long	EN
+메시지	KO
+
+Warning	EN
+메시지	KO
+지표	KO
+스타일	KO
+:	EN
+
+Close	EN
+all	EN
+메세지	KO
+tabs	EN
+
+Error	EN
+쓰기	KO
+%	EN
+s	EN
+
+_	EN
+Next	EN
+Message	EN
+
+Next	EN
+메시지	KO
+
+_	EN
+Previous	EN
+Message	EN
+
+Previous	EN
+메세지	KO
+
+_	EN
+Save	EN
+Message	EN
+
+Save	EN
+메세지	KO
+
+Next	EN
+/	EN
+Prev	EN
+Message	EN
+
+File	EN
+/	EN
+Directory	EN
+to	EN
+패치	KO
+
+Patch	EN
+파일	KO
+
+Patching	EN
+%	EN
+s	EN
+사용하기	KO
+%	EN
+s	EN
+
+_	EN
+Tools	EN
+
+_	EN
+Patch	EN
+.	EN
+.	EN
+.	EN
+
+Patch	EN
+파일	KO
+/	EN
+디렉터리	KO
+
+Function	EN
+Name	EN
+
+Delete	EN
+Data	EN
+
+Flat	EN
+Profile	EN
+
+Function	EN
+Call	EN
+Tree	EN
+
+Select	EN
+Target	EN
+to	EN
+Profile	EN
+
+Time	EN
+Propagation	EN
+
+Do	EN
+아님	KO
+보이기	KO
+정적	KO
+함수	KO
+
+Do	EN
+아님	KO
+공연	KO
+these	EN
+상징	KO
+:	EN
+
+Profiling	EN
+Options	EN
+
+Select	EN
+Other	EN
+Target	EN
+.	EN
+.	EN
+.	EN
+
+Show	EN
+uncalled	EN
+함수	KO
+
+Enter	EN
+the	EN
+프로젝트	KO
+이름	KO
+:	EN
+
+Import	EN
+Project	EN
+
+Failed	EN
+to	EN
+새로고침	KO
+project	EN
+:	EN
+%	EN
+s	EN
+
+Project	EN
+자산	KO
+
+No	EN
+특성	KO
+available	EN
+for	EN
+이거	KO
+타겟	KO
+
+Group	EN
+자산	KO
+
+No	EN
+특성	KO
+available	EN
+for	EN
+이거	KO
+그룹	KO
+
+Are	EN
+당신은	KO
+sure	EN
+귀하	KO
+want	EN
+to	EN
+삭제	KO
+the	EN
+팔로우	KO
+출신	KO
+프로젝트	KO
+?	EN
+
+_	EN
+Project	EN
+
+_	EN
+Properties	EN
+
+Add	EN
+a	EN
+집단	KO
+to	EN
+프로젝트	KO
+
+Add	EN
+a	EN
+대상	KO
+to	EN
+프로젝트	KO
+
+Add	EN
+_	EN
+Source	EN
+File	EN
+.	EN
+.	EN
+.	EN
+
+Add	EN
+a	EN
+원본	KO
+파일	KO
+to	EN
+프로젝트	KO
+
+Close	EN
+Pro	EN
+_	EN
+ject	EN
+
+Close	EN
+프로젝트	KO
+
+_	EN
+Add	EN
+To	EN
+Project	EN
+
+Add	EN
+_	EN
+Source	EN
+File	EN
+
+Remove	EN
+출신	KO
+프로젝트	KO
+
+Loading	EN
+프로젝트	KO
+:	EN
+%	EN
+s	EN
+
+Created	EN
+프로젝트	KO
+조회	KO
+.	EN
+.	EN
+.	EN
+
+Error	EN
+닫기	KO
+프로젝트	KO
+:	EN
+%	EN
+s	EN
+
+Project	EN
+manager	EN
+팝업	KO
+활동	KO
+
+Loaded	EN
+Project	EN
+.	EN
+.	EN
+.	EN
+Initializing	EN
+
+Loaded	EN
+Project	EN
+.	EN
+.	EN
+.	EN
+
+Application	EN
+Wizard	EN
+
+Enter	EN
+the	EN
+베이직	KO
+Project	EN
+정보	KO
+
+Project	EN
+Name	EN
+:	EN
+
+Project	EN
+Type	EN
+
+Confim	EN
+the	EN
+팔로우	KO
+정보	KO
+:	EN
+
+Project	EN
+Type	EN
+:	EN
+
+Unable	EN
+to	EN
+찾기	KO
+any	EN
+프로젝트	KO
+템플릿	KO
+in	EN
+%	EN
+s	EN
+
+File	EN
+"	EN
+%	EN
+s	EN
+"	EN
+벌써	KO
+존재함	KO
+.	EN
+Do	EN
+당신은	KO
+want	EN
+to	EN
+덮어쓰기	KO
+it	EN
+?	EN
+
+Unable	EN
+to	EN
+빌드	KO
+프로젝트	KO
+마법사	KO
+사용자	KO
+인터페이스	KO
+
+New	EN
+프로젝트	KO
+has	EN
+been	EN
+만들었습니다	KO
+성공적으로	KO
+
+Creating	EN
+%	EN
+s	EN
+(	EN
+사용하기	KO
+AutoGen	EN
+)	EN
+.	EN
+.	EN
+.	EN
+%	EN
+s	EN
+
+New	EN
+Project	EN
+Wizard	EN
+
+Add	EN
+국제화	KO
+:	EN
+
+Add	EN
+공유	KO
+라이브러리	KO
+지지	KO
+:	EN
+
+Configure	EN
+외부	KO
+패키지	KO
+
+Configure	EN
+외부	KO
+패키지	KO
+:	EN
+
+Create	EN
+glade	EN
+인터페이스	KO
+파일	KO
+
+Django	EN
+Project	EN
+information	EN
+
+Email	EN
+주소	KO
+:	EN
+
+General	EN
+Project	EN
+Information	EN
+
+General	EN
+Project	EN
+Infromation	EN
+
+Icon	EN
+File	EN
+:	EN
+
+Project	EN
+디렉토리	KO
+:	EN
+
+Project	EN
+이름	KO
+:	EN
+
+Project	EN
+옵션	KO
+
+Select	EN
+부호	KO
+라이센스	KO
+
+프로젝트	KO
+이름	KO
+
+_	EN
+Sample	EN
+활동	KO
+
+Sample	EN
+action	EN
+
+Sample	EN
+파일	KO
+운영	KO
+
+Search	EN
+Variable	EN
+
+Basic	EN
+Search	EN
+&	EN
+Replace	EN
+
+Choose	EN
+Directories	EN
+:	EN
+
+Choose	EN
+Files	EN
+:	EN
+
+Find	EN
+&	EN
+Replace	EN
+
+Ignore	EN
+Binary	EN
+Files	EN
+
+Ignore	EN
+Directories	EN
+:	EN
+
+Ignore	EN
+Files	EN
+:	EN
+
+Ignore	EN
+Hidden	EN
+Directories	EN
+
+Ignore	EN
+Hidden	EN
+Files	EN
+
+Max	EN
+.	EN
+Actions	EN
+
+Replace	EN
+With	EN
+:	EN
+
+Search	EN
+Action	EN
+:	EN
+
+Search	EN
+Expression	EN
+
+Search	EN
+Expression	EN
+:	EN
+
+Search	EN
+In	EN
+:	EN
+
+_	EN
+Search	EN
+
+Search	EN
+for	EN
+a	EN
+문자열	KO
+or	EN
+정규	KO
+표현식	KO
+in	EN
+the	EN
+에디터	KO
+
+Find	EN
+_	EN
+Next	EN
+
+Repeat	EN
+the	EN
+last	EN
+Find	EN
+지휘	KO
+
+Find	EN
+그리고	KO
+R	EN
+_	EN
+eplace	EN
+.	EN
+.	EN
+.	EN
+
+Advanced	EN
+Search	EN
+And	EN
+Replace	EN
+
+New	EN
+미리	KO
+찾기	KO
+And	EN
+교체	KO
+물건	KO
+
+Enter	EN
+the	EN
+selected	EN
+문구	KO
+as	EN
+the	EN
+찾기	KO
+대상	KO
+
+Fin	EN
+_	EN
+d	EN
+in	EN
+Files	EN
+.	EN
+.	EN
+.	EN
+
+Ne	EN
+_	EN
+xt	EN
+Occurrence	EN
+
+Find	EN
+the	EN
+다음	KO
+발생	KO
+of	EN
+current	EN
+word	KO
+
+Pre	EN
+_	EN
+vious	EN
+Occurrence	EN
+
+Find	EN
+the	EN
+이전	KO
+발생	KO
+of	EN
+현재	KO
+word	KO
+
+Incremental	EN
+검색하기	KO
+
+Search	EN
+Toolbar	EN
+
+Basic	EN
+Search	EN
+
+Search	EN
+완료	KO
+
+Replace	EN
+All	EN
+
+The	EN
+일치	KO
+"	EN
+%	EN
+s	EN
+"	EN
+was	EN
+아님	KO
+찾았습니다	KO
+.	EN
+Wrap	EN
+검색하기	KO
+주위	KO
+the	EN
+문서로	KO
+?	EN
+
+The	EN
+매치	KO
+"	EN
+%	EN
+s	EN
+"	EN
+was	EN
+아님	KO
+찾았습니다	KO
+.	EN
+
+Unable	EN
+to	EN
+build	EN
+사용자	KO
+인터페이스	KO
+for	EN
+Search	EN
+And	EN
+Replace	EN
+
+Could	EN
+아님	KO
+obtain	EN
+백업	KO
+filename	EN
+
+Enable	EN
+VFS	EN
+파일	KO
+모니터링	KO
+
+Enable	EN
+코드	KO
+완성	KO
+
+Highlight	EN
+전류	KO
+라인	KO
+
+Selected	EN
+text	EN
+:	EN
+
+Print	EN
+미리보기	KO
+
+Remember	EN
+Password	EN
+
+Remember	EN
+this	EN
+결정	KO
+
+Subversion	EN
+:	EN
+Diff	EN
+file	EN
+/	EN
+디렉터리	KO
+
+_	EN
+Subversion	EN
+
+Commit	EN
+your	EN
+변화	KO
+to	EN
+the	EN
+Subversion	EN
+나무	KO
+
+_	EN
+Update	EN
+.	EN
+.	EN
+.	EN
+
+Diff	EN
+로컬	KO
+나무	KO
+함께	KO
+repositry	EN
+
+Subversion	EN
+운영	KO
+
+Subversion	EN
+팝업	KO
+운영	KO
+
+Revert	EN
+실패	KO
+
+Update	EN
+삭제	KO
+
+Update	EN
+추가하기	KO
+
+Update	EN
+완료	KO
+
+Update	EN
+외부	KO
+
+Status	EN
+완료	KO
+
+Commit	EN
+modified	EN
+
+Commit	EN
+추가되었습니다	KO
+
+Commit	EN
+삭제됨	KO
+
+Commit	EN
+replaced	EN
+
+Commit	EN
+postfix	EN
+
+Select	EN
+디렉터리	KO
+
+Directories	EN
+to	EN
+스캔	KO
+
+Anjuta	EN
+tags	EN
+파일	KO
+
+Symbol	EN
+Browser	EN
+
+Create	EN
+API	EN
+tags	EN
+:	EN
+
+Add	EN
+디렉터리	KO
+
+Update	EN
+globale	EN
+태그	KO
+
+Tag	EN
+_	EN
+Definition	EN
+
+Goto	EN
+기호	KO
+정의	KO
+
+Tag	EN
+De	EN
+_	EN
+claration	EN
+
+Goto	EN
+상징	KO
+선언	KO
+
+Goto	EN
+_	EN
+Definition	EN
+
+Goto	EN
+De	EN
+_	EN
+claration	EN
+
+_	EN
+Find	EN
+Usage	EN
+
+Symbol	EN
+브라우저	KO
+행동	KO
+
+Symbol	EN
+브라우저	KO
+팝업	KO
+액션	KO
+
+Goto	EN
+기호	KO
+
+Select	EN
+the	EN
+기호	KO
+to	EN
+go	EN
+
+Terminal	EN
+옵션	KO
+
+Save	EN
+전체	KO
+파일	KO
+
+Short	EN
+잘라	KO
+:	EN
+
+Standard	EN
+오류	KO
+:	EN
+
+Tool	EN
+Editor	EN
+
+User	EN
+Tools	EN
+
+Variable	EN
+명단	KO
+
+_	EN
+Variable	EN
+.	EN
+.	EN
+.	EN
+
+Are	EN
+당신	KO
+sure	EN
+당신은	KO
+want	EN
+to	EN
+지우기	KO
+the	EN
+'	EN
+%	EN
+s	EN
+'	EN
+tool	EN
+?	EN
+
+Unable	EN
+to	EN
+빌드	KO
+사용자	KO
+인터페이스	KO
+for	EN
+공구	KO
+명단	KO
+
+Unable	EN
+to	EN
+빌드	KO
+사용자	KO
+인터페이스	KO
+for	EN
+공구	KO
+변광성	KO
+
+You	EN
+must	EN
+provide	EN
+a	EN
+공구	KO
+이름	KO
+!	EN
+
+You	EN
+must	EN
+provide	EN
+a	EN
+tool	EN
+커맨드	KO
+!	EN
+
+A	EN
+공구	KO
+함께	KO
+the	EN
+동일	KO
+이름	KO
+이미	KO
+존재함	KO
+!	EN
+
+Unable	EN
+to	EN
+편집하기	KO
+문자	KO
+
+Running	EN
+커맨드	KO
+:	EN
+
+Completed	EN
+.	EN
+.	EN
+.	EN
+unsuccessful	EN
+함께	KO
+
+Unable	EN
+to	EN
+만들기	KO
+a	EN
+버퍼	KO
+,	EN
+명령	KO
+aborted	EN
+
+Unable	EN
+to	EN
+오픈	KO
+입력하기	KO
+파일	KO
+%	EN
+s	EN
+,	EN
+Command	EN
+중단됨	KO
+
+Error	EN
+when	EN
+로딩	KO
+외부	KO
+도구	KO
+
+Unable	EN
+to	EN
+열기	KO
+%	EN
+s	EN
+for	EN
+글쓰기	KO
+
+_	EN
+Configure	EN
+
+Configure	EN
+외부	KO
+도구	KO
+
+Tool	EN
+운영	KO
+
+Command	EN
+라인	KO
+매개변수	KO
+
+Program	EN
+to	EN
+시험	KO
+:	EN
+
+Select	EN
+Tool	EN
+:	EN
+
+Open	EN
+Valgrind	EN
+로그	KO
+파일	KO
+
+_	EN
+Kill	EN
+Execution	EN
+
+Edit	EN
+Rules	EN
+
+Failed	EN
+to	EN
+만드세요	KO
+파이프	KO
+to	EN
+'	EN
+%	EN
+s	EN
+'	EN
+:	EN
+%	EN
+s	EN
+
+Failed	EN
+to	EN
+create	EN
+아이유	KO
+프로세스	KO
+'	EN
+%	EN
+s	EN
+'	EN
+:	EN
+%	EN
+s	EN
+
+Error	EN
+포함	KO
+
+Object	EN
+포함	KO
+
+Source	EN
+filename	EN
+포함함	KO
+
+Shared	EN
+Object	EN
+
+Rule	EN
+이름	KO
+:	EN
+
+Error	EN
+저장	KO
+to	EN
+억제	KO
+파일	KO
+`	EN
+%	EN
+s	EN
+'	EN
+:	EN
+%	EN
+s	EN
+
+Anjuta	EN
+Plugin	EN
+
+Anjuta	EN
+Plugins	EN
+
+Loaded	EN
+Session	EN
+.	EN
+.	EN
+.	EN
+
+General	EN
+Information	EN
+:	EN
+
+Default	EN
+프로젝트	KO
+디렉토리	KO
+
+User	EN
+이메일	KO
+주소	KO
+
+User	EN
+이름	KO
+
+_	EN
+Full	EN
+Screen	EN
+
+Set	EN
+_	EN
+Default	EN
+Preferences	EN
+
+C	EN
+_	EN
+ustomize	EN
+Shortcuts	EN
+
+Manipulate	EN
+플러그인	KO
+
+_	EN
+User	EN
+'	EN
+s	EN
+Manual	EN
+
+Anjuta	EN
+사용자	KO
+'	EN
+s	EN
+설명서	KO
+
+Anjuta	EN
+_	EN
+Home	EN
+Page	EN
+
+Online	EN
+documentation	EN
+그리고	KO
+리소스	KO
+
+Submit	EN
+a	EN
+버그	KO
+보고서	KO
+,	EN
+패치	KO
+or	EN
+기능	KO
+요청하기	KO
+for	EN
+Anjuta	EN
+
+Ask	EN
+a	EN
+_	EN
+Question	EN
+
+About	EN
+Anjuta	EN
+
+Toggle	EN
+View	EN
+
+Value	EN
+doesn	EN
+'	EN
+t	EN
+존재	KO
+
+Could	EN
+아님	KO
+열기	KO
+파일	KO
+for	EN
+글쓰기	KO
+
+The	EN
+파일	KO
+'	EN
+%	EN
+s	EN
+'	EN
+벌써	KO
+존재함	KO
+.	EN
+Do	EN
+you	EN
+want	EN
+to	EN
+대체	KO
+it	EN
+with	EN
+the	EN
+하나	KO
+귀하	KO
+are	EN
+저장	KO
+?	EN
+.	EN
+
+Do	EN
+아님	KO
+show	EN
+the	EN
+splashscreen	EN
+
+Quit	EN
+Anjuta	EN
+Test	EN
+Shell	EN
+
+_	EN
+Preferences	EN
+.	EN
+.	EN
+.	EN
+
+C	EN
+_	EN
+ustomize	EN
+바로가기	KO
+
+Anjuta	EN
+테스트	KO
+shell	EN
+
+Indentation	EN
+매개변수	KO
+
+Brace	EN
+들여쓰기	KO
+크기	KO
+in	EN
+공간	KO
+:	EN
+
+Enable	EN
+스마트	KO
+들여쓰기	KO
+
+Pressing	EN
+tab	EN
+indents	EN
+
+Statement	EN
+들여쓰기	KO
+크기	KO
+in	EN
+공백	KO
+:	EN
+
+Anjuta	EN
+File	EN
+Wizard	EN
+Plugin	EN
+
+Task	EN
+Manager	EN
+
+Macro	EN
+Plugin	EN
+
+Patch	EN
+Plugin	EN
+
+Patches	EN
+파일	KO
+그리고	KO
+디렉토리	KO
+.	EN
+
+Sample	EN
+Plugin	EN
+
+Sample	EN
+Plugin	EN
+for	EN
+Anjuta	EN
+.	EN
+
+CVS	EN
+Plugin	EN
+
+Project	EN
+Wizard	EN
+
+Message	EN
+Manager	EN
+
+Debug	EN
+Manager	EN
+plugin	EN
+.	EN
+
+Additional	EN
+빌드	KO
+options	EN
+:	EN
+
+Anjuta	EN
+도움말	KO
+검색하기	KO
+
+Automatically	EN
+로드	KO
+라스트	KO
+Project	EN
+
+Build	EN
+명령	KO
+:	EN
+
+Build	EN
+파일	KO
+
+Build	EN
+기호	KO
+브라우저	KO
+automatically	EN
+
+Common	EN
+명령	KO
+:	EN
+
+Compiler	EN
+그리고	KO
+linker	EN
+옵션	KO
+
+Data	EN
+모듈	KO
+Makefile	EN
+.	EN
+am	EN
+
+Disable	EN
+overwriting	EN
+파일	KO
+
+Document	EN
+모듈	KO
+Makefile	EN
+.	EN
+am	EN
+
+Enable	EN
+Debugging	EN
+
+GUI	EN
+편집자	KO
+지휘	KO
+:	EN
+
+HTML	EN
+_	EN
+뷰어	KO
+:	EN
+
+Help	EN
+module	EN
+Makefile	EN
+.	EN
+am	EN
+
+Ignore	EN
+파일	KO
+그리고	KO
+디렉터리	KO
+
+Include	EN
+Paths	EN
+
+Include	EN
+모듈	KO
+Makefile	EN
+.	EN
+am	EN
+
+Info	EN
+Pages	EN
+
+Language	EN
+-	EN
+구체적	KO
+명령어	KO
+:	EN
+
+Library	EN
+Paths	EN
+
+Load	EN
+_	EN
+사용자	KO
+기본값	KO
+
+Maximum	EN
+번호	KO
+of	EN
+independent	EN
+잡스	KO
+(	EN
+0	EN
+no	EN
+한계	KO
+)	EN
+
+Menu	EN
+아이콘	KO
+:	EN
+
+Menu	EN
+위치	KO
+:	EN
+
+New	EN
+파일	KO
+
+Open	EN
+Project	EN
+
+Open	EN
+존재	KO
+Project	EN
+.	EN
+
+Open	EN
+라스트	KO
+일하기	KO
+Project	EN
+
+Output	EN
+파일	KO
+
+Project	EN
+Version	EN
+
+Project	EN
+설정	KO
+.	EN
+in	EN
+
+Project	EN
+수준	KO
+
+Recent	EN
+Projects	EN
+:	EN
+
+Run	EN
+Configure	EN
+Script	EN
+
+Show	EN
+tooltips	EN
+
+User	EN
+정보	KO
+
+User	EN
+이름	KO
+:	EN
+
+_	EN
+Build	EN
+a	EN
+파일	KO
+:	EN
+
+_	EN
+Pixmap	EN
+에디터	KO
+:	EN
+
+_	EN
+Terminal	EN
+:	EN
+
+Text	EN
+in	EN
+the	EN
+항목	KO
+
+The	EN
+value	EN
+"	EN
+%	EN
+s	EN
+"	EN
+is	EN
+아님	KO
+part	EN
+of	EN
+the	EN
+열거	KO
+"	EN
+%	EN
+s	EN
+"	EN
+
+The	EN
+자산	KO
+"	EN
+%	EN
+s	EN
+"	EN
+does	EN
+아님	KO
+존재	KO
+
+The	EN
+종류	KO
+"	EN
+%	EN
+s	EN
+"	EN
+is	EN
+아님	KO
+a	EN
+유효합니다	KO
+유형	KO
+.	EN
+
+The	EN
+형식	KO
+"	EN
+%	EN
+s	EN
+"	EN
+is	EN
+not	EN
+a	EN
+세포	KO
+renderer	EN
+type	EN
+.	EN
+
+No	EN
+유형	KO
+속성	KO
+지정됨	KO
+.	EN
+
+Dock	EN
+품목	KO
+
+Build	EN
+Project	EN
+
+Building	EN
+the	EN
+whole	EN
+Project	EN
+:	EN
+
+Build	EN
+Distribution	EN
+
+Auto	EN
+생성하기	KO
+Project	EN
+
+Auto	EN
+generating	EN
+the	EN
+Project	EN
+:	EN
+
+Installing	EN
+the	EN
+Project	EN
+:	EN
+
+Clean	EN
+All	EN
+
+Cleaning	EN
+whole	EN
+of	EN
+the	EN
+Project	EN
+:	EN
+
+Do	EN
+당신	KO
+want	EN
+to	EN
+지우	KO
+the	EN
+리스트	KO
+?	EN
+
+Include	EN
+경로	KO
+
+The	EN
+타겟	KO
+executable	EN
+of	EN
+이거	KO
+Project	EN
+is	EN
+아님	KO
+executable	EN
+
+This	EN
+파일	KO
+has	EN
+아님	KO
+been	EN
+saved	EN
+.	EN
+Save	EN
+it	EN
+처음	KO
+.	EN
+
+_	EN
+Execute	EN
+프로그램	KO
+
+Select	EN
+헤더	KO
+파일	KO
+
+Select	EN
+소스	KO
+파일	KO
+
+Output	EN
+Header	EN
+File	EN
+:	EN
+
+Output	EN
+Source	EN
+File	EN
+:	EN
+
+Add	EN
+to	EN
+현재	KO
+Project	EN
+?	EN
+
+Enter	EN
+the	EN
+이름	KO
+for	EN
+the	EN
+학급	KO
+당신은	KO
+want	EN
+to	EN
+추가	KO
+.	EN
+
+Error	EN
+in	EN
+쓰기	KO
+파일	KO
+
+Do	EN
+_	EN
+n	EN
+'	EN
+t	EN
+저장하기	KO
+
+Delete	EN
+Theme	EN
+
+Reload	EN
+Session	EN
+Defaults	EN
+
+_	EN
+Save	EN
+Theme	EN
+As	EN
+
+_	EN
+Toggle	EN
+책갈피	KO
+
+%	EN
+s	EN
+is	EN
+not	EN
+a	EN
+'	EN
+.	EN
+h	EN
+'	EN
+file	EN
+!	EN
+
+C	EN
+_	EN
+템플릿	KO
+
+_	EN
+CVS	EN
+키워드	KO
+
+_	EN
+General	EN
+
+_	EN
+Header	EN
+
+Insert	EN
+a	EN
+파일	KO
+헤더	KO
+
+Current	EN
+_	EN
+Username	EN
+
+Insert	EN
+이름	KO
+of	EN
+현재	KO
+사용자	KO
+
+Current	EN
+_	EN
+Date	EN
+&	EN
+Time	EN
+
+Insert	EN
+전류	KO
+날짜	KO
+&	EN
+time	KO
+
+Header	EN
+File	EN
+_	EN
+Template	EN
+
+Insert	EN
+a	EN
+표준	KO
+헤더	KO
+파일	KO
+템플릿	KO
+
+Insert	EN
+a	EN
+switch	KO
+템플릿	KO
+
+Insert	EN
+a	EN
+for	EN
+템플릿	KO
+
+Insert	EN
+a	EN
+동안	KO
+템플릿	KO
+
+_	EN
+Log	EN
+
+_	EN
+Revision	EN
+
+_	EN
+Source	EN
+
+File	EN
+마법사	KO
+운영	KO
+
+All	EN
+breakpoints	EN
+비활성화	KO
+.	EN
+
+All	EN
+breakpoints	EN
+활성화	KO
+.	EN
+
+All	EN
+breakpoints	EN
+삭제되었습니다	KO
+.	EN
+
+Unsigned	EN
+소수점	KO
+
+Unable	EN
+to	EN
+빌드	KO
+사용자	KO
+인터페이스	KO
+for	EN
+Memory	EN
+
+Display	EN
+현지	KO
+변수	KO
+of	EN
+the	EN
+현재	KO
+액자	KO
+
+Display	EN
+접근	KO
+기억력	KO
+
+_	EN
+Restart	EN
+Program	EN
+
+Stop	EN
+그리고	KO
+재시작	KO
+the	EN
+프로그램	KO
+
+S	EN
+_	EN
+top	KO
+Program	EN
+
+Stop	EN
+the	EN
+프로그램	KO
+being	EN
+debugged	EN
+
+Detach	EN
+출신	KO
+an	EN
+첨부된	KO
+프로그램	KO
+
+Show	EN
+CPU	EN
+등록	KO
+콘텐츠	KO
+
+Add	EN
+표현	KO
+
+Add	EN
+Watch	EN
+Expression	EN
+
+Modify	EN
+Watch	EN
+Expression	EN
+
+Modify	EN
+watched	EN
+표현	KO
+
+Save	EN
+변화	KO
+to	EN
+glade	EN
+프로젝트	KO
+"	EN
+%	EN
+s	EN
+"	EN
+이전	KO
+닫기	KO
+?	EN
+Your	EN
+변경	KO
+will	EN
+be	EN
+분실	KO
+if	EN
+당신은	KO
+don	KO
+'	EN
+t	EN
+저장	KO
+그들	KO
+.	EN
+
+/	EN
+Item	EN
+/	EN
+_	EN
+Edit	EN
+
+/	EN
+_	EN
+View	EN
+
+Due	EN
+데이트	KO
+:	EN
+\	EN
+t	EN
+%	EN
+s	EN
+
+Pick	EN
+a	EN
+색상	KO
+
+Cannot	EN
+오픈	KO
+:	EN
+%	EN
+s	EN
+&	EN
+s	EN
+
+Loading	EN
+프로젝트	KO
+.	EN
+Please	EN
+기다림	KO
+.	EN
+.	EN
+.	EN
+
+File	EN
+:	EN
+%	EN
+s	EN
+
+Saving	EN
+파일	KO
+.	EN
+.	EN
+.	EN
+
+Sample	EN
+Plugin	EN
+
+Sample	EN
+Plugin	EN
+for	EN
+Anjuta	EN
+.	EN
+
+Function	EN
+Name	EN
+
+Flat	EN
+Profile	EN
+
+Call	EN
+Graph	EN
+
+_	EN
+Kill	EN
+Execution	EN
+
+_	EN
+Load	EN
+Log	EN
+
+Edit	EN
+Rules	EN
+
+Error	EN
+포함함	KO
+
+_	EN
+Paste	EN
+
+Leak	EN
+체크	KO
+:	EN
+
+Leak	EN
+해상도	KO
+:	EN
+
+Keep	EN
+up	EN
+to	EN
+
+System	EN
+호출	KO
+:	EN
+
+Call	EN
+연쇄	KO
+:	EN
+
+Powerful	EN
+디버깅	KO
+공구	KO
+.	EN
+
+Valgrind	EN
+Plugin	EN
+
+Central	EN
+European	EN
+
+South	EN
+European	EN
+
+Chinese	EN
+Traditional	EN
+
+Cyrillic	EN
+/	EN
+Russian	EN
+
+Chinese	EN
+Simplified	EN
+
+Cyrillic	EN
+/	EN
+Ukrainian	EN
+
+Anjuta	EN
+Shell	EN
+
+Available	EN
+Plugins	EN
+
+Preferred	EN
+플러그인	KO
+
+Select	EN
+a	EN
+플러그인	KO
+
+Remember	EN
+this	EN
+선택	KO
+
+Available	EN
+플러그인	KO
+
+Activated	EN
+플러그인	KO
+
+Currently	EN
+activated	EN
+플러그인	KO
+
+Plugin	EN
+Manager	EN
+
+Profile	EN
+Name	EN
+
+Profile	EN
+Plugins	EN
+
+Anjuta	EN
+Preferences	EN
+
+_	EN
+Discard	EN
+changes	EN
+
+Text	EN
+to	EN
+렌더링	KO
+
+The	EN
+pixbuf	EN
+to	EN
+렌더링	KO
+.	EN
+
+Widget	EN
+아님	KO
+찾았다	KO
+:	EN
+%	EN
+s	EN
+
+Regenerate	EN
+프로젝트	KO
+
+Select	EN
+Program	EN
+to	EN
+run	EN
+:	EN
+
+Build	EN
+Directory	EN
+:	EN
+
+Configure	EN
+Project	EN
+
+Continue	EN
+on	EN
+오류	KO
+
+Install	EN
+as	EN
+루트	KO
+:	EN
+
+Run	EN
+in	EN
+terminal	EN
+
+Run	EN
+여러개	KO
+명령어	KO
+at	EN
+a	EN
+time	KO
+:	EN
+
+Select	EN
+Program	EN
+
+Select	EN
+a	EN
+빌드	KO
+디렉터리	KO
+
+Translate	EN
+메시지	KO
+
+Entering	EN
+:	EN
+%	EN
+s	EN
+
+Leaving	EN
+:	EN
+%	EN
+s	EN
+
+Command	EN
+취소됨	KO
+by	EN
+사용자	KO
+
+Build	EN
+%	EN
+d	EN
+:	EN
+%	EN
+s	EN
+
+_	EN
+Build	EN
+
+_	EN
+Build	EN
+Project	EN
+
+Build	EN
+whole	EN
+프로젝트	KO
+
+_	EN
+Install	EN
+Project	EN
+
+Install	EN
+whole	EN
+프로젝트	KO
+
+_	EN
+Clean	EN
+Project	EN
+
+Clean	EN
+whole	EN
+프로젝트	KO
+
+C	EN
+_	EN
+onfigure	EN
+Project	EN
+.	EN
+.	EN
+.	EN
+
+Configure	EN
+프로젝트	KO
+
+Build	EN
+_	EN
+Tarball	EN
+
+_	EN
+Install	EN
+
+Add	EN
+to	EN
+Project	EN
+
+_	EN
+Add	EN
+
+_	EN
+Remove	EN
+
+_	EN
+Update	EN
+
+Attach	EN
+to	EN
+프로세스	KO
+
+_	EN
+Location	EN
+:	EN
+
+_	EN
+Name	EN
+:	EN
+
+_	EN
+Value	EN
+:	EN
+
+Toggle	EN
+Breakpoint	EN
+
+Show	EN
+Line	EN
+Numbers	EN
+
+Whether	EN
+to	EN
+표시하기	KO
+라인	KO
+숫자	KO
+
+Whether	EN
+to	EN
+표시	KO
+라인	KO
+마커	KO
+pixbufs	EN
+
+View	EN
+Source	EN
+
+Remove	EN
+Watch	EN
+
+Change	EN
+Value	EN
+
+Remove	EN
+모두	KO
+
+_	EN
+Context	EN
+Help	EN
+
+Open	EN
+파일	KO
+
+Save	EN
+파일	KO
+as	EN
+
+Save	EN
+_	EN
+As	EN
+.	EN
+.	EN
+.	EN
+
+Save	EN
+the	EN
+전류	KO
+file	EN
+함께	KO
+a	EN
+다름	KO
+이름	KO
+
+Close	EN
+All	EN
+
+_	EN
+Transform	EN
+
+Select	EN
+_	EN
+All	EN
+
+_	EN
+Search	EN
+
+Undo	EN
+the	EN
+라스트	KO
+행동	KO
+
+_	EN
+Redo	EN
+
+Redo	EN
+the	EN
+마지막	KO
+undone	EN
+활동	KO
+
+Copy	EN
+the	EN
+selected	EN
+문자	KO
+to	EN
+the	EN
+clipboard	EN
+
+_	EN
+Clear	EN
+
+Zoom	EN
+In	EN
+
+Zoom	EN
+Out	EN
+
+_	EN
+Highlight	EN
+Mode	EN
+
+_	EN
+Documents	EN
+
+Previous	EN
+Document	EN
+
+Next	EN
+Document	EN
+
+Open	EN
+'	EN
+%	EN
+s	EN
+'	EN
+
+Open	EN
+함께	KO
+:	EN
+
+All	EN
+파일	KO
+
+_	EN
+New	EN
+
+_	EN
+Open	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Open	EN
+
+Open	EN
+_	EN
+Recent	EN
+
+File	EN
+Manager	EN
+
+New	EN
+File	EN
+
+Select	EN
+A	EN
+Folder	EN
+
+_	EN
+Skip	EN
+
+_	EN
+Abort	EN
+
+_	EN
+Add	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Remove	EN
+.	EN
+.	EN
+.	EN
+
+Add	EN
+Item	EN
+
+Edit	EN
+Item	EN
+
+Edit	EN
+Categories	EN
+
+Due	EN
+데이트	KO
+
+_	EN
+Tasks	EN
+
+No	EN
+Date	EN
+
+_	EN
+Add	EN
+Macro	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Next	EN
+Message	EN
+
+Save	EN
+메시지	KO
+
+_	EN
+Tools	EN
+
+_	EN
+Project	EN
+
+_	EN
+Properties	EN
+
+_	EN
+Refresh	EN
+
+Close	EN
+프로젝트	KO
+
+Re	EN
+_	EN
+이동	KO
+
+Select	EN
+디렉토리	KO
+
+Icon	EN
+선택	KO
+
+A	EN
+일반	KO
+C	EN
++	EN
++	EN
+프로젝트	KO
+
+A	EN
+일반	KO
+GTK	EN
++	EN
+프로젝트	KO
+
+A	EN
+일반	KO
+GTKmm	EN
+(	EN
+C	EN
++	EN
++	EN
+)	EN
+프로젝트	KO
+
+A	EN
+일반	KO
+Xlib	EN
+dock	EN
+애플릿	KO
+
+A	EN
+일반	KO
+Xlib	EN
+project	EN
+
+A	EN
+일반	KO
+project	EN
+
+A	EN
+generic	EN
+wx	EN
+Widgets	EN
+프로젝트	KO
+
+A	EN
+샘플	KO
+SDL	EN
+프로젝트	KO
+
+Add	EN
+C	EN
++	EN
++	EN
+후원	KO
+:	EN
+
+Add	EN
+gtk	KO
+-	EN
+doc	KO
+시스템	KO
+:	EN
+
+Add	EN
+국제화	KO
+:	EN
+
+Anjuta	EN
+Plugin	EN
+
+Email	EN
+주소	KO
+:	EN
+
+General	EN
+Project	EN
+Information	EN
+
+Icon	EN
+File	EN
+:	EN
+
+Icon	EN
+파일	KO
+for	EN
+the	EN
+플러그인	KO
+
+Implement	EN
+플러그인	KO
+인터페이스	KO
+
+Interface	EN
+구현	KO
+by	EN
+the	EN
+플러그인	KO
+
+Makefile	EN
+프로젝트	KO
+
+Makefile	EN
+-	EN
+기반	KO
+프로젝트	KO
+
+Project	EN
+이름	KO
+:	EN
+
+Project	EN
+옵션	KO
+
+프로젝트	KO
+이름	KO
+
+Program	EN
+Parameters	EN
+
+Load	EN
+Target	EN
+to	EN
+달리기	KO
+
+_	EN
+Run	EN
+
+Kill	EN
+프로그램	KO
+
+Program	EN
+Parameters	EN
+.	EN
+.	EN
+.	EN
+
+Run	EN
+작전	KO
+
+Sample	EN
+파일	KO
+작전	KO
+
+Background	EN
+색상	KO
+:	EN
+
+Disable	EN
+문법	KO
+강조	KO
+
+Foreground	EN
+컬러	KO
+:	EN
+
+Scratchbox	EN
+Options	EN
+
+No	EN
+Limit	EN
+
+_	EN
+Find	EN
+.	EN
+.	EN
+.	EN
+
+Find	EN
+_	EN
+Next	EN
+
+Find	EN
+_	EN
+Previous	EN
+
+Replace	EN
+넥스트	KO
+매치	KO
+
+Replace	EN
+모두	KO
+일치	KO
+
+Replace	EN
+All	EN
+
+Highlight	EN
+현재	KO
+라인	KO
+
+View	EN
+Log	EN
+
+New	EN
+가속기	KO
+.	EN
+.	EN
+.	EN
+
+Opening	EN
+%	EN
+s	EN
+
+Discard	EN
+출력	KO
+
+Current	EN
+버퍼	KO
+
+Current	EN
+선택	KO
+
+Program	EN
+to	EN
+테스트	KO
+:	EN
+
+Select	EN
+Tool	EN
+:	EN
+
+Loaded	EN
+Session	EN
+.	EN
+.	EN
+.	EN
+
+Project	EN
+Defaults	EN
+
+Default	EN
+프로젝트	KO
+디렉토리	KO
+:	EN
+
+Developer	EN
+이메일	KO
+주소	KO
+:	EN
+
+Developer	EN
+이름	KO
+:	EN
+
+_	EN
+File	EN
+
+_	EN
+Quit	EN
+
+_	EN
+Preferences	EN
+
+_	EN
+Full	EN
+Screen	EN
+
+Toggle	EN
+fullscreen	EN
+모드	KO
+
+_	EN
+Frequently	EN
+Asked	EN
+Questions	EN
+
+Anjuta	EN
+자주	KO
+asked	EN
+질문	KO
+
+Anjuta	EN
+_	EN
+Home	EN
+Page	EN
+
+_	EN
+About	EN
+
+Installed	EN
+플러그인	KO
+
+Indentation	EN
+매개변수	KO
+
+Smart	EN
+Indentation	EN
+
+Enable	EN
+적응	KO
+들여쓰기	KO
+
+Enable	EN
+부호	KO
+완성	KO
+
+Enable	EN
+스마트	KO
+들여쓰기	KO
+
+Pressing	EN
+tab	EN
+indents	EN
+
+Auto	EN
+Indent	EN
+
+Gdb	EN
+플러그인	KO
+.	EN
+
+Git	EN
+버전	KO
+컨트롤	KO
+
+Devhelp	EN
+Plugin	EN
+for	EN
+Anjuta	EN
+.	EN
+
+Anjuta	EN
+File	EN
+Assistant	EN
+Plugin	EN
+
+File	EN
+Assistant	EN
+
+Glade	EN
+Plugin	EN
+for	EN
+Anjuta	EN
+.	EN
+
+Glade	EN
+인터페이스	KO
+디자이너가	KO
+
+Task	EN
+Manager	EN
+
+Todo	EN
+Plugin	EN
+for	EN
+Anjuta	EN
+.	EN
+
+Macro	EN
+Plugin	EN
+
+Patch	EN
+Plugin	EN
+
+Automake	EN
+Build	EN
+
+Terminal	EN
+Plugin	EN
+for	EN
+Anjuta	EN
+.	EN
+
+A	EN
+버전	KO
+통제	KO
+시스템	KO
+플러그인	KO
+
+CVS	EN
+Plugin	EN
+
+Project	EN
+Import	EN
+Assistant	EN
+
+C	EN
++	EN
++	EN
+그리고	KO
+Java	EN
+support	EN
+Plugin	EN
+
+Project	EN
+Assistant	EN
+
+Component	EN
+for	EN
+검색	KO
+
+Project	EN
+Manager	EN
+
+Message	EN
+Manager	EN
+
+Debug	EN
+Manager	EN
+플러그인	KO
+.	EN
+
+Run	EN
+Program	EN
+
+Language	EN
+Manager	EN
+
+Failed	EN
+to	EN
+읽기	KO
+'	EN
+%	EN
+s	EN
+'	EN
+:	EN
+%	EN
+s	EN
+
+Case	EN
+민감하다	KO
+
+Enable	EN
+Python	EN
+댓글	KO
+접힘	KO
+
+Misc	EN
+옵션	KO
+
+Print	EN
+옵션	KO
+
+_	EN
+Replace	EN
+
+_	EN
+Copy	EN
+
+_	EN
+Edit	EN
+
+Up	EN
+to	EN
+데이트	KO
+
+No	EN
+License	EN
+
+Shared	EN
+라이브러리	KO
+작전	KO
+
+Signal	EN
+작전	KO
+
+Remove	EN
+즐겨찾기	KO
+
+Open	EN
+a	EN
+파일	KO
+
+File	EN
+아님	KO
+발견됨	KO
+
+Open	EN
+With	EN
+
+Up	EN
+-	EN
+to	EN
+-	EN
+날짜	KO
+
+Select	EN
+패키지	KO
+
+Select	EN
+Package	EN
+to	EN
+추가	KO
+:	EN
+
+Group	EN
+doesn	EN
+'	EN
+t	EN
+존재	KO
+
+Unable	EN
+to	EN
+갱신	KO
+프로젝트	KO
+
+Malformed	EN
+프로젝트	KO
+
+Header	EN
+Files	EN
+
+Man	EN
+Documentation	EN
+
+Info	EN
+Documentation	EN
+
+Project	EN
+디렉터리	KO
+
+Package	EN
+이름	KO
+:	EN
+
+Group	EN
+이름	KO
+:	EN
+
+Install	EN
+디렉터리	KO
+:	EN
+
+Advanced	EN
+옵션	KO
+
+Install	EN
+디렉터리	KO
+:	EN
+
+Project	EN
+doesn	EN
+'	EN
+t	EN
+존재함	KO
+
+Loading	EN
+Core	EN
+:	EN
+%	EN
+s	EN
+
+Select	EN
+파일	KO
+to	EN
+추가	KO
+:	EN
+
+Select	EN
+파일	KO
+to	EN
+삭제	KO
+:	EN
+
+Branch	EN
+이름	KO
+:	EN
+
+Reset	EN
+to	EN
+:	EN
+
+Select	EN
+Files	EN
+to	EN
+Ignore	EN
+:	EN
+
+Apply	EN
+사서함	KO
+파일	KO
+
+Select	EN
+Mailbox	EN
+File	EN
+
+Delete	EN
+Tags	EN
+
+Clear	EN
+모두	KO
+stashes	EN
+
+Stash	EN
+to	EN
+Apply	EN
+
+Select	EN
+a	EN
+파일	KO
+
+Git	EN
+:	EN
+Pushing	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Changes	EN
+
+_	EN
+Files	EN
+
+Ignore	EN
+파일	KO
+
+_	EN
+Apply	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Branches	EN
+
+_	EN
+Continue	EN
+
+Skip	EN
+the	EN
+현재	KO
+conflicted	EN
+커밋	KO
+그리고	KO
+계속	KO
+
+Create	EN
+a	EN
+tag	EN
+
+Delete	EN
+태그	KO
+
+Start	EN
+a	EN
+bisect	EN
+작전	KO
+
+Widget	EN
+이름	KO
+
+End	EN
+of	EN
+파일	KO
+
+Save	EN
+the	EN
+전류	KO
+파일	KO
+
+Redo	EN
+the	EN
+마지막	KO
+동작	KO
+
+Cut	EN
+the	EN
+선택	KO
+
+Copy	EN
+the	EN
+선택	KO
+
+Delete	EN
+the	EN
+선택	KO
+
+Glade	EN
+디자이너가	KO
+작전	KO
+
+HTML	EN
+내보내기	KO
+옵션	KO
+:	EN
+
+Failed	EN
+to	EN
+읽음	KO
+file	EN
+
+Underline	EN
+-	EN
+Plain	EN
+
+Underline	EN
+-	EN
+Squiggle	EN
+
+Underline	EN
+-	EN
+TT	EN
+
+No	EN
+Warnings	EN
+
+_	EN
+Copy	EN
+Message	EN
+
+Copy	EN
+메시지	KO
+
+Project	EN
+이름	KO
+
+Import	EN
+출신	KO
+버전	KO
+제어	KO
+시스템	KO
+
+Import	EN
+옵션	KO
+
+Import	EN
+프로젝트	KO
+
+_	EN
+Group	EN
+이름	KO
+:	EN
+
+GbfProject	EN
+Object	EN
+
+No	EN
+프로젝트	KO
+loaded	EN
+
+Group	EN
+특성	KO
+
+Initializing	EN
+Project	EN
+.	EN
+.	EN
+.	EN
+
+Project	EN
+Loaded	EN
+
+Select	EN
+project	EN
+유형	KO
+
+Project	EN
+Type	EN
+:	EN
+%	EN
+s	EN
+
+Unknown	EN
+오류	KO
+.	EN
+
+Executing	EN
+:	EN
+%	EN
+s	EN
+
+Select	EN
+file	EN
+
+Select	EN
+an	EN
+Image	EN
+File	EN
+
+Choose	EN
+Icon	EN
+
+Choose	EN
+파일	KO
+
+A	EN
+GNOME	EN
+애플릿	KO
+project	EN
+
+A	EN
+일반	KO
+minimal	EN
+그리고	KO
+평평한	KO
+프로젝트	KO
+
+Stop	EN
+Program	EN
+
+Regular	EN
+표현	KO
+
+Create	EN
+File	EN
+/	EN
+Project	EN
+
+Recent	EN
+Projects	EN
+
+Anjuta	EN
+Home	EN
+Page	EN
+
+Anjuta	EN
+Manual	EN
+
+Subversion	EN
+Options	EN
+
+_	EN
+Find	EN
+Symbol	EN
+.	EN
+.	EN
+.	EN
+
+Opening	EN
+%	EN
+s	EN
+
+Running	EN
+사령부	KO
+:	EN
+%	EN
+s	EN
+.	EN
+.	EN
+.	EN
+
+Project	EN
+뿌리	KO
+URI	EN
+
+Project	EN
+루트	KO
+경로	KO
+
+Currently	EN
+edited	EN
+파일	KO
+이름	KO
+
+Currently	EN
+edited	EN
+파일	KO
+디렉토리	KO
+
+Currently	EN
+selected	EN
+문구	KO
+in	EN
+편집기	KO
+
+Current	EN
+라인	KO
+in	EN
+에디터	KO
+
+Icons	EN
+단발	KO
+
+Parenthese	EN
+들여쓰기	KO
+
+Symbol	EN
+Database	EN
+Plugin	EN
+for	EN
+Anjuta	EN
+.	EN
+
+Makefile	EN
+backend	EN
+
+Makefile	EN
+backend	EN
+for	EN
+프로젝트	KO
+매니저	KO
+
+C	EN
+_	EN
+onfigure	EN
+Project	EN
+
+General	EN
+Class	EN
+Properties	EN
+
+Author	EN
+Email	EN
+Address	EN
+:	EN
+
+CVS	EN
+Options	EN
+
+Remote	EN
+디버그	KO
+
+Save	EN
+_	EN
+As	EN
+
+Preview	EN
+the	EN
+전류	KO
+파일	KO
+in	EN
+인쇄	KO
+포맷	KO
+
+_	EN
+Line	EN
+Number	EN
+
+File	EN
+Information	EN
+
+Generic	EN
+규칙	KO
+
+Configure	EN
+file	EN
+
+Interface	EN
+파일	KO
+
+Attaching	EN
+to	EN
+절차	KO
+:	EN
+%	EN
+d	EN
+
+Detaching	EN
+the	EN
+절차	KO
+
+Select	EN
+a	EN
+Folder	EN
+
+_	EN
+View	EN
+log	EN
+
+_	EN
+Merge	EN
+
+_	EN
+Start	EN
+
+_	EN
+Create	EN
+태그	KO
+
+_	EN
+Reset	EN
+트리	KO
+
+Task	EN
+관리자	KO
+
+Task	EN
+관리자	KO
+조회	KO
+
+To	EN
+-	EN
+do	EN
+Manager	EN
+
+To	EN
+-	EN
+do	EN
+List	EN
+Preferences	EN
+
+_	EN
+Add	EN
+Macro	EN
+
+_	EN
+Patch	EN
+
+Project	EN
+이름	KO
+
+Import	EN
+옵션	KO
+
+Shortcut	EN
+:	EN
+%	EN
+s	EN
+
+Confirm	EN
+삭제하기	KO
+
+_	EN
+Add	EN
+to	EN
+Project	EN
+
+Initializing	EN
+Project	EN
+
+A	EN
+공유	KO
+or	EN
+a	EN
+정적	KO
+라이브러리	KO
+프로젝트	KO
+
+Build	EN
+도서관	KO
+as	EN
+
+Regular	EN
+표현	KO
+
+File	EN
+Filter	EN
+
+_	EN
+Find	EN
+
+_	EN
+View	EN
+Log	EN
+
+Available	EN
+API	EN
+태그	KO
+
+New	EN
+가속기	KO
+
+Insert	EN
+into	EN
+버퍼	KO
+
+Loaded	EN
+Session	EN
+
+Parenthesis	EN
+들여쓰기	KO
+
+Auto	EN
+-	EN
+Indent	EN
+
+GNU	EN
+Debugger	EN
+Plugin	EN
+
+Error	EN
+:	EN
+%	EN
+s	EN
+
+Error	EN
+:	EN
+cant	EN
+bind	EN
+항구	KO
+
+Anjuta	EN
+JS	EN
+Debugger	EN
+Plugin	EN
+
+JS	EN
+Support	EN
+Plugin	EN
+
+JavaScript	EN
+Support	EN
+Plugin	EN
+
+Min	EN
+성격	KO
+for	EN
+완성	KO
+
+Marked	EN
+up	EN
+문자	KO
+to	EN
+렌더링	KO
+
+Underline	EN
+집합	KO
+
+_	EN
+Continue	EN
+/	EN
+Suspend	EN
+
+Available	EN
+예뻐	KO
+프린터	KO
+
+기타	KO
+자녀	KO
+
+Register	EN
+Function	EN
+
+Gdb	EN
+Debugger	EN
+
+PyGTK	EN
+프로젝트	KO
+사용하기	KO
+automake	EN
+
+Default	EN
+가치	KO
+
+Develop	EN
+소프트웨어	KO
+in	EN
+an	EN
+통합	KO
+발달	KO
+환경	KO
+
+Unable	EN
+to	EN
+찾기	KO
+플러그인	KO
+모듈	KO
+%	EN
+s	EN
+
+Unable	EN
+to	EN
+찾기	KO
+plugin	EN
+등록	KO
+함수	KO
+%	EN
+s	EN
+in	EN
+모듈	KO
+%	EN
+s	EN
+
+Unknown	EN
+오류	KO
+in	EN
+모듈	KO
+%	EN
+s	EN
+
+Missing	EN
+위치	KO
+of	EN
+플러그인	KO
+%	EN
+s	EN
+
+Missing	EN
+타입	KO
+defined	EN
+by	EN
+플러그인	KO
+%	EN
+s	EN
+
+플러그인	KO
+%	EN
+s	EN
+fails	EN
+to	EN
+등록	KO
+종류	KO
+%	EN
+s	EN
+
+The	EN
+파일	KO
+당신은	KO
+are	EN
+trying	EN
+to	EN
+오픈	KO
+포함됨	KO
+an	EN
+오류	KO
+바이트	KO
+시퀀스	KO
+.	EN
+
+Anjuta	EN
+was	EN
+아님	KO
+able	EN
+to	EN
+automatically	EN
+determine	EN
+the	EN
+encoding	EN
+of	EN
+the	EN
+파일	KO
+당신	KO
+want	EN
+to	EN
+오픈	KO
+.	EN
+
+Cannot	EN
+실행	KO
+지휘	KO
+:	EN
+"	EN
+%	EN
+s	EN
+"	EN
+
+execvp	EN
+실패	KO
+
+Anjuta	EN
+껍질	KO
+that	EN
+will	EN
+contain	EN
+the	EN
+플러그인	KO
+
+Plugin	EN
+'	EN
+%	EN
+s	EN
+'	EN
+does	EN
+아님	KO
+want	EN
+to	EN
+be	EN
+비활성화	KO
+
+Could	EN
+아님	KO
+로딩	KO
+%	EN
+s	EN
+This	EN
+보통	KO
+means	EN
+that	EN
+your	EN
+설치	KO
+is	EN
+corrupted	EN
+.	EN
+The	EN
+오류	KO
+message	EN
+leading	EN
+to	EN
+이거	KO
+was	EN
+:	EN
+%	EN
+s	EN
+
+Only	EN
+공연	KO
+사용자	KO
+activatable	EN
+플러그인	KO
+
+These	EN
+are	EN
+the	EN
+플러그인	KO
+selected	EN
+by	EN
+당신	KO
+언제쯤	KO
+Anjuta	EN
+prompted	EN
+to	EN
+선택하기	KO
+하나	KO
+of	EN
+많은	KO
+어울리는	KO
+플러그인	KO
+.	EN
+Removing	EN
+the	EN
+선호	KO
+플러그인	KO
+will	EN
+let	EN
+Anjuta	EN
+prompt	EN
+당신은	KO
+again	EN
+to	EN
+선택하기	KO
+다르다	KO
+플러그인	KO
+.	EN
+
+Forget	EN
+selected	EN
+플러그인	KO
+
+Please	EN
+선택	KO
+a	EN
+플러그인	KO
+to	EN
+활성화하기	KO
+
+No	EN
+플러그인	KO
+is	EN
+able	EN
+to	EN
+로딩	KO
+other	EN
+플러그인	KO
+in	EN
+%	EN
+s	EN
+
+Current	EN
+스택	KO
+of	EN
+프로파일	KO
+
+Currently	EN
+available	EN
+플러그인	KO
+찾았다	KO
+in	EN
+플러그인	KO
+경로	KO
+
+Anjuta	EN
+껍질	KO
+for	EN
+어느	KO
+the	EN
+플러그인	KO
+are	EN
+만든	KO
+
+Anjuta	EN
+상태	KO
+to	EN
+이용하기	KO
+in	EN
+로딩	KO
+그리고	KO
+unloading	EN
+of	EN
+플러그인	KO
+
+The	EN
+플러그인	KO
+매니저	KO
+to	EN
+사용하다	KO
+for	EN
+resolving	EN
+플러그인	KO
+
+Name	EN
+of	EN
+the	EN
+플러그인	KO
+프로파일	KO
+
+List	EN
+of	EN
+플러그인	KO
+for	EN
+이거	KO
+프로필	KO
+
+File	EN
+to	EN
+syncronize	EN
+the	EN
+프로파일	KO
+XML	EN
+
+Please	EN
+선택	KO
+a	EN
+플러그인	KO
+출신	KO
+the	EN
+명단	KO
+
+Failed	EN
+to	EN
+읽기	KO
+'	EN
+%	EN
+s	EN
+'	EN
+:	EN
+XML	EN
+parse	EN
+오류	KO
+.	EN
+Invalid	EN
+or	EN
+corrupted	EN
+Anjuta	EN
+플러그인	KO
+프로필	KO
+.	EN
+
+%	EN
+s	EN
+:	EN
+Install	EN
+it	EN
+출신	KO
+'	EN
+%	EN
+s	EN
+'	EN
+
+Failed	EN
+to	EN
+읽음	KO
+'	EN
+%	EN
+s	EN
+'	EN
+:	EN
+Following	EN
+mandatory	EN
+플러그인	KO
+are	EN
+missing	KO
+:	EN
+%	EN
+s	EN
+
+Select	EN
+the	EN
+상품	KO
+to	EN
+저장하기	KO
+:	EN
+
+If	EN
+당신	KO
+do	EN
+아님	KO
+저장	KO
+,	EN
+전체	KO
+your	EN
+변화	KO
+will	EN
+be	EN
+로스트	KO
+.	EN
+
+There	EN
+is	EN
+an	EN
+아이템	KO
+함께	KO
+unsaved	EN
+변화	KO
+.	EN
+Save	EN
+변경	KO
+이전	KO
+닫기	KO
+?	EN
+
+You	EN
+do	EN
+아님	KO
+seem	EN
+to	EN
+have	EN
+PackageKit	EN
+설치됨	KO
+.	EN
+PackageKit	EN
+is	EN
+필수	KO
+for	EN
+설치하기	KO
+실종	KO
+패키지	KO
+.	EN
+Please	EN
+설치하기	KO
+"	EN
+packagekit	EN
+-	EN
+그놈	KO
+"	EN
+패키지	KO
+from	EN
+your	EN
+분포	KO
+,	EN
+or	EN
+설치	KO
+the	EN
+missing	KO
+패키지	KO
+manually	EN
+.	EN
+
+The	EN
+"	EN
+%	EN
+s	EN
+"	EN
+패키지	KO
+is	EN
+아님	KO
+설치됨	KO
+.	EN
+Please	EN
+설치하기	KO
+it	EN
+.	EN
+
+The	EN
+"	EN
+%	EN
+s	EN
+"	EN
+유틸리티	KO
+is	EN
+아님	KO
+설치됨	KO
+.	EN
+Please	EN
+설치	KO
+it	EN
+.	EN
+
+Cannot	EN
+찾기	KO
+a	EN
+terminal	EN
+.	EN
+사용하기	KO
+xterm	EN
+,	EN
+심지어	KO
+if	EN
+it	EN
+may	EN
+아님	KO
+퇴근	KO
+
+Cannot	EN
+처형	KO
+명령어	KO
+:	EN
+%	EN
+s	EN
+(	EN
+using	EN
+껍질	KO
+%	EN
+s	EN
+)	EN
+
+Unable	EN
+to	EN
+표시	KO
+도움	KO
+.	EN
+Please	EN
+make	KO
+sure	EN
+the	EN
+Anjuta	EN
+설명서	KO
+패키지	KO
+is	EN
+설치	KO
+.	EN
+It	EN
+can	EN
+be	EN
+다운로드	KO
+출신	KO
+http	EN
+:	EN
+/	EN
+/	EN
+anjuta	EN
+.	EN
+org	KO
+.	EN
+
+Unable	EN
+to	EN
+로딩	KO
+user	EN
+인터페이스	KO
+파일	KO
+:	EN
+%	EN
+s	EN
+
+Help	EN
+문구	KO
+
+Text	EN
+to	EN
+보이기	KO
+the	EN
+사용자	KO
+what	EN
+to	EN
+입력합니다	KO
+into	EN
+the	EN
+항목	KO
+
+Path	EN
+that	EN
+떨어짐	KO
+파일	KO
+should	EN
+be	EN
+상대	KO
+to	EN
+
+Drop	EN
+a	EN
+파일	KO
+or	EN
+입력합니다	KO
+a	EN
+path	KO
+here	EN
+
+Select	EN
+Files	EN
+
+Path	EN
+that	EN
+전체	KO
+파일	KO
+in	EN
+the	EN
+리스트	KO
+should	EN
+be	EN
+상대	KO
+to	EN
+
+Show	EN
+Add	EN
+버튼	KO
+
+Display	EN
+an	EN
+Add	EN
+버튼	KO
+
+Could	EN
+not	EN
+찾기	KO
+애플리케이션	KO
+pixmap	EN
+파일	KO
+:	EN
+%	EN
+s	EN
+
+Please	EN
+지정하기	KO
+그룹	KO
+이름	KO
+
+Group	EN
+이름	KO
+can	EN
+단발	KO
+contain	EN
+alphanumeric	EN
+or	EN
+"	EN
+#	EN
+$	EN
+:	EN
+%	EN
++	EN
+,	EN
+-	EN
+.	EN
+=	EN
+@	EN
+^	EN
+_	EN
+`	EN
+~	EN
+"	EN
+문자	KO
+
+Project	EN
+doesn	EN
+'	EN
+t	EN
+존재함	KO
+or	EN
+오류	KO
+경로	KO
+
+Please	EN
+지정합니다	KO
+타겟	KO
+이름	KO
+
+Shared	EN
+라이브러리	KO
+대상	KO
+이름	KO
+must	EN
+be	EN
+of	EN
+the	EN
+형식	KO
+'	EN
+lib	KO
+.	EN
+la	EN
+'	EN
+
+Static	EN
+라이브러리	KO
+타깃	KO
+이름	KO
+must	EN
+be	EN
+of	EN
+the	EN
+형식	KO
+'	EN
+lib	KO
+.	EN
+a	EN
+'	EN
+
+Highlight	EN
+빌드	KO
+경고	KO
+그리고	KO
+오류	KO
+in	EN
+편집자	KO
+
+No	EN
+executables	EN
+in	EN
+이거	KO
+프로젝트	KO
+!	EN
+
+No	EN
+파일	KO
+or	EN
+프로젝트	KO
+현재	KO
+개설	KO
+.	EN
+
+Program	EN
+'	EN
+%	EN
+s	EN
+'	EN
+is	EN
+아님	KO
+a	EN
+로컬	KO
+파일	KO
+
+Program	EN
+'	EN
+%	EN
+s	EN
+'	EN
+does	EN
+아님	KO
+존재	KO
+
+Program	EN
+'	EN
+%	EN
+s	EN
+'	EN
+does	EN
+아님	KO
+have	EN
+처형	KO
+허락	KO
+
+No	EN
+executable	EN
+for	EN
+이거	KO
+파일	KO
+.	EN
+
+Executable	EN
+'	EN
+%	EN
+s	EN
+'	EN
+is	EN
+아님	KO
+up	EN
+-	EN
+to	EN
+-	EN
+날짜	KO
+.	EN
+
+경고	KO
+:	EN
+-	EN
+늙은	KO
+
+오류	KO
+:	EN
+-	EN
+늙은	KO
+
+Command	EN
+exited	EN
+함께	KO
+상태	KO
+%	EN
+d	EN
+
+Command	EN
+중단됨	KO
+by	EN
+user	EN
+
+Command	EN
+terminated	EN
+함께	KO
+시그널	KO
+%	EN
+d	EN
+
+Command	EN
+terminated	EN
+for	EN
+an	EN
+unknown	EN
+이유	KO
+
+Total	EN
+time	KO
+taken	EN
+:	EN
+%	EN
+lu	EN
+secs	EN
+
+Before	EN
+사용하기	KO
+이거	KO
+new	EN
+설정	KO
+,	EN
+the	EN
+기본값	KO
+하나	KO
+필요	KO
+to	EN
+be	EN
+삭제됨	KO
+.	EN
+Do	EN
+당신은	KO
+want	EN
+to	EN
+do	EN
+that	EN
+?	EN
+
+Cannot	EN
+컴파일	KO
+"	EN
+%	EN
+s	EN
+"	EN
+:	EN
+No	EN
+컴파일	KO
+법칙	KO
+defined	EN
+for	EN
+이거	KO
+파일	KO
+형식	KO
+.	EN
+
+Build	EN
+프로젝트	KO
+tarball	EN
+분포	KO
+
+_	EN
+Build	EN
+Module	EN
+
+Build	EN
+모듈	KO
+연관	KO
+함께	KO
+전류	KO
+파일	KO
+
+_	EN
+Install	EN
+Module	EN
+
+Install	EN
+모듈	KO
+연관	KO
+함께	KO
+current	EN
+file	EN
+
+Clean	EN
+모듈	KO
+연관	KO
+함께	KO
+현재	KO
+파일	KO
+
+Co	EN
+_	EN
+mpile	EN
+File	EN
+
+Compile	EN
+현재	KO
+편집자	KO
+파일	KO
+
+Select	EN
+Configuration	EN
+
+Select	EN
+현재	KO
+설정	KO
+
+Remove	EN
+Configuration	EN
+
+Clean	EN
+프로젝트	KO
+(	EN
+distclean	EN
+)	EN
+그리고	KO
+삭제	KO
+구성	KO
+디렉토리	KO
+if	EN
+가능	KO
+
+_	EN
+Compile	EN
+
+Compile	EN
+파일	KO
+
+Build	EN
+모듈	KO
+
+Install	EN
+모듈	KO
+
+_	EN
+Clean	EN
+
+Clean	EN
+모듈	KO
+
+_	EN
+Cancel	EN
+사령부	KO
+
+Cancel	EN
+빌드	KO
+명령어	KO
+
+_	EN
+Build	EN
+(	EN
+%	EN
+s	EN
+)	EN
+
+_	EN
+Install	EN
+(	EN
+%	EN
+s	EN
+)	EN
+
+_	EN
+Clean	EN
+(	EN
+%	EN
+s	EN
+)	EN
+
+Co	EN
+_	EN
+mpile	EN
+
+Build	EN
+명령어	KO
+
+Build	EN
+popup	EN
+명령어	KO
+
+Build	EN
+Autotools	EN
+
+Error	EN
+동안	KO
+설정	KO
+up	EN
+빌드	KO
+환경	KO
+:	EN
+%	EN
+s	EN
+
+Command	EN
+중단됨	KO
+
+No	EN
+License	EN
+
+Inline	EN
+the	EN
+선언	KO
+그리고	KO
+구현	KO
+
+General	EN
+Class	EN
+Properties	EN
+
+GObject	EN
+Prefix	EN
+그리고	KO
+Type	EN
+:	EN
+
+Constants	EN
+/	EN
+Variables	EN
+
+Initializer	EN
+Arguments	EN
+:	EN
+
+Author	EN
+Email	EN
+Address	EN
+:	EN
+
+Header	EN
+File	EN
+:	EN
+
+Source	EN
+File	EN
+:	EN
+
+Add	EN
+to	EN
+Repository	EN
+
+Header	EN
+or	EN
+출처	KO
+파일	KO
+has	EN
+아님	KO
+been	EN
+생성	KO
+
+Autogen	EN
+템플릿	KO
+사용	KO
+for	EN
+the	EN
+헤더	KO
+파일	KO
+
+Autogen	EN
+템플릿	KO
+사용됨	KO
+for	EN
+the	EN
+구현	KO
+파일	KO
+
+File	EN
+to	EN
+어느	KO
+the	EN
+processed	EN
+template	EN
+will	EN
+be	EN
+서면	KO
+
+Failed	EN
+to	EN
+쓰기	KO
+autogen	EN
+정의	KO
+파일	KO
+
+Could	EN
+아님	KO
+찾기	KO
+autogen	EN
+버전	KO
+5	EN
+.	EN
+부탁합니다	KO
+설치	KO
+the	EN
+autogen	EN
+소포	KO
+.	EN
+You	EN
+can	EN
+get	KO
+it	EN
+출신	KO
+http	KO
+:	EN
+/	EN
+/	EN
+autogen	EN
+.	EN
+sourceforge	EN
+.	EN
+net	KO
+.	EN
+
+Failed	EN
+to	EN
+처형	KO
+autogen	EN
+:	EN
+%	EN
+s	EN
+
+Guess	EN
+from	EN
+형식	KO
+
+XML	EN
+description	EN
+of	EN
+the	EN
+사용자	KO
+인터페이스	KO
+
+Standard	EN
+diff	KO
+
+Password	EN
+서버	KO
+(	EN
+pserver	EN
+)	EN
+
+CVS	EN
+Preferences	EN
+
+Path	EN
+to	EN
+"	EN
+cvs	KO
+"	EN
+명령어	KO
+
+Compression	EN
+Level	EN
+(	EN
+0	EN
+=	EN
+끄기	KO
+,	EN
+10	EN
+=	EN
+맥스	KO
+)	EN
+:	EN
+
+Ignore	EN
+.	EN
+cvsrc	EN
+파일	KO
+(	EN
+추천	KO
+)	EN
+
+CVS	EN
+Options	EN
+
+CVS	EN
+:	EN
+Add	EN
+file	EN
+/	EN
+디렉토리	KO
+
+Choose	EN
+파일	KO
+or	EN
+디렉토리	KO
+to	EN
+추가	KO
+:	EN
+
+File	EN
+is	EN
+바이너리	KO
+
+Choose	EN
+파일	KO
+or	EN
+디렉터리	KO
+to	EN
+삭제	KO
+:	EN
+
+Please	EN
+참고	KO
+:	EN
+Pressing	EN
+OK	EN
+will	EN
+삭제	KO
+the	EN
+파일	KO
+출신	KO
+디스크	KO
+그리고	KO
+출신	KO
+CVS	EN
+.	EN
+Of	EN
+코스	KO
+,	EN
+the	EN
+파일	KO
+won	EN
+'	EN
+t	EN
+be	EN
+삭제되었습니다	KO
+출신	KO
+CVS	EN
+전에	KO
+당신은	KO
+이용하기	KO
+CVS	EN
+Commit	EN
+.	EN
+You	EN
+have	EN
+been	EN
+warned	EN
+!	EN
+
+Choose	EN
+파일	KO
+or	EN
+디렉터리	KO
+to	EN
+커밋	KO
+:	EN
+
+Log	EN
+메시지	KO
+:	EN
+
+Choose	EN
+파일	KO
+or	EN
+디렉터리	KO
+to	EN
+업데이트	KO
+:	EN
+
+Create	EN
+new	EN
+디렉터리	KO
+
+Reset	EN
+sticky	EN
+태그	KO
+
+Choose	EN
+파일	KO
+or	EN
+디렉토리	KO
+to	EN
+받기	KO
+the	EN
+상태	KO
+출신	KO
+:	EN
+
+Choose	EN
+파일	KO
+or	EN
+디렉토리	KO
+to	EN
+diff	KO
+:	EN
+
+Unified	EN
+포맷	KO
+대신	KO
+of	EN
+문맥	KO
+형식으로	KO
+
+Use	EN
+리비전	KO
+:	EN
+
+Choose	EN
+파일	KO
+or	EN
+directory	EN
+to	EN
+get	KO
+로그	KO
+for	EN
+:	EN
+
+Project	EN
+뿌리	KO
+디렉터리	KO
+:	EN
+
+Vendor	EN
+태그	KO
+:	EN
+
+Release	EN
+태그	KO
+:	EN
+
+Module	EN
+Details	EN
+:	EN
+
+Please	EN
+입력합니다	KO
+a	EN
+filename	EN
+!	EN
+
+Please	EN
+채워	KO
+현장	KO
+:	EN
+%	EN
+s	EN
+
+CVS	EN
+커맨드	KO
+is	EN
+런닝	KO
+!	EN
+Please	EN
+기다렸다	KO
+until	EN
+it	EN
+is	EN
+완료되었습니다	KO
+!	EN
+
+Unable	EN
+to	EN
+삭제하기	KO
+파일	KO
+
+Are	EN
+귀하	KO
+sure	EN
+that	EN
+귀하	KO
+want	EN
+to	EN
+패스	KO
+an	EN
+비어	KO
+로그	KO
+메세지	KO
+?	EN
+
+Are	EN
+당신은	KO
+sure	EN
+that	EN
+당신	KO
+do	EN
+아님	KO
+want	EN
+a	EN
+로그	KO
+메세지	KO
+?	EN
+
+CVS	EN
+지휘	KO
+실패	KO
+.	EN
+See	EN
+above	EN
+for	EN
+details	EN
+
+CVS	EN
+command	EN
+is	EN
+런닝	KO
+부탁합니다	KO
+기다림	KO
+until	EN
+it	EN
+finishes	EN
+!	EN
+
+Add	EN
+a	EN
+new	EN
+파일	KO
+/	EN
+디렉터리	KO
+to	EN
+the	EN
+CVS	EN
+나무	KO
+
+Remove	EN
+a	EN
+파일	KO
+/	EN
+디렉터리	KO
+출신	KO
+CVS	EN
+트리	KO
+
+Commit	EN
+your	EN
+변경	KO
+to	EN
+the	EN
+CVS	EN
+tree	EN
+
+Syncronize	EN
+your	EN
+로컬	KO
+카피	KO
+함께	KO
+the	EN
+CVS	EN
+나무	KO
+
+Show	EN
+차이	KO
+between	EN
+your	EN
+로컬	KO
+복사본	KO
+그리고	KO
+the	EN
+나무	KO
+
+_	EN
+Show	EN
+Status	EN
+
+Show	EN
+the	EN
+status	EN
+of	EN
+a	EN
+파일	KO
+/	EN
+디렉토리	KO
+
+_	EN
+Show	EN
+Log	EN
+
+Show	EN
+the	EN
+로그	KO
+of	EN
+a	EN
+파일	KO
+/	EN
+디렉터리	KO
+
+_	EN
+Import	EN
+Tree	EN
+
+Import	EN
+a	EN
+new	EN
+원본	KO
+나무	KO
+to	EN
+CVS	EN
+
+CVS	EN
+작전	KO
+
+CVS	EN
+팝업	KO
+작전	KO
+
+Enable	EN
+CLang	EN
+code	EN
+분석기	KO
+
+The	EN
+프로젝트	KO
+필요	KO
+to	EN
+be	EN
+reconfigured	EN
+after	EN
+enabling	EN
+이거	KO
+옵션	KO
+.	EN
+Please	EN
+실행	KO
+Build	EN
+-	EN
+>	EN
+Configure	EN
+!	EN
+
+Couldn	EN
+'	EN
+t	EN
+찾기	KO
+clang	EN
+분석기	KO
+,	EN
+부탁합니다	KO
+체크	KO
+if	EN
+it	EN
+is	EN
+설치	KO
+and	EN
+if	EN
+the	EN
+경로	KO
+are	EN
+configured	EN
+correctly	EN
+in	EN
+the	EN
+환경설정	KO
+
+CLang	EN
+Analyzer	EN
+
+_	EN
+Process	EN
+to	EN
+attach	EN
+to	EN
+:	EN
+
+_	EN
+Hide	EN
+경로	KO
+
+Hide	EN
+절차	KO
+para	EN
+_	EN
+미터	KO
+
+Display	EN
+과정	KO
+_	EN
+트리	KO
+
+_	EN
+Attach	EN
+
+Enable	EN
+_	EN
+전체	KO
+
+_	EN
+Disable	EN
+모두	KO
+
+_	EN
+Remove	EN
+전체	KO
+
+Add	EN
+Watch	EN
+
+_	EN
+Automatic	EN
+업데이트	KO
+
+Change	EN
+Watch	EN
+
+Breakpoint	EN
+특성	KO
+
+_	EN
+Pass	EN
+카운트	KO
+:	EN
+
+Enter	EN
+an	EN
+주소	KO
+in	EN
+진수	KO
+or	EN
+선택하기	KO
+하나	KO
+in	EN
+the	EN
+데이터	KO
+
+CPU	EN
+Registers	EN
+
+Shared	EN
+도서관	KO
+
+Set	EN
+Signal	EN
+Property	EN
+
+Program	EN
+Interrupt	EN
+
+Start	EN
+Debugger	EN
+
+Debugger	EN
+커맨드	KO
+
+Debugger	EN
+명령	KO
+:	EN
+
+Source	EN
+Directories	EN
+
+Select	EN
+하나	KO
+디렉터리	KO
+
+Connect	EN
+to	EN
+리모콘	KO
+타겟	KO
+
+TCP	EN
+/	EN
+IP	EN
+Connection	EN
+
+Serial	EN
+Line	EN
+Connection	EN
+
+Remote	EN
+디버그	KO
+
+Are	EN
+귀하	KO
+sure	EN
+당신은	KO
+want	EN
+to	EN
+디버그	KO
+a	EN
+프로그램	KO
+아님	KO
+사용하기	KO
+the	EN
+Debug	EN
+구성	KO
+?	EN
+When	EN
+optimizations	EN
+are	EN
+활성화	KO
+,	EN
+the	EN
+디버거	KO
+cannot	EN
+항상	KO
+식별	KO
+the	EN
+출처	KO
+코드	KO
+corresponding	EN
+to	EN
+the	EN
+지침	KO
+,	EN
+so	EN
+some	EN
+명령어	KO
+can	EN
+perform	EN
+in	EN
+a	EN
+이상한	KO
+way	KO
+,	EN
+특히	KO
+스텝	KO
+.	EN
+
+Are	EN
+you	EN
+sure	EN
+당신	KO
+want	EN
+to	EN
+삭제	KO
+모두	KO
+the	EN
+breakpoints	EN
+?	EN
+
+Toggle	EN
+breakpoint	EN
+at	EN
+the	EN
+전류	KO
+위치	KO
+
+Add	EN
+Breakpoint	EN
+
+Add	EN
+a	EN
+breakpoint	EN
+
+Remove	EN
+Breakpoint	EN
+
+Remove	EN
+a	EN
+breakpoint	EN
+
+Edit	EN
+Breakpoint	EN
+
+Edit	EN
+breakpoint	EN
+자산	KO
+
+Enable	EN
+Breakpoint	EN
+
+Enable	EN
+a	EN
+breakpoint	EN
+
+Disable	EN
+All	EN
+Breakpoints	EN
+
+Deactivate	EN
+전체	KO
+breakpoints	EN
+
+R	EN
+_	EN
+emove	EN
+All	EN
+Breakpoints	EN
+
+Remove	EN
+전체	KO
+breakpoints	EN
+
+Jump	EN
+to	EN
+Breakpoint	EN
+
+Jump	EN
+to	EN
+breakpoint	EN
+위치	KO
+
+Disable	EN
+Breakpoint	EN
+
+Disable	EN
+a	EN
+breakpoint	EN
+
+Pass	EN
+카운트	KO
+
+Breakpoint	EN
+operations	EN
+
+_	EN
+Go	EN
+to	EN
+주소	KO
+
+Debugger	EN
+Log	EN
+
+Pa	EN
+_	EN
+use	EN
+Program	EN
+
+Pauses	EN
+the	EN
+실행	KO
+of	EN
+the	EN
+프로그램	KO
+
+Run	EN
+/	EN
+_	EN
+Continue	EN
+
+Continue	EN
+the	EN
+실행	KO
+of	EN
+the	EN
+프로그램	KO
+
+Debugger	EN
+terminated	EN
+함께	KO
+오류	KO
+%	EN
+d	EN
+:	EN
+%	EN
+s	EN
+
+Program	EN
+has	EN
+받음	KO
+시그널	KO
+:	EN
+%	EN
+s	EN
+
+_	EN
+Start	EN
+Debugger	EN
+
+_	EN
+Debug	EN
+Program	EN
+
+Start	EN
+디버거	KO
+and	EN
+로드	KO
+the	EN
+프로그램	KO
+
+Start	EN
+디버거	KO
+그리고	KO
+첨부	KO
+to	EN
+a	EN
+달리기	KO
+프로그램	KO
+
+Stop	EN
+Debugger	EN
+
+Say	EN
+굿바이	KO
+to	EN
+the	EN
+디버거	KO
+
+Add	EN
+소스	KO
+경로	KO
+
+Add	EN
+additional	EN
+소스	KO
+경로	KO
+
+Debugger	EN
+Command	EN
+
+Custom	EN
+디버거	KO
+명령어	KO
+
+_	EN
+Info	EN
+
+Display	EN
+정보	KO
+on	EN
+the	EN
+파일	KO
+the	EN
+디버거	KO
+is	EN
+활동	KO
+함께	KO
+
+Display	EN
+정보	KO
+on	EN
+the	EN
+처형	KO
+상태	KO
+of	EN
+the	EN
+프로그램	KO
+
+Display	EN
+the	EN
+내용	KO
+of	EN
+커널	KO
+'	EN
+struct	EN
+사용자	KO
+'	EN
+for	EN
+전류	KO
+아이유	KO
+
+Shared	EN
+Libraries	EN
+
+Show	EN
+공유	KO
+도서관	KO
+매핑	KO
+
+_	EN
+Continue	EN
+/	EN
+Suspend	EN
+
+Continue	EN
+or	EN
+suspend	EN
+the	EN
+처형	KO
+of	EN
+the	EN
+프로그램	KO
+
+Step	EN
+_	EN
+In	EN
+
+Single	EN
+스텝	KO
+into	EN
+함수	KO
+
+Step	EN
+O	EN
+_	EN
+ver	KO
+
+Single	EN
+단계	KO
+over	EN
+함수	KO
+
+Step	EN
+_	EN
+Out	EN
+
+Single	EN
+단계	KO
+아웃	KO
+of	EN
+함수	KO
+
+_	EN
+Run	EN
+to	EN
+Cursor	EN
+
+Run	EN
+to	EN
+the	EN
+커서	KO
+
+_	EN
+Run	EN
+출신	KO
+Cursor	EN
+
+Run	EN
+출신	KO
+the	EN
+커서	KO
+
+Info	EN
+_	EN
+Global	EN
+Variables	EN
+
+Display	EN
+전체	KO
+전역	KO
+그리고	KO
+정적	KO
+변수	KO
+of	EN
+the	EN
+프로그램	KO
+
+Display	EN
+정보	KO
+about	EN
+the	EN
+전류	KO
+frame	EN
+of	EN
+처형	KO
+
+Display	EN
+함수	KO
+인자	KO
+of	EN
+the	EN
+현재	KO
+프레임	KO
+
+Unable	EN
+to	EN
+찾기	KO
+a	EN
+디버거	KO
+플러그인	KO
+supporting	EN
+a	EN
+타깃	KO
+with	EN
+%	EN
+s	EN
+MIME	EN
+형식	KO
+
+Symbols	EN
+읽고	KO
+
+Shared	EN
+도서관	KO
+작전	KO
+
+Send	EN
+to	EN
+과정	KO
+
+Unable	EN
+to	EN
+처형	KO
+:	EN
+%	EN
+s	EN
+.	EN
+
+Unable	EN
+to	EN
+열기	KO
+the	EN
+파일	KO
+:	EN
+%	EN
+s	EN
+
+Unable	EN
+to	EN
+오픈	KO
+%	EN
+s	EN
+.	EN
+Debugger	EN
+cannot	EN
+시작	KO
+.	EN
+
+Unable	EN
+to	EN
+감지	KO
+MIME	EN
+유형	KO
+of	EN
+%	EN
+s	EN
+.	EN
+Debugger	EN
+cannot	EN
+시작	KO
+.	EN
+
+The	EN
+프로그램	KO
+is	EN
+달리기	KO
+.	EN
+Do	EN
+귀하	KO
+아직도	KO
+want	EN
+to	EN
+중지	KO
+the	EN
+디버거	KO
+?	EN
+
+Update	EN
+Watch	EN
+
+Update	EN
+전체	KO
+
+Automatic	EN
+업데이트	KO
+
+Watch	EN
+운영	KO
+
+Search	EN
+Help	EN
+:	EN
+
+_	EN
+Go	EN
+to	EN
+
+Browse	EN
+API	EN
+Pages	EN
+
+Search	EN
+도움	KO
+for	EN
+the	EN
+전류	KO
+워드	KO
+in	EN
+the	EN
+편집자	KO
+
+_	EN
+Search	EN
+Help	EN
+
+Search	EN
+for	EN
+a	EN
+용어	KO
+in	EN
+도움	KO
+
+Help	EN
+운영	KO
+
+Are	EN
+당신	KO
+sure	EN
+귀하	KO
+want	EN
+to	EN
+reload	EN
+'	EN
+%	EN
+s	EN
+'	EN
+?	EN
+Any	EN
+unsaved	EN
+변경	KO
+will	EN
+be	EN
+잃어버린	KO
+.	EN
+
+Add	EN
+책갈피	KO
+
+Remove	EN
+북마크	KO
+
+Close	EN
+파일	KO
+
+The	EN
+파일	KO
+'	EN
+%	EN
+s	EN
+'	EN
+벌써	KO
+존재함	KO
+.	EN
+Do	EN
+당신은	KO
+want	EN
+to	EN
+바꾸기	KO
+it	EN
+함께	KO
+the	EN
+하나	KO
+당신은	KO
+are	EN
+저장	KO
+?	EN
+
+Enable	EN
+파일	KO
+autosave	EN
+
+Save	EN
+파일	KO
+간격	KO
+in	EN
+minutes	EN
+
+Sorted	EN
+in	EN
+오프닝	KO
+순서	KO
+
+Sorted	EN
+by	EN
+대부분의	KO
+최근	KO
+이용	KO
+
+Sorted	EN
+in	EN
+alphabetical	EN
+주문	KO
+
+Save	EN
+전류	KO
+파일	KO
+
+Save	EN
+_	EN
+As	EN
+
+Save	EN
+A	EN
+_	EN
+ll	EN
+
+Save	EN
+전체	KO
+현재	KO
+오픈	KO
+파일	KO
+,	EN
+빼고	KO
+new	EN
+파일	KO
+
+_	EN
+Close	EN
+File	EN
+
+Close	EN
+전류	KO
+파일	KO
+
+Close	EN
+전체	KO
+파일	KO
+
+Close	EN
+Others	EN
+
+Close	EN
+other	EN
+문서	KO
+
+Reload	EN
+전류	KO
+파일	KO
+
+Recent	EN
+_	EN
+Files	EN
+
+Print	EN
+the	EN
+현재	KO
+파일	KO
+
+_	EN
+Print	EN
+Preview	EN
+
+Preview	EN
+the	EN
+전류	KO
+파일	KO
+in	EN
+프린트	KO
+포맷	KO
+
+_	EN
+Make	EN
+Selection	EN
+Uppercase	EN
+
+Make	EN
+the	EN
+selected	EN
+문자	KO
+대소문자	KO
+
+Make	EN
+Selection	EN
+Lowercase	EN
+
+Make	EN
+the	EN
+selected	EN
+텍스트	KO
+소문자	KO
+
+Convert	EN
+EOL	EN
+to	EN
+CRLF	EN
+
+Convert	EN
+End	EN
+Of	EN
+Line	EN
+characters	EN
+to	EN
+DOS	EN
+EOL	EN
+(	EN
+CRLF	EN
+)	EN
+
+Convert	EN
+EOL	EN
+to	EN
+LF	EN
+
+Convert	EN
+End	EN
+Of	EN
+Line	EN
+등장인물	KO
+to	EN
+Unix	EN
+EOL	EN
+(	EN
+LF	EN
+)	EN
+
+Convert	EN
+EOL	EN
+to	EN
+CR	EN
+
+Convert	EN
+End	EN
+Of	EN
+Line	EN
+등장인물	KO
+to	EN
+Mac	EN
+OS	EN
+EOL	EN
+(	EN
+CR	EN
+)	EN
+
+Convert	EN
+EOL	EN
+to	EN
+Majority	EN
+EOL	EN
+
+Convert	EN
+End	EN
+Of	EN
+Line	EN
+문자	KO
+to	EN
+the	EN
+대부분의	KO
+common	EN
+EOL	EN
+찾았다	KO
+in	EN
+the	EN
+파일	KO
+
+Select	EN
+모두	KO
+문구	KO
+in	EN
+the	EN
+editor	EN
+
+Select	EN
+_	EN
+Code	EN
+Block	EN
+
+Select	EN
+the	EN
+전류	KO
+부호	KO
+블럭	KO
+
+_	EN
+Block	EN
+Comment	EN
+/	EN
+Uncomment	EN
+
+Block	EN
+코멘트	KO
+the	EN
+selected	EN
+텍스트	KO
+
+Bo	EN
+_	EN
+x	EN
+Comment	EN
+/	EN
+Uncomment	EN
+
+Box	EN
+comment	EN
+the	EN
+selected	EN
+문구	KO
+
+_	EN
+Stream	EN
+Comment	EN
+/	EN
+Uncomment	EN
+
+Stream	EN
+댓글	KO
+the	EN
+selected	EN
+문자	KO
+
+_	EN
+Line	EN
+Number	EN
+
+Go	EN
+to	EN
+a	EN
+particular	EN
+line	EN
+in	EN
+the	EN
+에디터	KO
+
+Go	EN
+to	EN
+the	EN
+일치	KO
+brace	EN
+in	EN
+the	EN
+편집기	KO
+
+_	EN
+Start	EN
+of	EN
+Block	EN
+
+Go	EN
+to	EN
+the	EN
+시작하기	KO
+of	EN
+the	EN
+현재	KO
+블럭	KO
+
+_	EN
+End	EN
+of	EN
+Block	EN
+
+Go	EN
+to	EN
+the	EN
+종료	KO
+of	EN
+the	EN
+전류	KO
+차단	KO
+
+Previous	EN
+_	EN
+History	EN
+
+Go	EN
+to	EN
+이전	KO
+기록	KO
+
+Next	EN
+Histor	EN
+_	EN
+y	EN
+
+Go	EN
+to	EN
+넥스트	KO
+기록	KO
+
+_	EN
+Quick	EN
+Search	EN
+
+Quick	EN
+편집자	KO
+임베디드	KO
+검색	KO
+
+Search	EN
+for	EN
+넥스트	KO
+외모	KO
+of	EN
+용어	KO
+.	EN
+
+Find	EN
+그리고	KO
+R	EN
+_	EN
+eplace	EN
+
+Search	EN
+그리고	KO
+교체	KO
+
+Repeat	EN
+the	EN
+라스트	KO
+Find	EN
+커맨드	KO
+
+Clear	EN
+Highlight	EN
+
+Clear	EN
+전체	KO
+하이라이트	KO
+문구	KO
+
+Case	EN
+Sensitive	EN
+
+Highlight	EN
+All	EN
+
+Highlight	EN
+모두	KO
+occurrences	EN
+
+Regular	EN
+Expression	EN
+
+Search	EN
+사용하기	KO
+정규	KO
+expressions	EN
+
+_	EN
+Add	EN
+Editor	EN
+View	EN
+
+Add	EN
+하나	KO
+more	EN
+view	EN
+of	EN
+현재	KO
+문서	KO
+
+_	EN
+Remove	EN
+Editor	EN
+View	EN
+
+Remove	EN
+전류	KO
+보기	KO
+of	EN
+the	EN
+문서	KO
+
+Cut	EN
+the	EN
+selected	EN
+텍스트	KO
+출신	KO
+the	EN
+편집기	KO
+to	EN
+the	EN
+clipboard	EN
+
+Paste	EN
+the	EN
+컨텐츠	KO
+of	EN
+clipboard	EN
+at	EN
+the	EN
+전류	KO
+위치	KO
+
+Delete	EN
+the	EN
+selected	EN
+텍스트	KO
+출신	KO
+the	EN
+편집기	KO
+
+_	EN
+Line	EN
+Number	EN
+Margin	EN
+
+Show	EN
+/	EN
+Hide	EN
+라인	KO
+숫자	KO
+
+_	EN
+Marker	EN
+Margin	EN
+
+Show	EN
+/	EN
+Hide	EN
+마커	KO
+margin	EN
+
+_	EN
+Code	EN
+Fold	EN
+Margin	EN
+
+Show	EN
+/	EN
+Hide	EN
+코드	KO
+fold	KO
+margin	EN
+
+_	EN
+Indentation	EN
+Guides	EN
+
+Show	EN
+/	EN
+Hide	EN
+들여쓰기	KO
+가이드	KO
+
+Show	EN
+/	EN
+Hide	EN
+화이트	KO
+공백	KO
+
+_	EN
+Line	EN
+End	EN
+Characters	EN
+
+Show	EN
+/	EN
+Hide	EN
+라인	KO
+종료	KO
+등장인물	KO
+
+Line	EN
+_	EN
+Wrapping	EN
+
+Enable	EN
+/	EN
+비활성화	KO
+라인	KO
+포장	KO
+
+Zoom	EN
+in	EN
+:	EN
+Increase	EN
+글꼴	KO
+크기	KO
+
+Zoom	EN
+out	EN
+:	EN
+Decrease	EN
+글꼴	KO
+사이즈	KO
+
+_	EN
+Close	EN
+All	EN
+Folds	EN
+
+Close	EN
+전체	KO
+부호	KO
+folds	EN
+in	EN
+the	EN
+editor	EN
+
+_	EN
+Open	EN
+All	EN
+Folds	EN
+
+Open	EN
+전체	KO
+코드	KO
+주름	KO
+in	EN
+the	EN
+편집기	KO
+
+_	EN
+Toggle	EN
+Current	EN
+Fold	EN
+
+Toggle	EN
+전류	KO
+코드	KO
+접어	KO
+in	EN
+the	EN
+편집자	KO
+
+Switch	EN
+to	EN
+이전	KO
+문서로	KO
+
+Switch	EN
+to	EN
+넥스트	KO
+문서로	KO
+
+_	EN
+Toggle	EN
+Bookmark	EN
+
+Toggle	EN
+북마크	KO
+at	EN
+the	EN
+current	EN
+라인	KO
+위치	KO
+
+_	EN
+Previous	EN
+Bookmark	EN
+
+Jump	EN
+to	EN
+the	EN
+이전	KO
+책갈피	KO
+in	EN
+the	EN
+파일	KO
+
+_	EN
+Next	EN
+Bookmark	EN
+
+Jump	EN
+to	EN
+the	EN
+다음	KO
+bookmark	EN
+in	EN
+the	EN
+파일	KO
+
+_	EN
+Clear	EN
+All	EN
+Bookmarks	EN
+
+Clear	EN
+책갈피	KO
+
+Editor	EN
+파일	KO
+작전	KO
+
+Editor	EN
+인쇄	KO
+운영	KO
+
+Simple	EN
+검색	KO
+
+Toggle	EN
+검색하기	KO
+options	EN
+
+Go	EN
+to	EN
+
+Autosave	EN
+실패	KO
+for	EN
+%	EN
+s	EN
+
+Search	EN
+for	EN
+"	EN
+%	EN
+s	EN
+"	EN
+도달	KO
+the	EN
+끝내기	KO
+그리고	KO
+wrapped	EN
+주위	KO
+.	EN
+
+Search	EN
+for	EN
+"	EN
+%	EN
+s	EN
+"	EN
+도달	KO
+the	EN
+end	EN
+그리고	KO
+wrapped	EN
+주변	KO
+그런데	KO
+no	EN
+new	EN
+일치	KO
+was	EN
+찾았습니다	KO
+.	EN
+
+Search	EN
+for	EN
+"	EN
+%	EN
+s	EN
+"	EN
+도달	KO
+the	EN
+종료	KO
+그리고	KO
+was	EN
+continued	EN
+at	EN
+the	EN
+인기	KO
+.	EN
+
+Search	EN
+for	EN
+"	EN
+%	EN
+s	EN
+"	EN
+도달	KO
+the	EN
+끝내기	KO
+그리고	KO
+was	EN
+continued	EN
+at	EN
+the	EN
+top	KO
+그런데	KO
+no	EN
+new	EN
+일치하기	KO
+was	EN
+찾았습니다	KO
+.	EN
+
+Search	EN
+for	EN
+"	EN
+%	EN
+s	EN
+"	EN
+도달	KO
+인기	KO
+그리고	KO
+was	EN
+continued	EN
+at	EN
+the	EN
+아래쪽	KO
+.	EN
+
+Search	EN
+for	EN
+"	EN
+%	EN
+s	EN
+"	EN
+도달	KO
+top	KO
+그리고	KO
+was	EN
+continued	EN
+at	EN
+the	EN
+하단	KO
+그러나	KO
+no	EN
+new	EN
+match	EN
+was	EN
+찾았습니다	KO
+.	EN
+
+Replace	EN
+모두	KO
+
+No	EN
+상품	KO
+찾았다	KO
+
+No	EN
+최근	KO
+사용됨	KO
+자원	KO
+found	EN
+with	EN
+URI	EN
+"	EN
+%	EN
+s	EN
+"	EN
+
+This	EN
+함수	KO
+is	EN
+아님	KO
+구현	KO
+for	EN
+위젯	KO
+of	EN
+클래스	KO
+'	EN
+%	EN
+s	EN
+'	EN
+
+Cannot	EN
+open	EN
+"	EN
+%	EN
+s	EN
+"	EN
+.	EN
+%	EN
+s	EN
+
+Cannot	EN
+오픈	KO
+"	EN
+%	EN
+s	EN
+"	EN
+.	EN
+There	EN
+is	EN
+no	EN
+플러그인	KO
+,	EN
+기본	KO
+활동	KO
+,	EN
+or	EN
+애플리케이션	KO
+configured	EN
+to	EN
+손잡이	KO
+이거	KO
+파일	KO
+형식	KO
+.	EN
+MIME	EN
+종류	KO
+:	EN
+%	EN
+s	EN
+You	EN
+may	EN
+choose	EN
+to	EN
+try	EN
+개봉	KO
+it	EN
+함께	KO
+the	EN
+팔로우	KO
+플러그인	KO
+or	EN
+applications	EN
+.	EN
+
+Document	EN
+Manager	EN
+
+Anjuta	EN
+Projects	EN
+
+C	EN
+/	EN
+C	EN
++	EN
++	EN
+source	EN
+파일	KO
+
+C	EN
+#	EN
+소스	KO
+파일	KO
+
+Java	EN
+소스	KO
+파일	KO
+
+Pascal	EN
+출처	KO
+파일	KO
+
+PHP	EN
+원본	KO
+파일	KO
+
+Perl	EN
+출처	KO
+파일	KO
+
+Python	EN
+출처	KO
+파일	KO
+
+Hypertext	EN
+마크업	KO
+파일	KO
+
+Lua	EN
+파일	KO
+
+Diff	EN
+파일	KO
+
+Failed	EN
+to	EN
+활성화	KO
+플러그인	KO
+:	EN
+%	EN
+s	EN
+
+_	EN
+Open	EN
+
+Open	EN
+_	EN
+With	EN
+
+Open	EN
+함께	KO
+
+File	EN
+Loader	EN
+
+New	EN
+파일	KO
+,	EN
+프로젝트	KO
+그리고	KO
+프로젝트	KO
+성분	KO
+.	EN
+
+Open	EN
+최근	KO
+파일	KO
+
+Open	EN
+최근	KO
+파일	KO
+
+Open	EN
+a	EN
+파일	KO
+
+File	EN
+아님	KO
+found	EN
+
+Please	EN
+선택	KO
+a	EN
+plugin	EN
+to	EN
+오픈	KO
+%	EN
+s	EN
+.	EN
+
+Open	EN
+With	EN
+
+Root	EN
+디렉터리	KO
+if	EN
+no	EN
+프로젝트	KO
+is	EN
+오픈	KO
+:	EN
+
+Choose	EN
+Directory	EN
+to	EN
+보이기	KO
+if	EN
+no	EN
+프로젝트	KO
+is	EN
+열기	KO
+
+Do	EN
+아님	KO
+보이기	KO
+바이너리	KO
+파일	KO
+(	EN
+.	EN
+o	EN
+,	EN
+.	EN
+la	EN
+,	EN
+etc	EN
+.	EN
+)	EN
+
+Do	EN
+아님	KO
+보이기	KO
+숨김	KO
+파일	KO
+
+Do	EN
+아님	KO
+보이기	KO
+백업	KO
+파일	KO
+
+Do	EN
+아님	KO
+보이기	KO
+unversioned	EN
+파일	KO
+
+URI	EN
+of	EN
+the	EN
+인기	KO
+-	EN
+대부분의	KO
+path	KO
+표시됨	KO
+
+Rename	EN
+파일	KO
+or	EN
+디렉토리	KO
+
+File	EN
+관리자	KO
+팝업	KO
+동작	KO
+
+File	EN
+Information	EN
+
+Enter	EN
+the	EN
+File	EN
+이름	KO
+.	EN
+The	EN
+확장	KO
+will	EN
+be	EN
+추가됨	KO
+according	EN
+to	EN
+the	EN
+유형	KO
+.	EN
+
+Add	EN
+License	EN
+Information	EN
+
+Create	EN
+corresponding	EN
+헤더	KO
+파일	KO
+
+Use	EN
+Template	EN
+for	EN
+the	EN
+Header	EN
+파일	KO
+
+Add	EN
+to	EN
+프로젝트	KO
+
+Add	EN
+to	EN
+저장소	KO
+
+C	EN
+Source	EN
+File	EN
+
+C	EN
+/	EN
+C	EN
++	EN
++	EN
+Header	EN
+File	EN
+
+C	EN
++	EN
++	EN
+Source	EN
+File	EN
+
+C	EN
+#	EN
+Source	EN
+File	EN
+
+Java	EN
+Source	EN
+File	EN
+
+Perl	EN
+Source	EN
+File	EN
+
+Python	EN
+Source	EN
+File	EN
+
+Vala	EN
+Source	EN
+File	EN
+
+BSD	EN
+Public	EN
+License	EN
+
+Unable	EN
+to	EN
+빌드	KO
+사용자	KO
+인터페이스	KO
+for	EN
+New	EN
+File	EN
+
+Missing	EN
+이름	KO
+
+Project	EN
+doesn	EN
+'	EN
+t	EN
+허용	KO
+to	EN
+집합	KO
+특성	KO
+
+Shared	EN
+Library	EN
+
+Static	EN
+Library	EN
+
+Lisp	EN
+Module	EN
+
+Header	EN
+Files	EN
+
+Man	EN
+Documentation	EN
+
+Unable	EN
+to	EN
+parse	EN
+프로젝트	KO
+파일	KO
+
+Project	EN
+이름	KO
+,	EN
+it	EN
+can	EN
+contain	EN
+공백	KO
+by	EN
+예시	KO
+'	EN
+GNU	EN
+Autoconf	EN
+'	EN
+
+Project	EN
+버전	KO
+,	EN
+typically	EN
+a	EN
+몇몇	KO
+숫자	KO
+별거	KO
+by	EN
+dot	KO
+by	EN
+example	EN
+'	EN
+1	EN
+.	EN
+0	EN
+.	EN
+0	EN
+'	EN
+
+An	EN
+이메일로	KO
+주소	KO
+or	EN
+a	EN
+링크	KO
+to	EN
+a	EN
+웹툰	KO
+페이지	KO
+어디	KO
+the	EN
+사용자	KO
+can	EN
+신고	KO
+버그	KO
+.	EN
+It	EN
+is	EN
+optional	EN
+.	EN
+
+Package	EN
+이름	KO
+:	EN
+
+Package	EN
+이름	KO
+,	EN
+it	EN
+can	EN
+포함함	KO
+단발	KO
+alphanumerics	EN
+그리고	KO
+underscore	EN
+문자	KO
+.	EN
+It	EN
+is	EN
+생성	KO
+출신	KO
+the	EN
+프로젝트	KO
+이름	KO
+if	EN
+아님	KO
+provided	EN
+.	EN
+
+An	EN
+링크	KO
+to	EN
+the	EN
+프로젝트	KO
+웹툰	KO
+페이지	KO
+if	EN
+provided	EN
+.	EN
+
+Linker	EN
+flags	EN
+:	EN
+
+Common	EN
+additional	EN
+linker	EN
+플래그	KO
+for	EN
+모두	KO
+타겟	KO
+in	EN
+이거	KO
+집단	KO
+.	EN
+
+C	EN
+preprocessor	EN
+플래그	KO
+:	EN
+
+Common	EN
+additional	EN
+C	EN
+preprocessor	EN
+깃발	KO
+for	EN
+전체	KO
+타겟	KO
+in	EN
+이거	KO
+집단	KO
+.	EN
+
+C	EN
+컴파일러	KO
+깃발	KO
+:	EN
+
+Common	EN
+additional	EN
+C	EN
+컴파일러	KO
+깃발	KO
+for	EN
+전체	KO
+타겟	KO
+in	EN
+이거	KO
+그룹	KO
+.	EN
+
+C	EN
++	EN
++	EN
+컴파일러	KO
+깃발	KO
+:	EN
+
+Common	EN
+additional	EN
+C	EN
++	EN
++	EN
+컴파일러	KO
+플래그	KO
+for	EN
+모두	KO
+targets	EN
+in	EN
+이거	KO
+집단	KO
+.	EN
+
+Common	EN
+additional	EN
+Java	EN
+컴파일러	KO
+플래그	KO
+for	EN
+전체	KO
+타겟	KO
+in	EN
+이거	KO
+집단	KO
+.	EN
+
+Vala	EN
+컴파일러	KO
+플래그	KO
+:	EN
+
+Common	EN
+additional	EN
+Vala	EN
+컴파일러	KO
+깃발	KO
+for	EN
+모두	KO
+타겟	KO
+in	EN
+이거	KO
+집단	KO
+.	EN
+
+Fortran	EN
+컴파일러	KO
+플래그	KO
+:	EN
+
+Common	EN
+additional	EN
+Fortran	EN
+컴파일러	KO
+플래그	KO
+for	EN
+전체	KO
+타겟	KO
+in	EN
+이거	KO
+그룹	KO
+.	EN
+
+Objective	EN
+C	EN
+컴파일러	KO
+플래그	KO
+:	EN
+
+Common	EN
+additional	EN
+Objective	EN
+C	EN
+컴파일러	KO
+플래그	KO
+for	EN
+전체	KO
+타겟	KO
+in	EN
+이거	KO
+그룹	KO
+.	EN
+
+Lex	EN
+/	EN
+Flex	EN
+플래그	KO
+:	EN
+
+Common	EN
+additional	EN
+Lex	EN
+or	EN
+Flex	EN
+낱말	KO
+analyser	EN
+발전기	KO
+깃발	KO
+for	EN
+전체	KO
+타겟	KO
+in	EN
+this	EN
+그룹	KO
+.	EN
+
+Yacc	EN
+/	EN
+Bison	EN
+깃발	KO
+:	EN
+
+Common	EN
+additional	EN
+Yacc	EN
+or	EN
+Bison	EN
+파서	KO
+발전기	KO
+플래그	KO
+for	EN
+모두	KO
+targets	EN
+in	EN
+이거	KO
+그룹	KO
+.	EN
+
+List	EN
+of	EN
+맞춤	KO
+설치	KO
+디렉토리	KO
+사용함	KO
+by	EN
+타겟	KO
+in	EN
+이거	KO
+집단	KO
+.	EN
+
+Do	EN
+아님	KO
+설치하기	KO
+:	EN
+
+Build	EN
+그러나	KO
+do	EN
+아님	KO
+설치하기	KO
+the	EN
+타겟	KO
+.	EN
+
+It	EN
+has	EN
+to	EN
+be	EN
+a	EN
+스탠더드	KO
+디렉토리	KO
+or	EN
+a	EN
+커스텀	KO
+하나	KO
+defined	EN
+in	EN
+그룹	KO
+특성	KO
+.	EN
+
+Additional	EN
+linker	EN
+flags	EN
+for	EN
+this	EN
+타깃	KO
+.	EN
+
+Additional	EN
+라이브러리	KO
+:	EN
+
+Additional	EN
+도서관	KO
+for	EN
+이거	KO
+타겟	KO
+.	EN
+
+Additional	EN
+천체	KO
+:	EN
+
+Additional	EN
+천체	KO
+파일	KO
+for	EN
+this	EN
+타깃	KO
+.	EN
+
+Additional	EN
+C	EN
+preprocessor	EN
+플래그	KO
+for	EN
+이거	KO
+타깃	KO
+.	EN
+
+Additional	EN
+C	EN
+컴파일러	KO
+플래그	KO
+for	EN
+이거	KO
+대상	KO
+.	EN
+
+Additional	EN
+C	EN
++	EN
++	EN
+컴파일러	KO
+플래그	KO
+for	EN
+이거	KO
+타깃	KO
+.	EN
+
+Additional	EN
+Java	EN
+컴파일러	KO
+플래그	KO
+for	EN
+이거	KO
+대상	KO
+.	EN
+
+Additional	EN
+Vala	EN
+컴파일러	KO
+깃발	KO
+for	EN
+이거	KO
+target	EN
+.	EN
+
+Additional	EN
+Fortran	EN
+컴파일러	KO
+플래그	KO
+for	EN
+이거	KO
+target	EN
+.	EN
+
+Additional	EN
+Objective	EN
+C	EN
+컴파일러	KO
+flags	EN
+for	EN
+이거	KO
+대상	KO
+.	EN
+
+Additional	EN
+Lex	EN
+or	EN
+Flex	EN
+낱말	KO
+analyser	EN
+생성기	KO
+플래그	KO
+for	EN
+이거	KO
+대상	KO
+.	EN
+
+Additional	EN
+Yacc	EN
+or	EN
+Bison	EN
+파서	KO
+생성기	KO
+깃발	KO
+for	EN
+이거	KO
+타겟	KO
+.	EN
+
+Additional	EN
+의존성	KO
+:	EN
+
+Additional	EN
+의존성	KO
+for	EN
+이거	KO
+타깃	KO
+.	EN
+
+Include	EN
+in	EN
+배포판	KO
+:	EN
+
+Include	EN
+이거	KO
+대상	KO
+in	EN
+the	EN
+분산	KO
+패키지	KO
+.	EN
+
+Build	EN
+for	EN
+체크	KO
+단발	KO
+:	EN
+
+Build	EN
+이거	KO
+타깃	KO
+단발	KO
+언제	KO
+런닝	KO
+자동	KO
+테스트	KO
+.	EN
+
+Do	EN
+아님	KO
+사용	KO
+접두어	KO
+:	EN
+
+Do	EN
+아님	KO
+rename	EN
+the	EN
+대상	KO
+함께	KO
+an	EN
+optional	EN
+접두어	KO
+,	EN
+사용	KO
+to	EN
+avoid	EN
+overwritting	EN
+시스템	KO
+프로그램	KO
+.	EN
+
+Keep	EN
+relative	EN
+타겟	KO
+path	KO
+for	EN
+설치	KO
+it	EN
+.	EN
+By	EN
+예시	KO
+if	EN
+당신	KO
+have	EN
+a	EN
+프로그램	KO
+subdir	EN
+/	EN
+app	EN
+설치	KO
+in	EN
+bin	EN
+디렉터리	KO
+it	EN
+will	EN
+be	EN
+설치됨	KO
+in	EN
+bin	EN
+/	EN
+subdir	EN
+/	EN
+어플리케이션	KO
+아님	KO
+in	EN
+bin	EN
+/	EN
+어플리케이션	KO
+.	EN
+
+Section	EN
+어디로	KO
+are	EN
+설치됨	KO
+the	EN
+사람	KO
+페이지	KO
+.	EN
+Valid	EN
+섹션	KO
+이름	KO
+are	EN
+the	EN
+숫자	KO
+0	EN
+통해	KO
+9	EN
+,	EN
+그리고	KO
+the	EN
+글자	KO
+l	EN
+그리고	KO
+n	EN
+.	EN
+
+Loading	EN
+Executable	EN
+:	EN
+%	EN
+s	EN
+
+Loading	EN
+Core	EN
+:	EN
+%	EN
+s	EN
+
+Unable	EN
+to	EN
+찾기	KO
+:	EN
+%	EN
+s	EN
+.	EN
+Unable	EN
+to	EN
+초기화	KO
+디버거	KO
+.	EN
+Make	EN
+sure	EN
+Anjuta	EN
+is	EN
+설치됨	KO
+correctly	EN
+.	EN
+
+Getting	EN
+준비	KO
+to	EN
+start	EN
+디버깅	KO
+세션	KO
+
+Loading	EN
+Executable	EN
+:	EN
+
+No	EN
+executable	EN
+지정됨	KO
+.	EN
+
+Open	EN
+an	EN
+executable	EN
+or	EN
+첨부	KO
+to	EN
+a	EN
+과정	KO
+to	EN
+시작	KO
+디버그	KO
+.	EN
+
+There	EN
+was	EN
+an	EN
+오류	KO
+whilst	EN
+출시	KO
+the	EN
+디버거	KO
+.	EN
+
+Make	EN
+sure	EN
+'	EN
+gdb	KO
+'	EN
+is	EN
+installed	EN
+on	EN
+the	EN
+시스템	KO
+.	EN
+
+Program	EN
+exited	EN
+일반적으로	KO
+
+Program	EN
+exited	EN
+함께	KO
+오류	KO
+부호	KO
+%	EN
+s	EN
+
+Breakpoint	EN
+숫자	KO
+%	EN
+s	EN
+hit	KO
+
+Function	EN
+finished	EN
+
+Stepping	EN
+완료	KO
+
+Location	EN
+도달	KO
+
+The	EN
+프로그램	KO
+is	EN
+첨부	KO
+.	EN
+Do	EN
+귀하	KO
+여전히	KO
+want	EN
+to	EN
+중단	KO
+the	EN
+디버거	KO
+?	EN
+
+Unable	EN
+to	EN
+연결하기	KO
+to	EN
+리모콘	KO
+타겟	KO
+,	EN
+%	EN
+s	EN
+Do	EN
+당신은	KO
+want	EN
+to	EN
+try	EN
+다시	KO
+?	EN
+
+Debugger	EN
+연결됨	KO
+
+Program	EN
+첨부된	KO
+
+Attaching	EN
+to	EN
+과정	KO
+:	EN
+%	EN
+d	EN
+
+A	EN
+프로세스	KO
+is	EN
+벌써	KO
+런닝	KO
+.	EN
+Would	EN
+당신은	KO
+like	EN
+to	EN
+terminate	EN
+it	EN
+그리고	KO
+첨부	KO
+the	EN
+new	EN
+절차	KO
+?	EN
+
+Anjuta	EN
+is	EN
+unable	EN
+to	EN
+첨부	KO
+to	EN
+자체	KO
+.	EN
+
+Program	EN
+terminated	EN
+
+Program	EN
+detached	EN
+
+Detaching	EN
+the	EN
+프로세스	KO
+
+Interrupting	EN
+the	EN
+과정	KO
+
+기타	KO
+아이들	KO
+
+Sending	EN
+시그널	KO
+%	EN
+s	EN
+to	EN
+the	EN
+프로세스	KO
+:	EN
+%	EN
+d	EN
+
+Error	EN
+whilst	EN
+신호	KO
+the	EN
+과정	KO
+.	EN
+
+Failed	EN
+to	EN
+만들기	KO
+FIFO	EN
+파일	KO
+named	EN
+%	EN
+s	EN
+.	EN
+The	EN
+프로그램	KO
+will	EN
+달려	KO
+without	KO
+a	EN
+터미널	KO
+.	EN
+
+Cannot	EN
+시작	KO
+터미널	KO
+for	EN
+디버깅	KO
+.	EN
+
+The	EN
+등록	KO
+함수	KO
+hasn	EN
+'	EN
+t	EN
+been	EN
+발견됨	KO
+automatically	EN
+in	EN
+the	EN
+팔로우	KO
+예뻐	KO
+프린터	KO
+파일	KO
+:	EN
+%	EN
+s	EN
+You	EN
+need	EN
+to	EN
+채워	KO
+yourself	EN
+the	EN
+레지스터	KO
+함수	KO
+기둥	KO
+전에	KO
+enabling	EN
+the	EN
+rows	EN
+.	EN
+Most	EN
+of	EN
+the	EN
+시간	KO
+the	EN
+레지스터	KO
+함수	KO
+이름	KO
+포함함	KO
+the	EN
+단어	KO
+"	EN
+등록	KO
+"	EN
+.	EN
+
+Select	EN
+a	EN
+예뻐	KO
+프린터	KO
+파일	KO
+
+Register	EN
+Function	EN
+
+Gdb	EN
+Debugger	EN
+
+Add	EN
+Files	EN
+:	EN
+
+Remote	EN
+이름	KO
+:	EN
+
+Mailbox	EN
+파일	KO
+to	EN
+적용하기	KO
+:	EN
+
+Add	EN
+signed	EN
+끄기	KO
+by	EN
+라인	KO
+
+Drop	EN
+or	EN
+입력합니다	KO
+리비전	KO
+여기	KO
+
+Commit	EN
+to	EN
+체리	KO
+pick	EN
+:	EN
+
+Show	EN
+소스	KO
+리비전	KO
+in	EN
+로그	KO
+메시지	KO
+
+Append	EN
+signed	EN
+-	EN
+of	EN
+-	EN
+by	EN
+라인	KO
+
+Log	EN
+Message	EN
+:	EN
+
+This	EN
+커밋	KO
+concludes	EN
+a	EN
+실패	KO
+병합	KO
+(	EN
+사용	KO
+-	EN
+i	EN
+)	EN
+
+Use	EN
+커스텀	KO
+저자	KO
+정보	KO
+:	EN
+
+E	EN
+-	EN
+편지	KO
+:	EN
+
+Repository	EN
+머리	KO
+.	EN
+Drop	EN
+or	EN
+type	EN
+a	EN
+다름	KO
+리비전	KO
+here	EN
+
+Check	EN
+아웃	KO
+the	EN
+지점	KO
+after	EN
+it	EN
+is	EN
+created	EN
+
+Tag	EN
+이름	KO
+:	EN
+
+Sign	EN
+이거	KO
+태그	KO
+
+Whole	EN
+프로젝트	KO
+.	EN
+Drop	EN
+a	EN
+파일	KO
+여기에	KO
+or	EN
+타입	KO
+a	EN
+경로	KO
+to	EN
+조회	KO
+a	EN
+파일	KO
+or	EN
+디렉터리	KO
+log	EN
+
+Whole	EN
+프로젝트	KO
+.	EN
+Drop	EN
+a	EN
+파일	KO
+여기에	KO
+to	EN
+조회	KO
+a	EN
+파일	KO
+or	EN
+폴더	KO
+log	EN
+
+View	EN
+the	EN
+Log	EN
+for	EN
+File	EN
+/	EN
+Folder	EN
+:	EN
+
+Short	EN
+Log	EN
+
+페이지	KO
+1	EN
+
+페이지	KO
+2	EN
+
+Revision	EN
+to	EN
+합치기	KO
+함께	KO
+:	EN
+
+Use	EN
+a	EN
+커스텀	KO
+로그	KO
+메시지	KO
+:	EN
+
+Repository	EN
+출처	KO
+.	EN
+Drop	EN
+or	EN
+타입	KO
+a	EN
+다름	KO
+리비전	KO
+여기	KO
+
+Generate	EN
+패치	KO
+상대적	KO
+to	EN
+:	EN
+
+Folder	EN
+to	EN
+생성	KO
+patches	EN
+in	EN
+:	EN
+
+Repository	EN
+to	EN
+당기	KO
+출신	KO
+:	EN
+
+Append	EN
+가져오기	KO
+data	EN
+
+Commit	EN
+on	EN
+빠르다	KO
+-	EN
+앞으로	KO
+merges	EN
+
+Do	EN
+아님	KO
+팔로우	KO
+태그	KO
+
+Repository	EN
+to	EN
+밀어	KO
+to	EN
+:	EN
+
+Push	EN
+전체	KO
+태그	KO
+
+Push	EN
+모두	KO
+나뭇가지	KO
+그리고	KO
+태그	KO
+
+Remote	EN
+Repositories	EN
+:	EN
+
+Remove	EN
+Files	EN
+:	EN
+
+Previous	EN
+커밋	KO
+.	EN
+Drop	EN
+or	EN
+입력	KO
+a	EN
+다름	KO
+리비전	KO
+여기에	KO
+
+Drop	EN
+or	EN
+type	EN
+a	EN
+리비전	KO
+여기	KO
+
+Commit	EN
+to	EN
+되돌리기	KO
+:	EN
+
+Stash	EN
+인덱스	KO
+변화	KO
+
+Add	EN
+Files	EN
+
+Please	EN
+입력	KO
+a	EN
+리모콘	KO
+이름	KO
+.	EN
+
+Please	EN
+입력	KO
+a	EN
+URL	EN
+
+Add	EN
+Remote	EN
+
+Apply	EN
+Mailbox	EN
+Files	EN
+
+No	EN
+stash	EN
+selected	EN
+.	EN
+
+Check	EN
+Out	EN
+Files	EN
+
+Please	EN
+입력합니다	KO
+a	EN
+로그	KO
+메세지	KO
+.	EN
+
+Please	EN
+입력하기	KO
+the	EN
+커밋	KO
+author	EN
+'	EN
+s	EN
+이름	KO
+
+Please	EN
+입력합니다	KO
+the	EN
+커밋	KO
+저자	KO
+'	EN
+s	EN
+e	EN
+-	EN
+편지	KO
+주소	KO
+.	EN
+
+Please	EN
+입력	KO
+a	EN
+리비전	KO
+.	EN
+
+Commit	EN
+%	EN
+s	EN
+.	EN
+차이점	KO
+
+No	EN
+리비전	KO
+selected	EN
+
+Please	EN
+입력합니다	KO
+a	EN
+커밋	KO
+.	EN
+
+Please	EN
+입력합니다	KO
+a	EN
+지점	KO
+이름	KO
+.	EN
+
+Please	EN
+enter	EN
+a	EN
+태그	KO
+이름	KO
+.	EN
+
+Create	EN
+Tag	EN
+
+No	EN
+원격	KO
+selected	EN
+.	EN
+
+No	EN
+태그	KO
+selected	EN
+.	EN
+
+Tag	EN
+:	EN
+%	EN
+s	EN
+
+Remote	EN
+:	EN
+%	EN
+s	EN
+
+Git	EN
+Warning	EN
+
+Please	EN
+입력합니다	KO
+a	EN
+URL	EN
+.	EN
+
+No	EN
+리모컨	KO
+selected	EN
+
+Remove	EN
+Files	EN
+
+Selected	EN
+Remote	EN
+:	EN
+
+No	EN
+리모콘	KO
+selected	EN
+.	EN
+사용하기	KO
+출처	KO
+by	EN
+기본	KO
+.	EN
+To	EN
+푸시	KO
+to	EN
+a	EN
+다름	KO
+원격	KO
+,	EN
+선택하기	KO
+하나	KO
+출신	KO
+the	EN
+Remotes	EN
+list	EN
+above	EN
+.	EN
+
+No	EN
+conflicted	EN
+파일	KO
+selected	EN
+.	EN
+
+Changes	EN
+to	EN
+be	EN
+committed	EN
+
+Changed	EN
+but	EN
+아님	KO
+업데이트	KO
+
+No	EN
+staged	EN
+파일	KO
+selected	EN
+.	EN
+
+Branch	EN
+tools	EN
+
+Create	EN
+a	EN
+지점	KO
+
+Delete	EN
+selected	EN
+나뭇가지	KO
+
+Switch	EN
+to	EN
+the	EN
+selected	EN
+분기	KO
+
+Merge	EN
+a	EN
+리비전	KO
+into	EN
+the	EN
+전류	KO
+분기	KO
+
+Tag	EN
+도구	KO
+
+Create	EN
+a	EN
+태그	KO
+
+Delete	EN
+selected	EN
+태그	KO
+
+Show	EN
+a	EN
+diff	KO
+of	EN
+uncommitted	EN
+변화	KO
+in	EN
+an	EN
+editor	EN
+
+Add	EN
+파일	KO
+to	EN
+the	EN
+인덱스	KO
+
+Remove	EN
+파일	KO
+출신	KO
+the	EN
+저장소	KO
+
+Check	EN
+아웃	KO
+
+Revert	EN
+변화	KO
+in	EN
+unstaged	EN
+파일	KO
+
+Remove	EN
+staged	EN
+files	EN
+출신	KO
+the	EN
+색인	KO
+
+Mark	EN
+selected	EN
+conflicted	EN
+파일	KO
+as	EN
+해결되었습니다	KO
+
+Remote	EN
+저장소	KO
+도구	KO
+
+Add	EN
+a	EN
+리모콘	KO
+
+Add	EN
+a	EN
+리모컨	KO
+저장소	KO
+
+Delete	EN
+selected	EN
+원격	KO
+
+Delete	EN
+a	EN
+리모컨	KO
+
+Push	EN
+변경	KO
+to	EN
+a	EN
+원격	KO
+저장소	KO
+
+Pull	EN
+변화	KO
+출신	KO
+a	EN
+리모컨	KO
+저장소	KO
+
+Fetch	EN
+변화	KO
+출신	KO
+원격	KO
+repositories	EN
+
+Rebase	EN
+against	EN
+selected	EN
+리모컨	KO
+
+Start	EN
+a	EN
+rebase	EN
+작동	KO
+상대	KO
+to	EN
+the	EN
+selected	EN
+리모컨	KO
+저장소	KO
+
+Continue	EN
+a	EN
+rebase	EN
+함께	KO
+해결되었습니다	KO
+분쟁	KO
+
+Skip	EN
+the	EN
+current	EN
+리비전	KO
+
+Abort	EN
+the	EN
+rebase	EN
+그리고	KO
+반납	KO
+the	EN
+저장소	KO
+to	EN
+its	EN
+이전	KO
+국가	KO
+
+Stash	EN
+tools	EN
+
+Apply	EN
+selected	EN
+stash	EN
+
+Apply	EN
+stashed	EN
+변화	KO
+뒤로	KO
+into	EN
+the	EN
+일하기	KO
+트리	KO
+
+Apply	EN
+stash	EN
+그리고	KO
+복원하기	KO
+색인	KO
+
+Apply	EN
+stashed	EN
+변화	KO
+뒤로	KO
+into	EN
+the	EN
+일하기	KO
+나무	KO
+그리고	KO
+the	EN
+색인	KO
+
+Diff	EN
+selected	EN
+stash	EN
+
+Show	EN
+a	EN
+diff	EN
+of	EN
+the	EN
+selected	EN
+stash	EN
+
+Drop	EN
+selected	EN
+stash	EN
+
+Delete	EN
+the	EN
+selected	EN
+stash	EN
+
+Clear	EN
+전체	KO
+stashes	EN
+
+Delete	EN
+전체	KO
+stashes	EN
+in	EN
+이거	KO
+저장소	KO
+
+Revision	EN
+도구	KO
+
+Show	EN
+커밋	KO
+diff	KO
+
+Show	EN
+a	EN
+차이점	KO
+of	EN
+the	EN
+selected	EN
+revision	EN
+
+Merge	EN
+an	EN
+개별	KO
+커밋	KO
+출신	KO
+또다른	KO
+지점	KO
+
+Reset	EN
+트리	KO
+
+Reset	EN
+tree	EN
+to	EN
+a	EN
+이전	KO
+리비전	KO
+
+Revert	EN
+commit	EN
+
+Revert	EN
+a	EN
+커밋	KO
+
+Patch	EN
+series	EN
+
+Generate	EN
+a	EN
+패치	KO
+시리즈	KO
+
+Mailbox	EN
+파일	KO
+
+Apply	EN
+사서함	KO
+파일	KO
+
+Apply	EN
+패치	KO
+출신	KO
+사서함	KO
+파일	KO
+
+Continue	EN
+applying	EN
+패치	KO
+함께	KO
+해결되었습니다	KO
+갈등	KO
+
+Skip	EN
+the	EN
+전류	KO
+패치	KO
+in	EN
+the	EN
+시리즈	KO
+
+Stop	EN
+applying	EN
+the	EN
+패치	KO
+시리즈	KO
+그리고	KO
+귀환	KO
+the	EN
+트리	KO
+to	EN
+its	EN
+이전	KO
+상태	KO
+
+Git	EN
+Tasks	EN
+
+Select	EN
+widgets	EN
+in	EN
+the	EN
+workspace	EN
+
+Drag	EN
+그리고	KO
+resize	EN
+위젯	KO
+in	EN
+the	EN
+workspace	EN
+
+Not	EN
+현지	KO
+파일	KO
+:	EN
+%	EN
+s	EN
+
+Could	EN
+아님	KO
+열기	KO
+%	EN
+s	EN
+
+Could	EN
+아님	KO
+만들기	KO
+a	EN
+new	EN
+glade	EN
+프로젝트	KO
+.	EN
+
+Invalid	EN
+Glade	EN
+파일	KO
+이름	KO
+
+Underline	EN
+-	EN
+Plain	EN
+
+Error	EN
+메시지	KO
+지표	KO
+스타일	KO
+:	EN
+
+Warning	EN
+메시지	KO
+지표	KO
+스타일	KO
+:	EN
+
+Normal	EN
+메세지	KO
+지표	KO
+style	EN
+:	EN
+
+Message	EN
+색깔	KO
+
+Close	EN
+전체	KO
+메시지	KO
+tabs	EN
+
+Error	EN
+쓰기	KO
+%	EN
+s	EN
+
+_	EN
+Copy	EN
+Message	EN
+
+Copy	EN
+메세지	KO
+
+_	EN
+Save	EN
+Message	EN
+
+Next	EN
+/	EN
+Previous	EN
+Message	EN
+
+Unable	EN
+to	EN
+parse	EN
+make	KO
+file	EN
+
+Select	EN
+패키지	KO
+
+Select	EN
+Package	EN
+to	EN
+추가하기	KO
+:	EN
+
+Add	EN
+_	EN
+모듈	KO
+
+Add	EN
+_	EN
+Package	EN
+
+File	EN
+/	EN
+Directory	EN
+to	EN
+패치	KO
+
+Patch	EN
+파일	KO
+
+Please	EN
+선택	KO
+the	EN
+디렉터리	KO
+어디에	KO
+the	EN
+패치	KO
+should	EN
+be	EN
+응용	KO
+
+Patching	EN
+%	EN
+s	EN
+사용하기	KO
+%	EN
+s	EN
+
+There	EN
+are	EN
+미완성	KO
+jobs	EN
+:	EN
+부탁합니다	KO
+기다렸다	KO
+until	EN
+그들은	KO
+are	EN
+완료	KO
+.	EN
+
+Patch	EN
+실패	KO
+.	EN
+Please	EN
+리뷰	KO
+the	EN
+실패	KO
+메시지	KO
+.	EN
+Examine	EN
+and	EN
+삭제	KO
+any	EN
+rejected	EN
+파일	KO
+.	EN
+
+File	EN
+/	EN
+Directory	EN
+to	EN
+패치	KO
+:	EN
+
+Patch	EN
+파일	KO
+:	EN
+
+Patch	EN
+파일	KO
+/	EN
+디렉토리	KO
+
+A	EN
+파일	KO
+named	EN
+"	EN
+%	EN
+s	EN
+"	EN
+벌써	KO
+존재함	KO
+.	EN
+Do	EN
+귀하	KO
+want	EN
+to	EN
+바꾸기	KO
+it	EN
+?	EN
+
+A	EN
+파일	KO
+named	EN
+"	EN
+%	EN
+s	EN
+"	EN
+cannot	EN
+be	EN
+서면	KO
+:	EN
+%	EN
+s	EN
+.	EN
+Check	EN
+if	EN
+당신은	KO
+have	EN
+쓰기	KO
+액세스	KO
+to	EN
+the	EN
+프로젝트	KO
+디렉터리	KO
+.	EN
+
+Please	EN
+선택하기	KO
+a	EN
+프로젝트	KO
+backend	EN
+to	EN
+오픈	KO
+%	EN
+s	EN
+.	EN
+
+Open	EN
+With	EN
+
+Could	EN
+아님	KO
+찾기	KO
+a	EN
+유효한	KO
+프로젝트	KO
+backend	EN
+for	EN
+the	EN
+주어진	KO
+디렉터리	KO
+(	EN
+%	EN
+s	EN
+)	EN
+.	EN
+Please	EN
+선택하기	KO
+a	EN
+달라	KO
+directory	EN
+,	EN
+or	EN
+try	EN
+업그레이드	KO
+to	EN
+a	EN
+newer	EN
+version	EN
+of	EN
+Anjuta	EN
+.	EN
+
+Couldn	EN
+'	EN
+t	EN
+점검	KO
+아웃	KO
+the	EN
+supplied	EN
+URI	EN
+"	EN
+%	EN
+s	EN
+"	EN
+.	EN
+The	EN
+오류	KO
+returned	EN
+was	EN
+:	EN
+"	EN
+%	EN
+s	EN
+"	EN
+
+Project	EN
+이름	KO
+
+Import	EN
+출신	KO
+폴더	KO
+
+Import	EN
+출신	KO
+version	EN
+제어하기	KO
+시스템	KO
+
+Import	EN
+옵션	KO
+
+New	EN
+Directory	EN
+
+Specify	EN
+_	EN
+어디서	KO
+to	EN
+만듭니다	KO
+the	EN
+디렉터리	KO
+:	EN
+
+Add	EN
+Source	EN
+
+Select	EN
+the	EN
+_	EN
+타깃	KO
+for	EN
+the	EN
+new	EN
+출처	KO
+파일	KO
+:	EN
+
+_	EN
+Select	EN
+파일	KO
+to	EN
+추가하기	KO
+
+Source	EN
+파일	KO
+:	EN
+
+Add	EN
+Library	EN
+
+Select	EN
+the	EN
+_	EN
+타겟	KO
+for	EN
+the	EN
+라이브러리	KO
+:	EN
+
+New	EN
+Library	EN
+
+Package	EN
+목록	KO
+:	EN
+
+Browse	EN
+기타	KO
+노드	KO
+
+No	EN
+프로젝트	KO
+loaded	EN
+
+Refreshing	EN
+기호	KO
+트리	KO
+
+Failed	EN
+to	EN
+새로고침	KO
+프로젝트	KO
+:	EN
+%	EN
+s	EN
+
+Are	EN
+당신	KO
+sure	EN
+당신은	KO
+want	EN
+to	EN
+삭제	KO
+the	EN
+팔로우	KO
+group	EN
+출신	KO
+the	EN
+프로젝트	KO
+?	EN
+
+Are	EN
+당신	KO
+sure	EN
+당신	KO
+want	EN
+to	EN
+제거	KO
+the	EN
+팔로우	KO
+target	EN
+출신	KO
+the	EN
+프로젝트	KO
+?	EN
+
+Are	EN
+당신은	KO
+sure	EN
+당신	KO
+want	EN
+to	EN
+지우기	KO
+the	EN
+팔로우	KO
+출처	KO
+파일	KO
+출신	KO
+the	EN
+프로젝트	KO
+?	EN
+
+Are	EN
+you	EN
+sure	EN
+귀하	KO
+want	EN
+to	EN
+제거	KO
+the	EN
+팔로우	KO
+패키지	KO
+출신	KO
+the	EN
+project	EN
+?	EN
+
+Are	EN
+당신	KO
+sure	EN
+당신은	KO
+want	EN
+to	EN
+지우기	KO
+the	EN
+팔로우	KO
+모듈	KO
+출신	KO
+the	EN
+프로젝트	KO
+?	EN
+
+Are	EN
+당신은	KO
+sure	EN
+당신은	KO
+want	EN
+to	EN
+삭제	KO
+the	EN
+팔로우	KO
+원소	KO
+출신	KO
+the	EN
+프로젝트	KO
+?	EN
+
+Shortcut	EN
+:	EN
+%	EN
+s	EN
+
+Package	EN
+:	EN
+%	EN
+s	EN
+
+The	EN
+집단	KO
+will	EN
+be	EN
+삭제함	KO
+출신	KO
+the	EN
+file	EN
+체계	KO
+.	EN
+
+The	EN
+집단	KO
+will	EN
+아님	KO
+be	EN
+삭제함	KO
+출신	KO
+the	EN
+파일	KO
+체계	KO
+.	EN
+
+The	EN
+소스	KO
+파일	KO
+will	EN
+be	EN
+삭제되었습니다	KO
+출신	KO
+the	EN
+파일	KO
+체계	KO
+.	EN
+
+The	EN
+소스	KO
+파일	KO
+will	EN
+아님	KO
+be	EN
+삭제되었습니다	KO
+출신	KO
+the	EN
+파일	KO
+체계	KO
+.	EN
+
+Confirm	EN
+제거	KO
+
+Failed	EN
+to	EN
+삭제	KO
+'	EN
+%	EN
+s	EN
+'	EN
+:	EN
+%	EN
+s	EN
+
+Failed	EN
+to	EN
+retrieve	EN
+URI	EN
+정보	KO
+of	EN
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+New	EN
+_	EN
+Directory	EN
+
+Add	EN
+a	EN
+new	EN
+디렉토리	KO
+to	EN
+the	EN
+프로젝트	KO
+
+Add	EN
+a	EN
+new	EN
+타깃	KO
+to	EN
+the	EN
+프로젝트	KO
+
+Add	EN
+_	EN
+Source	EN
+File	EN
+
+Add	EN
+a	EN
+소스	KO
+파일	KO
+to	EN
+a	EN
+타겟	KO
+
+Add	EN
+_	EN
+Library	EN
+
+New	EN
+_	EN
+Library	EN
+
+Add	EN
+a	EN
+new	EN
+소포	KO
+to	EN
+the	EN
+프로젝트	KO
+
+Project	EN
+properties	EN
+
+Close	EN
+Pro	EN
+_	EN
+ject	EN
+
+Add	EN
+a	EN
+라이브러리	KO
+to	EN
+a	EN
+타겟	KO
+
+New	EN
+_	EN
+Library	EN
+
+Add	EN
+a	EN
+new	EN
+도서관	KO
+to	EN
+the	EN
+프로젝트	KO
+
+_	EN
+Add	EN
+to	EN
+Project	EN
+
+Properties	EN
+of	EN
+그룹	KO
+/	EN
+target	EN
+/	EN
+출처	KO
+
+Remove	EN
+출신	KO
+프로젝트	KO
+
+_	EN
+Sort	EN
+
+Sort	EN
+단축키	KO
+
+Failed	EN
+to	EN
+parse	EN
+프로젝트	KO
+(	EN
+the	EN
+프로젝트	KO
+is	EN
+개설	KO
+,	EN
+그런데	KO
+거기	KO
+will	EN
+be	EN
+no	EN
+프로젝트	KO
+보기	KO
+)	EN
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Update	EN
+프로젝트	KO
+view	EN
+
+Loading	EN
+프로젝트	KO
+:	EN
+%	EN
+s	EN
+
+Error	EN
+닫기	KO
+프로젝트	KO
+:	EN
+%	EN
+s	EN
+
+Project	EN
+관리자	KO
+액션	KO
+
+Project	EN
+매니저	KO
+팝업	KO
+액션	KO
+
+Initializing	EN
+Project	EN
+
+Project	EN
+Loaded	EN
+
+Select	EN
+출처	KO
+
+This	EN
+재산권	KO
+is	EN
+아님	KO
+modifiable	EN
+.	EN
+
+Module	EN
+특성	KO
+
+Package	EN
+속성	KO
+
+Unknown	EN
+특성	KO
+
+Cannot	EN
+추가	KO
+집단	KO
+
+No	EN
+부모님	KO
+그룹	KO
+selected	EN
+
+Cannot	EN
+추가하기	KO
+source	EN
+파일	KO
+
+The	EN
+selected	EN
+노드	KO
+cannot	EN
+contain	EN
+source	EN
+파일	KO
+.	EN
+
+Cannot	EN
+추가	KO
+타겟	KO
+
+No	EN
+집단	KO
+selected	EN
+
+Cannot	EN
+추가하기	KO
+모듈	KO
+
+No	EN
+타겟	KO
+has	EN
+been	EN
+selected	EN
+
+Missing	EN
+모듈	KO
+name	EN
+
+Cannot	EN
+추가	KO
+packages	EN
+
+Confirm	EN
+the	EN
+팔로우	KO
+정보	KO
+:	EN
+
+Project	EN
+Type	EN
+:	EN
+%	EN
+s	EN
+
+Unable	EN
+to	EN
+찾기	KO
+any	EN
+프로젝트	KO
+템플릿	KO
+in	EN
+%	EN
+s	EN
+
+Field	EN
+"	EN
+%	EN
+s	EN
+"	EN
+is	EN
+필수	KO
+.	EN
+Please	EN
+enter	EN
+it	EN
+.	EN
+
+Field	EN
+"	EN
+%	EN
+s	EN
+"	EN
+must	EN
+포함함	KO
+오직	KO
+편지	KO
+,	EN
+숫자	KO
+or	EN
+the	EN
+팔로우	KO
+등장인물	KO
+"	EN
+#	EN
+$	EN
+:	EN
+%	EN
+%	EN
++	EN
+,	EN
+.	EN
+=	EN
+@	EN
+^	EN
+_	EN
+`	EN
+~	EN
+"	EN
+.	EN
+In	EN
+덧셈	KO
+you	EN
+cannot	EN
+have	EN
+a	EN
+leading	EN
+대시	KO
+.	EN
+Please	EN
+고쳐	KO
+it	EN
+.	EN
+
+Field	EN
+"	EN
+%	EN
+s	EN
+"	EN
+must	EN
+포함	KO
+단발	KO
+letters	EN
+,	EN
+숫자	KO
+,	EN
+the	EN
+팔로우	KO
+문자	KO
+"	EN
+#	EN
+$	EN
+:	EN
+%	EN
+%	EN
++	EN
+,	EN
+.	EN
+=	EN
+@	EN
+^	EN
+_	EN
+`	EN
+~	EN
+"	EN
+or	EN
+디렉토리	KO
+separators	EN
+.	EN
+In	EN
+덧셈	KO
+당신은	KO
+cannot	EN
+have	EN
+a	EN
+leading	EN
+대시	KO
+.	EN
+Please	EN
+고쳐	KO
+it	EN
+.	EN
+
+Unknown	EN
+오류	KO
+.	EN
+
+Directory	EN
+"	EN
+%	EN
+s	EN
+"	EN
+is	EN
+아님	KO
+비어	KO
+.	EN
+Project	EN
+창조	KO
+could	EN
+실패	KO
+if	EN
+일부	KO
+파일	KO
+cannot	EN
+be	EN
+서면	KO
+.	EN
+Do	EN
+귀하	KO
+want	EN
+to	EN
+계속하기	KO
+?	EN
+
+File	EN
+"	EN
+%	EN
+s	EN
+"	EN
+벌써	KO
+존재함	KO
+.	EN
+Do	EN
+당신은	KO
+want	EN
+to	EN
+덮어쓰기	KO
+it	EN
+?	EN
+
+Invalid	EN
+항목	KO
+
+Missing	EN
+프로그램	KO
+:	EN
+%	EN
+s	EN
+.	EN
+
+Missing	EN
+패키지	KO
+:	EN
+%	EN
+s	EN
+.	EN
+
+Some	EN
+중요	KO
+프로그램	KO
+or	EN
+발달	KO
+패키지	KO
+필요함	KO
+to	EN
+빌드	KO
+이거	KO
+프로젝트	KO
+are	EN
+missing	KO
+.	EN
+Please	EN
+make	KO
+sure	EN
+그들이	KO
+are	EN
+설치됨	KO
+properly	EN
+이전	KO
+generating	EN
+the	EN
+프로젝트	KO
+.	EN
+
+Install	EN
+missing	KO
+패키지	KO
+
+The	EN
+missing	EN
+프로그램	KO
+are	EN
+보통	KO
+부분	KO
+of	EN
+일부	KO
+분배	KO
+패키지	KO
+그리고	KO
+can	EN
+be	EN
+searched	EN
+for	EN
+in	EN
+your	EN
+Application	EN
+Manager	EN
+.	EN
+Similarly	EN
+,	EN
+the	EN
+발달	KO
+패키지	KO
+are	EN
+contained	EN
+in	EN
+스페셜	KO
+패키지	KO
+that	EN
+your	EN
+분포	KO
+provides	EN
+to	EN
+허용	KO
+개발	KO
+of	EN
+프로젝트	KO
+기반	KO
+on	EN
+그들	KO
+.	EN
+They	EN
+보통	KO
+종료	KO
+함께	KO
+a	EN
+"	EN
+-	EN
+dev	EN
+"	EN
+or	EN
+"	EN
+-	EN
+devel	EN
+"	EN
+접미사	KO
+in	EN
+소포	KO
+이름	KO
+그리고	KO
+can	EN
+be	EN
+찾았습니다	KO
+by	EN
+검색	KO
+in	EN
+your	EN
+Application	EN
+Manager	EN
+.	EN
+
+Missing	EN
+부품	KO
+
+Unable	EN
+to	EN
+빌드	KO
+프로젝트	KO
+조수	KO
+user	EN
+인터페이스	KO
+읽기	KO
+%	EN
+s	EN
+.	EN
+
+New	EN
+프로젝트	KO
+창조	KO
+has	EN
+실패	KO
+.	EN
+
+Skipping	EN
+%	EN
+s	EN
+:	EN
+파일	KO
+이미	KO
+존재함	KO
+
+Creating	EN
+%	EN
+s	EN
+Failed	EN
+to	EN
+만드세요	KO
+디렉토리	KO
+
+Creating	EN
+%	EN
+s	EN
+(	EN
+사용하기	KO
+AutoGen	EN
+)	EN
+%	EN
+s	EN
+
+Creating	EN
+%	EN
+s	EN
+%	EN
+s	EN
+
+Unable	EN
+to	EN
+풀기	KO
+프로젝트	KO
+템플릿	KO
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+New	EN
+Project	EN
+Assistant	EN
+
+Select	EN
+파일	KO
+
+Select	EN
+an	EN
+Image	EN
+File	EN
+
+Choose	EN
+Icon	EN
+
+Choose	EN
+디렉토리	KO
+
+Project	EN
+Name	EN
+:	EN
+
+Options	EN
+for	EN
+프로젝트	KO
+빌드	KO
+system	EN
+
+Select	EN
+코드	KO
+라이센스	KO
+
+Adds	EN
+C	EN
++	EN
++	EN
+지지	KO
+to	EN
+the	EN
+프로젝트	KO
+so	EN
+that	EN
+C	EN
++	EN
++	EN
+source	EN
+파일	KO
+can	EN
+be	EN
+built	EN
+
+Add	EN
+공유	KO
+도서관	KO
+지지	KO
+:	EN
+
+Adds	EN
+후원	KO
+for	EN
+건축	KO
+공유	KO
+도서관	KO
+in	EN
+your	EN
+프로젝트	KO
+
+Configure	EN
+외부	KO
+패키지	KO
+:	EN
+
+Use	EN
+pkg	KO
+-	EN
+config	KO
+to	EN
+추가	KO
+라이브러리	KO
+지지	KO
+출신	KO
+기타	KO
+패키지	KO
+
+Configure	EN
+외부	KO
+패키지	KO
+
+Check	EN
+the	EN
+패키지	KO
+that	EN
+your	EN
+프로젝트	KO
+requires	EN
+
+Adds	EN
+후원	KO
+for	EN
+국제화	KO
+so	EN
+that	EN
+your	EN
+프로젝트	KO
+can	EN
+have	EN
+번역	KO
+in	EN
+다르다	KO
+languages	EN
+
+Python	EN
+webproject	EN
+사용하기	KO
+Django	EN
+Web	EN
+Framework	EN
+
+GTK	EN
++	EN
+(	EN
+simple	EN
+)	EN
+
+Simple	EN
+GTK	EN
++	EN
+프로젝트	KO
+
+gtk	KO
+-	EN
+doc	KO
+is	EN
+사용됨	KO
+to	EN
+컴파일	KO
+API	EN
+documentations	EN
+for	EN
+GObject	EN
+기반	KO
+수업	KO
+
+Use	EN
+GtkBuilder	EN
+for	EN
+user	EN
+인터페이스	KO
+:	EN
+
+Use	EN
+GtkBuilder	EN
+to	EN
+만들기	KO
+the	EN
+사용자	KO
+-	EN
+인터페이스	KO
+in	EN
+a	EN
+graphical	EN
+way	KO
+그리고	KO
+로딩	KO
+it	EN
+출신	KO
+xml	KO
+파일	KO
+at	EN
+런타임	KO
+
+Require	EN
+Package	EN
+:	EN
+
+Give	EN
+a	EN
+소포	KO
+name	EN
+that	EN
+your	EN
+프로젝트	KO
+require	EN
+.	EN
+You	EN
+may	EN
+또한	KO
+언급	KO
+what	EN
+is	EN
+the	EN
+필요함	KO
+버전	KO
+of	EN
+the	EN
+패키지	KO
+.	EN
+For	EN
+예제	KO
+,	EN
+'	EN
+libgnomeui	EN
+-	EN
+2	EN
+.	EN
+0	EN
+'	EN
+or	EN
+'	EN
+libgnomeui	EN
+-	EN
+2	EN
+.	EN
+0	EN
+>	EN
+=	EN
+2	EN
+.	EN
+2	EN
+.	EN
+0	EN
+'	EN
+
+Anjuta	EN
+플러그인	KO
+프로젝트	KO
+that	EN
+사용	KO
+libanjuta	EN
+framework	EN
+
+Project	EN
+이름	KO
+must	EN
+아님	KO
+contain	EN
+공백	KO
+,	EN
+왜냐면	KO
+it	EN
+will	EN
+be	EN
+the	EN
+이름	KO
+of	EN
+the	EN
+프로젝트	KO
+빌드	KO
+대상	KO
+(	EN
+executable	EN
+,	EN
+라이브러리	KO
+등등	KO
+.	EN
+)	EN
+
+Display	EN
+title	EN
+of	EN
+the	EN
+플러그인	KO
+
+Plugin	EN
+Description	EN
+:	EN
+
+Display	EN
+묘사	KO
+of	EN
+the	EN
+플러그인	KO
+
+Plugin	EN
+Dependencies	EN
+:	EN
+
+Comma	EN
+분리됨	KO
+,	EN
+다른	KO
+플러그인	KO
+that	EN
+이거	KO
+플러그인	KO
+depends	EN
+on	EN
+.	EN
+It	EN
+could	EN
+be	EN
+either	EN
+primary	EN
+인터페이스	KO
+이름	KO
+or	EN
+플러그인	KO
+위치	KO
+(	EN
+라이브러리	KO
+:	EN
+클래스	KO
+)	EN
+
+Create	EN
+Gtk	EN
+Builder	EN
+인터페이스	KO
+파일	KO
+
+Create	EN
+a	EN
+템플릿	KO
+Gtk	EN
+Builder	EN
+인터페이스	KO
+파일	KO
+
+Plugin	EN
+has	EN
+메뉴	KO
+or	EN
+/	EN
+그리고	KO
+도구모음	KO
+
+Whether	EN
+the	EN
+플러그인	KO
+has	EN
+메뉴	KO
+or	EN
+도구모음	KO
+
+Values	EN
+to	EN
+시계	KO
+
+Shell	EN
+가치	KO
+to	EN
+시계	KO
+
+Value	EN
+Name	EN
+:	EN
+
+Name	EN
+of	EN
+the	EN
+가치	KO
+to	EN
+시계	KO
+
+Plugin	EN
+인터페이스	KO
+to	EN
+구현	KO
+
+A	EN
+generic	EN
+natively	EN
+컴파일	KO
+자바	KO
+프로젝트	KO
+사용하기	KO
+the	EN
+GNU	EN
+Java	EN
+Compiler	EN
+(	EN
+gcj	EN
+)	EN
+
+GCJ	EN
+필요	KO
+to	EN
+know	EN
+어느	KO
+수업	KO
+포함됨	KO
+the	EN
+메인	KO
+(	EN
+)	EN
+함수	KO
+
+A	EN
+일반	KO
+자바	KO
+project	EN
+사용하기	KO
+automake	EN
+프로젝트	KO
+관리	KO
+
+A	EN
+일반	KO
+파이썬	KO
+프로젝트	KO
+사용하기	KO
+automake	EN
+프로젝트	KO
+관리	KO
+
+PyGTK	EN
+프로젝트	KO
+사용하기	KO
+automake	EN
+
+Project	EN
+디렉터리	KO
+,	EN
+output	EN
+파일	KO
+등등	KO
+.	EN
+
+Require	EN
+SDL	EN
+버전	KO
+:	EN
+
+Mininum	EN
+SDL	EN
+버전	KO
+필수	KO
+
+A	EN
+공유	KO
+or	EN
+a	EN
+정적	KO
+라이브러리	KO
+프로젝트	KO
+
+Build	EN
+라이브러리	KO
+as	EN
+
+Select	EN
+도서관	KO
+유형	KO
+to	EN
+빌드	KO
+
+Shared	EN
+그리고	KO
+Static	EN
+도서관	KO
+
+Only	EN
+Shared	EN
+
+Only	EN
+Static	EN
+
+GTK	EN
++	EN
+(	EN
+Application	EN
+)	EN
+
+Full	EN
+기능	KO
+Gtk	EN
++	EN
+Application	EN
+함께	KO
+파일	KO
+취급	KO
+
+Run	EN
+in	EN
+Terminal	EN
+
+Working	EN
+Directory	EN
+:	EN
+
+Choose	EN
+a	EN
+일하기	KO
+디렉토리	KO
+
+Program	EN
+디렉토리	KO
+'	EN
+%	EN
+s	EN
+'	EN
+is	EN
+아님	KO
+현지	KO
+
+Missing	EN
+파일	KO
+%	EN
+s	EN
+
+The	EN
+프로그램	KO
+is	EN
+런닝	KO
+.	EN
+Do	EN
+당신	KO
+want	EN
+to	EN
+재시작	KO
+it	EN
+?	EN
+
+Run	EN
+프로그램	KO
+without	KO
+debugger	EN
+
+Program	EN
+Parameters	EN
+
+Set	EN
+현재	KO
+프로그램	KO
+,	EN
+인자	KO
+,	EN
+등등	KO
+.	EN
+
+Command	EN
+사용됨	KO
+for	EN
+시작	KO
+a	EN
+터미널	KO
+
+Insert	EN
+a	EN
+snippet	EN
+사용하기	KO
+the	EN
+트리거	KO
+-	EN
+키키	KO
+
+Insert	EN
+a	EN
+snippet	EN
+사용하기	KO
+자동	KO
+-	EN
+완성	KO
+
+Import	EN
+snippets	EN
+to	EN
+the	EN
+데이터베이스	KO
+
+_	EN
+Export	EN
+snippets	EN
+
+Export	EN
+snippets	EN
+출신	KO
+the	EN
+데이터베이스	KO
+
+Snippets	EN
+Manager	EN
+행동	KO
+
+Instant	EN
+가치	KO
+
+Add	EN
+Snippet	EN
+
+Add	EN
+Snippets	EN
+Group	EN
+
+Default	EN
+가치	KO
+
+Error	EN
+:	EN
+You	EN
+must	EN
+선택하기	KO
+at	EN
+최소	KO
+하나	KO
+언어	KO
+for	EN
+the	EN
+snippet	EN
+!	EN
+
+Error	EN
+:	EN
+The	EN
+trigger	EN
+키키	KO
+is	EN
+already	EN
+in	EN
+이용하기	KO
+for	EN
+one	EN
+of	EN
+the	EN
+언어	KO
+!	EN
+
+Error	EN
+:	EN
+The	EN
+트리거	KO
+키키	KO
+can	EN
+단발	KO
+contain	EN
+alphanumeric	EN
+등장인물	KO
+그리고	KO
+_	EN
+!	EN
+
+Error	EN
+:	EN
+You	EN
+헤이븐	KO
+'	EN
+t	EN
+entered	EN
+a	EN
+트리거	KO
+키키	KO
+for	EN
+the	EN
+snippet	EN
+!	EN
+
+Select	EN
+the	EN
+이름	KO
+of	EN
+the	EN
+Snippet	EN
+.	EN
+The	EN
+역할	KO
+of	EN
+the	EN
+이름	KO
+is	EN
+purely	EN
+informative	EN
+.	EN
+
+Warning	EN
+:	EN
+You	EN
+should	EN
+선택	KO
+a	EN
+이름	KO
+for	EN
+the	EN
+snippet	EN
+!	EN
+
+Select	EN
+the	EN
+Snippets	EN
+Group	EN
+to	EN
+어느	KO
+이거	KO
+snippet	EN
+belongs	EN
+.	EN

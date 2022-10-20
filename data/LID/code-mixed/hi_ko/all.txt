@@ -1,0 +1,27226 @@
+अपने	HI
+अनुप्रयोग	HI
+को	HI
+पहुंचनीयता	HI
+운동	KO
+का	HI
+लाभ	HI
+दें	HI
+
+एक्सेर्साइसर	HI
+पहुंचनीयता	HI
+탐정	KO
+
+निचले	HI
+पटल	HI
+के	HI
+लिए	HI
+डिफोल्ट	HI
+플러그	KO
+-	HI
+여관	KO
+배치	KO
+
+대소문자	KO
+पटल	HI
+के	HI
+लिए	HI
+डिफोल्ट	HI
+플러그	KO
+-	HI
+inn	KO
+खाका	HI
+
+उन	HI
+플러그인	KO
+-	HI
+इनों	HI
+की	HI
+명단	KO
+जिन्हें	HI
+डिफोल्ट	HI
+모양	KO
+출신	KO
+निष्क्रिय	HI
+완료	KO
+गया	HI
+है	HI
+
+생리	KO
+को	HI
+हाइलाइट	HI
+रकें	HI
+
+पहुंचनीय	HI
+आसंधि	HI
+(	HI
+노드	KO
+)	HI
+को	HI
+चुनते	HI
+타이밍	KO
+강조	KO
+박스	KO
+की	HI
+기간	KO
+
+경계	KO
+(	HI
+बोर्डर	HI
+)	HI
+के	HI
+컬러	KO
+को	HI
+हाइलाइट	HI
+toc	KO
+
+हाइलाइट	HI
+किए	HI
+गए	HI
+सीमांत	HI
+का	HI
+색상	KO
+그리고	KO
+불투명	KO
+।	HI
+
+भराई	HI
+के	HI
+रंग	HI
+को	HI
+강조	KO
+toc	KO
+
+강조하기	KO
+완료	KO
+गया	HI
+भराई	HI
+का	HI
+रंग	HI
+그리고	KO
+알파	KO
+।	HI
+
+이거	KO
+समय	HI
+जिसे	HI
+प्राप्त	HI
+किया	HI
+गया	HI
+हो	HI
+,	HI
+उसकी	HI
+विभिन्न	HI
+विधियों	HI
+(	HI
+मेथड	HI
+)	HI
+में	HI
+विचरण	HI
+toc	KO
+
+निजी	HI
+गुणों	HI
+को	HI
+छिपाएं	HI
+
+이거	KO
+समय	HI
+चुने	HI
+गए	HI
+एक्सेसेबेल	HI
+출신	KO
+사무실	KO
+लेने	HI
+के	HI
+लिए	HI
+अंतर्क्रियात्मक	HI
+कन्सोल	HI
+
+घटनाओं	HI
+को	HI
+मानिटर	HI
+toc	KO
+(	HI
+_	HI
+M	HI
+)	HI
+
+선택	KO
+को	HI
+हटाएं	HI
+(	HI
+C	HI
+_	HI
+)	HI
+
+चुने	HI
+gone	KO
+अनुप्रयोग	HI
+
+चुने	HI
+gone	KO
+एक्सेसेबेल	HI
+
+चुने	HI
+gone	KO
+프라다	KO
+그리고	KO
+스프링	KO
+से	HI
+घटनाएं	HI
+जैसे	HI
+-	HI
+जैसे	HI
+घटित	HI
+होती	HI
+हैं	HI
+,	HI
+그들	KO
+दर्शाता	HI
+है	HI
+
+이전	KO
+인터럽트	KO
+현상	KO
+को	HI
+हाइलाइट	HI
+करो	HI
+
+이벤트	KO
+रेकोर्डिंग	HI
+시작됨	KO
+करो	HI
+/	HI
+रोको	HI
+
+कोई	HI
+상세	KO
+아님	KO
+
+पहुंचनीय	HI
+
+कार्रवाई	HI
+संपन्न	HI
+toc	KO
+
+액션	KO
+(	HI
+_	HI
+o	HI
+)	HI
+
+애플리케이션	KO
+
+컬렉션	KO
+
+एमडीआई	HI
+-	HI
+제이드	KO
+-	HI
+순서	KO
+
+절대적	KO
+국가	KO
+
+सभी	HI
+선택	KO
+
+선택	KO
+(	HI
+_	HI
+S	HI
+)	HI
+
+चुने	HI
+गए	HI
+칼럼	KO
+
+चुनी	HI
+गई	HI
+라이선스	KO
+
+이름	KO
+(	HI
+x	HI
+,	HI
+y	HI
+)	HI
+
+lt	HI
+.	HI
+bgt	HI
+.	HI
+선정	KO
+गई	HI
+कोशिकाlt	HI
+.	HI
+/	HI
+bgt	HI
+.	HI
+
+डिफोल्टों	HI
+को	HI
+포함됨	KO
+करें	HI
+
+मौजूदा	HI
+मान	HI
+
+max	KO
+मान	HI
+
+민지	KO
+가치	KO
+
+अंतराफलक	HI
+타겟	KO
+
+अंतराफलक	HI
+के	HI
+기타	KO
+गुणों	HI
+को	HI
+보기	KO
+देता	HI
+है	HI
+
+(	HI
+क्रियान्वित	HI
+아님	KO
+हुआ	HI
+है	HI
+)	HI
+
+아주	KO
+기타	KO
+चयनीय	HI
+아기	KO
+हैं	HI
+
+강렬하게	KO
+선거	KO
+
+플러그	KO
+-	HI
+여관	KO
+जिसमें	HI
+हैं	HI
+एक्सेसेबेलों	HI
+को	HI
+तेजी	HI
+출신	KO
+चुनने	HI
+के	HI
+लिए	HI
+다중	KO
+विधियां	HI
+
+라스트	KO
+타임즈	KO
+포커스	KO
+किए	HI
+gone	KO
+एक्सेसेबल	HI
+को	HI
+जांचें	HI
+
+माउस	HI
+के	HI
+अधीन	HI
+who	KO
+एक्सेसेबल	HI
+है	HI
+,	HI
+उसे	HI
+जांचें	HI
+
+섹션	KO
+लिपि	HI
+(	HI
+문자	KO
+)	HI
+खो	HI
+जाएगी	HI
+।	HI
+
+मिटाने	HI
+की	HI
+확인	KO
+करें	HI
+
+कोई	HI
+विवरण	HI
+아님	KO
+
+एटी	HI
+-	HI
+एसपीआई	HI
+सत्यापक	HI
+
+애플리케이션	KO
+की	HI
+पहुंचनीयता	HI
+का	HI
+검증	KO
+करता	HI
+है	HI
+
+베이직	KO
+जीयूआई	HI
+अनुप्रयोग	HI
+पहुंचनीयता	HI
+का	HI
+परीक्षण	HI
+करता	HI
+है	HI
+
+%	HI
+s	HI
+जिस	HI
+पर	HI
+활동	KO
+हो	HI
+सकती	HI
+है	HI
+,	HI
+वह	HI
+न	HI
+तो	HI
+집중	KO
+करने	HI
+자격	KO
+है	HI
+न	HI
+ही	HI
+चयनीय	HI
+
+अंतर्क्रियात्मक	HI
+%	HI
+s	HI
+कार्रवाई	HI
+करने	HI
+자격	KO
+아님	KO
+है	HI
+
+하나	KO
+출신	KO
+अधिक	HI
+विडजेट	HI
+집중하기	KO
+में	HI
+है	HI
+
+%	HI
+s	HI
+का	HI
+कोई	HI
+문구	KO
+अंतराफलक	HI
+नहीं	HI
+है	HI
+
+부모	KO
+में	HI
+%	HI
+s	HI
+सूची	HI
+영아	KO
+목록	KO
+सेमेल	HI
+아님	KO
+खाती	HI
+
+%	HI
+s	HI
+संबंध	HI
+के	HI
+लिए	HI
+अन्योन्य	HI
+गायब	HI
+है	HI
+
+%	HI
+s	HI
+गायब	HI
+이름	KO
+या	HI
+포인터	KO
+
+집중하기	KO
+योग्य	HI
+%	HI
+s	HI
+में	HI
+카탈로그	KO
+अंतराफलक	HI
+है	HI
+,	HI
+कोई	HI
+चयनीय	HI
+अंतराफलक	HI
+아님	KO
+हैbutton	HI
+has	HI
+focused	HI
+state	HI
+without	HI
+focusable	HI
+state	HI
+
+%	HI
+s	HI
+में	HI
+%	HI
+s	HI
+상태	KO
+है	HI
+,	HI
+पर	HI
+그녀의	KO
+함께	KO
+%	HI
+s	HI
+상태	KO
+아님	KO
+है	HI
+
+%	HI
+s	HI
+누군가	KO
+세트	KO
+का	HI
+가입자	KO
+아님	KO
+है	HI
+
+%	HI
+(	HI
+rolename	HI
+)	HI
+s	HI
+목록	KO
+%	HI
+(	HI
+num	HI
+)	HI
+d	HI
+라인	KO
+그리고	KO
+기둥	KO
+출신	KO
+우편	KO
+아님	KO
+खातेparent	HI
+indexrow	HI
+and	HI
+column	HI
+index	HI
+
+%	HI
+(	HI
+rolename	HI
+)	HI
+s	HI
+부모님	KO
+명단	KO
+%	HI
+(	HI
+num1	HI
+)	HI
+d	HI
+라인	KO
+और	HI
+칼럼	KO
+सूची	HI
+%	HI
+(	HI
+num2	HI
+)	HI
+d	HI
+से	HI
+편지	KO
+아님	KO
+계좌	KO
+
+%	HI
+s	HI
+का	HI
+कोई	HI
+이름	KO
+या	HI
+상세	KO
+नहीं	HI
+
+선택	KO
+(	HI
+_	HI
+P	HI
+)	HI
+.	HI
+.	HI
+.	HI
+
+과목	KO
+명단	KO
+(	HI
+_	HI
+C	HI
+)	HI
+
+एक्सेरसाइसर	HI
+आपके	HI
+डेस्कटोप	HI
+में	HI
+존재함	KO
+어플리케이션	KO
+아님	KO
+देख	HI
+पाया	HI
+।	HI
+이거	KO
+이슈	KO
+के	HI
+솔루션	KO
+के	HI
+लिए	HI
+당신은	KO
+डेस्कटोप	HI
+पहुंचनीयता	HI
+को	HI
+활성화	KO
+करना	HI
+होगा	HI
+।	HI
+क्या	HI
+귀하	KO
+इसे	HI
+활성화	KO
+करना	HI
+चाहते	HI
+हैं	HI
+?	HI
+
+टिप्पणीः	HI
+변화	KO
+सत्रांत	HI
+(	HI
+लोगआउट	HI
+)	HI
+के	HI
+बाद	HI
+ही	HI
+영향	KO
+में	HI
+आएंगे	HI
+।	HI
+
+पंजी	HI
+신선한	KO
+करें	HI
+(	HI
+_	HI
+R	HI
+)	HI
+
+전체	KO
+को	HI
+ताजा	HI
+करें	HI
+
+आसंधि	HI
+(	HI
+노드	KO
+)	HI
+को	HI
+신선	KO
+toc	KO
+(	HI
+_	HI
+N	HI
+)	HI
+
+चुनी	HI
+गई	HI
+आसंधियों	HI
+(	HI
+노드	KO
+)	HI
+के	HI
+शिशुओं	HI
+को	HI
+신선	KO
+करें	HI
+
+대문자	KO
+패널	KO
+
+एक्सेर्साइसर	HI
+책갈피	KO
+
+सार्वत्रिक	HI
+러쉬	KO
+कुंजियां	HI
+
+하이라이트	KO
+अवधिः	HI
+
+हाइलाइट	HI
+상자	KO
+का	HI
+सीमांत	HI
+रंग	HI
+
+भराई	HI
+का	HI
+रंगः	HI
+
+강조	KO
+상자	KO
+का	HI
+भराई	HI
+색상	KO
+
+एक्सेर्साइसर	HI
+सर्वाधिकार	HI
+©	HI
+2006,2007	HI
+आईबीएम	HI
+निगम	HI
+(	HI
+bsd	KO
+)	HI
+
+नया	HI
+bsd	KO
+लाइसेन्स	HI
+자세히	KO
+के	HI
+लिए	HI
+देखिए	HI
+प्रतिलिपीकरण	HI
+그리고	KO
+सूचना	HI
+फाइलें	HI
+
+선택	KO
+जोड़ें	HI
+.	HI
+.	HI
+.	HI
+(	HI
+_	HI
+A	HI
+)	HI
+
+चुने	HI
+गए	HI
+एक्सेसेबलों	HI
+को	HI
+पुस्तक	HI
+-	HI
+표시됨	KO
+toc	KO
+
+पुस्तक	HI
+기호	KO
+संपादित	HI
+toc	KO
+(	HI
+_	HI
+E	HI
+)	HI
+.	HI
+.	HI
+.	HI
+
+पुस्तक	HI
+-	HI
+चिह्नों	HI
+को	HI
+प्रबंधित	HI
+करें	HI
+।	HI
+
+पुस्तक	HI
+चिह्नों	HI
+को	HI
+संपादित	HI
+करें	HI
+.	HI
+.	HI
+.	HI
+
+पुस्तक	HI
+-	HI
+아이콘	KO
+추가	KO
+.	HI
+.	HI
+.	HI
+
+플러그	KO
+-	HI
+여관	KO
+오류	KO
+
+कोई	HI
+조회수	KO
+아님	KO
+है	HI
+
+싱글	KO
+प्लग	HI
+-	HI
+inn	KO
+표시됨	KO
+
+플러그	KO
+-	HI
+inn	KO
+조회수	KO
+
+플러그	KO
+-	HI
+여관	KO
+조회	KO
+(	HI
+%	HI
+d	HI
+)	HI
+
+नया	HI
+견해	KO
+.	HI
+.	HI
+.	HI
+
+नया	HI
+조회	KO
+.	HI
+.	HI
+.	HI
+
+파일	KO
+(	HI
+F	HI
+)	HI
+
+संपादित	HI
+toc	KO
+
+पुस्तक	HI
+-	HI
+चिह्न	HI
+संपादित	HI
+toc	KO
+(	HI
+_	HI
+E	HI
+)	HI
+.	HI
+.	HI
+.	HI
+
+पूरा	HI
+नाम	HI
+
+कुंजी	HI
+채권	KO
+
+उन	HI
+플러그	KO
+-	HI
+इनों	HI
+की	HI
+리스트	KO
+जिन्हें	HI
+डिफोल्ट	HI
+형태	KO
+출신	KO
+निष्क्रिय	HI
+किया	HI
+गया	HI
+है	HI
+
+पहुंचनीय	HI
+आसंधि	HI
+노드	KO
+को	HI
+चुनते	HI
+समय	HI
+हाइलाइट	HI
+상자	KO
+की	HI
+마침표	KO
+.	HI
+
+नीचे	HI
+के	HI
+पैनल	HI
+के	HI
+लिए	HI
+लेआउट	HI
+
+밑바닥	KO
+패널	KO
+pluginview	HI
+के	HI
+लिए	HI
+레이아웃	KO
+.	HI
+
+윗쪽	KO
+पटल	HI
+के	HI
+लिए	HI
+배치	KO
+
+인기	KO
+패널	KO
+pluginview	HI
+के	HI
+लिए	HI
+लेआउट	HI
+.	HI
+
+नई	HI
+pluginviews	HI
+उपलब्ध	HI
+है	HI
+
+대문자	KO
+패널	KO
+के	HI
+लिए	HI
+डिफोल्ट	HI
+플러그	KO
+-	HI
+inn	KO
+배치	KO
+.	HI
+
+머리카락	KO
+계산하기	KO
+
+चुनी	HI
+गई	HI
+셀프	KO
+
+시작	KO
+
+अंतः	HI
+0	HI
+
+प्रारंभEnd	HI
+
+집중	KO
+자격	KO
+%	HI
+s	HI
+में	HI
+탁자	KO
+अंतराफलक	HI
+है	HI
+,	HI
+लेकिन	HI
+कोई	HI
+चयनीय	HI
+अंतराफलक	HI
+아님	KO
+हैbutton	HI
+has	HI
+focused	HI
+state	HI
+without	HI
+focusable	HI
+state	HI
+
+키즈	KO
+के	HI
+without	KO
+프로그램	KO
+छिपाएँ	HI
+/	HI
+보이기	KO
+(	HI
+_	HI
+H	HI
+)	HI
+
+प्लग	HI
+-	HI
+여관	KO
+त्रुटियांviewport	HI
+
+संपादित	HI
+करेंmenu	HI
+
+즐겨찾기	KO
+(	HI
+_	HI
+B	HI
+)	HI
+menu	HI
+
+(	HI
+कोई	HI
+자세히	KO
+아님	KO
+)	HI
+
+नया	HI
+दृश्य	HI
+.	HI
+.	HI
+.	HI
+(	HI
+_	HI
+N	HI
+)	HI
+
+पहुंचनीय	HI
+आसंधि	HI
+(	HI
+नोड	HI
+)	HI
+को	HI
+चुनते	HI
+समय	HI
+강조하기	KO
+상자	KO
+की	HI
+주기	KO
+
+निचले	HI
+패널	KO
+के	HI
+लिए	HI
+डिफोल्ट	HI
+플러그인	KO
+-	HI
+inn	KO
+layout	KO
+
+निचले	HI
+패널	KO
+के	HI
+लिए	HI
+डिफोल्ट	HI
+플러그인	KO
+-	HI
+inn	KO
+레이아웃	KO
+
+윗쪽	KO
+패널	KO
+के	HI
+लिए	HI
+डिफोल्ट	HI
+플러그인	KO
+-	HI
+여관	KO
+layout	KO
+
+상위	KO
+पटल	HI
+के	HI
+लिए	HI
+डिफोल्ट	HI
+플러그	KO
+-	HI
+इन	HI
+layout	KO
+
+단일	KO
+플러그	KO
+-	HI
+इन	HI
+보기	KO
+
+단일	KO
+플러그	KO
+-	HI
+inn	KO
+조회	KO
+
+윗쪽	KO
+패널	KO
+के	HI
+लिए	HI
+डिफोल्ट	HI
+प्लग	HI
+-	HI
+inn	KO
+layout	KO
+
+포커스	KO
+योग्य	HI
+%	HI
+s	HI
+में	HI
+카탈로그	KO
+अंतराफलक	HI
+है	HI
+,	HI
+कोई	HI
+चयनीय	HI
+अंतराफलक	HI
+아님	KO
+हैbutton	HI
+has	HI
+focused	HI
+state	HI
+without	HI
+focusable	HI
+state	HI
+
+एक्सेर्साइसर	HI
+सर्वाधिकार	HI
+©	HI
+2006,2007	HI
+आईबीएम	HI
+코퍼레이션	KO
+(	HI
+bsd	KO
+)	HI
+
+메인	KO
+창문	KO
+की	HI
+지평선	KO
+디비전	KO
+की	HI
+상태	KO
+.	HI
+
+전공	KO
+창문	KO
+की	HI
+수직	KO
+विभाजित	HI
+की	HI
+स्थिति	HI
+.	HI
+
+तयशुदा	HI
+창문	KO
+고도	KO
+
+창문	KO
+की	HI
+높이	KO
+का	HI
+मान	HI
+.	HI
+
+하나	KO
+ही	HI
+layout	KO
+में	HI
+प्लगिन	HI
+시계	KO
+.	HI
+
+이거	KO
+목록	KO
+में	HI
+전체	KO
+नई	HI
+उपलब्ध	HI
+pluginviews	HI
+포함됨	KO
+हैं	HI
+
+창문	KO
+की	HI
+키는	KO
+
+창문	KO
+की	HI
+고도	KO
+का	HI
+가치관	KO
+.	HI
+
+hotkey	HI
+합성	KO
+
+संबंधित	HI
+행동	KO
+के	HI
+लिए	HI
+hotkey	HI
+합성	KO
+.	HI
+
+प्रारंभः	HI
+0	HI
+
+डिफ़ॉल्ट	HI
+गनोम	HI
+प्रसंग	HI
+
+아님	KO
+굽기	KO
+
+नहीं	HI
+읽기	KO
+
+달라	KO
+प्रकार	HI
+के	HI
+सॉलिटेयर	HI
+खेल	HI
+खेलें	HI
+
+सोलिटेयर	HI
+.	HI
+나뭇잎	KO
+.	HI
+क्लोंडाइक	HI
+.	HI
+스파이더	KO
+.	HI
+FreeCell	HI
+.	HI
+인내	KO
+.	HI
+
+테마	KO
+파일	KO
+이름	KO
+
+पत्तों	HI
+हेतु	HI
+ग्राफ़िक्स	HI
+포함	KO
+파일	KO
+का	HI
+이름	KO
+.	HI
+
+기기	KO
+-	HI
+패티	KO
+표시	KO
+या	HI
+नहीं	HI
+
+포지션	KO
+-	HI
+패티	KO
+दिखाएँ	HI
+या	HI
+아님	KO
+
+नियंत्रण	HI
+की	HI
+스타일	KO
+का	HI
+선택	KO
+toc	KO
+
+चुनें	HI
+कि	HI
+कार्ड	HI
+खींचना	HI
+है	HI
+या	HI
+목적지는	KO
+के	HI
+대신에	KO
+श्रोत	HI
+पर	HI
+클릭	KO
+करना	HI
+है	HI
+.	HI
+
+घटनाओं	HI
+हेतु	HI
+사운드	KO
+बजाएँ	HI
+या	HI
+아님	KO
+.	HI
+
+카드	KO
+चालों	HI
+में	HI
+애니메이션	KO
+사용법	KO
+toc	KO
+या	HI
+아님	KO
+.	HI
+
+플레이	KO
+파일	KO
+사용량	KO
+में	HI
+
+प्रसंग	HI
+파일	KO
+का	HI
+नाम	HI
+जिसमें	HI
+खेला	HI
+जाने	HI
+वाला	HI
+सॉलिटेयर	HI
+스포츠	KO
+है	HI
+.	HI
+
+게임	KO
+पुनः	HI
+스타트업	KO
+toc	KO
+
+문자열	KO
+की	HI
+리스트	KO
+who	KO
+पांच	HI
+गुने	HI
+양식	KO
+में	HI
+आता	HI
+हैः	HI
+name	HI
+,	HI
+wins	HI
+,	HI
+total	HI
+games	HI
+played	HI
+,	HI
+best	HI
+time	HI
+(	HI
+सेकेंड	HI
+में	HI
+)	HI
+그리고	KO
+worst	HI
+time	HI
+(	HI
+두번째	KO
+में	HI
+ही	HI
+)	HI
+.	HI
+아님	KO
+खेला	HI
+गया	HI
+खेल	HI
+표시됨	KO
+아님	KO
+जा	HI
+सकता	HI
+.	HI
+
+최근	KO
+में	HI
+खेले	HI
+플레이	KO
+के	HI
+이름	KO
+
+हाल	HI
+में	HI
+खेले	HI
+gone	KO
+연주	KO
+के	HI
+이름	KO
+.	HI
+
+नया	HI
+스포츠	KO
+
+खेल	HI
+교체	KO
+
+एस्लेरियॉट	HI
+के	HI
+बारे	HI
+में	HI
+
+스포츠	KO
+선택	KO
+
+선택	KO
+(	HI
+_	HI
+S	HI
+)	HI
+
+नया	HI
+게임	KO
+(	HI
+_	HI
+N	HI
+)	HI
+
+이동	KO
+그렇다면	KO
+चलें	HI
+(	HI
+_	HI
+R	HI
+)	HI
+Reset	HI
+
+पुनःआरंभ	HI
+toc	KO
+(	HI
+_	HI
+R	HI
+)	HI
+
+움직임	KO
+뒤에	KO
+लें	HI
+(	HI
+_	HI
+U	HI
+)	HI
+
+डील	HI
+(	HI
+_	HI
+D	HI
+)	HI
+
+완료	KO
+화면	KO
+버리기	KO
+(	HI
+_	HI
+L	HI
+)	HI
+
+ठहरें	HI
+(	HI
+_	HI
+P	HI
+)	HI
+
+%	HI
+s	HI
+मुफ़्त	HI
+소프트웨어	KO
+है	HI
+.	HI
+इसे	HI
+당신	KO
+मुफ़्त	HI
+소프트웨어	KO
+फाउण्डेशन	HI
+द्वारा	HI
+출판	KO
+gnu	KO
+일반	KO
+포크	KO
+라이센스	KO
+के	HI
+तहत	HI
+배포	KO
+세금	KO
+सकते	HI
+हैं	HI
+या	HI
+परिवर्धित	HI
+세금	KO
+सकते	HI
+हैं	HI
+.	HI
+라이선스	KO
+के	HI
+%	HI
+d	HI
+संस्करण	HI
+या	HI
+इसके	HI
+(	HI
+소유	KO
+대안	KO
+अनुसार	HI
+)	HI
+나중에	KO
+के	HI
+संस्करण	HI
+के	HI
+तहत	HI
+.	HI
+
+इस	HI
+이벤트	KO
+के	HI
+साथ	HI
+당신은	KO
+ग्नू	HI
+-	HI
+जनरल	HI
+민속	KO
+디자이너가	KO
+की	HI
+प्रतिलिपि	HI
+मिलनी	HI
+चाहिए	HI
+.	HI
+यदि	HI
+नहीं	HI
+तो	HI
+시계	KO
+.	HI
+slot	HI
+type	HI
+
+%	HI
+s	HI
+आरक्षितstockslot	HI
+hint	HI
+
+%	HI
+s	HI
+재고	KO
+परtableauslot	HI
+hint	HI
+
+%	HI
+s	HI
+झांकी	HI
+परwasteslot	HI
+hint	HI
+
+%	HI
+s	HI
+폐기물	KO
+पर	HI
+
+이거	KO
+연주	KO
+में	HI
+지금	KO
+तक	HI
+कोई	HI
+संकेत	HI
+지지	KO
+उपलब्ध	HI
+아님	KO
+है	HI
+.	HI
+
+%	HI
+s	HI
+खिसकाएँ	HI
+%	HI
+s	HI
+पर	HI
+.	HI
+
+이거	KO
+게임	KO
+कोई	HI
+संकेत	HI
+उपलब्ध	HI
+कराने	HI
+में	HI
+असमर्थ	HI
+है	HI
+.	HI
+
+आंट	HI
+मेरी	HI
+
+बेकर्स	HI
+놀기	KO
+
+맥주	KO
+रिवर	HI
+
+सताने	HI
+वाला	HI
+요새	KO
+
+다이아몬드	KO
+खदान	HI
+
+퍼스트	KO
+규칙	KO
+
+마흔	KO
+도둑	KO
+
+게이	KO
+गोरडोन्स	HI
+
+황금	KO
+खदान	HI
+
+किंग	HI
+타겟	KO
+
+क्लॉन्डिके	HI
+तीन	HI
+갑판	KO
+
+나폴레옹	KO
+무덤	KO
+
+로얄	KO
+이스트	KO
+
+거미	KO
+तीन	HI
+갑판	KO
+
+다이렉트	KO
+ऊपर	HI
+
+길거리	KO
+그리고	KO
+चौबारा	HI
+
+엄지	KO
+और	HI
+पॉकेट	HI
+
+विल	HI
+औ	HI
+द	HI
+विस्प	HI
+
+클럽	KO
+का	HI
+ace	KO
+
+클럽	KO
+की	HI
+दुक्की	HI
+
+클럽	KO
+की	HI
+तिक्की	HI
+
+클럽	KO
+का	HI
+चौवा	HI
+
+चिड़ी	HI
+का	HI
+पंजा	HI
+
+चिड़ी	HI
+का	HI
+여섯	KO
+
+चिड़ी	HI
+का	HI
+सत्ता	HI
+
+चिड़ी	HI
+का	HI
+अट्ठा	HI
+
+클럽	KO
+का	HI
+아홉	KO
+
+चिड़ी	HI
+का	HI
+दहला	HI
+
+클럽	KO
+का	HI
+गुलाम	HI
+
+클럽	KO
+की	HI
+बेगम	HI
+
+클럽	KO
+का	HI
+बादशाह	HI
+
+벽돌	KO
+का	HI
+ace	KO
+
+브릭	KO
+का	HI
+दुक्का	HI
+
+다이아몬드	KO
+की	HI
+तिक्की	HI
+
+diamonds	KO
+का	HI
+चव्वा	HI
+
+diamonds	KO
+का	HI
+पंजा	HI
+
+ईंट	HI
+का	HI
+여섯	KO
+
+벽돌	KO
+का	HI
+सत्ता	HI
+
+ईंट	HI
+का	HI
+अट्ठा	HI
+
+다이아몬드	KO
+का	HI
+नहला	HI
+
+diamonds	KO
+का	HI
+दहला	HI
+
+diamonds	KO
+का	HI
+गुलाम	HI
+
+벽돌	KO
+की	HI
+बेगम	HI
+
+벽돌	KO
+का	HI
+बादशाह	HI
+
+빨강	KO
+पान	HI
+का	HI
+ace	KO
+
+लाल	HI
+पान	HI
+का	HI
+दुक्का	HI
+
+लाल	HI
+पान	HI
+की	HI
+तिक्की	HI
+
+लाल	HI
+पान	HI
+का	HI
+चव्वा	HI
+
+레드	KO
+पान	HI
+का	HI
+पंजा	HI
+
+लाल	HI
+पान	HI
+का	HI
+छक्का	HI
+
+빨간색	KO
+पान	HI
+का	HI
+अट्ठा	HI
+
+लाल	HI
+पान	HI
+का	HI
+नहला	HI
+
+लाल	HI
+पान	HI
+का	HI
+दहला	HI
+
+빨강	KO
+पान	HI
+का	HI
+गुलाम	HI
+
+빨강	KO
+पान	HI
+की	HI
+बेगम	HI
+
+लाल	HI
+पान	HI
+का	HI
+बादशाह	HI
+
+스페이드	KO
+की	HI
+बेगम	HI
+
+검은색	KO
+젝스키스	KO
+
+붉은색	KO
+광대가	KO
+
+지지	KO
+फ़ाइल	HI
+“	HI
+%	HI
+s	HI
+.	HI
+%	HI
+s	HI
+”	HI
+아님	KO
+찾았습니다	KO
+
+“	HI
+%	HI
+s	HI
+”	HI
+के	HI
+लिए	HI
+지지	KO
+아님	KO
+दिखा	HI
+सका	HI
+
+क्या	HI
+विंडो	HI
+주로	KO
+대형	KO
+사이즈	KO
+का	HI
+होना	HI
+चाहिए	HI
+
+क्या	HI
+창문	KO
+완벽한	KO
+화면	KO
+है	HI
+
+창문	KO
+ऊंचाई	HI
+
+गनोम	HI
+सॉलिटेयर	HI
+
+सॉलिटेयर	HI
+के	HI
+बारे	HI
+में	HI
+
+खेलने	HI
+के	HI
+लिये	HI
+스포츠	KO
+선택하기	KO
+
+लागू	HI
+아님	KO
+
+बधाई	HI
+,	HI
+귀하	KO
+जीत	HI
+गए	HI
+!	HI
+
+कोई	HI
+चाल	HI
+남음	KO
+아님	KO
+
+카드	KO
+के	HI
+खेलः	HI
+
+카드	KO
+थीमः	HI
+
+एस्लेरियॉट	HI
+के	HI
+बारे	HI
+में	HI
+
+एसलिरियोट	HI
+하나	KO
+नियम	HI
+기반	KO
+सॉलिटेयर	HI
+카드	KO
+엔진	KO
+देता	HI
+है	HI
+who	KO
+여러개	KO
+분수	KO
+게임	KO
+खेलने	HI
+के	HI
+लिए	HI
+허락	KO
+देता	HI
+है	HI
+.	HI
+
+ग्नोम	HI
+스포츠	KO
+वेबसाइट	HI
+
+खेलें	HI
+“	HI
+%	HI
+s	HI
+”	HI
+
+कार्ड	HI
+테마	KO
+“	HI
+%	HI
+s	HI
+”	HI
+के	HI
+함께	KO
+कार्ड	HI
+보이기	KO
+
+플랜	KO
+예외	KO
+생성	KO
+हुआ	HI
+
+डेवलेपर	HI
+को	HI
+이거	KO
+버그	KO
+को	HI
+보고서	KO
+toc	KO
+.	HI
+
+투표	KO
+रिपोर्ट	HI
+toc	KO
+(	HI
+_	HI
+D	HI
+)	HI
+
+신고	KO
+toc	KO
+(	HI
+_	HI
+R	HI
+)	HI
+
+게임	KO
+(	HI
+_	HI
+G	HI
+)	HI
+
+시계	KO
+(	HI
+_	HI
+V	HI
+)	HI
+
+제어	KO
+(	HI
+_	HI
+C	HI
+)	HI
+
+지지	KO
+(	HI
+_	HI
+H	HI
+)	HI
+
+하나	KO
+नया	HI
+연주	KO
+प्रारंभ	HI
+करें	HI
+
+존재	KO
+연주	KO
+पुनःप्रारंभ	HI
+toc	KO
+
+연주	KO
+선택	KO
+.	HI
+.	HI
+.	HI
+(	HI
+_	HI
+S	HI
+)	HI
+
+भिन्न	HI
+친절한	KO
+스포츠	KO
+खेलें	HI
+
+최근	KO
+में	HI
+खेला	HI
+गया	HI
+(	HI
+_	HI
+R	HI
+)	HI
+
+खेल	HI
+통계학	KO
+दिखायें	HI
+
+इस	HI
+창문	KO
+को	HI
+बन्द	HI
+toc	KO
+
+पिछली	HI
+이동	KO
+पूर्ववत	HI
+करें	HI
+
+पिछली	HI
+트릭	KO
+पूर्ववत	HI
+करें	HI
+
+넥스트	KO
+카드	KO
+या	HI
+कार्ड्स	HI
+की	HI
+거래	KO
+toc	KO
+
+अगली	HI
+चाल	HI
+हेतु	HI
+힌트	KO
+받기	KO
+toc	KO
+
+एस्लेरियाट	HI
+के	HI
+लिये	HI
+원조	KO
+보기	KO
+
+이거	KO
+스포츠	KO
+के	HI
+लिये	HI
+원조	KO
+दिखायें	HI
+
+इस	HI
+게임	KO
+के	HI
+बारे	HI
+में	HI
+
+카드	KO
+प्रसंग	HI
+इंस्टाल	HI
+toc	KO
+.	HI
+.	HI
+.	HI
+
+게재	KO
+패키지	KO
+रिपोसिटरीज़	HI
+출신	KO
+नए	HI
+카드	KO
+경기	KO
+प्रसंग	HI
+설치됨	KO
+toc	KO
+
+장치	KO
+-	HI
+패티	KO
+(	HI
+_	HI
+T	HI
+)	HI
+
+장치	KO
+-	HI
+패티	KO
+숨기기	KO
+या	HI
+보이기	KO
+
+디바이스	KO
+-	HI
+패티	KO
+숨기기	KO
+या	HI
+공연	KO
+
+बढ़ने	HI
+के	HI
+लिये	HI
+क्लिक	HI
+toc	KO
+(	HI
+_	HI
+C	HI
+)	HI
+
+클릭	KO
+करके	HI
+카드	KO
+ले	HI
+या	HI
+छोड़ें	HI
+
+소리	KO
+(	HI
+_	HI
+S	HI
+)	HI
+
+घटनाओं	HI
+हेतु	HI
+소리	KO
+बजाएँ	HI
+या	HI
+아님	KO
+.	HI
+
+애니메이션	KO
+(	HI
+_	HI
+A	HI
+)	HI
+
+카드	KO
+चालों	HI
+में	HI
+एनीमेशन	HI
+사용	KO
+toc	KO
+या	HI
+아님	KO
+
+“	HI
+%	HI
+s	HI
+”	HI
+플레이	KO
+आरंभ	HI
+नहीं	HI
+납세	KO
+सका	HI
+
+Aisleriot	HI
+주소	KO
+아님	KO
+세금	KO
+सका	HI
+कि	HI
+आपने	HI
+who	KO
+सा	HI
+연주	KO
+अंतिम	HI
+타임스	KO
+받았습니다	KO
+완료	KO
+.	HI
+
+이거	KO
+प्रायः	HI
+होता	HI
+है	HI
+언제	KO
+당신은	KO
+एसलिरियोट	HI
+के	HI
+늙은	KO
+버전	KO
+को	HI
+चलाते	HI
+हैं	HI
+जिसने	HI
+경기	KO
+नहीं	HI
+खेला	HI
+है	HI
+who	KO
+당신은	KO
+라스트	KO
+में	HI
+खेले	HI
+हैं	HI
+.	HI
+기본값	KO
+게임	KO
+,	HI
+Klondike	HI
+,	HI
+बदले	HI
+में	HI
+आरंभ	HI
+हो	HI
+रहा	HI
+है	HI
+.	HI
+
+베이스	KO
+पत्ताः	HI
+~	HI
+a	HI
+
+베이스	KO
+पत्ताः	HI
+ace	KO
+
+배스	KO
+पत्ताः	HI
+광대가	KO
+
+근거	KO
+पत्ताः	HI
+रानी	HI
+
+आधार	HI
+पत्ताः	HI
+बादशाह	HI
+
+बचा	HI
+मालः	HI
+
+बचा	HI
+मालः	HI
+0	HI
+
+그리고	KO
+카드	KO
+बांटें	HI
+
+ताश	HI
+को	HI
+그때	KO
+출신	KO
+जमाने	HI
+की	HI
+कोशिश	HI
+करें	HI
+
+익명	KO
+색상	KO
+
+블랙	KO
+광대	KO
+
+레즈	KO
+광대가	KO
+
+클럽	KO
+का	HI
+ace	KO
+
+클럽	KO
+की	HI
+दुक्की	HI
+
+चिड़ी	HI
+की	HI
+तिक्की	HI
+
+클럽	KO
+का	HI
+चौवा	HI
+
+클럽	KO
+का	HI
+पंजा	HI
+
+चिड़ी	HI
+का	HI
+여섯	KO
+
+클럽	KO
+का	HI
+सत्ता	HI
+
+클럽	KO
+का	HI
+अट्ठा	HI
+
+클럽	KO
+का	HI
+아홉	KO
+
+클럽	KO
+का	HI
+दहला	HI
+
+클럽	KO
+का	HI
+गुलाम	HI
+
+클럽	KO
+की	HI
+बेगम	HI
+
+클럽	KO
+का	HI
+बादशाह	HI
+
+스페이드	KO
+की	HI
+बेगम	HI
+
+레드	KO
+पान	HI
+का	HI
+에이스	KO
+
+लाल	HI
+पान	HI
+का	HI
+दुक्का	HI
+
+빨간색	KO
+पान	HI
+की	HI
+तिक्की	HI
+
+붉은	KO
+पान	HI
+का	HI
+चव्वा	HI
+
+붉은	KO
+पान	HI
+का	HI
+पंजा	HI
+
+붉은	KO
+पान	HI
+का	HI
+छक्का	HI
+
+빨간색	KO
+पान	HI
+का	HI
+अट्ठा	HI
+
+빨강	KO
+पान	HI
+का	HI
+नहला	HI
+
+레드	KO
+पान	HI
+का	HI
+दहला	HI
+
+लाल	HI
+पान	HI
+का	HI
+गुलाम	HI
+
+붉은	KO
+पान	HI
+की	HI
+बेगम	HI
+
+빨간색	KO
+पान	HI
+का	HI
+बादशाह	HI
+
+ईंट	HI
+का	HI
+에이스	KO
+
+ईंट	HI
+का	HI
+दुक्का	HI
+
+ईंट	HI
+की	HI
+तिक्की	HI
+
+다이아몬드	KO
+का	HI
+चव्वा	HI
+
+diamonds	KO
+का	HI
+पंजा	HI
+
+diamonds	KO
+का	HI
+여섯	KO
+
+ईंट	HI
+का	HI
+सत्ता	HI
+
+ईंट	HI
+का	HI
+अट्ठा	HI
+
+브릭	KO
+का	HI
+아홉	KO
+
+브릭	KO
+का	HI
+दहला	HI
+
+벽돌	KO
+का	HI
+गुलाम	HI
+
+브릭	KO
+की	HI
+बेगम	HI
+
+벽돌	KO
+का	HI
+बादशाह	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+आधार	HI
+पर	HI
+take	KO
+जाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+비어	KO
+기초	KO
+में	HI
+ले	HI
+जाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+खाली	HI
+사진	KO
+खाँचा	HI
+पर	HI
+take	KO
+जाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+एक	HI
+비어	KO
+이미지	KO
+खाँचा	HI
+पर	HI
+take	KO
+जाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+एक	HI
+안전	KO
+खाँचा	HI
+पर	HI
+take	KO
+जाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+एक	HI
+보안	KO
+खाँचा	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+비어	KO
+बढ़त	HI
+슬롯	KO
+में	HI
+take	KO
+जाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+비어	KO
+코너	KO
+स्लॉट	HI
+में	HI
+take	KO
+जाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+एक	HI
+비어	KO
+top	KO
+슬롯	KO
+में	HI
+take	KO
+जाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+एक	HI
+비어	KO
+नीचे	HI
+슬롯	KO
+में	HI
+take	KO
+जाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+비어	KO
+बाएं	HI
+슬롯	KO
+में	HI
+ले	HI
+जाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+비어	KO
+दाएँ	HI
+슬롯	KO
+में	HI
+take	KO
+जाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+비어	KO
+슬롯	KO
+में	HI
+ले	HI
+जाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+검정색	KO
+जोकर	HI
+पर	HI
+take	KO
+जाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+붉은색	KO
+광대가	KO
+पर	HI
+take	KO
+जाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+클럽	KO
+का	HI
+ace	KO
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+एक	HI
+क्लब	HI
+का	HI
+둘다	KO
+पर	HI
+ले	HI
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+클럽	KO
+की	HI
+तिक्की	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+클럽	KO
+का	HI
+चौवा	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+클럽	KO
+का	HI
+पंजा	HI
+पर	HI
+ले	HI
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+चिड़ी	HI
+का	HI
+여섯	KO
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+클럽	KO
+का	HI
+सत्ता	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+클럽	KO
+का	HI
+अट्ठा	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+चिड़ी	HI
+का	HI
+아홉	KO
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+클럽	KO
+का	HI
+दहला	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+클럽	KO
+का	HI
+गुलाम	HI
+पर	HI
+ले	HI
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+클럽	KO
+की	HI
+बेगम	HI
+पर	HI
+ले	HI
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+클럽	KO
+का	HI
+बादशाह	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+익명	KO
+나뭇잎	KO
+출신	KO
+밖에서	KO
+ले	HI
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+스페이드	KO
+का	HI
+ace	KO
+पर	HI
+ले	HI
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+스페이드	KO
+का	HI
+दुक्का	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+스페이드	KO
+की	HI
+तिक्की	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+스페이드	KO
+का	HI
+चव्वा	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+스페이드	KO
+का	HI
+पंजा	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+스페이드	KO
+का	HI
+여섯	KO
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+हुकुम	HI
+का	HI
+सत्ता	HI
+पर	HI
+ले	HI
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+스페이드	KO
+का	HI
+अट्ठा	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+스페이드	KO
+का	HI
+아홉	KO
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+스페이드	KO
+का	HI
+दहला	HI
+पर	HI
+ले	HI
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+스페이드	KO
+का	HI
+गुलाम	HI
+पर	HI
+ले	HI
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+스페이드	KO
+की	HI
+बेगम	HI
+पर	HI
+ले	HI
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+스페이드	KO
+का	HI
+बादशाह	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+एक	HI
+लाल	HI
+पान	HI
+का	HI
+इक्का	HI
+पर	HI
+ले	HI
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+붉은	KO
+पान	HI
+का	HI
+दुक्का	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+लाल	HI
+पान	HI
+की	HI
+तिक्की	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+빨간색	KO
+पान	HI
+का	HI
+चव्वा	HI
+पर	HI
+ले	HI
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+레즈	KO
+पान	HI
+का	HI
+पंजा	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+एक	HI
+빨강	KO
+पान	HI
+का	HI
+여섯	KO
+पर	HI
+ले	HI
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+लाल	HI
+पान	HI
+का	HI
+सत्ता	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+레드	KO
+पान	HI
+का	HI
+अट्ठा	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+एक	HI
+붉은	KO
+पान	HI
+का	HI
+아홉	KO
+पर	HI
+ले	HI
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+एक	HI
+레드	KO
+पान	HI
+का	HI
+दहला	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+एक	HI
+레즈	KO
+पान	HI
+का	HI
+गुलाम	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+एक	HI
+레드	KO
+पान	HI
+की	HI
+बेगम	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+एक	HI
+빨간색	KO
+पान	HI
+का	HI
+बादशाह	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+diamonds	KO
+का	HI
+इक्का	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+ईंट	HI
+का	HI
+दुक्का	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+다이아몬드	KO
+की	HI
+तिक्की	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+다이아몬드	KO
+का	HI
+चव्वा	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+एक	HI
+다이아몬드	KO
+का	HI
+पंजा	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+diamonds	KO
+का	HI
+여섯	KO
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+एक	HI
+ईंट	HI
+का	HI
+सत्ता	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+벽돌	KO
+का	HI
+अट्ठा	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+벽돌	KO
+का	HI
+아홉	KO
+पर	HI
+take	KO
+जाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+एक	HI
+다이아몬드	KO
+का	HI
+दहला	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+एक	HI
+diamonds	KO
+का	HI
+गुलाम	HI
+पर	HI
+ले	HI
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+एक	HI
+벽돌	KO
+की	HI
+बेगम	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+브릭	KO
+का	HI
+बादशाह	HI
+पर	HI
+ले	HI
+जाएँ	HI
+
+검정	KO
+광대가	KO
+
+레드	KO
+광대	KO
+
+클럽	KO
+का	HI
+दहला	HI
+हटाएँ	HI
+.	HI
+
+클럽	KO
+का	HI
+दहला	HI
+삭제하기	KO
+.	HI
+
+클럽	KO
+का	HI
+दहला	HI
+지우기	KO
+.	HI
+
+चिड़ी	HI
+का	HI
+दहला	HI
+지우기	KO
+.	HI
+
+चिड़ी	HI
+का	HI
+दहला	HI
+지우기	KO
+.	HI
+
+चिड़ी	HI
+का	HI
+बादशाह	HI
+삭제	KO
+.	HI
+
+클럽	KO
+का	HI
+दहला	HI
+हटाएँ	HI
+.	HI
+
+클럽	KO
+का	HI
+बादशाह	HI
+हटाएँ	HI
+.	HI
+
+클럽	KO
+का	HI
+बादशाह	HI
+हटाएँ	HI
+.	HI
+
+클럽	KO
+का	HI
+दहला	HI
+삭제	KO
+.	HI
+
+चिड़ी	HI
+का	HI
+बादशाह	HI
+हटाएँ	HI
+.	HI
+
+클럽	KO
+का	HI
+दहला	HI
+지우기	KO
+.	HI
+
+클럽	KO
+का	HI
+बादशाह	HI
+삭제	KO
+.	HI
+
+스페이드	KO
+का	HI
+दहला	HI
+지우기	KO
+.	HI
+
+스페이드	KO
+का	HI
+दहला	HI
+지우기	KO
+.	HI
+
+스페이드	KO
+का	HI
+दहला	HI
+삭제	KO
+.	HI
+
+हुकुम	HI
+का	HI
+दहला	HI
+삭제	KO
+.	HI
+
+스페이드	KO
+का	HI
+दहला	HI
+हटाएँ	HI
+.	HI
+
+스페이드	KO
+का	HI
+बादशाह	HI
+삭제하기	KO
+.	HI
+
+스페이드	KO
+का	HI
+दहला	HI
+삭제하기	KO
+.	HI
+
+스페이드	KO
+का	HI
+बादशाह	HI
+제거	KO
+.	HI
+
+스페이드	KO
+का	HI
+बादशाह	HI
+हटाएँ	HI
+.	HI
+
+हुकुम	HI
+का	HI
+दहला	HI
+삭제하기	KO
+.	HI
+
+스페이드	KO
+का	HI
+बादशाह	HI
+지우기	KO
+.	HI
+
+스페이드	KO
+का	HI
+दहला	HI
+삭제하기	KO
+.	HI
+
+스페이드	KO
+का	HI
+बादशाह	HI
+삭제하기	KO
+.	HI
+
+붉은	KO
+पान	HI
+का	HI
+दहला	HI
+지우기	KO
+.	HI
+
+लाल	HI
+पान	HI
+का	HI
+दहला	HI
+हटाएँ	HI
+.	HI
+
+붉은색	KO
+पान	HI
+का	HI
+दहला	HI
+지우기	KO
+.	HI
+
+빨강	KO
+पान	HI
+का	HI
+दहला	HI
+지우기	KO
+.	HI
+
+लाल	HI
+पान	HI
+का	HI
+दहला	HI
+삭제	KO
+.	HI
+
+빨간색	KO
+पान	HI
+का	HI
+बादशाह	HI
+지우기	KO
+.	HI
+
+붉은색	KO
+पान	HI
+का	HI
+दहला	HI
+हटाएँ	HI
+.	HI
+
+लाल	HI
+पान	HI
+का	HI
+बादशाह	HI
+삭제	KO
+.	HI
+
+붉은	KO
+पान	HI
+का	HI
+बादशाह	HI
+지우기	KO
+.	HI
+
+레드	KO
+पान	HI
+का	HI
+दहला	HI
+삭제	KO
+.	HI
+
+레즈	KO
+पान	HI
+का	HI
+बादशाह	HI
+삭제	KO
+.	HI
+
+레즈	KO
+पान	HI
+का	HI
+दहला	HI
+지우기	KO
+.	HI
+
+लाल	HI
+पान	HI
+का	HI
+बादशाह	HI
+삭제하기	KO
+.	HI
+
+diamonds	KO
+का	HI
+दहला	HI
+हटाएँ	HI
+.	HI
+
+다이아몬드	KO
+का	HI
+दहला	HI
+삭제하기	KO
+.	HI
+
+브릭	KO
+का	HI
+दहला	HI
+삭제하기	KO
+.	HI
+
+벽돌	KO
+का	HI
+दहला	HI
+삭제	KO
+.	HI
+
+브릭	KO
+का	HI
+दहला	HI
+삭제하기	KO
+.	HI
+
+ईंट	HI
+का	HI
+बादशाह	HI
+삭제	KO
+.	HI
+
+다이아몬드	KO
+का	HI
+दहला	HI
+지우기	KO
+.	HI
+
+다이아몬드	KO
+का	HI
+बादशाह	HI
+제거	KO
+.	HI
+
+다이아몬드	KO
+का	HI
+बादशाह	HI
+삭제하기	KO
+.	HI
+
+ईंट	HI
+का	HI
+दहला	HI
+हटाएँ	HI
+.	HI
+
+ईंट	HI
+का	HI
+बादशाह	HI
+제거	KO
+.	HI
+
+diamonds	KO
+का	HI
+दहला	HI
+삭제하기	KO
+.	HI
+
+다이아몬드	KO
+का	HI
+बादशाह	HI
+지우기	KO
+.	HI
+
+तीन	HI
+잎새	KO
+बांटें	HI
+
+하나	KO
+원형	KO
+और	HI
+चलें	HI
+
+카드	KO
+बांटना	HI
+बाकीः	HI
+
+갑판	KO
+में	HI
+출신	KO
+नया	HI
+पत्ता	HI
+चलें	HI
+
+근거	KO
+पत्ताः	HI
+
+दाएं	HI
+बाजू	HI
+के	HI
+비어	KO
+स्थान	HI
+पर	HI
+something	KO
+take	KO
+जाएँ	HI
+
+엑스트라	KO
+बाकीः	HI
+
+बेकार	HI
+को	HI
+भण्डार	HI
+में	HI
+वापस	HI
+ले	HI
+जाएँ	HI
+
+전제	KO
+पर	HI
+하나	KO
+리프	KO
+take	KO
+जाएँ	HI
+
+누군가	KO
+वस्तु	HI
+को	HI
+사진들	KO
+के	HI
+비어	KO
+खाँचे	HI
+में	HI
+take	KO
+जाएँ	HI
+
+그냥	KO
+इसलिए	HI
+कि	HI
+हापस्काच	HI
+보드	KO
+पारपथ	HI
+जैसे	HI
+दिखता	HI
+है	HI
+,	HI
+इसका	HI
+평균	KO
+이거	KO
+नहीं	HI
+कि	HI
+वह	HI
+선례	KO
+है	HI
+
+언제쯤	KO
+당신은	KO
+도로	KO
+십자	KO
+करें	HI
+,	HI
+तो	HI
+둘다	KO
+측면	KO
+조회	KO
+
+क्या	HI
+आपने	HI
+원조	KO
+फ़ाइल	HI
+पढ़	HI
+ली	HI
+है	HI
+?	HI
+
+ओडेसा	HI
+하나	KO
+बढ़िया	HI
+연주	KO
+है	HI
+.	HI
+진리	KO
+में	HI
+.	HI
+
+언제	KO
+तक	HI
+무거운	KO
+आपात्	HI
+직위	KO
+न	HI
+हो	HI
+,	HI
+피피	KO
+-	HI
+बन्ध	HI
+की	HI
+सिफारिश	HI
+नहीं	HI
+की	HI
+जाती	HI
+
+लगता	HI
+है	HI
+मुझे	HI
+즉시	KO
+소유	KO
+पीठ	HI
+खुजानी	HI
+पड़ेगी	HI
+.	HI
+.	HI
+.	HI
+
+햇볕	KO
+किरणें	HI
+귀하	KO
+विटामिन	HI
+डी	HI
+देती	HI
+हैं	HI
+,	HI
+कम्प्यूटरों	HI
+के	HI
+मॉनीटर्स	HI
+아님	KO
+.	HI
+.	HI
+.	HI
+
+यदि	HI
+당신은	KO
+कभी	HI
+जंगल	HI
+में	HI
+단일	KO
+गुम	HI
+हो	HI
+जाएँ	HI
+,	HI
+तो	HI
+누군가	KO
+트리	KO
+के	HI
+आगोश	HI
+में	HI
+जाएँ	HI
+
+피쉬	KO
+पकड़ने	HI
+के	HI
+तांत	HI
+출신	KO
+소유	KO
+दांत	HI
+साफ	HI
+मत	HI
+करिए	HI
+
+호환성	KO
+ही	HI
+कुंजी	HI
+है	HI
+
+언제쯤	KO
+사업가	KO
+न	HI
+हो	HI
+तो	HI
+हाट	HI
+그리고	KO
+척도	KO
+भी	HI
+वह	HI
+काम	HI
+करते	HI
+हैं	HI
+
+개그	KO
+के	HI
+कान	HI
+में	HI
+कभी	HI
+휘파람	KO
+아님	KO
+बजाएँ	HI
+
+왼쪽	KO
+ताशः	HI
+~	HI
+a	HI
+
+एक	HI
+에이스	KO
+को	HI
+당신	KO
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+एक	HI
+दुक्की	HI
+को	HI
+आप	HI
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+하나	KO
+तिक्की	HI
+को	HI
+당신은	KO
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+하나	KO
+चव्वा	HI
+को	HI
+आप	HI
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+एक	HI
+पंजा	HI
+को	HI
+당신은	KO
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+एक	HI
+여섯	KO
+को	HI
+आप	HI
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+एक	HI
+सत्ता	HI
+को	HI
+당신은	KO
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+एक	HI
+अट्ठा	HI
+को	HI
+귀하	KO
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+एक	HI
+아홉	KO
+को	HI
+당신은	KO
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+하나	KO
+दहला	HI
+को	HI
+귀하	KO
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+하나	KO
+गुलाम	HI
+को	HI
+귀하	KO
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+하나	KO
+बेगम	HI
+को	HI
+당신	KO
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+하나	KO
+बादशाह	HI
+को	HI
+आप	HI
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+익명	KO
+मान	HI
+
+하나	KO
+पत्ता	HI
+बांटें	HI
+
+비어	KO
+픽사	KO
+खाँचा	HI
+पर	HI
+बादशाह	HI
+को	HI
+take	KO
+जाएँ	HI
+.	HI
+
+कोई	HI
+기호	KO
+지금	KO
+उपलब्ध	HI
+아님	KO
+है	HI
+
+비어	KO
+बची	HI
+엑스트라	KO
+जगह	HI
+पर	HI
+뭔가	KO
+ले	HI
+जाएँ	HI
+
+여섯	KO
+मूलाधार	HI
+
+다섯	KO
+मूलाधार	HI
+
+चार	HI
+मूलाधार	HI
+
+기저	KO
+पर	HI
+하나	KO
+패티	KO
+take	KO
+जाएँ	HI
+.	HI
+
+कोई	HI
+속임수	KO
+नहीं	HI
+.	HI
+
+ace	KO
+मिटाएँ	HI
+
+दुक्की	HI
+मिटाएँ	HI
+
+तिक्की	HI
+मिटाएँ	HI
+
+पंजा	HI
+मिटाएँ	HI
+
+여섯	KO
+मिटाएँ	HI
+
+सत्ता	HI
+मिटाएँ	HI
+
+अट्ठा	HI
+मिटाएँ	HI
+
+아홉	KO
+मिटाएँ	HI
+
+दहला	HI
+मिटाएँ	HI
+
+광대	KO
+मिटाएँ	HI
+
+बेगम	HI
+मिटाएँ	HI
+
+बादशाह	HI
+मिटाएँ	HI
+
+मैं	HI
+सुनिश्चित	HI
+아님	KO
+हूं	HI
+
+카드	KO
+के	HI
+पत्तों	HI
+को	HI
+ढेर	HI
+में	HI
+वापस	HI
+करें	HI
+
+누군가	KO
+वस्तु	HI
+को	HI
+비어	KO
+사진	KO
+खाँचे	HI
+में	HI
+take	KO
+जाएँ	HI
+
+비어	KO
+खाँचा	HI
+में	HI
+뭔가	KO
+take	KO
+जाने	HI
+के	HI
+बारे	HI
+में	HI
+생각	KO
+toc	KO
+
+주식	KO
+में	HI
+출신	KO
+리프	KO
+निकालें	HI
+
+कोई	HI
+moves	KO
+가능한	KO
+아님	KO
+.	HI
+वापस	HI
+take	KO
+या	HI
+그때	KO
+시작	KO
+toc	KO
+
+플레이	KO
+के	HI
+패스	KO
+कोई	HI
+해결책	KO
+아님	KO
+है	HI
+.	HI
+뒤에	KO
+ले	HI
+या	HI
+그렇다면	KO
+시작	KO
+toc	KO
+.	HI
+
+फिर	HI
+बांटने	HI
+के	HI
+लिये	HI
+누군가	KO
+카드	KO
+को	HI
+두분	KO
+बार	HI
+클릭	KO
+toc	KO
+
+कोई	HI
+संकेत	HI
+उपलब्ध	HI
+아님	KO
+है	HI
+
+पंक्ति	HI
+~	HI
+a	HI
+के	HI
+대부분	KO
+बायें	HI
+के	HI
+슬롯	KO
+में	HI
+दो	HI
+को	HI
+유지	KO
+.	HI
+
+पंक्ति	HI
+~	HI
+a	HI
+में	HI
+श्रृंखला	HI
+में	HI
+추가하기	KO
+.	HI
+
+चिड़ी	HI
+की	HI
+दुक्की	HI
+के	HI
+बगल	HI
+में	HI
+चिड़ी	HI
+के	HI
+에이스	KO
+को	HI
+रखें	HI
+.	HI
+
+클럽	KO
+की	HI
+तिक्की	HI
+के	HI
+बगल	HI
+में	HI
+चिड़ी	HI
+के	HI
+दुक्की	HI
+को	HI
+रखें	HI
+.	HI
+
+चिड़ी	HI
+की	HI
+चौवा	HI
+के	HI
+बगल	HI
+में	HI
+चिड़ी	HI
+के	HI
+तिक्की	HI
+को	HI
+유지	KO
+.	HI
+
+चिड़ी	HI
+की	HI
+चौवा	HI
+के	HI
+बगल	HI
+में	HI
+चिड़ी	HI
+के	HI
+पंजा	HI
+को	HI
+유지	KO
+.	HI
+
+चिड़ी	HI
+की	HI
+छक्का	HI
+के	HI
+बगल	HI
+में	HI
+클럽	KO
+के	HI
+पंजा	HI
+को	HI
+유지	KO
+.	HI
+
+चिड़ी	HI
+की	HI
+सत्ता	HI
+के	HI
+बगल	HI
+में	HI
+클럽	KO
+के	HI
+여섯	KO
+को	HI
+유지	KO
+.	HI
+
+클럽	KO
+की	HI
+अट्ठा	HI
+के	HI
+बगल	HI
+में	HI
+클럽	KO
+के	HI
+सत्ता	HI
+को	HI
+रखें	HI
+.	HI
+
+클럽	KO
+की	HI
+아홉	KO
+के	HI
+बगल	HI
+में	HI
+클럽	KO
+के	HI
+अट्ठा	HI
+को	HI
+유지	KO
+.	HI
+
+클럽	KO
+की	HI
+दहला	HI
+के	HI
+बगल	HI
+में	HI
+चिड़ी	HI
+के	HI
+아홉	KO
+को	HI
+रखें	HI
+.	HI
+
+चिड़ी	HI
+की	HI
+클럽	KO
+के	HI
+बगल	HI
+में	HI
+클럽	KO
+के	HI
+दहला	HI
+को	HI
+유지	KO
+.	HI
+
+클럽	KO
+की	HI
+गुलाम	HI
+के	HI
+बगल	HI
+में	HI
+클럽	KO
+के	HI
+दहला	HI
+को	HI
+유지	KO
+.	HI
+
+클럽	KO
+की	HI
+बेगम	HI
+के	HI
+बगल	HI
+में	HI
+클럽	KO
+के	HI
+वादशाह	HI
+को	HI
+유지	KO
+.	HI
+
+스페이드	KO
+की	HI
+दुक्का	HI
+के	HI
+बगल	HI
+में	HI
+스페이드	KO
+के	HI
+ace	KO
+को	HI
+유지	KO
+.	HI
+
+스페이드	KO
+की	HI
+तिक्की	HI
+के	HI
+बगल	HI
+में	HI
+스페이드	KO
+के	HI
+दुक्का	HI
+को	HI
+유지	KO
+.	HI
+
+हुकुम	HI
+की	HI
+दुक्का	HI
+के	HI
+बगल	HI
+में	HI
+스페이드	KO
+के	HI
+तिक्की	HI
+को	HI
+유지	KO
+.	HI
+
+스페이드	KO
+की	HI
+पंजा	HI
+के	HI
+बगल	HI
+में	HI
+스페이드	KO
+के	HI
+चव्वा	HI
+को	HI
+유지	KO
+.	HI
+
+스페이드	KO
+की	HI
+पंजा	HI
+के	HI
+बगल	HI
+में	HI
+스페이드	KO
+के	HI
+चव्वा	HI
+को	HI
+유지	KO
+.	HI
+
+스페이드	KO
+की	HI
+सत्ता	HI
+के	HI
+बगल	HI
+में	HI
+스페이드	KO
+के	HI
+여섯	KO
+को	HI
+유지	KO
+.	HI
+
+스페이드	KO
+की	HI
+अट्ठा	HI
+के	HI
+बगल	HI
+में	HI
+스페이드	KO
+के	HI
+सत्ता	HI
+को	HI
+유지	KO
+.	HI
+
+스페이드	KO
+की	HI
+아홉	KO
+के	HI
+बगल	HI
+में	HI
+스페이드	KO
+के	HI
+अट्ठा	HI
+को	HI
+유지	KO
+.	HI
+
+हुकुम	HI
+की	HI
+दहला	HI
+के	HI
+बगल	HI
+में	HI
+스페이드	KO
+के	HI
+아홉	KO
+को	HI
+유지	KO
+.	HI
+
+스페이드	KO
+की	HI
+गुलाम	HI
+के	HI
+बगल	HI
+में	HI
+스페이드	KO
+के	HI
+दहला	HI
+को	HI
+유지	KO
+.	HI
+
+스페이드	KO
+की	HI
+बेगम	HI
+के	HI
+बगल	HI
+में	HI
+हुकुम	HI
+के	HI
+गुलाम	HI
+को	HI
+유지	KO
+.	HI
+
+हुकुम	HI
+की	HI
+बेगम	HI
+के	HI
+बगल	HI
+में	HI
+스페이드	KO
+के	HI
+वादशाह	HI
+को	HI
+유지	KO
+
+लाल	HI
+पान	HI
+की	HI
+दुक्का	HI
+के	HI
+बगल	HI
+में	HI
+붉은색	KO
+पान	HI
+के	HI
+ace	KO
+को	HI
+रखें	HI
+.	HI
+
+레즈	KO
+पान	HI
+की	HI
+तिक्की	HI
+के	HI
+बगल	HI
+में	HI
+लाल	HI
+पान	HI
+के	HI
+दुक्का	HI
+को	HI
+유지	KO
+.	HI
+
+붉은	KO
+पान	HI
+की	HI
+चव्वा	HI
+के	HI
+बगल	HI
+में	HI
+붉은	KO
+पान	HI
+के	HI
+तिक्की	HI
+को	HI
+रखें	HI
+.	HI
+
+붉은	KO
+पान	HI
+की	HI
+पंजा	HI
+के	HI
+बगल	HI
+में	HI
+빨강	KO
+पान	HI
+के	HI
+चव्वा	HI
+को	HI
+유지	KO
+.	HI
+
+붉은색	KO
+पान	HI
+की	HI
+여섯	KO
+के	HI
+बगल	HI
+में	HI
+붉은	KO
+पान	HI
+के	HI
+पंजा	HI
+को	HI
+유지	KO
+.	HI
+
+레드	KO
+पान	HI
+की	HI
+सत्ता	HI
+के	HI
+बगल	HI
+में	HI
+빨강	KO
+पान	HI
+के	HI
+여섯	KO
+को	HI
+유지	KO
+.	HI
+
+빨강	KO
+पान	HI
+की	HI
+अट्ठा	HI
+के	HI
+बगल	HI
+में	HI
+붉은	KO
+पान	HI
+के	HI
+सत्ता	HI
+को	HI
+रखें	HI
+.	HI
+
+붉은	KO
+पान	HI
+की	HI
+아홉	KO
+के	HI
+बगल	HI
+में	HI
+붉은	KO
+पान	HI
+के	HI
+अट्ठा	HI
+को	HI
+유지	KO
+.	HI
+
+빨간색	KO
+पान	HI
+की	HI
+दहला	HI
+के	HI
+बगल	HI
+में	HI
+붉은	KO
+पान	HI
+के	HI
+नहला	HI
+को	HI
+유지	KO
+.	HI
+
+빨강	KO
+पान	HI
+की	HI
+गुलाम	HI
+के	HI
+बगल	HI
+में	HI
+레즈	KO
+पान	HI
+के	HI
+दहला	HI
+को	HI
+유지	KO
+.	HI
+
+레즈	KO
+पान	HI
+की	HI
+बेगम	HI
+के	HI
+बगल	HI
+में	HI
+लाल	HI
+पान	HI
+के	HI
+गुलाम	HI
+को	HI
+유지	KO
+.	HI
+
+붉은색	KO
+पान	HI
+की	HI
+बेगम	HI
+के	HI
+बगल	HI
+में	HI
+붉은색	KO
+पान	HI
+के	HI
+वादशाह	HI
+को	HI
+유지	KO
+.	HI
+
+벽돌	KO
+का	HI
+दुक्का	HI
+के	HI
+बगल	HI
+में	HI
+브릭	KO
+का	HI
+इक्का	HI
+को	HI
+유지	KO
+.	HI
+
+브릭	KO
+का	HI
+तिक्की	HI
+के	HI
+बगल	HI
+में	HI
+브릭	KO
+का	HI
+दुक्का	HI
+को	HI
+रखें	HI
+.	HI
+
+ईंट	HI
+का	HI
+चव्वा	HI
+के	HI
+बगल	HI
+में	HI
+ईंट	HI
+का	HI
+तिक्की	HI
+को	HI
+रखें	HI
+.	HI
+
+브릭	KO
+का	HI
+पंजा	HI
+के	HI
+बगल	HI
+में	HI
+다이아몬드	KO
+का	HI
+여섯	KO
+को	HI
+유지	KO
+.	HI
+
+벽돌	KO
+का	HI
+여섯	KO
+के	HI
+बगल	HI
+में	HI
+ईंट	HI
+का	HI
+पंजा	HI
+को	HI
+유지	KO
+.	HI
+
+diamonds	KO
+का	HI
+सत्ता	HI
+के	HI
+बगल	HI
+में	HI
+벽돌	KO
+का	HI
+छक्का	HI
+को	HI
+유지	KO
+.	HI
+
+ईंट	HI
+का	HI
+अट्ठा	HI
+के	HI
+बगल	HI
+में	HI
+브릭	KO
+का	HI
+सत्ता	HI
+को	HI
+유지	KO
+.	HI
+
+벽돌	KO
+का	HI
+नहला	HI
+के	HI
+बगल	HI
+में	HI
+브릭	KO
+का	HI
+अट्ठा	HI
+को	HI
+유지	KO
+.	HI
+
+ईंट	HI
+का	HI
+दहला	HI
+के	HI
+बगल	HI
+में	HI
+diamonds	KO
+का	HI
+아홉	KO
+को	HI
+유지	KO
+.	HI
+
+ईंट	HI
+का	HI
+गुलाम	HI
+के	HI
+बगल	HI
+में	HI
+다이아몬드	KO
+का	HI
+दहला	HI
+को	HI
+유지	KO
+.	HI
+
+diamonds	KO
+का	HI
+बेगम	HI
+के	HI
+बगल	HI
+में	HI
+다이아몬드	KO
+का	HI
+गुलाम	HI
+को	HI
+유지	KO
+.	HI
+
+브릭	KO
+की	HI
+बेगम	HI
+के	HI
+बगल	HI
+में	HI
+벽돌	KO
+के	HI
+वादशाह	HI
+को	HI
+유지	KO
+.	HI
+
+रिडील	HI
+पर	HI
+무작위	KO
+외모	KO
+출신	KO
+रखा	HI
+गैप्स	HI
+
+बायीँ	HI
+डीलः	HI
+~	HI
+a	HI
+
+पूरी	HI
+라인	KO
+फेंटें	HI
+
+카드	KO
+को	HI
+उलटे	HI
+खिसका	HI
+납세	KO
+보기	KO
+
+ताशों	HI
+को	HI
+फेंट	HI
+납세	KO
+조회	KO
+
+पत्तों	HI
+के	HI
+ढेर	HI
+को	HI
+근처	KO
+take	KO
+जाने	HI
+की	HI
+कोशिश	HI
+करें	HI
+
+하나	KO
+जैसे	HI
+पत्ते	HI
+
+प्रथम	HI
+기저	KO
+ढेर	HI
+हेतु	HI
+연장	KO
+में	HI
+출신	KO
+एक	HI
+카드	KO
+का	HI
+나뭇잎	KO
+चुनें	HI
+
+연장	KO
+में	HI
+출신	KO
+하나	KO
+카드	KO
+के	HI
+잎새	KO
+को	HI
+비어	KO
+그림	KO
+खाँचा	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+बचा	HI
+मालः	HI
+~	HI
+a	HI
+
+하나	KO
+और	HI
+나뭇잎	KO
+बाँटें	HI
+
+하나	KO
+나뭇잎	KO
+या	HI
+पत्तों	HI
+के	HI
+समूह	HI
+비어	KO
+खाँचा	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+하나	KO
+핸드	KO
+और	HI
+बांटें	HI
+
+쓸데없는	KO
+में	HI
+출신	KO
+पत्ते	HI
+take	KO
+जाएँ	HI
+
+쓸모없는	KO
+को	HI
+주식	KO
+में	HI
+take	KO
+जाएँ	HI
+
+बचा	HI
+भंडारः	HI
+~	HI
+a	HI
+
+नया	HI
+카드	KO
+डील	HI
+toc	KO
+
+베이스	KO
+출신	KO
+पत्तों	HI
+को	HI
+바닥	KO
+की	HI
+take	KO
+जाने	HI
+की	HI
+कोशिश	HI
+toc	KO
+
+하나	KO
+잎새	KO
+बांट	HI
+
+कोई	HI
+거래	KO
+फिर	HI
+아님	KO
+
+무제한	KO
+पुनः	HI
+सौदों	HI
+
+선물	KO
+विन्यास	HI
+अति	HI
+자연	KO
+모양	KO
+से	HI
+카드	KO
+के	HI
+색상	KO
+के	HI
+자격	KO
+हो	HI
+이거	KO
+हेतु	HI
+ध्येय	HI
+कीजिए	HI
+.	HI
+
+카드	KO
+बांटना	HI
+बाकीः	HI
+~	HI
+a	HI
+
+갑판	KO
+में	HI
+से	HI
+नया	HI
+पत्ता	HI
+चलें	HI
+
+पोकर	HI
+핸드	KO
+준비	KO
+करने	HI
+हेतु	HI
+카드	KO
+के	HI
+पत्तों	HI
+को	HI
+जमाएँ	HI
+
+잎새	KO
+बाँटें	HI
+
+안전한	KO
+खाँचा	HI
+पर	HI
+쓸모없는	KO
+को	HI
+take	KO
+जाएँ	HI
+
+모두	KO
+ढेर	HI
+भरने	HI
+가치가	KO
+पत्ते	HI
+होते	HI
+तक	HI
+पहले	HI
+जैसा	HI
+करें	HI
+
+부탁합니다	KO
+비어	KO
+ढेर	HI
+को	HI
+처음	KO
+fill	KO
+.	HI
+
+खाली	HI
+खाँचा	HI
+पर	HI
+무엇인가	KO
+유지	KO
+
+चार	HI
+सूइट	HI
+
+두분	KO
+양복	KO
+
+하나	KO
+सूट	HI
+
+비어	KO
+임시	KO
+खाँचा	HI
+पर	HI
+패티	KO
+take	KO
+जाएँ	HI
+
+कोई	HI
+시그널	KO
+उपलब्ध	HI
+아님	KO
+है	HI
+
+일시적	KO
+स्पॉट	HI
+사용법	KO
+स्वीकारें	HI
+
+일반	KO
+का	HI
+पेशेंस	HI
+
+ब्लॉड	HI
+그리고	KO
+बर्नेट	HI
+
+डेक	HI
+में	HI
+से	HI
+패티	KO
+풀기	KO
+
+쓸데없는	KO
+के	HI
+인기	KO
+के	HI
+두분	KO
+카드	KO
+का	HI
+사용법	KO
+करें	HI
+
+진보주의	KO
+원형	KO
+
+बहुल	HI
+득점	KO
+
+비어	KO
+픽처스	KO
+खाँचा	HI
+पर	HI
+पत्तों	HI
+को	HI
+take	KO
+जाएँ	HI
+
+인기가	KO
+카드	KO
+का	HI
+게임	KO
+फ्रीसेल	HI
+खेलें	HI
+
+선택	KO
+(	HI
+_	HI
+S	HI
+)	HI
+slot	HI
+type	HI
+
+베이스	KO
+पर	HI
+비어	KO
+खाँचाreserveslot	HI
+hint	HI
+
+बेकार	HI
+को	HI
+주식	KO
+में	HI
+take	KO
+जाएँtableauslot	HI
+hint	HI
+
+하나	KO
+%	HI
+s	HI
+को	HI
+당신	KO
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+फ्रीसेल	HI
+सॉलिटेयर	HI
+के	HI
+बारे	HI
+में	HI
+
+एसलिरियोट	HI
+एक	HI
+규칙	KO
+기반	KO
+सॉलिटेयर	HI
+कार्ड	HI
+엔진	KO
+देता	HI
+है	HI
+who	KO
+많은	KO
+달라	KO
+खेल	HI
+खेलने	HI
+के	HI
+लिए	HI
+권한	KO
+देता	HI
+है	HI
+.	HI
+एसलियेरॉट	HI
+ग्नोम	HI
+게임	KO
+का	HI
+हिस्सा	HI
+है	HI
+.	HI
+
+카드	KO
+테마	KO
+“	HI
+%	HI
+s	HI
+”	HI
+के	HI
+साथ	HI
+카드	KO
+표시	KO
+%	HI
+I6d	HI
+"	HI
+,	HI
+else	HI
+to	HI
+"	HI
+%	HI
+6dscore	HI
+
+놀기	KO
+선택	KO
+
+이거	KO
+प्रोग्राम	HI
+के	HI
+함께	KO
+당신	KO
+gnu	KO
+-	HI
+평범	KO
+민속	KO
+라인	KO
+की	HI
+प्रतिलिपि	HI
+मिलनी	HI
+चाहिए	HI
+.	HI
+यदि	HI
+아님	KO
+तो	HI
+시계	KO
+.	HI
+
+파일	KO
+유효	KO
+.	HI
+desktop	HI
+파일	KO
+아님	KO
+है	HI
+
+시작됨	KO
+완료	KO
+जा	HI
+रहा	HI
+है	HI
+%	HI
+s	HI
+
+अनुप्रयोग	HI
+कमांड	HI
+라인	KO
+पर	HI
+दस्तावेज़ों	HI
+को	HI
+स्वीकारता	HI
+नहीं	HI
+है	HI
+
+문서로	KO
+uri	KO
+को	HI
+'	HI
+Type	HI
+=	HI
+Link	HI
+'	HI
+데스크탑	KO
+항목	KO
+में	HI
+패스	KO
+아님	KO
+कर	HI
+सका	HI
+
+चलाने	HI
+वाली	HI
+वस्तु	HI
+नहीं	HI
+
+सत्र	HI
+관리자	KO
+में	HI
+연결	KO
+장애인	KO
+toc	KO
+
+फाइल	HI
+जिसमें	HI
+सहेजे	HI
+gone	KO
+설정	KO
+है	HI
+निर्धारित	HI
+toc	KO
+
+सत्र	HI
+관리	KO
+आईडी	HI
+निर्धारित	HI
+toc	KO
+
+세션	KO
+प्रबंधन	HI
+विकल्पः	HI
+
+세션	KO
+관리하기	KO
+대안	KO
+दिखाएं	HI
+
+전제	KO
+पर	HI
+खाली	HI
+슬롯	KO
+
+कोने	HI
+का	HI
+하나	KO
+비어	KO
+खाँचा	HI
+
+아래쪽	KO
+का	HI
+एक	HI
+비어	KO
+खाँचा	HI
+
+एक	HI
+비어	KO
+बचा	HI
+खाँचा	HI
+
+दाएँ	HI
+का	HI
+하나	KO
+비어	KO
+खाँचा	HI
+
+आधार	HI
+पर	HI
+비어	KO
+खाँचा	HI
+
+배스	KO
+ढेर	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+비어	KO
+배스	KO
+में	HI
+ले	HI
+जाएँ	HI
+
+비어	KO
+사진	KO
+खाँचा	HI
+पर	HI
+बादशाह	HI
+को	HI
+ले	HI
+जाएँ	HI
+
+비어	KO
+बची	HI
+엑스트라	KO
+스페이스	KO
+पर	HI
+뭔가	KO
+take	KO
+जाएँslot	HI
+type	HI
+
+베이스	KO
+पर	HI
+하나	KO
+패티	KO
+take	KO
+जाएँ	HI
+
+움직임	KO
+소식	KO
+toc	KO
+
+~	HI
+a	HI
+को	HI
+पट्ट	HI
+출신	KO
+बाहर	HI
+take	KO
+जाएँ	HI
+
+실수	KO
+!	HI
+गलत	HI
+चाल	HI
+पर	HI
+시그널	KO
+공연	KO
+.	HI
+
+~	HI
+a	HI
+को	HI
+~	HI
+a	HI
+के	HI
+बगल	HI
+में	HI
+유지	KO
+.	HI
+
+엑스트라	KO
+में	HI
+출신	KO
+하나	KO
+카드	KO
+के	HI
+पत्ते	HI
+को	HI
+비어	KO
+खाँचा	HI
+पर	HI
+ले	HI
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+खाली	HI
+फील्ड	HI
+में	HI
+take	KO
+जाएँ	HI
+
+주식	KO
+में	HI
+से	HI
+~	HI
+a	HI
+को	HI
+이미지	KO
+में	HI
+비어	KO
+슬롯	KO
+पर	HI
+take	KO
+जाएँ	HI
+
+기저	KO
+비어	KO
+toc	KO
+
+익명	KO
+양복	KO
+
+समुचित	HI
+재단	KO
+पाइल	HI
+
+%	HI
+s	HI
+रिजर्व	HI
+परstockslot	HI
+hint	HI
+
+폐기물	KO
+%	HI
+s	HI
+पर	HI
+
+~	HI
+a	HI
+को	HI
+फाउन्डेशन	HI
+में	HI
+ले	HI
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+खाली	HI
+फाउन्डेशन	HI
+स्लाट	HI
+में	HI
+ले	HI
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+तस्वीर	HI
+में	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+खाली	HI
+사진	KO
+खाँचा	HI
+में	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+비어	KO
+धार	HI
+फील्ड	HI
+में	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+एक	HI
+구석	KO
+का	HI
+एक	HI
+비어	KO
+खाँचा	HI
+में	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+비어	KO
+인기	KO
+खाँचा	HI
+में	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+아래	KO
+का	HI
+하나	KO
+비어	KO
+खाँचा	HI
+में	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+비어	KO
+बचा	HI
+खाँचा	HI
+में	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+खाली	HI
+दाएं	HI
+खाँचा	HI
+में	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+비어	KO
+खाँचा	HI
+में	HI
+ले	HI
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+검정	KO
+광대가	KO
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+लाल	HI
+जोकर	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+클럽	KO
+का	HI
+ace	KO
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+클럽	KO
+की	HI
+दुक्की	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+클럽	KO
+की	HI
+तिक्की	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+कोचिड़ी	HI
+का	HI
+चौवा	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+चिड़ी	HI
+का	HI
+पंजा	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+클럽	KO
+का	HI
+छक्का	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+클럽	KO
+का	HI
+सत्ता	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+클럽	KO
+का	HI
+अट्ठा	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+클럽	KO
+का	HI
+नहला	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+클럽	KO
+का	HI
+दहला	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+클럽	KO
+का	HI
+गुलाम	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+चिड़ी	HI
+की	HI
+बेगम	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+클럽	KO
+का	HI
+बादशाह	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+스페이드	KO
+का	HI
+इक्का	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+हुकुम	HI
+का	HI
+दुक्का	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+스페이드	KO
+की	HI
+तिक्की	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+스페이드	KO
+का	HI
+चव्वा	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+हुकुम	HI
+का	HI
+पंजा	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+스페이드	KO
+का	HI
+여섯	KO
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+हुकुम	HI
+का	HI
+सत्ता	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+हुकुम	HI
+का	HI
+अट्ठा	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+스페이드	KO
+का	HI
+아홉	KO
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+스페이드	KO
+का	HI
+दहला	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+스페이드	KO
+का	HI
+गुलाम	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+스페이드	KO
+की	HI
+बेगम	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+हुकुम	HI
+का	HI
+बादशाह	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+붉은	KO
+पान	HI
+का	HI
+ace	KO
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+붉은색	KO
+पान	HI
+का	HI
+दुक्का	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+빨강	KO
+पान	HI
+की	HI
+तिक्की	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+लाल	HI
+पान	HI
+का	HI
+चव्वा	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+लाल	HI
+पान	HI
+का	HI
+पंजा	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+लाल	HI
+पान	HI
+का	HI
+छक्का	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+लाल	HI
+पान	HI
+का	HI
+सत्ता	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+빨강	KO
+पान	HI
+का	HI
+अट्ठा	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+붉은	KO
+पान	HI
+का	HI
+아홉	KO
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+붉은	KO
+पान	HI
+का	HI
+दहला	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+레드	KO
+पान	HI
+का	HI
+गुलाम	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+빨간색	KO
+पान	HI
+की	HI
+बेगम	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+빨간색	KO
+पान	HI
+का	HI
+बादशाह	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+diamonds	KO
+का	HI
+इक्का	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+다이아몬드	KO
+का	HI
+दुक्का	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+다이아몬드	KO
+की	HI
+तिक्की	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+ईंट	HI
+का	HI
+चव्वा	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+벽돌	KO
+का	HI
+पंजा	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+ईंट	HI
+का	HI
+여섯	KO
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+벽돌	KO
+का	HI
+सत्ता	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+ईंट	HI
+का	HI
+अट्ठा	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+ईंट	HI
+का	HI
+아홉	KO
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+ईंट	HI
+का	HI
+दहला	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+벽돌	KO
+का	HI
+गुलाम	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+브릭	KO
+की	HI
+बेगम	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+~	HI
+a	HI
+को	HI
+다이아몬드	KO
+का	HI
+बादशाह	HI
+पर	HI
+घुमाएँ	HI
+.	HI
+
+चिड़ी	HI
+का	HI
+दहला	HI
+को	HI
+हटायें	HI
+.	HI
+
+ईंट	HI
+का	HI
+दहला	HI
+को	HI
+हटायें	HI
+.	HI
+
+लाल	HI
+पान	HI
+का	HI
+दहला	HI
+को	HI
+हटायें	HI
+.	HI
+
+스페이드	KO
+का	HI
+दहला	HI
+को	HI
+हटायें	HI
+.	HI
+
+आप	HI
+하나	KO
+에이스	KO
+के	HI
+लिए	HI
+발견	KO
+रहे	HI
+हैं	HI
+.	HI
+
+귀하	KO
+하나	KO
+दुग्गी	HI
+के	HI
+लिए	HI
+발견	KO
+रहे	HI
+हैं	HI
+.	HI
+
+귀하	KO
+एक	HI
+तिग्गी	HI
+के	HI
+लिए	HI
+खोज	HI
+रहे	HI
+हैं	HI
+.	HI
+
+आप	HI
+चौका	HI
+के	HI
+लिए	HI
+찾아보기	KO
+रहे	HI
+हैं	HI
+.	HI
+
+귀하	KO
+पंजा	HI
+के	HI
+लिए	HI
+खोज	HI
+रहे	HI
+हैं	HI
+.	HI
+
+귀하	KO
+하나	KO
+여섯	KO
+के	HI
+लिए	HI
+खोज	HI
+रहे	HI
+हैं	HI
+.	HI
+
+आप	HI
+सत्ता	HI
+के	HI
+लिए	HI
+खोज	HI
+रहे	HI
+हैं	HI
+.	HI
+
+आप	HI
+하나	KO
+अठा	HI
+के	HI
+लिए	HI
+खोज	HI
+रहे	HI
+हैं	HI
+.	HI
+
+당신	KO
+하나	KO
+नहला	HI
+के	HI
+लिए	HI
+검색하기	KO
+रहे	HI
+हैं	HI
+.	HI
+
+आप	HI
+하나	KO
+दहला	HI
+के	HI
+लिए	HI
+탐험	KO
+रहे	HI
+हैं	HI
+.	HI
+
+당신	KO
+하나	KO
+젝스키스	KO
+के	HI
+लिए	HI
+검색하기	KO
+रहे	HI
+हैं	HI
+.	HI
+
+당신은	KO
+하나	KO
+여왕	KO
+के	HI
+लिए	HI
+खोज	HI
+रहे	HI
+हैं	HI
+.	HI
+
+당신	KO
+하나	KO
+राजा	HI
+के	HI
+लिए	HI
+탐사	KO
+रहे	HI
+हैं	HI
+.	HI
+
+여섯	KO
+기저	KO
+
+다섯	KO
+배스	KO
+
+चार	HI
+베이스	KO
+
+नींव	HI
+के	HI
+लिए	HI
+하나	KO
+카드	KO
+चलायें	HI
+.	HI
+
+एनीमेशन	HI
+
+카드	KO
+चालों	HI
+में	HI
+애니메이션	KO
+사용	KO
+toc	KO
+या	HI
+아님	KO
+.	HI
+
+베이스	KO
+पर	HI
+एक	HI
+पत्ता	HI
+ले	HI
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+비어	KO
+베이스	KO
+में	HI
+ले	HI
+जाएँ	HI
+
+비어	KO
+그림	KO
+खाँचा	HI
+पर	HI
+बादशाह	HI
+को	HI
+take	KO
+जाएँ	HI
+
+비어	KO
+तस्वीर	HI
+खाँचा	HI
+पर	HI
+बादशाह	HI
+को	HI
+take	KO
+जाएँ	HI
+
+안전	KO
+खाँचा	HI
+पर	HI
+बेकार	HI
+को	HI
+take	KO
+जाएँ	HI
+
+सुरक्षित	HI
+खाँचा	HI
+पर	HI
+쓸데없는	KO
+को	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+एक	HI
+비어	KO
+현장	KO
+में	HI
+take	KO
+जाएँ	HI
+
+비어	KO
+임시	KO
+खाँचा	HI
+पर	HI
+पत्ता	HI
+take	KO
+जाएँ	HI
+
+비어	KO
+अस्थायी	HI
+खाँचा	HI
+पर	HI
+पत्ता	HI
+take	KO
+जाएँ	HI
+
+नीचे	HI
+का	HI
+하나	KO
+खाली	HI
+खाँचा	HI
+
+~	HI
+a	HI
+को	HI
+एक	HI
+비어	KO
+फील्ड	HI
+में	HI
+ले	HI
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+खाली	HI
+필드	KO
+में	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+하나	KO
+비어	KO
+현장	KO
+में	HI
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+पट्ट	HI
+से	HI
+끝내기	KO
+take	KO
+जाएँ	HI
+
+~	HI
+a	HI
+को	HI
+पट्ट	HI
+출신	KO
+बाहर	HI
+take	KO
+जाएँ	HI
+
+클럽	KO
+का	HI
+इक्का	HI
+
+चिड़ी	HI
+की	HI
+दुक्की	HI
+
+चिड़ी	HI
+की	HI
+तिक्की	HI
+
+클럽	KO
+का	HI
+चौवा	HI
+
+클럽	KO
+का	HI
+पंजा	HI
+
+클럽	KO
+का	HI
+여섯	KO
+
+클럽	KO
+का	HI
+सत्ता	HI
+
+클럽	KO
+का	HI
+अट्ठा	HI
+
+클럽	KO
+का	HI
+नहला	HI
+
+클럽	KO
+का	HI
+दहला	HI
+
+चिड़ी	HI
+का	HI
+गुलाम	HI
+
+चिड़ी	HI
+की	HI
+बेगम	HI
+
+클럽	KO
+का	HI
+बादशाह	HI
+
+~	HI
+a	HI
+को	HI
+पट्ट	HI
+출신	KO
+외부	KO
+take	KO
+जाएँ	HI
+
+हुकुम	HI
+की	HI
+बेगम	HI
+
+레즈	KO
+पान	HI
+का	HI
+इक्का	HI
+
+लाल	HI
+पान	HI
+का	HI
+दुक्का	HI
+
+빨간색	KO
+पान	HI
+की	HI
+तिक्की	HI
+
+레즈	KO
+पान	HI
+का	HI
+चव्वा	HI
+
+लाल	HI
+पान	HI
+का	HI
+पंजा	HI
+
+붉은색	KO
+पान	HI
+का	HI
+여섯	KO
+
+레즈	KO
+पान	HI
+का	HI
+अट्ठा	HI
+
+빨간색	KO
+पान	HI
+का	HI
+아홉	KO
+
+लाल	HI
+पान	HI
+का	HI
+दहला	HI
+
+붉은색	KO
+पान	HI
+का	HI
+गुलाम	HI
+
+빨간색	KO
+पान	HI
+की	HI
+बेगम	HI
+
+붉은색	KO
+पान	HI
+का	HI
+बादशाह	HI
+
+ईंट	HI
+का	HI
+इक्का	HI
+
+다이아몬드	KO
+का	HI
+दुक्का	HI
+
+브릭	KO
+की	HI
+तिक्की	HI
+
+벽돌	KO
+का	HI
+चव्वा	HI
+
+다이아몬드	KO
+का	HI
+पंजा	HI
+
+다이아몬드	KO
+का	HI
+छक्का	HI
+
+벽돌	KO
+का	HI
+सत्ता	HI
+
+브릭	KO
+का	HI
+अट्ठा	HI
+
+벽돌	KO
+का	HI
+नहला	HI
+
+diamonds	KO
+का	HI
+दहला	HI
+
+브릭	KO
+का	HI
+गुलाम	HI
+
+ईंट	HI
+की	HI
+बेगम	HI
+
+다이아몬드	KO
+का	HI
+बादशाह	HI
+
+चिड़ी	HI
+का	HI
+दहला	HI
+
+diamonds	KO
+का	HI
+दहला	HI
+
+빨강	KO
+पान	HI
+का	HI
+दहला	HI
+
+एक	HI
+%	HI
+s	HI
+को	HI
+당신은	KO
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+하나	KO
+%	HI
+s	HI
+को	HI
+당신	KO
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+하나	KO
+%	HI
+s	HI
+को	HI
+당신은	KO
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+하나	KO
+%	HI
+s	HI
+को	HI
+귀하	KO
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+하나	KO
+%	HI
+s	HI
+को	HI
+당신	KO
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+하나	KO
+%	HI
+s	HI
+को	HI
+당신	KO
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+하나	KO
+%	HI
+s	HI
+को	HI
+당신	KO
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+하나	KO
+%	HI
+s	HI
+को	HI
+당신	KO
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+하나	KO
+%	HI
+s	HI
+को	HI
+당신은	KO
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+하나	KO
+%	HI
+s	HI
+को	HI
+귀하	KO
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+एक	HI
+%	HI
+s	HI
+को	HI
+당신	KO
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+하나	KO
+%	HI
+s	HI
+को	HI
+आप	HI
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+एक	HI
+%	HI
+s	HI
+को	HI
+당신	KO
+ढूंढ	HI
+रहे	HI
+हैं	HI
+.	HI
+
+खाली	HI
+तस्वीर	HI
+खाँचा	HI
+पर	HI
+बादशाह	HI
+को	HI
+take	KO
+जाएँ	HI
+
+किसी	HI
+객체	KO
+को	HI
+그림	KO
+के	HI
+खाली	HI
+खाँचे	HI
+में	HI
+take	KO
+जाएँ	HI
+
+अतिरिक्त	HI
+में	HI
+출신	KO
+하나	KO
+카드	KO
+के	HI
+나뭇잎	KO
+को	HI
+खाली	HI
+खाँचा	HI
+पर	HI
+take	KO
+जाएँ	HI
+
+클럽	KO
+का	HI
+बादशाह	HI
+
+다이아몬드	KO
+का	HI
+बादशाह	HI
+
+붉은색	KO
+पान	HI
+का	HI
+बादशाह	HI
+
+फ्रीसेल	HI
+सॉलिटेयर	HI
+के	HI
+बारे	HI
+मेंscore	HI
+
+एसलिरियोट	HI
+하나	KO
+규칙	KO
+기반으로	KO
+सॉलिटेयर	HI
+कार्ड	HI
+इंजन	HI
+देता	HI
+है	HI
+जो	HI
+여러개	KO
+달라	KO
+스포츠	KO
+खेलने	HI
+के	HI
+लिए	HI
+허용	KO
+देता	HI
+है	HI
+.	HI
+
+변경	KO
+कि	HI
+who	KO
+출신	KO
+अनुप्रयोगों	HI
+को	HI
+치프	KO
+메뉴	KO
+में	HI
+표시된	KO
+गया	HI
+है	HI
+
+기본	KO
+में	HI
+वापस	HI
+toc	KO
+(	HI
+_	HI
+R	HI
+)	HI
+
+베이직	KO
+메뉴	KO
+레이아웃	KO
+그렇다면	KO
+भंडारित	HI
+toc	KO
+
+नया	HI
+메뉴	KO
+(	HI
+_	HI
+N	HI
+)	HI
+
+인기	KO
+जायें	HI
+
+아래에	KO
+जायें	HI
+
+변경	KO
+후방	KO
+take	KO
+?	HI
+
+सारे	HI
+메뉴	KO
+오리지널	KO
+जमावट	HI
+में	HI
+वापस	HI
+करें	HI
+?	HI
+
+बदलें	HI
+कि	HI
+who	KO
+출신	KO
+अनुप्रयोगों	HI
+को	HI
+मुख्य	HI
+메뉴	KO
+में	HI
+표시된	KO
+गया	HI
+है	HI
+
+원격	KO
+कड़ियों	HI
+को	HI
+아님	KO
+실행	KO
+सकता	HI
+
+링크	KO
+हटा	HI
+दो	HI
+
+अंजूटा	HI
+
+अनियत	HI
+너비	KO
+
+अंजूटा	HI
+
+파일	KO
+नष्ट	HI
+करें	HI
+
+अनियत	HI
+너비	KO
+
+अंजूटा	HI
+
+उपकरण	HI
+पर	HI
+글쓰기	KO
+में	HI
+असमर्थ	HI
+%	HI
+s	HI
+
+अंजूटा	HI
+문서	KO
+매니저	KO
+
+프로젝트	KO
+플랜	KO
+
+छैतिज	HI
+스케일	KO
+
+프로젝트	KO
+लोड	HI
+करने	HI
+में	HI
+असमर्थ	HI
+
+आक्टेल	HI
+अनुमतियां	HI
+
+%	HI
+d	HI
+चुने	HI
+हुए	HI
+आयटम्स	HI
+को	HI
+हमेशा	HI
+के	HI
+लिए	HI
+डिलीट	HI
+करना	HI
+चाहते	HI
+हैं	HI
+
+अंजूटा	HI
+선호	KO
+
+अंजूटा	HI
+वरीयता	HI
+
+파일	KO
+선택	KO
+toc	KO
+
+क्या	HI
+당신	KO
+निश्चित	HI
+हैं	HI
+कि	HI
+आप	HI
+%	HI
+s	HI
+को	HI
+영구	KO
+तौर	HI
+पर	HI
+डिलीट	HI
+करना	HI
+चाहते	HI
+हैं	HI
+
+이거	KO
+파일	KO
+선물	KO
+아님	KO
+है	HI
+।	HI
+क्या	HI
+당신	KO
+इस	HI
+파일	KO
+का	HI
+निर्माण	HI
+करना	HI
+चाहते	HI
+हैं	HI
+?	HI
+
+이거	KO
+파일	KO
+현재	KO
+नहीं	HI
+है	HI
+।	HI
+क्या	HI
+귀하	KO
+이거	KO
+파일	KO
+का	HI
+건축	KO
+करना	HI
+चाहते	HI
+हैं	HI
+?	HI
+
+फाइल	HI
+को	HI
+बदलने	HI
+में	HI
+असमर्थ	HI
+
+파일	KO
+को	HI
+बदलने	HI
+में	HI
+असमर्थ	HI
+
+파일	KO
+को	HI
+오프닝	KO
+में	HI
+असमर्थ	HI
+
+रैण्डर	HI
+होने	HI
+वाला	HI
+pixbut	HI
+
+pixbut	HI
+आब्जेक्ट	HI
+
+रैण्डर	HI
+होने	HI
+वाला	HI
+pixbut	HI
+
+파일	KO
+아님	KO
+찾았습니다	KO
+
+파일	KO
+%	HI
+s	HI
+नहीं	HI
+मिली	HI
+
+옵션	KO
+
+프로젝트	KO
+닫아	KO
+toc	KO
+
+터미널	KO
+में	HI
+디스플레이	KO
+
+성공적으로	KO
+फ्लापी	HI
+को	HI
+형식	KO
+완료	KO
+
+성공적	KO
+फ्लापी	HI
+को	HI
+형식	KO
+완료	KO
+
+지침	KO
+표시	KO
+
+बाल्सा	HI
+को	HI
+कान्फिगर	HI
+करो	HI
+
+जेबिल्डर	HI
+प्रोजेक्ट	HI
+
+प्रोजेक्ट	HI
+비공개	KO
+toc	KO
+
+프로젝트	KO
+बंद	HI
+toc	KO
+
+프로젝트	KO
+닫힌	KO
+करें	HI
+
+프로젝트	KO
+해제한	KO
+
+프로젝트	KO
+में	HI
+원본	KO
+추가	KO
+
+UI	HI
+कानफिगर	HI
+toc	KO
+
+프로젝트	KO
+में	HI
+출처	KO
+추가	KO
+
+하나	KO
+वीवर	HI
+(	HI
+V	HI
+)	HI
+
+अंजूटा	HI
+프로젝트	KO
+매니저	KO
+
+वितरण	HI
+리스트	KO
+
+어플리케이션	KO
+से	HI
+실외	KO
+जाएं	HI
+
+어플리케이션	KO
+출신	KO
+बाहर	HI
+जाएं	HI
+
+%	HI
+u	HI
+फाइल्स	HI
+
+प्रविष्ट	HI
+करें	HI
+
+선물	KO
+파일	KO
+को	HI
+인쇄	KO
+करें	HI
+
+전체	KO
+닫기	KO
+toc	KO
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+선물	KO
+파일	KO
+को	HI
+संग्रहित	HI
+करें	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+libgnomeui	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+libgnomeui	HI
+HEAD	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+기존	KO
+파일	KO
+संग्रहित	HI
+करें	HI
+
+컴파일	KO
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+बर्तमान	HI
+फाइल	HI
+को	HI
+비공개	KO
+करें	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+libgnomeui	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+libgnomeui	HI
+HEAD	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+वर्तमान	HI
+파일	KO
+को	HI
+끄기	KO
+toc	KO
+
+파일	KO
+कापी	HI
+toc	KO
+
+सबको	HI
+커밋	KO
+toc	KO
+
+%	HI
+u	HI
+फाइल्स	HI
+
+삽입	KO
+toc	KO
+
+프로젝트	KO
+닫습니다	KO
+करें	HI
+
+सभी	HI
+비공개	KO
+toc	KO
+
+प्रतियां	HI
+
+%	HI
+u	HI
+फाइल्स	HI
+
+인터럽트	KO
+करें	HI
+
+컴파일	KO
+
+निर्देश	HI
+चलाएं	HI
+
+안내	KO
+성능	KO
+
+छैतिज	HI
+스케일	KO
+
+कोई	HI
+필터	KO
+का	HI
+नाम	HI
+निर्धारित	HI
+아님	KO
+है	HI
+
+프로젝트	KO
+उपलब्ध	HI
+아님	KO
+है	HI
+
+이거	KO
+파일	KO
+के	HI
+लिए	HI
+메뉴	KO
+में	HI
+
+चयनित	HI
+파일	KO
+चलाने	HI
+자격	KO
+아님	KO
+है	HI
+
+업데이트	KO
+(	HI
+업데이트	KO
+)	HI
+
+लाग	HI
+आन	HI
+की	HI
+जानकारी	HI
+
+프로젝트	KO
+में	HI
+원본	KO
+추가하기	KO
+
+주최	KO
+이름	KO
+유효	KO
+아님	KO
+है	HI
+
+कोई	HI
+हेडर	HI
+아님	KO
+
+आइकान	HI
+में	HI
+अवैध	HI
+हैडर	HI
+
+सोर्सफोर्ज	HI
+
+파일	KO
+को	HI
+बदलने	HI
+में	HI
+असमर्थ	HI
+
+기기	KO
+पर	HI
+타이핑	KO
+में	HI
+असमर्थ	HI
+%	HI
+s	HI
+
+फ़ाइलों	HI
+को	HI
+지느러미	KO
+
+직업	KO
+डायरेक्टरी	HI
+
+프로젝트	KO
+खोलें	HI
+
+잡스	KO
+डायरेक्टरी	HI
+
+작업	KO
+डायरेक्टरी	HI
+
+잡스	KO
+डायरेक्टरी	HI
+
+जोड़ने	HI
+के	HI
+लिए	HI
+रंग	HI
+특정	KO
+करें	HI
+
+डायरेक्टरी	HI
+का	HI
+생성	KO
+करें	HI
+
+डायरेक्टरी	HI
+का	HI
+निर्माण	HI
+करें	HI
+
+डायरेक्टरी	HI
+का	HI
+만들기	KO
+toc	KO
+
+डायरेक्टरी	HI
+경로	KO
+
+하나	KO
+नयी	HI
+फाइल	HI
+का	HI
+निर्माण	HI
+toc	KO
+
+직장	KO
+डायरेक्टरी	HI
+
+로고	KO
+이미지	KO
+
+माॅड्यूल	HI
+파일	KO
+नाम	HI
+
+डायरेक्टरी	HI
+아님	KO
+है	HI
+
+फाईल	HI
+का	HI
+이름	KO
+%	HI
+s	HI
+
+सत्रें	HI
+
+सत्रें	HI
+
+को	HI
+송금	KO
+
+ग्लेड	HI
+플랜	KO
+
+전체	KO
+खुली	HI
+फाइलों	HI
+को	HI
+끄기	KO
+toc	KO
+
+파일	KO
+को	HI
+खोलने	HI
+में	HI
+असमर्थ	HI
+
+कया	HI
+귀하	KO
+सचमुच	HI
+लागाउट	HI
+करना	HI
+चाहेंगे	HI
+?	HI
+
+세션	KO
+के	HI
+변경	KO
+소유	KO
+में	HI
+संग्रहित	HI
+toc	KO
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+balsa	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+Balsa	HI
+2	HI
+.	HI
+x	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+업데이트	KO
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+अपडेट	HI
+(	HI
+업데이트	KO
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gnome	HI
+-	HI
+applets	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gnome	HI
+-	HI
+applets	HI
+2	HI
+.	HI
+x	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+अपडेट	HI
+(	HI
+갱신	KO
+)	HI
+
+직위	KO
+बार	HI
+प्रदर्शित	HI
+toc	KO
+
+गनोम	HI
+गनू	HI
+프로젝트	KO
+का	HI
+부분	KO
+है	HI
+
+सूची	HI
+में	HI
+보이기	KO
+
+घर	HI
+के	HI
+दश्य	HI
+पर	HI
+जाएं	HI
+
+प्रोजेक्ट	HI
+오픈	KO
+
+स्पेसिंग	HI
+
+स्पेसिंग	HI
+
+छोटि	HI
+की	HI
+파일	KO
+मे	HI
+지느러미	KO
+(	HI
+_	HI
+t	HI
+)	HI
+:	HI
+
+사슬	KO
+की	HI
+기능	KO
+
+대체	KO
+
+निर्देश	HI
+라인	KO
+की	HI
+항목	KO
+
+डिबग	HI
+(	HI
+खराबी	HI
+멀다	KO
+toc	KO
+)	HI
+
+지침	KO
+공연	KO
+
+라인	KO
+संख्या	HI
+표시하기	KO
+toc	KO
+
+इनेबल	HI
+
+이벤트	KO
+का	HI
+이름	KO
+
+टर्मिनल	HI
+में	HI
+चलाएं	HI
+
+세션	KO
+के	HI
+गुणधर्म	HI
+(	HI
+특성	KO
+)	HI
+
+डायरेक्टरी	HI
+का	HI
+창의	KO
+toc	KO
+
+추가	KO
+
+진행중	KO
+유지	KO
+
+हस्ताछर	HI
+포함	KO
+करो	HI
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+balsa	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+Balsa	HI
+2	HI
+.	HI
+x	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+암호	KO
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+eel	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+eel	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+पासवर्डः	HI
+(	HI
+_	HI
+P	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+file	HI
+-	HI
+roller	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+File	HI
+Roller	HI
+hindi	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+गुपत	HI
+अक्षर	HI
+(	HI
+_	HI
+P	HI
+)	HI
+:	HI
+
+सबको	HI
+हटाओ	HI
+
+क्या	HI
+आप	HI
+특정	KO
+है	HI
+कि	HI
+आप	HI
+ट्रेश	HI
+की	HI
+전체	KO
+आयटम्स	HI
+언제나	KO
+के	HI
+लिए	HI
+डिलीट	HI
+करना	HI
+चाहते	HI
+हैं	HI
+
+ब्रेकपाइंट	HI
+समायोजित	HI
+toc	KO
+
+ब्रेकपाइंट	HI
+समायोजित	HI
+toc	KO
+
+प्रस्तुत	HI
+포지션	KO
+के	HI
+라스트	KO
+अंशों	HI
+को	HI
+공연	KO
+
+ब्रेकपाइंट	HI
+समायोजित	HI
+toc	KO
+
+ब्रेकपाइंट	HI
+को	HI
+समायोजित	HI
+toc	KO
+
+ब्रेकपाइंट	HI
+समायोजित	HI
+करें	HI
+
+ब्रेकपाइंट	HI
+को	HI
+समायोजित	HI
+toc	KO
+
+ब्रेकपाइंट	HI
+समायोजित	HI
+toc	KO
+
+प्रस्तुत	HI
+국가	KO
+के	HI
+기말고사	KO
+अंशों	HI
+को	HI
+공연	KO
+
+ब्रेकपाइंट	HI
+समायोजित	HI
+toc	KO
+
+कड़ी	HI
+की	HI
+विशेषताएँ	HI
+
+ब्रेकपाइंट	HI
+को	HI
+समायोजित	HI
+करें	HI
+
+ब्रेकपाइंट	HI
+को	HI
+समायोजित	HI
+करें	HI
+
+ब्रेकपाइंट	HI
+को	HI
+समायोजित	HI
+toc	KO
+
+ब्रेकपाइंट	HI
+को	HI
+समायोजित	HI
+toc	KO
+
+ब्रेकपाइंट	HI
+समायोजित	HI
+करें	HI
+
+ब्रेकपाइंट	HI
+को	HI
+समायोजित	HI
+toc	KO
+
+사슬	KO
+की	HI
+विशेषताएँ	HI
+
+डिबग	HI
+(	HI
+खराबी	HI
+멀다	KO
+करें	HI
+)	HI
+
+प्ले	HI
+진행	KO
+पर	HI
+
+여기	KO
+시작	KO
+करें	HI
+(	HI
+S	HI
+)	HI
+
+파일	KO
+추가	KO
+
+기존	KO
+में	HI
+क्रियान्वित	HI
+हो	HI
+रहे	HI
+प्रोग्रामों	HI
+को	HI
+दिखाएंः	HI
+
+프로그램	KO
+디버거	KO
+के	HI
+실내	KO
+실행	KO
+
+निर्देश	HI
+
+프로그램	KO
+
+진행	KO
+बार	HI
+की	HI
+방향	KO
+तथा	HI
+व	HI
+=	HI
+द्धि	HI
+
+प्रस्तुत	HI
+국가	KO
+के	HI
+이전	KO
+अंशों	HI
+को	HI
+दिखाएँ	HI
+
+विघटित	HI
+लायब्रेरी	HI
+
+विघटित	HI
+लायब्रेरी	HI
+
+진행중	KO
+रखें	HI
+
+프로그램	KO
+का	HI
+에디션	KO
+
+व्यंजक	HI
+पर	HI
+원조	KO
+
+व्यंजक	HI
+पर	HI
+후원	KO
+
+단추	KO
+की	HI
+टागल	HI
+अवस्था	HI
+
+하나	KO
+प्रोजेक्ट	HI
+열기	KO
+
+एक	HI
+프로젝트	KO
+해제한	KO
+
+अनियत	HI
+너비	KO
+
+दिखाता	HI
+है	HI
+정보	KO
+अभी	HI
+चलने	HI
+वाले	HI
+앨범	KO
+,	HI
+음악가	KO
+एवं	HI
+बीते	HI
+समय	HI
+की	HI
+
+전체	KO
+वर्तमान	HI
+기간	KO
+के	HI
+메세지	KO
+भेजने	HI
+वालों	HI
+को	HI
+노스	KO
+दें	HI
+
+애플리케이션	KO
+출신	KO
+중지	KO
+जाएं	HI
+
+프로그램	KO
+का	HI
+에디션	KO
+
+विकल्पों	HI
+को	HI
+सन्ग्रहित	HI
+करे	HI
+
+विघटित	HI
+लायब्रेरी	HI
+
+개혁개방	KO
+
+कचरे	HI
+में	HI
+전송	KO
+
+라인	KO
+번호	KO
+표시	KO
+toc	KO
+
+पंक्ति	HI
+번호	KO
+대표	KO
+toc	KO
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+선물	KO
+파일	KO
+को	HI
+संग्रहित	HI
+toc	KO
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+libgnomeui	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+libgnomeui	HI
+HEAD	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+흐름	KO
+फाइल	HI
+संग्रहित	HI
+करें	HI
+
+시계	KO
+का	HI
+출처	KO
+
+विकल्पों	HI
+को	HI
+सन्ग्रहित	HI
+करे	HI
+
+%	HI
+s	HI
+को	HI
+क्रियान्वित	HI
+करने	HI
+में	HI
+실패	KO
+%	HI
+d	HI
+(	HI
+%	HI
+s	HI
+)	HI
+
+파일	KO
+को	HI
+오프닝	KO
+में	HI
+असमर्थ	HI
+
+파일	KO
+%	HI
+s	HI
+संग्रहित	HI
+toc	KO
+
+सभि	HI
+파일	KO
+(	HI
+_	HI
+A	HI
+)	HI
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+현재	KO
+파일	KO
+को	HI
+संग्रहित	HI
+toc	KO
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+libgnomeui	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+libgnomeui	HI
+HEAD	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+वर्तमान	HI
+파일	KO
+संग्रहित	HI
+toc	KO
+
+छैतिज	HI
+척도	KO
+
+छोटि	HI
+की	HI
+फ़ाइल	HI
+मे	HI
+जोडे	HI
+(	HI
+_	HI
+t	HI
+)	HI
+:	HI
+
+सबको	HI
+हटाओ	HI
+
+갱신	KO
+(	HI
+अद्यतन	HI
+)	HI
+
+बदलें	HI
+
+업데이트	KO
+(	HI
+अद्यतन	HI
+)	HI
+
+सबको	HI
+हटाओ	HI
+
+विकल्पों	HI
+को	HI
+सन्ग्रहित	HI
+करे	HI
+
+के	HI
+लिए	HI
+검색	KO
+
+इधर	HI
+को	HI
+जाएँ	HI
+
+라스트	KO
+소리	KO
+경로	KO
+
+पिछला	HI
+메시지	KO
+
+연속	KO
+संदेश	HI
+
+जानकारी	HI
+के	HI
+페이지	KO
+
+word	KO
+को	HI
+चुने	HI
+हुए	HI
+सुझाव	HI
+से	HI
+대체	KO
+
+디스커버리	KO
+
+स्थिर	HI
+선언	KO
+को	HI
+떠나	KO
+दें	HI
+
+파일	KO
+선택	KO
+toc	KO
+
+क्या	HI
+당신	KO
+특정	KO
+हैं	HI
+कि	HI
+당신	KO
+%	HI
+s	HI
+को	HI
+स्थायी	HI
+तौर	HI
+पर	HI
+डिलीट	HI
+करना	HI
+चाहते	HI
+हैं	HI
+
+파일	KO
+कापी	HI
+toc	KO
+
+하나	KO
+파일	KO
+열기	KO
+
+사운드	KO
+फाईल	HI
+बचाएँ	HI
+
+फाईल	HI
+%	HI
+s	HI
+पहले	HI
+से	HI
+उपस्थित	HI
+है	HI
+क्या	HI
+당신은	KO
+इसे	HI
+पुनर्लेखित	HI
+करना	HI
+चाहते	HI
+हैं	HI
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+교체	KO
+/	HI
+परिवर्तित	HI
+toc	KO
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gtkhtml	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+GtkHTML	HI
+2	HI
+.	HI
+x	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+बदलो	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+nautilus	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+nautilus	HI
+2	HI
+.	HI
+x	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+변경	KO
+
+श्रेणी	HI
+
+छैतिज	HI
+축척	KO
+
+छैतिज	HI
+पैमाना	HI
+
+정적	KO
+선언	KO
+को	HI
+스킵	KO
+दें	HI
+
+बाल्सा	HI
+को	HI
+कान्फिगर	HI
+करो	HI
+
+चयनित	HI
+पाठ्य	HI
+को	HI
+हटाएं	HI
+
+कुछ	HI
+न	HI
+toc	KO
+(	HI
+h	HI
+)	HI
+
+볼륨	KO
+चालू	HI
+toc	KO
+
+अंजूटा	HI
+선호	KO
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+스트리밍	KO
+फाइल	HI
+को	HI
+एक	HI
+다르다	KO
+नाम	HI
+출신	KO
+संग्रहित	HI
+करें	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+libgnomeui	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+libgnomeui	HI
+HEAD	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+선물	KO
+फाइल	HI
+को	HI
+दूसरे	HI
+이름	KO
+출신	KO
+संग्रहित	HI
+करें	HI
+
+सार्ट	HI
+सूचक	HI
+
+सार्ट	HI
+포인터	KO
+
+소리	KO
+फाईल	HI
+बचाएँ	HI
+
+라인	KO
+숫자	KO
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+balsa	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+Balsa	HI
+2	HI
+.	HI
+x	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+बचाएं	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+संग्रहित	HI
+toc	KO
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gtk	HI
++	HI
+.	HI
+gtk	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gtk22	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+संग्रहित	HI
+toc	KO
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+libgnomeui	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+libgnomeui	HI
+HEAD	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+संग्रहित	HI
+toc	KO
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+존재	KO
+फाइल	HI
+को	HI
+संग्रहित	HI
+toc	KO
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+libgnomeui	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+libgnomeui	HI
+HEAD	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+스트리밍	KO
+파일	KO
+संग्रहित	HI
+toc	KO
+
+전체	KO
+को	HI
+संग्रहित	HI
+toc	KO
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+वर्तमान	HI
+파일	KO
+को	HI
+하나	KO
+분수	KO
+이름	KO
+출신	KO
+संग्रहित	HI
+toc	KO
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+libgnomeui	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+libgnomeui	HI
+HEAD	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+वर्तमान	HI
+फाइल	HI
+को	HI
+दूसरे	HI
+नाम	HI
+출신	KO
+संग्रहित	HI
+toc	KO
+
+전체	KO
+संग्रहित	HI
+toc	KO
+
+파일	KO
+कापी	HI
+करें	HI
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+बर्तमान	HI
+파일	KO
+को	HI
+비공개	KO
+toc	KO
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+libgnomeui	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+libgnomeui	HI
+HEAD	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+선물	KO
+फाइल	HI
+को	HI
+닫아	KO
+करें	HI
+
+전체	KO
+닫아	KO
+करें	HI
+
+सभी	HI
+खुली	HI
+फाइलों	HI
+को	HI
+끄기	KO
+toc	KO
+
+यह	HI
+파일	KO
+(	HI
+छोटि	HI
+)	HI
+को	HI
+बान्द	HI
+करे	HI
+
+c	HI
+/	HI
+.	HI
+h	HI
+फाइलों	HI
+को	HI
+आपस	HI
+में	HI
+변경	KO
+
+자바	KO
+출처	KO
+코드	KO
+
+हाल	HI
+में	HI
+ही	HI
+प्रयोग	HI
+की	HI
+गई	HI
+फाइलें	HI
+
+전류	KO
+파일	KO
+को	HI
+인쇄	KO
+toc	KO
+
+प्रिंट	HI
+이스트	KO
+철학	KO
+
+섹션	KO
+파일	KO
+को	HI
+प्रिंट	HI
+toc	KO
+
+कचरा	HI
+(	HI
+T	HI
+)	HI
+
+सिलेक्शन	HI
+직사각형	KO
+
+특정	KO
+आईकन	HI
+को	HI
+लचीला	HI
+만드세요	KO
+
+सिलेक्शन	HI
+직사각형	KO
+
+चयनित	HI
+पाठ्य	HI
+का	HI
+컬러	KO
+चुनें	HI
+
+선택	KO
+toc	KO
+(	HI
+_	HI
+S	HI
+)	HI
+
+전체	KO
+선택하기	KO
+
+पूरे	HI
+문자	KO
+को	HI
+टेक्स्ट	HI
+필드	KO
+में	HI
+में	HI
+선택	KO
+
+워드	KO
+चुनो	HI
+
+पूरे	HI
+문구	KO
+को	HI
+문자	KO
+현장	KO
+में	HI
+में	HI
+चुनें	HI
+
+초점	KO
+करने	HI
+पर	HI
+선택	KO
+toc	KO
+
+पूरे	HI
+दस्तावेज	HI
+का	HI
+चयन	HI
+toc	KO
+
+चयनित	HI
+पाठ्य	HI
+को	HI
+हटाएं	HI
+
+चयनित	HI
+पाठ्य	HI
+को	HI
+हटाएं	HI
+
+चयनित	HI
+पाठ्य	HI
+को	HI
+हटाएं	HI
+
+पंक्ति	HI
+숫자	KO
+
+구체	KO
+라인	KO
+संख्या	HI
+पर	HI
+जाएं	HI
+
+라인	KO
+संख्या	HI
+
+नया	HI
+프로젝트	KO
+만들기	KO
+
+스트림	KO
+문서	KO
+में	HI
+화석	KO
+출력	KO
+को	HI
+삽입	KO
+toc	KO
+
+नया	HI
+프로젝트	KO
+만드세요	KO
+
+선물	KO
+문서로	KO
+में	HI
+클리프	KO
+आउटपुट	HI
+को	HI
+인터럽트	KO
+करें	HI
+
+이전	KO
+부품	KO
+
+जाएँ	HI
+पिछली	HI
+상황	KO
+पर	HI
+
+जाएँ	HI
+अगली	HI
+स्थिति	HI
+पर	HI
+어디로	KO
+ago	KO
+जा	HI
+चुके	HI
+हैं	HI
+
+जाएँ	HI
+अगली	HI
+상태	KO
+पर	HI
+어디서	KO
+पहले	HI
+जा	HI
+चुके	HI
+हैं	HI
+
+리비전	KO
+करें	HI
+
+एडीटर	HI
+
+एडीटर	HI
+
+선물	KO
+दस्तावेज	HI
+का	HI
+सूछ्म	HI
+상세	KO
+दीजिए	HI
+
+소스	KO
+हटाएं	HI
+
+스트림	KO
+문서로	KO
+का	HI
+सूछ्म	HI
+विवरण	HI
+दीजिए	HI
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+पिछली	HI
+활동	KO
+निरस्त	HI
+toc	KO
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+libgnomeui	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+libgnomeui	HI
+HEAD	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+기말고사	KO
+시술	KO
+को	HI
+취소	KO
+toc	KO
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+पुनः	HI
+toc	KO
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gtk	HI
++	HI
+.	HI
+gtk	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gtk22	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+पुनः	HI
+toc	KO
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gtkhtml	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+GtkHTML	HI
+2	HI
+.	HI
+x	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+그때	KO
+출신	KO
+करो	HI
+(	HI
+R	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+libgnomeui	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+libgnomeui	HI
+HEAD	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+पुन	HI
+toc	KO
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+취소	KO
+की	HI
+गई	HI
+작업	KO
+को	HI
+पुनः	HI
+toc	KO
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+libgnomeui	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+libgnomeui	HI
+HEAD	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+निरस्त	HI
+절차	KO
+को	HI
+पुन	HI
+toc	KO
+
+क्लिपबोर्ड	HI
+출신	KO
+चुने	HI
+हुए	HI
+텍스트	KO
+को	HI
+자르기	KO
+
+चुने	HI
+हुए	HI
+टेक्स्ट	HI
+को	HI
+क्लिपबोर्ड	HI
+पर	HI
+कापी	HI
+toc	KO
+
+प्रस्तुत	HI
+स्थिति	HI
+के	HI
+라스트	KO
+अंशों	HI
+को	HI
+표시	KO
+
+चयनित	HI
+पाठ्य	HI
+को	HI
+हटाएं	HI
+
+단어	KO
+को	HI
+추가하기	KO
+
+라인	KO
+숫자	KO
+
+पंक्ति	HI
+숫자	KO
+표시하기	KO
+toc	KO
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gtk	HI
++	HI
+.	HI
+gtk	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gtk22	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+बांया	HI
+मार्जिन	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+libgnomecanvas	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+PACKAGE	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+बांयां	HI
+मार्जिन	HI
+
+पंक्ति	HI
+숫자	KO
+추천	KO
+करें	HI
+
+정의	KO
+창문	KO
+दिखाएं	HI
+/	HI
+छिपाएं	HI
+.	HI
+.	HI
+.	HI
+(	HI
+_	HI
+S	HI
+)	HI
+
+स्पेसर	HI
+का	HI
+모양	KO
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+eel	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+eel	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+라인	KO
+व्रेप	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gtk	HI
++	HI
+.	HI
+gtk	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gtk22	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+라인	KO
+व्रैप	HI
+
+페어	KO
+만들기	KO
+के	HI
+लिए	HI
+जाम	HI
+
+सिलेक्शन	HI
+के	HI
+लिए	HI
+हाइलाइट	HI
+완료	KO
+
+전체	KO
+닫습니다	KO
+toc	KO
+
+디렉터리	KO
+
+टूलबार	HI
+में	HI
+오직	KO
+आइकान	HI
+दर्शाएं	HI
+
+이거	KO
+파일	KO
+(	HI
+छोटि	HI
+)	HI
+को	HI
+बान्द	HI
+करे	HI
+
+बुकमार्क्स	HI
+
+बुकमार्क	HI
+추가하기	KO
+(	HI
+A	HI
+)	HI
+
+प्रस्तुत	HI
+국가	KO
+के	HI
+लिए	HI
+책갈피	KO
+मीनू	HI
+में	HI
+추가하기	KO
+
+/	HI
+즐겨찾기	KO
+리비전	KO
+
+파이널	KO
+부분	KO
+
+/	HI
+책갈피	KO
+리비전	KO
+
+/	HI
+बुकमार्क	HI
+리비전	KO
+
+बुकमार्क्स	HI
+
+/	HI
+책갈피	KO
+संशोधन	HI
+
+छैतिज	HI
+스케일	KO
+
+छैतिज	HI
+규모	KO
+
+छैतिज	HI
+규모	KO
+
+छैतिज	HI
+पैमाना	HI
+
+छैतिज	HI
+직장	KO
+
+छैतिज	HI
+범위	KO
+
+ड्राव	HI
+के	HI
+लिए	HI
+하이라이트	KO
+toc	KO
+
+छैतिज	HI
+पैमाना	HI
+
+/	HI
+즐겨찾기	KO
+संशोधन	HI
+
+관찰자	KO
+की	HI
+설정	KO
+
+स्थिर	HI
+선언	KO
+को	HI
+छोड़	HI
+दें	HI
+
+ढूंढने	HI
+के	HI
+लिए	HI
+फाइल	HI
+का	HI
+이름	KO
+두두	KO
+
+छैतिज	HI
+पैमाना	HI
+
+प्रोफाईलिंग	HI
+पुन	HI
+집합	KO
+toc	KO
+
+छैतिज	HI
+스코프	KO
+
+प्रत्येक	HI
+라인	KO
+क	HI
+प्रिंट	HI
+toc	KO
+
+페이지	KO
+हैडर	HI
+프린트	KO
+toc	KO
+
+पाश्व	HI
+रंग	HI
+
+커서	KO
+का	HI
+컬러	KO
+
+सभी	HI
+खुली	HI
+फाइलों	HI
+को	HI
+닫기	KO
+करें	HI
+
+모두	KO
+닫습니다	KO
+toc	KO
+
+칼럼	KO
+के	HI
+बीच	HI
+की	HI
+띄어쓰기	KO
+
+यात्रा	HI
+검사	KO
+
+प्रोफाईलिंग	HI
+पुन	HI
+설정	KO
+toc	KO
+
+फाइल	HI
+को	HI
+개봉	KO
+में	HI
+असमर्थ	HI
+
+라인	KO
+(	HI
+या	HI
+)	HI
+
+라인	KO
+(	HI
+या	HI
+)	HI
+
+아버지	KO
+विडगेट	HI
+
+선택	KO
+सीमा	HI
+
+चयन	HI
+सीमा	HI
+
+स्पेसर	HI
+का	HI
+모양	KO
+
+डिफाल्ट	HI
+완료	KO
+गया	HI
+
+इंडेन्टेशन	HI
+की	HI
+픽셀	KO
+숫자	KO
+
+स्पेसर	HI
+का	HI
+आकार	HI
+
+परिभाषा	HI
+창문	KO
+공연	KO
+/	HI
+छिपाएं	HI
+.	HI
+.	HI
+.	HI
+(	HI
+_	HI
+S	HI
+)	HI
+
+오프닝	KO
+के	HI
+लिए	HI
+कोई	HI
+लाग	HI
+파일	KO
+아님	KO
+है	HI
+
+부두	KO
+से	HI
+प्रमाण	HI
+편지	KO
+लेने	HI
+में	HI
+असमर्थ	HI
+
+파일	KO
+%	HI
+s	HI
+
+인쇄	KO
+동부	KO
+비전	KO
+
+이거	KO
+फाइल	HI
+में	HI
+바꿨다	KO
+किया	HI
+गया	HI
+है	HI
+क्या	HI
+귀하	KO
+इसे	HI
+पुनः	HI
+로드	KO
+करना	HI
+चाहते	HI
+हैं	HI
+?	HI
+
+फाइल	HI
+%	HI
+s	HI
+संग्रहित	HI
+아님	KO
+की	HI
+जा	HI
+सकीThis	HI
+file	HI
+is	HI
+too	HI
+big	HI
+.	HI
+Unable	HI
+to	HI
+allocate	HI
+memory	HI
+.	HI
+
+फाइल	HI
+%	HI
+s	HI
+아님	KO
+मिली	HI
+
+'	HI
+%	HI
+s	HI
+'	HI
+파일	KO
+में	HI
+쓰기	KO
+की	HI
+त्रुटिः	HI
+%	HI
+s	HI
+
+फाइल	HI
+%	HI
+d	HI
+로딩	KO
+हो	HI
+रही	HI
+है	HI
+
+파일	KO
+%	HI
+s	HI
+아님	KO
+मिली	HI
+
+성공적	KO
+फ्लापी	HI
+को	HI
+포맷	KO
+완료	KO
+
+फाइल	HI
+%	HI
+s	HI
+संग्रहित	HI
+करें	HI
+
+파일	KO
+%	HI
+s	HI
+संग्रहित	HI
+아님	KO
+की	HI
+जा	HI
+सकी	HI
+
+파일	KO
+%	HI
+s	HI
+संग्रहित	HI
+아님	KO
+की	HI
+जा	HI
+सकी	HI
+
+सफलतापूर्वक	HI
+फ्लापी	HI
+को	HI
+फार्मेट	HI
+किया	HI
+
+깃발	KO
+की	HI
+위치	KO
+
+정적	KO
+घोषणाओं	HI
+को	HI
+스킵	KO
+दें	HI
+
+기말고사	KO
+संदेश	HI
+
+넥스트	KO
+संदेश	HI
+
+/	HI
+즐겨찾기	KO
+리비전	KO
+
+/	HI
+बुकमार्क	HI
+리비전	KO
+
+ब्रेकपाइंट	HI
+समायोजित	HI
+toc	KO
+
+스페인인	KO
+
+사운드	KO
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+balsa	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+Balsa	HI
+2	HI
+.	HI
+x	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+진행중	KO
+유지	KO
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gnome	HI
+-	HI
+session	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gnome	HI
+-	HI
+session	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+आगे	HI
+toc	KO
+
+पंक्ति	HI
+संख्या	HI
+
+चिन्हित	HI
+किए	HI
+हुओं	HI
+को	HI
+टागल	HI
+toc	KO
+
+नयों	HI
+को	HI
+टागल	HI
+toc	KO
+
+책갈피	KO
+추가	KO
+(	HI
+A	HI
+)	HI
+
+ध्वनि	HI
+형식	KO
+
+그러면	KO
+출신	KO
+ढूंढो	HI
+
+एक	HI
+फाइल	HI
+해제한	KO
+
+अंजूटा	HI
+문서	KO
+매니저	KO
+
+अंजूटा	HI
+프로젝트	KO
+मैनेजर	HI
+
+सी	HI
++	HI
++	HI
+원본	KO
+코드	KO
+
+सी	HI
++	HI
++	HI
+सोर्स	HI
+코드	KO
+
+जावा	HI
+원본	KO
+कोड	HI
+
+자바	KO
+소스	KO
+कोड	HI
+
+자바	KO
+출처	KO
+부호	KO
+
+자바	KO
+सोर्स	HI
+कोड	HI
+
+현재	KO
+파일	KO
+संग्रहित	HI
+toc	KO
+
+फाइल	HI
+चयन	HI
+करें	HI
+
+%	HI
+u	HI
+फाइल्स	HI
+
+0	HI
+फाइल्स	HI
+
+उपकरण	HI
+पर	HI
+글쓰기	KO
+में	HI
+असमर्थ	HI
+%	HI
+s	HI
+
+열기	KO
+
+खोलें	HI
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+전환	KO
+/	HI
+복수	KO
+करें	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gtkhtml	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+GtkHTML	HI
+2	HI
+.	HI
+x	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+बदलो	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+nautilus	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+nautilus	HI
+2	HI
+.	HI
+x	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+바뀌기	KO
+
+하나	KO
+파일	KO
+खोलें	HI
+
+कोई	HI
+필터	KO
+का	HI
+이름	KO
+निर्धारित	HI
+아님	KO
+है	HI
+
+प्रोजेक्ट	HI
+해제한	KO
+
+하나	KO
+파일	KO
+오픈	KO
+
+하나	KO
+파일	KO
+오픈	KO
+
+gnu	KO
+우편	KO
+메시지	KO
+
+जीएनयू	HI
+메일	KO
+메시지	KO
+
+डायरेक्ट्री	HI
+
+डायरेक्टरी	HI
+का	HI
+निर्माण	HI
+toc	KO
+
+सभी	HI
+खुली	HI
+फाइलों	HI
+को	HI
+닫아	KO
+toc	KO
+
+가정	KO
+के	HI
+दश्य	HI
+पर	HI
+जाएं	HI
+
+콘솔	KO
+में	HI
+छापें	HI
+
+작업	KO
+डायरेक्टरी	HI
+
+एक	HI
+파일	KO
+인터럽트	KO
+करें	HI
+
+새로고침	KO
+
+디스크	KO
+के	HI
+향상된	KO
+विकल्पों	HI
+को	HI
+छुपाओ	HI
+
+चलाने	HI
+가치가	KO
+텍스트	KO
+파일	KO
+
+프로젝트	KO
+में	HI
+सोर्स	HI
+추가	KO
+
+프로젝트	KO
+में	HI
+출처	KO
+जोड़ें	HI
+
+नया	HI
+फिल्टर	HI
+
+सोर्सफोर्ज	HI
+
+कोई	HI
+हेडर	HI
+아님	KO
+
+सी	HI
++	HI
++	HI
+소스	KO
+코드	KO
+
+सोर्सफोर्ज	HI
+
+자바	KO
+소스	KO
+코드	KO
+
+सोर्सफोर्ज	HI
+
+सोर्सफोर्ज	HI
+
+पियर	HI
+출신	KO
+प्रमाण	HI
+편지	KO
+लेने	HI
+में	HI
+असमर्थ	HI
+
+명령어	KO
+라인	KO
+की	HI
+품목	KO
+
+어플리케이션	KO
+출신	KO
+बाहर	HI
+जाएं	HI
+
+터미널	KO
+में	HI
+실행	KO
+
+आइकान	HI
+로딩	KO
+हो	HI
+रहे	HI
+है	HI
+
+디버깅	KO
+सूचनाओं	HI
+को	HI
+प्रिंट	HI
+toc	KO
+
+कोई	HI
+필터	KO
+का	HI
+이름	KO
+निर्धारित	HI
+아님	KO
+है	HI
+
+원조	KO
+दर्शाने	HI
+में	HI
+त्रुटिः	HI
+%	HI
+s	HI
+
+%	HI
+s	HI
+को	HI
+경로	KO
+पर	HI
+इन्सटाल	HI
+नहीं	HI
+완료	KO
+गया	HI
+है	HI
+
+ब्रेकपाइंट	HI
+समायोजित	HI
+toc	KO
+
+무언가	KO
+전이	KO
+संग्रहित	HI
+아님	KO
+किए	HI
+गए	HI
+हैं	HI
+क्या	HI
+귀하	KO
+इसी	HI
+상태	KO
+में	HI
+बाहर	HI
+निकलना	HI
+चाहते	HI
+हैं	HI
+?	HI
+
+रिमोट	HI
+कड़ियों	HI
+को	HI
+नहीं	HI
+달리기	KO
+सकता	HI
+
+प्रोग्राम	HI
+का	HI
+이름	KO
+
+फाइल	HI
+추가	KO
+
+이벤트	KO
+का	HI
+नाम	HI
+
+이벤트	KO
+का	HI
+नाम	HI
+
+कचरे	HI
+में	HI
+भेजें	HI
+
+이벤트	KO
+का	HI
+버전	KO
+
+खराब	HI
+차단	KO
+का	HI
+검사	KO
+toc	KO
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+पुनः	HI
+toc	KO
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gtk	HI
++	HI
+.	HI
+gtk	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gtk22	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+पुनः	HI
+toc	KO
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gtkhtml	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+GtkHTML	HI
+2	HI
+.	HI
+x	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+그러면	KO
+출신	KO
+करो	HI
+(	HI
+R	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+libgnomeui	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+libgnomeui	HI
+HEAD	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+पुन	HI
+toc	KO
+
+ग्लेड	HI
+계획	KO
+
+파일	KO
+%	HI
+s	HI
+संग्रहित	HI
+toc	KO
+
+파일	KO
+%	HI
+s	HI
+संग्रहित	HI
+toc	KO
+
+नया	HI
+프로젝트	KO
+만드세요	KO
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+पिछली	HI
+행동	KO
+취소	KO
+toc	KO
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+libgnomeui	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+libgnomeui	HI
+HEAD	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+라스트	KO
+프로세스	KO
+को	HI
+취소	KO
+toc	KO
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+निरस्त	HI
+की	HI
+गई	HI
+क्रिया	HI
+को	HI
+पुनः	HI
+toc	KO
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+libgnomeui	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+libgnomeui	HI
+HEAD	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+취소	KO
+프로세스	KO
+को	HI
+पुन	HI
+toc	KO
+
+चयनित	HI
+
+चयनित	HI
+
+चयनित	HI
+
+파일	KO
+नष्ट	HI
+toc	KO
+
+टिप्स	HI
+(	HI
+संकेतों	HI
+)	HI
+को	HI
+표시	KO
+(	HI
+_	HI
+i	HI
+)	HI
+
+काटो	HI
+चुने	HI
+हुए	HI
+को	HI
+क्लिपबोर्ड	HI
+पर	HI
+깨물어	KO
+
+नया	HI
+프로젝트	KO
+만드세요	KO
+
+하나	KO
+नया	HI
+프로젝트	KO
+만듭니다	KO
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+बर्तमान	HI
+파일	KO
+को	HI
+닫아	KO
+toc	KO
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+libgnomeui	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+libgnomeui	HI
+HEAD	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+흐름	KO
+파일	KO
+को	HI
+닫힌	KO
+toc	KO
+
+छैतिज	HI
+직장	KO
+
+파일	KO
+%	HI
+s	HI
+아님	KO
+got	KO
+
+파일	KO
+%	HI
+s	HI
+아님	KO
+찾았습니다	KO
+
+एक	HI
+नया	HI
+प्रोजेक्ट	HI
+생성	KO
+
+आप	HI
+पहले	HI
+하나	KO
+블럭	KO
+को	HI
+선택	KO
+toc	KO
+
+फ़ाइलों	HI
+को	HI
+जोडे	HI
+
+바뀌기	KO
+
+제곱	KO
+
+당신은	KO
+먼저	KO
+하나	KO
+खंड	HI
+को	HI
+선택	KO
+करें	HI
+
+क्या	HI
+आप	HI
+특정	KO
+ही	HI
+"	HI
+%	HI
+s	HI
+"	HI
+को	HI
+ट्रेश	HI
+출신	KO
+स्थायी	HI
+तौर	HI
+पर	HI
+डिलीट	HI
+करना	HI
+चाहते	HI
+हैं	HI
+
+क्या	HI
+आप	HI
+특정	KO
+है	HI
+कि	HI
+당신	KO
+ट्रेश	HI
+की	HI
+전체	KO
+आयटम्स	HI
+हमेशा	HI
+के	HI
+लिए	HI
+डिलीट	HI
+करना	HI
+चाहते	HI
+हैं	HI
+
+क्या	HI
+आप	HI
+निश्चित	HI
+ही	HI
+"	HI
+%	HI
+s	HI
+"	HI
+को	HI
+ट्रेश	HI
+출신	KO
+स्थायी	HI
+तौर	HI
+पर	HI
+डिलीट	HI
+करना	HI
+चाहते	HI
+हैं	HI
+
+날짜	KO
+तथा	HI
+타이밍이	KO
+प्रविषश्ट	HI
+करें	HI
+
+표시	KO
+
+आक्टेल	HI
+अनुमतियां	HI
+
+%	HI
+s	HI
+정규	KO
+파일	KO
+아님	KO
+है	HI
+
+भेजने	HI
+के	HI
+लिए	HI
+कोई	HI
+문서	KO
+아님	KO
+
+%	HI
+s	HI
+को	HI
+क्रियान्वित	HI
+करने	HI
+में	HI
+असफल	HI
+%	HI
+d	HI
+(	HI
+%	HI
+s	HI
+)	HI
+
+파일	KO
+को	HI
+बदलने	HI
+में	HI
+असमर्थ	HI
+
+फाइल	HI
+को	HI
+बदलने	HI
+में	HI
+असमर्थ	HI
+
+कोई	HI
+입력기	KO
+डिवाइस	HI
+नहीं	HI
+है	HI
+
+कुछ	HI
+न	HI
+toc	KO
+(	HI
+h	HI
+)	HI
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+balsa	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+Balsa	HI
+2	HI
+.	HI
+x	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+पासवर्ड	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+eel	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+eel	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+पासवर्डः	HI
+(	HI
+_	HI
+P	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+file	HI
+-	HI
+roller	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+File	HI
+Roller	HI
+hindi	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+गुपत	HI
+अक्षर	HI
+(	HI
+_	HI
+P	HI
+)	HI
+:	HI
+
+फाइल	HI
+का	HI
+नाम	HI
+ढूंढो	HI
+
+파일	KO
+का	HI
+이름	KO
+ढूंढो	HI
+
+태그	KO
+리스트	KO
+विन्डो	HI
+प्रदर्शित	HI
+करे	HI
+
+하나	KO
+नयी	HI
+फाइल	HI
+का	HI
+제조	KO
+toc	KO
+
+पाठ्य	HI
+संसाधक	HI
+
+범주	KO
+
+top	KO
+
+शीर्ष	HI
+
+top	KO
+
+인기	KO
+
+인기	KO
+
+शीर्ष	HI
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+balsa	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+Balsa	HI
+2	HI
+.	HI
+x	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+अपडेट	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+अपडेट	HI
+(	HI
+갱신	KO
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gnome	HI
+-	HI
+applets	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gnome	HI
+-	HI
+applets	HI
+2	HI
+.	HI
+x	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+अपडेट	HI
+(	HI
+갱신	KO
+)	HI
+
+शीर्ष	HI
+
+सत्रें	HI
+
+पेज	HI
+हैडर	HI
+प्रिंट	HI
+करें	HI
+
+विकल्पों	HI
+को	HI
+सन्ग्रहित	HI
+करे	HI
+
+메시지	KO
+के	HI
+रंग	HI
+
+विकल्पों	HI
+को	HI
+सन्ग्रहित	HI
+करे	HI
+
+메시지	KO
+앞으로	KO
+बढ़ाना	HI
+
+इस	HI
+प्रविष्टि	HI
+में	HI
+कितने	HI
+कैरेक्टर्स	HI
+के	HI
+लिए	HI
+장소	KO
+छो़ड़ा	HI
+जाए	HI
+
+लिखकर	HI
+काट	HI
+दें	HI
+
+메시지	KO
+का	HI
+종류	KO
+
+वार्निंग	HI
+메세지	KO
+
+gnu	KO
+편지	KO
+메시지	KO
+
+'	HI
+%	HI
+s	HI
+'	HI
+파일	KO
+में	HI
+쓰기	KO
+की	HI
+त्रुटिः	HI
+%	HI
+s	HI
+
+넥스트	KO
+메시지	KO
+
+넥스트	KO
+संदेश	HI
+
+라스트	KO
+संदेश	HI
+
+기말고사	KO
+메세지	KO
+
+이거	KO
+메시지	KO
+송금	KO
+
+यह	HI
+메시지	KO
+보냅니다	KO
+
+기말고사	KO
+메세지	KO
+
+필터	KO
+का	HI
+백만	KO
+हुआ	HI
+है	HI
+
+वर्तमान	HI
+파일	KO
+संग्रहित	HI
+toc	KO
+
+प्ले	HI
+진행	KO
+पर	HI
+
+디바이스	KO
+
+चिपकाएं	HI
+
+이거	KO
+एक	HI
+डायरेक्टरी	HI
+है	HI
+
+부품	KO
+
+हटाएं	HI
+
+파일	KO
+जोड़ें	HI
+
+हिस्से	HI
+
+अनियत	HI
+चौड़ाई	HI
+
+छैतिज	HI
+범위	KO
+
+무엇인가	KO
+न	HI
+करें	HI
+(	HI
+h	HI
+)	HI
+
+something	KO
+न	HI
+toc	KO
+(	HI
+h	HI
+)	HI
+
+छैतिज	HI
+척도	KO
+
+검색	KO
+का	HI
+웨이	KO
+
+टिप्स	HI
+(	HI
+संकेतों	HI
+)	HI
+को	HI
+보이기	KO
+(	HI
+_	HI
+i	HI
+)	HI
+
+लान्चर	HI
+공지	KO
+का	HI
+편집	KO
+करें	HI
+
+프로젝트	KO
+खोलें	HI
+
+प्रोजेक्ट	HI
+로드	KO
+करने	HI
+में	HI
+असमर्थ	HI
+
+특성	KO
+
+이거	KO
+플러그인	KO
+के	HI
+लिए	HI
+कोई	HI
+상세	KO
+उपलब्ध	HI
+아님	KO
+है	HI
+
+체인	KO
+की	HI
+사양	KO
+
+이거	KO
+플러그인	KO
+के	HI
+लिए	HI
+कोई	HI
+묘사	KO
+उपलब्ध	HI
+아님	KO
+है	HI
+
+क्या	HI
+귀하	KO
+특정	KO
+ही	HI
+"	HI
+%	HI
+s	HI
+"	HI
+को	HI
+ट्रेश	HI
+출신	KO
+영구적	KO
+तौर	HI
+पर	HI
+डिलीट	HI
+करना	HI
+चाहते	HI
+हैं	HI
+
+프로젝트	KO
+
+기능	KO
+
+프로젝트	KO
+में	HI
+원본	KO
+जोड़ें	HI
+
+프로젝트	KO
+में	HI
+출처	KO
+추가	KO
+
+소스	KO
+추가하기	KO
+
+프로젝트	KO
+출신	KO
+출처	KO
+हटाएं	HI
+
+प्रोजेक्ट	HI
+बंद	HI
+toc	KO
+
+प्रोजेक्ट	HI
+बंद	HI
+toc	KO
+
+प्रोजेक्ट	HI
+में	HI
+सोर्स	HI
+추가	KO
+
+원본	KO
+जोड़ें	HI
+
+프로젝트	KO
+출신	KO
+원본	KO
+हटाएं	HI
+
+프로젝트	KO
+오픈	KO
+
+하나	KO
+नया	HI
+프로젝트	KO
+생성	KO
+
+आइकान	HI
+को	HI
+로드	KO
+करने	HI
+में	HI
+오류	KO
+%	HI
+s	HI
+
+अंजूटा	HI
+프로젝트	KO
+मैनेजर	HI
+공장	KO
+
+프로젝트	KO
+해제한	KO
+
+फाइल	HI
+%	HI
+d	HI
+로딩	KO
+हो	HI
+रही	HI
+है	HI
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gnome	HI
+-	HI
+desktop	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gnome	HI
+-	HI
+desktop	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+अनुप्रयोग	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+nautilus	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+nautilus	HI
+2	HI
+.	HI
+x	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+사용법	KO
+के	HI
+लिए	HI
+
+लान्चर	HI
+정보	KO
+का	HI
+수정	KO
+toc	KO
+
+프로젝트	KO
+플랜	KO
+
+프로젝트	KO
+
+सूचना	HI
+दिखाने	HI
+वाली	HI
+라인	KO
+
+프로젝트	KO
+
+प्रोजेक्ट	HI
+로딩	KO
+करने	HI
+में	HI
+असमर्थ	HI
+
+이거	KO
+파일	KO
+मौजूद	HI
+아님	KO
+है	HI
+।	HI
+क्या	HI
+आप	HI
+이거	KO
+फाइल	HI
+का	HI
+निर्माण	HI
+करना	HI
+चाहते	HI
+हैं	HI
+?	HI
+
+부두	KO
+출신	KO
+증명	KO
+पत्र	HI
+लेने	HI
+में	HI
+असमर्थ	HI
+
+성공적으로	KO
+फ्लापी	HI
+को	HI
+형식으로	KO
+완료	KO
+
+प्ले	HI
+진행	KO
+पर	HI
+
+नया	HI
+프로젝트	KO
+만드세요	KO
+
+작업	KO
+के	HI
+
+विघटित	HI
+लायब्रेरी	HI
+
+बाल्सा	HI
+को	HI
+कान्फिगर	HI
+करो	HI
+
+बाल्सा	HI
+को	HI
+कान्फिगर	HI
+करो	HI
+
+부두	KO
+से	HI
+증명	KO
+पत्र	HI
+लेने	HI
+में	HI
+असमर्थ	HI
+
+알림	KO
+
+ई	HI
+-	HI
+편지	KO
+पता	HI
+
+정보	KO
+
+정보	KO
+
+최근	KO
+में	HI
+ही	HI
+사용	KO
+की	HI
+गई	HI
+파일	KO
+
+डायरेक्टरी	HI
+아님	KO
+है	HI
+
+프로젝트	KO
+계획	KO
+
+사양	KO
+
+포커스	KO
+करने	HI
+पर	HI
+चयन	HI
+toc	KO
+
+प्रोजेक्ट	HI
+계획	KO
+
+टैग	HI
+लिस्ट	HI
+플러그인	KO
+
+태그	KO
+लिस्ट	HI
+플러그인	KO
+
+डिस्क	HI
+के	HI
+향상	KO
+विकल्पों	HI
+को	HI
+छुपाओ	HI
+
+अनियत	HI
+너비	KO
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+इसी	HI
+문자열	KO
+को	HI
+पुनः	HI
+खोजें	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+libgnomeui	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+libgnomeui	HI
+HEAD	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+유사	KO
+स्ट्रिंग	HI
+को	HI
+पुन	HI
+탐사	KO
+
+डायरेक्टरी	HI
+का	HI
+창의성	KO
+toc	KO
+
+파일	KO
+कापी	HI
+toc	KO
+
+ढूंढो	HI
+그리고	KO
+बदलो	HI
+
+하나	KO
+फाइल	HI
+삽입	KO
+toc	KO
+
+डायरेक्टरी	HI
+का	HI
+निर्माण	HI
+toc	KO
+
+लछ्य	HI
+파일	KO
+
+यह	HI
+एक	HI
+डायरेक्टरी	HI
+है	HI
+
+एक	HI
+파일	KO
+인터넷	KO
+करें	HI
+
+विकल्पों	HI
+को	HI
+सन्ग्रहित	HI
+करे	HI
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+변경	KO
+/	HI
+복수	KO
+toc	KO
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gtkhtml	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+GtkHTML	HI
+2	HI
+.	HI
+x	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+बदलो	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+nautilus	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+nautilus	HI
+2	HI
+.	HI
+x	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+바뀌기	KO
+
+खोज	HI
+का	HI
+तरीका	HI
+
+रेग्युलर	HI
+표현	KO
+खोजना	HI
+
+रेग्युलर	HI
+표현	KO
+खोजना	HI
+
+검색	KO
+
+디스커버리	KO
+
+रेग्युलर	HI
+표현식	KO
+के	HI
+सिन्टेक्स	HI
+में	HI
+실수	KO
+है	HI
+
+다음	KO
+खोजें	HI
+
+ध्वनि	HI
+को	HI
+दोहराएं	HI
+
+ढूंढो	HI
+그리고	KO
+बदलो	HI
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+इसी	HI
+문자열	KO
+को	HI
+पुनः	HI
+खोजें	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+libgnomeui	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+libgnomeui	HI
+HEAD	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+유사한	KO
+문자열	KO
+को	HI
+पुन	HI
+검색하기	KO
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+इसी	HI
+문자열	KO
+को	HI
+पुनः	HI
+खोजें	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+libgnomeui	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+libgnomeui	HI
+HEAD	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+वही	HI
+स्ट्रिंग	HI
+को	HI
+पुन	HI
+खोजें	HI
+
+क्लिपबोर्ड	HI
+से	HI
+चुने	HI
+हुए	HI
+문구	KO
+को	HI
+잘라	KO
+
+फ़ाइल	HI
+को	HI
+지느러미	KO
+.	HI
+.	HI
+.	HI
+(	HI
+_	HI
+F	HI
+)	HI
+
+रैण्डर	HI
+होने	HI
+वाला	HI
+पाठ्य	HI
+
+शब्द	HI
+की	HI
+모두	KO
+पुनरावत्तियों	HI
+को	HI
+외부	KO
+
+결승전	KO
+ध्वनि	HI
+경로	KO
+
+words	KO
+की	HI
+전체	KO
+पुनरावत्तियों	HI
+को	HI
+끝내기	KO
+
+अंजूटा	HI
+हैल्प	HI
+브라우저	KO
+
+खोज	HI
+का	HI
+way	KO
+
+खोजें	HI
+
+흐름	KO
+파일	KO
+संग्रहित	HI
+toc	KO
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+교체	KO
+/	HI
+보상	KO
+करें	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gtkhtml	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+GtkHTML	HI
+2	HI
+.	HI
+x	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+बदलो	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+nautilus	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+nautilus	HI
+2	HI
+.	HI
+x	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+교체	KO
+
+पाठ्य	HI
+"	HI
+%	HI
+s	HI
+"	HI
+아님	KO
+मिला	HI
+था	HI
+
+चुने	HI
+हुए	HI
+आयटम	HI
+को	HI
+오프닝	KO
+के	HI
+लिए	HI
+"	HI
+%	HI
+s	HI
+"	HI
+का	HI
+사용	KO
+toc	KO
+
+부두	KO
+출신	KO
+प्रमाण	HI
+편지	KO
+लेने	HI
+में	HI
+असमर्थ	HI
+
+파일	KO
+%	HI
+s	HI
+아님	KO
+मिली	HI
+
+प्रोफाईलिंग	HI
+पुन	HI
+सेट	HI
+toc	KO
+
+प्रोफाईलिंग	HI
+पुन	HI
+설정	KO
+करें	HI
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+बर्तमान	HI
+फाइल	HI
+को	HI
+닫습니다	KO
+toc	KO
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+libgnomeui	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+libgnomeui	HI
+HEAD	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+선물	KO
+파일	KO
+को	HI
+बंद	HI
+toc	KO
+
+파일	KO
+चयन	HI
+toc	KO
+
+인쇄	KO
+동쪽	KO
+시력	KO
+
+गुपत	HI
+अक्षर	HI
+(	HI
+_	HI
+P	HI
+)	HI
+:	HI
+
+गुपत	HI
+인물	KO
+(	HI
+_	HI
+P	HI
+)	HI
+:	HI
+
+कार्य	HI
+डायरेक्टरी	HI
+
+सत्रें	HI
+
+세션	KO
+के	HI
+전환	KO
+소유	KO
+में	HI
+संग्रहित	HI
+करें	HI
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+balsa	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+Balsa	HI
+2	HI
+.	HI
+x	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+갱신	KO
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+갱신	KO
+(	HI
+갱신	KO
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gnome	HI
+-	HI
+applets	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gnome	HI
+-	HI
+applets	HI
+2	HI
+.	HI
+x	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+업데이트	KO
+(	HI
+갱신	KO
+)	HI
+
+세션	KO
+के	HI
+परिवर्तन	HI
+소유	KO
+में	HI
+संग्रहित	HI
+toc	KO
+
+उर्ध्वाधर	HI
+पैमाना	HI
+
+उर्ध्वाधर	HI
+스코프	KO
+
+कड़ी	HI
+हटा	HI
+두분	KO
+
+मिनट्स	HI
+को	HI
+अपडेट	HI
+toc	KO
+
+업데이트	KO
+(	HI
+갱신	KO
+)	HI
+
+मिनट्स	HI
+को	HI
+갱신	KO
+toc	KO
+
+업데이트	KO
+(	HI
+업데이트	KO
+)	HI
+
+वर्तमान	HI
+파일	KO
+संग्रहित	HI
+toc	KO
+
+सबको	HI
+커밋	KO
+toc	KO
+
+सबको	HI
+कमिट	HI
+toc	KO
+
+सबको	HI
+कमिट	HI
+करें	HI
+
+सबको	HI
+커밋	KO
+toc	KO
+
+सबको	HI
+커밋	KO
+toc	KO
+
+작업	KO
+डायरेक्टरी	HI
+
+डायरेक्ट्री	HI
+
+अंजूटा	HI
+प्रोजेक्ट	HI
+매니저	KO
+
+अंजूटा	HI
+symbol	HI
+브라우저	KO
+공장	KO
+
+카테고리	KO
+
+작업	KO
+डायरेक्टरी	HI
+
+मिनट्स	HI
+को	HI
+업데이트	KO
+toc	KO
+
+फ्लैग	HI
+की	HI
+상태	KO
+
+दस्ताबेज	HI
+के	HI
+관대	KO
+की	HI
+정의	KO
+
+स्थिर	HI
+선언	KO
+को	HI
+छोड़	HI
+दें	HI
+
+जाएँ	HI
+집에	KO
+की	HI
+상태	KO
+पर	HI
+
+दस्ताबेज	HI
+के	HI
+관대	KO
+की	HI
+परिभाषा	HI
+
+꾸준히	KO
+선언	KO
+को	HI
+छोड़	HI
+दें	HI
+
+그러면	KO
+출신	KO
+ढूंढो	HI
+
+अंजूटा	HI
+symbol	HI
+브라우저	KO
+फैक्ट्री	HI
+
+अंजूटा	HI
+symbol	HI
+브라우저	KO
+팩토리	KO
+
+देख	HI
+रहा	HI
+है	HI
+%	HI
+s	HI
+
+파일	KO
+선택	KO
+करें	HI
+
+उर्ध्वाधर	HI
+범위	KO
+
+전체	KO
+खुली	HI
+फाइलों	HI
+को	HI
+닫아	KO
+toc	KO
+
+नया	HI
+शार्टकट	HI
+
+표준	KO
+माॅनीकर	HI
+팩토리	KO
+
+पाठ्य	HI
+संसाधक	HI
+
+체계	KO
+단말기	KO
+
+अनियत	HI
+너비	KO
+
+अनियत	HI
+너비	KO
+
+कया	HI
+당신은	KO
+정말로	KO
+लागाउट	HI
+करना	HI
+चाहेंगे	HI
+?	HI
+
+부두	KO
+से	HI
+प्रमाण	HI
+पत्र	HI
+लेने	HI
+में	HI
+असमर्थ	HI
+
+부두	KO
+출신	KO
+प्रमाण	HI
+편지	KO
+लेने	HI
+में	HI
+असमर्थ	HI
+
+하나	KO
+문자열	KO
+देनी	HI
+ही	HI
+होगी	HI
+
+하나	KO
+문자열	KO
+देनी	HI
+ही	HI
+होगी	HI
+
+실수	KO
+:	HI
+इस	HI
+이름	KO
+की	HI
+पहचान	HI
+우선	KO
+출신	KO
+है	HI
+
+प्रोजेक्ट	HI
+लोड	HI
+करने	HI
+में	HI
+असमर्थ	HI
+
+निर्देश	HI
+실행	KO
+
+성공적	KO
+फ्लापी	HI
+को	HI
+포맷	KO
+किया	HI
+
+पियर	HI
+출신	KO
+증거	KO
+पत्र	HI
+लेने	HI
+में	HI
+असमर्थ	HI
+
+파일	KO
+को	HI
+오프닝	KO
+में	HI
+असमर्थ	HI
+
+आइकान	HI
+को	HI
+लोड	HI
+करने	HI
+में	HI
+त्रुटि	HI
+%	HI
+s	HI
+
+파일	KO
+को	HI
+개봉	KO
+में	HI
+असमर्थ	HI
+
+कानफिगर	HI
+(	HI
+_	HI
+n	HI
+)	HI
+
+बाल्सा	HI
+को	HI
+कान्फिगर	HI
+करो	HI
+
+स्थिर	HI
+선언	KO
+को	HI
+떠나	KO
+दें	HI
+
+강도	KO
+매개변수	KO
+출신	KO
+
+카테고리가	KO
+
+전체	KO
+चुनें	HI
+
+하나	KO
+파일	KO
+खोलें	HI
+
+क्रियान्वित	HI
+toc	KO
+
+변화	KO
+
+프로젝트	KO
+로딩	KO
+करने	HI
+में	HI
+असमर्थ	HI
+
+프로젝트	KO
+लोड	HI
+करने	HI
+में	HI
+असमर्थ	HI
+
+'	HI
+%	HI
+s	HI
+'	HI
+파일	KO
+में	HI
+타이핑	KO
+की	HI
+त्रुटिः	HI
+%	HI
+s	HI
+
+सामान्य	HI
+이름	KO
+
+%	HI
+u	HI
+फाइल्स	HI
+
+विघटित	HI
+लायब्रेरी	HI
+
+माॅड्यूल	HI
+फाइल	HI
+नाम	HI
+
+'	HI
+%	HI
+s	HI
+'	HI
+파일	KO
+में	HI
+타이핑	KO
+की	HI
+त्रुटिः	HI
+%	HI
+s	HI
+
+अंजूटा	HI
+
+अंजूटा	HI
+
+파일	KO
+%	HI
+d	HI
+लोड	HI
+हो	HI
+रही	HI
+है	HI
+
+लाग	HI
+आन	HI
+की	HI
+공지	KO
+
+कार्य	HI
+डायरेक्टरी	HI
+
+ई	HI
+-	HI
+메일	KO
+पता	HI
+
+사용자	KO
+이름	KO
+
+가득	KO
+화면	KO
+
+대안	KO
+समायोजित	HI
+करें	HI
+
+स्टेटसबार	HI
+को	HI
+소유	KO
+अनुसार	HI
+बदलें	HI
+
+अनियत	HI
+चौड़ाई	HI
+
+터미널	KO
+में	HI
+달려	KO
+
+अंजूटा	HI
+문서	KO
+매니저	KO
+
+अंजूटा	HI
+문서	KO
+관리자	KO
+
+선물	KO
+워드	KO
+के	HI
+लिए	HI
+문서	KO
+탐사	KO
+
+오류	KO
+रिपोर्ट	HI
+보증금	KO
+करें	HI
+
+조회	KO
+
+अंजूटा	HI
+
+नयों	HI
+को	HI
+टागल	HI
+toc	KO
+
+프로젝트	KO
+उपलब्ध	HI
+아님	KO
+है	HI
+
+मेलबाक्स	HI
+को	HI
+स्पूलिंग	HI
+के	HI
+लिए	HI
+아님	KO
+खोल	HI
+got	KO
+
+फाईल	HI
+%	HI
+s	HI
+ago	KO
+출신	KO
+선물	KO
+है	HI
+क्या	HI
+귀하	KO
+इसे	HI
+पुनर्लेखित	HI
+करना	HI
+चाहते	HI
+हैं	HI
+
+लाॅग	HI
+-	HI
+इन	HI
+पर	HI
+स्प्लेश	HI
+स्क्रीन	HI
+표시됨	KO
+toc	KO
+
+अंजूटा	HI
+
+विकल्प	HI
+.	HI
+.	HI
+.	HI
+(	HI
+_	HI
+P	HI
+)	HI
+
+स्टेटसबार	HI
+को	HI
+소유	KO
+अनुसार	HI
+변환	KO
+
+अंजूटा	HI
+
+학급	KO
+
+정의	KO
+창문	KO
+보이기	KO
+/	HI
+छिपाएं	HI
+.	HI
+.	HI
+.	HI
+(	HI
+_	HI
+S	HI
+)	HI
+
+इंडेन्टेशन	HI
+की	HI
+पिक्सेल	HI
+संख्या	HI
+
+पिता	HI
+विडगेट	HI
+
+정의	KO
+창문	KO
+दिखाएं	HI
+/	HI
+छिपाएं	HI
+.	HI
+.	HI
+.	HI
+(	HI
+_	HI
+S	HI
+)	HI
+
+अंजूटा	HI
+
+파일	KO
+का	HI
+이름	KO
+ढूंढो	HI
+
+अंजूटा	HI
+
+존재	KO
+파일	KO
+संग्रहित	HI
+करें	HI
+
+이거	KO
+하나	KO
+डायरेक्टरी	HI
+है	HI
+
+टैग	HI
+लिस्ट	HI
+플러그인	KO
+
+태그	KO
+लिस्ट	HI
+प्लगइन	HI
+
+태그	KO
+लिस्ट	HI
+플러그인	KO
+
+नया	HI
+프로젝트	KO
+생성	KO
+
+파일	KO
+का	HI
+이름	KO
+ढूंढो	HI
+
+विकल्पों	HI
+को	HI
+सन्ग्रहित	HI
+करे	HI
+
+작업	KO
+के	HI
+
+अंजूटा	HI
+हैल्प	HI
+브라우저	KO
+
+링크	KO
+स्वत	HI
+발견	KO
+
+안내	KO
+표시	KO
+
+%	HI
+u	HI
+फाइल्स	HI
+
+अंजूटा	HI
+symbol	HI
+ब्राउजर	HI
+फैक्ट्री	HI
+
+지시	KO
+
+디스크	KO
+के	HI
+उन्नत	HI
+विकल्पों	HI
+को	HI
+छुपाओ	HI
+
+माॅड्यूल	HI
+파일	KO
+이름	KO
+
+फाइल्स	HI
+डिलीट	HI
+납세	KO
+रहा	HI
+है	HI
+
+दस्तावेज	HI
+/	HI
+
+볼륨	KO
+चालू	HI
+toc	KO
+
+클리프	KO
+안내	KO
+
+पाठ्य	HI
+का	HI
+दश्य	HI
+
+माॅड्यूल	HI
+파일	KO
+이름	KO
+
+이거	KO
+하나	KO
+डायरेक्टरी	HI
+है	HI
+
+हस्ताछर	HI
+포함됨	KO
+करो	HI
+
+파일	KO
+लगाएं	HI
+
+जानकारी	HI
+के	HI
+페이지	KO
+
+चलाने	HI
+लायक	HI
+문자	KO
+파일	KO
+
+रासता	HI
+
+डिफाल्ट	HI
+완료	KO
+गया	HI
+
+वस्तुओं	HI
+की	HI
+प्रति	HI
+साईट	HI
+दर्शाई	HI
+गई	HI
+최대화	KO
+संख्या	HI
+
+하나	KO
+आईकन	HI
+선택하기	KO
+
+위치	KO
+오픈	KO
+
+नया	HI
+फिल्टर	HI
+
+프로젝트	KO
+해제한	KO
+
+एक	HI
+नया	HI
+प्रोजेक्ट	HI
+만들기	KO
+
+하나	KO
+프로젝트	KO
+열기	KO
+
+%	HI
+u	HI
+फाइल्स	HI
+
+프로젝트	KO
+
+SSL	HI
+उपलब्ध	HI
+아님	KO
+है	HI
+
+프로젝트	KO
+플랜	KO
+
+프로젝트	KO
+오픈	KO
+
+कानफिगर	HI
+(	HI
+_	HI
+n	HI
+)	HI
+
+टूलटिप	HI
+표시됨	KO
+करें	HI
+
+लाग	HI
+आन	HI
+की	HI
+जानकारी	HI
+
+사용자	KO
+이름	KO
+
+फ़ाइल	HI
+को	HI
+득표	KO
+지느러미	KO
+(	HI
+_	HI
+x	HI
+)	HI
+
+Pixmap	HI
+डायरेक्टरी	HI
+
+터미널	KO
+में	HI
+공연	KO
+
+रैण्डर	HI
+होने	HI
+वाला	HI
+pixbut	HI
+
+%	HI
+s	HI
+보통	KO
+파일	KO
+नहीं	HI
+है	HI
+
+प्रोजेक्ट	HI
+उपलब्ध	HI
+아님	KO
+है	HI
+
+%	HI
+s	HI
+정규	KO
+파일	KO
+नहीं	HI
+है	HI
+
+%	HI
+s	HI
+नियमित	HI
+파일	KO
+아님	KO
+है	HI
+
+कोई	HI
+फिल्टर	HI
+का	HI
+이름	KO
+निर्धारित	HI
+아님	KO
+है	HI
+
+0	HI
+फाइल्स	HI
+
+जेबिल्डर	HI
+प्रोजेक्ट	HI
+
+프로젝트	KO
+닫힌	KO
+toc	KO
+
+게재	KO
+목록	KO
+
+하나	KO
+नया	HI
+프로젝트	KO
+बनाएं	HI
+
+프로젝트	KO
+में	HI
+출처	KO
+추가	KO
+
+프로젝트	KO
+닫기	KO
+toc	KO
+
+모두	KO
+닫아	KO
+toc	KO
+
+프로젝트	KO
+में	HI
+소스	KO
+जोड़ें	HI
+
+주소	KO
+किताब	HI
+경로	KO
+%	HI
+s	HI
+완료되었습니다	KO
+아님	KO
+है	HI
+
+हस्ताछर	HI
+शामिल	HI
+करो	HI
+
+चयनित	HI
+파일	KO
+चलाने	HI
+자격	KO
+아님	KO
+है	HI
+
+दस्तावेज	HI
+संग्रहित	HI
+아님	KO
+완료	KO
+गया	HI
+
+애플리케이션	KO
+출신	KO
+बाहर	HI
+जाएं	HI
+
+फाइल	HI
+선택	KO
+toc	KO
+
+सोर्सफोर्ज	HI
+
+हैडर	HI
+(	HI
+शीर्षक	HI
+)	HI
+클릭	KO
+किए	HI
+जाने	HI
+자격	KO
+
+%	HI
+u	HI
+फाइल्स	HI
+
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+gedit	HI
+.	HI
+gnome	HI
+-	HI
+2	HI
+-	HI
+2	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+gedit	HI
+VERSION	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+वर्तमान	HI
+파일	KO
+को	HI
+संग्रहित	HI
+toc	KO
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+libgnomeui	HI
+.	HI
+HEAD	HI
+.	HI
+hi	HI
+.	HI
+po	HI
+(	HI
+libgnomeui	HI
+HEAD	HI
+)	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+-	HI
+#	HI
+스트리밍	KO
+파일	KO
+संग्रहित	HI
+toc	KO
+
+ढूंढने	HI
+के	HI
+लिए	HI
+파일	KO
+का	HI
+이름	KO
+दो	HI
+
+필터	KO
+लगाने	HI
+में	HI
+त्रुटि	HI
+
+संग्रहित	HI
+नहीं	HI
+toc	KO
+
+파일	KO
+선택	KO
+करें	HI
+
+व्यू	HI
+को	HI
+पूर्वनिर्धारित	HI
+जैसा	HI
+준비	KO
+toc	KO
+
+.	HI
+.	HI
+.	HI
+.	HI
+नाम	HI
+से	HI
+संग्रहित	HI
+toc	KO
+
+बुकमार्क	HI
+추가하기	KO
+(	HI
+A	HI
+)	HI
+
+%	HI
+s	HI
+보통	KO
+फाइल	HI
+아님	KO
+है	HI
+
+하나	KO
+फाइल	HI
+प्रविष्ट	HI
+toc	KO
+
+कीवर्ड	HI
+
+일반인	KO
+
+top	KO
+
+하나	KO
+파일	KO
+삽입	KO
+toc	KO
+
+현재	KO
+세션	KO
+संग्रहित	HI
+toc	KO
+
+기존	KO
+पाठ्य	HI
+में	HI
+하나	KO
+메세지	KO
+인터넷	KO
+करें	HI
+
+데이트	KO
+/	HI
+타이밍이	KO
+인터럽트	KO
+करें	HI
+
+तिथि	HI
+तथा	HI
+타임	KO
+प्रविषश्ट	HI
+करें	HI
+
+하나	KO
+파일	KO
+삽입	KO
+toc	KO
+
+표준	KO
+GPL	HI
+हैडर	HI
+하나	KO
+C	HI
+파일	KO
+में	HI
+삽입	KO
+toc	KO
+
+하나	KO
+파일	KO
+삽입	KO
+करें	HI
+
+एक	HI
+फाइल	HI
+प्रविष्ट	HI
+toc	KO
+
+하나	KO
+파일	KO
+삽입	KO
+toc	KO
+
+लाॅगिन	HI
+
+सत्रें	HI
+
+C	HI
+सोर्स	HI
+
+छैतिज	HI
+범위	KO
+
+फाइल्स	HI
+डिलीट	HI
+세금	KO
+주어진	KO
+
+फाइल्स	HI
+डिलीट	HI
+납세	KO
+주어진	KO
+
+फाइल्स	HI
+डिलीट	HI
+कर	HI
+दी	HI
+
+हस्ताछरित	HI
+메시지	KO
+
+부두	KO
+से	HI
+증거	KO
+편지	KO
+लेने	HI
+में	HI
+असमर्थ	HI
+
+전체	KO
+선물	KO
+통화	KO
+के	HI
+메세지	KO
+भेजने	HI
+वालों	HI
+को	HI
+북쪽	KO
+दें	HI
+
+라인	KO
+संख्या	HI
+디스플레이	KO
+toc	KO
+
+플레이	KO
+पुनः	HI
+시작됨	KO
+toc	KO
+
+프로그램	KO
+को	HI
+정지	KO
+
+행사	KO
+को	HI
+중지	KO
+
+प्रोग्राम	HI
+को	HI
+रोकें	HI
+
+परोग्राम	HI
+के	HI
+बारे	HI
+मे	HI
+जानकारि	HI
+
+주제	KO
+객체	KO
+के	HI
+चारों	HI
+ओर	HI
+के	HI
+उठाव	HI
+का	HI
+종류	KO
+
+एक	HI
+नया	HI
+सत्र	HI
+जोड़ें	HI
+
+रेग्युलर	HI
+एक्सप्रेशन	HI
+खोजना	HI
+
+रेग्युलर	HI
+표현식	KO
+खोजना	HI
+
+रेग्यूलर	HI
+एक्सप्रेशन	HI
+को	HI
+मिलाता	HI
+है	HI
+
+क्या	HI
+당신	KO
+이거	KO
+दस्तावेज	HI
+में	HI
+किए	HI
+gone	KO
+परिवर्तनों	HI
+को	HI
+संग्रहित	HI
+करना	HI
+चाहते	HI
+हैं	HI
+?	HI
+यदि	HI
+आप	HI
+संग्रहित	HI
+아님	KO
+करते	HI
+हैं	HI
+तो	HI
+आपके	HI
+द्वारा	HI
+किए	HI
+gone	KO
+변신	KO
+당신은	KO
+खो	HI
+देंगे	HI
+
+संशोधन	HI
+toc	KO
+
+보이기	KO
+
+카테고리가	KO
+
+하나	KO
+색상	KO
+선택	KO
+
+प्लेयर	HI
+का	HI
+제조업	KO
+아님	KO
+हो	HI
+सकता	HI
+
+프로젝트	KO
+해제한	KO
+
+फ़ाइलः	HI
+%	HI
+s	HI
+
+파일	KO
+सहेजा	HI
+जा	HI
+रहा	HI
+है	HI
+.	HI
+.	HI
+.	HI
+
+샘플링	KO
+प्लगिन	HI
+
+Anjuta	HI
+के	HI
+लिए	HI
+नमूना	HI
+प्लगिन	HI
+.	HI
+
+함수	KO
+이름	KO
+
+평면	KO
+프로파일	KO
+
+기간	KO
+그래프	KO
+
+실행	KO
+खत्म	HI
+toc	KO
+(	HI
+_	HI
+K	HI
+)	HI
+
+लाग	HI
+로딩	KO
+करें	HI
+(	HI
+_	HI
+L	HI
+)	HI
+
+규칙	KO
+संपादित	HI
+toc	KO
+
+실수	KO
+में	HI
+포함됨	KO
+है	HI
+
+चिपकाएँ	HI
+(	HI
+_	HI
+P	HI
+)	HI
+
+누출	KO
+चेकः	HI
+
+누출	KO
+विभेदनः	HI
+
+यहां	HI
+तक	HI
+유지	KO
+
+체계	KO
+कालः	HI
+
+통화	KO
+चेनः	HI
+
+शक्तिशाली	HI
+디버깅	KO
+가전제품	KO
+
+वालग्रिंड	HI
+प्लगिन	HI
+
+센트럴	KO
+यूरोपीय	HI
+
+दक्षिण	HI
+유럽	KO
+
+चीनी	HI
+전통적	KO
+
+साइरिलिक	HI
+/	HI
+러시아어	KO
+
+중국어	KO
+(	HI
+심플	KO
+)	HI
+
+साइरिलिक	HI
+/	HI
+यूक्रेनी	HI
+
+Anjuta	HI
+शेल	HI
+
+현재	KO
+प्लगिन	HI
+
+वरीय	HI
+प्लगिन	HI
+
+प्लगिन	HI
+선택하기	KO
+
+이거	KO
+선택	KO
+기억	KO
+रखें	HI
+
+선물	KO
+प्लगिन	HI
+
+활동	KO
+प्लगिन	HI
+
+지금	KO
+활성	KO
+प्लगिन	HI
+
+플러그인	KO
+प्रबंधक	HI
+
+프로필	KO
+이름	KO
+
+프로파일	KO
+प्लगिन	HI
+
+Anjuta	HI
+선호	KO
+
+변화	KO
+त्यागें	HI
+(	HI
+_	HI
+D	HI
+)	HI
+
+रैण्डर	HI
+करने	HI
+के	HI
+लिए	HI
+텍스트	KO
+
+렌더링	KO
+के	HI
+लिए	HI
+पिक्सबफ	HI
+
+위젯	KO
+아님	KO
+मिलाः	HI
+%	HI
+s	HI
+
+프로젝트	KO
+फिर	HI
+जेनरेट	HI
+toc	KO
+
+चलाने	HI
+के	HI
+लिए	HI
+행사	KO
+चुनेंः	HI
+
+निर्देशिका	HI
+빌드	KO
+करेंः	HI
+
+프로젝트	KO
+विन्यस्त	HI
+toc	KO
+
+त्रुटि	HI
+पर	HI
+진행중	KO
+유지	KO
+
+बतौर	HI
+way	KO
+संस्थापित	HI
+करेंः	HI
+
+터미널	KO
+में	HI
+달리기	KO
+
+여러개	KO
+명령	KO
+एक	HI
+함께	KO
+चलाएँः	HI
+
+프로그램	KO
+선택하기	KO
+
+बिल्ड	HI
+디렉토리	KO
+चुनें	HI
+
+संदेश	HI
+अनुवाद	HI
+toc	KO
+
+दाखिल	HI
+हो	HI
+रहा	HI
+हैः	HI
+%	HI
+s	HI
+
+छोड़	HI
+रहा	HI
+हैः	HI
+%	HI
+s	HI
+
+उपयोक्ता	HI
+द्वारा	HI
+명령어	KO
+रद्द	HI
+
+빌드	KO
+%	HI
+d	HI
+:	HI
+%	HI
+s	HI
+
+빌드	KO
+(	HI
+_	HI
+B	HI
+)	HI
+
+प्रोजेक्ट	HI
+बिल्ड	HI
+toc	KO
+(	HI
+_	HI
+B	HI
+)	HI
+
+पूरा	HI
+프로젝트	KO
+빌드	KO
+toc	KO
+
+프로젝트	KO
+설치됨	KO
+toc	KO
+(	HI
+_	HI
+I	HI
+)	HI
+
+완료	KO
+프로젝트	KO
+설치	KO
+करें	HI
+
+प्रोजेक्ट	HI
+청소	KO
+toc	KO
+(	HI
+_	HI
+C	HI
+)	HI
+
+완료	KO
+프로젝트	KO
+깨끗한	KO
+toc	KO
+
+प्रोजेक्ट	HI
+विन्यस्त	HI
+करें	HI
+(	HI
+_	HI
+o	HI
+)	HI
+.	HI
+.	HI
+.	HI
+
+프로젝트	KO
+विन्यस्त	HI
+toc	KO
+
+टारबाल	HI
+बिल्ड	HI
+toc	KO
+(	HI
+_	HI
+T	HI
+)	HI
+
+संस्थापित	HI
+toc	KO
+(	HI
+_	HI
+I	HI
+)	HI
+
+परियोजना	HI
+में	HI
+추가하기	KO
+
+추가하기	KO
+(	HI
+_	HI
+A	HI
+)	HI
+
+हटाएं	HI
+(	HI
+_	HI
+R	HI
+)	HI
+
+갱신	KO
+toc	KO
+(	HI
+_	HI
+U	HI
+)	HI
+
+प्रक्रिया	HI
+में	HI
+추가	KO
+
+स्थान	HI
+(	HI
+_	HI
+L	HI
+)	HI
+:	HI
+
+이름	KO
+(	HI
+_	HI
+N	HI
+)	HI
+:	HI
+
+가치관	KO
+(	HI
+_	HI
+V	HI
+)	HI
+:	HI
+
+ब्रेकपाइन्ट	HI
+전환	KO
+toc	KO
+
+라인	KO
+संख्याएं	HI
+공연	KO
+
+क्या	HI
+라인	KO
+संख्याएं	HI
+दिखाना	HI
+है	HI
+
+क्या	HI
+라인	KO
+마커	KO
+pixbufs	HI
+대표	KO
+toc	KO
+
+श्रोत	HI
+공연	KO
+
+검사	KO
+हटाओ	HI
+
+मान	HI
+बदलें	HI
+
+모두	KO
+मिटाएँ	HI
+
+संदर्भ	HI
+원조	KO
+(	HI
+_	HI
+C	HI
+)	HI
+
+파일	KO
+오픈	KO
+
+ऐसे	HI
+फाइल	HI
+저장	KO
+
+ऐसे	HI
+저장	KO
+.	HI
+.	HI
+.	HI
+(	HI
+_	HI
+A	HI
+)	HI
+
+वर्तमान	HI
+파일	KO
+하나	KO
+भिन्न	HI
+नाम	HI
+출신	KO
+सहेजें	HI
+
+전체	KO
+끄기	KO
+toc	KO
+
+रूपांतरित	HI
+toc	KO
+(	HI
+_	HI
+T	HI
+)	HI
+
+सभी	HI
+선택하기	KO
+(	HI
+_	HI
+A	HI
+)	HI
+
+검색	KO
+(	HI
+_	HI
+S	HI
+)	HI
+
+पिछली	HI
+활동	KO
+취소	KO
+toc	KO
+
+दोहराएँ	HI
+(	HI
+_	HI
+R	HI
+)	HI
+
+마지막	KO
+पूर्ववत्	HI
+किए	HI
+액션	KO
+को	HI
+दोहराएँ	HI
+
+चयनित	HI
+문구	KO
+को	HI
+क्लिपबोर्ड	HI
+पर	HI
+복사본	KO
+करें	HI
+
+साफ़	HI
+toc	KO
+(	HI
+_	HI
+C	HI
+)	HI
+
+확대	KO
+여관	KO
+
+확대	KO
+आउट	HI
+
+강조하기	KO
+모드	KO
+(	HI
+_	HI
+H	HI
+)	HI
+
+문서	KO
+(	HI
+_	HI
+D	HI
+)	HI
+
+기말고사	KO
+문서로	KO
+
+다음	KO
+문서	KO
+
+해제한	KO
+'	HI
+%	HI
+s	HI
+'	HI
+
+के	HI
+साथ	HI
+खोलेंः	HI
+
+모두	KO
+파일	KO
+
+नया	HI
+(	HI
+_	HI
+N	HI
+)	HI
+
+열기	KO
+(	HI
+_	HI
+O	HI
+)	HI
+.	HI
+.	HI
+.	HI
+
+खोलें	HI
+(	HI
+_	HI
+O	HI
+)	HI
+
+최근	KO
+का	HI
+열기	KO
+(	HI
+_	HI
+R	HI
+)	HI
+
+파일	KO
+관리자	KO
+
+नया	HI
+파일	KO
+
+선택	KO
+एक	HI
+폴더	KO
+
+바깥	KO
+(	HI
+_	HI
+S	HI
+)	HI
+
+त्यागें	HI
+(	HI
+_	HI
+A	HI
+)	HI
+
+추가하기	KO
+(	HI
+_	HI
+A	HI
+)	HI
+.	HI
+.	HI
+.	HI
+
+मिटाएं	HI
+.	HI
+.	HI
+.	HI
+(	HI
+_	HI
+R	HI
+)	HI
+
+물체	KO
+추가	KO
+
+천체	KO
+का	HI
+에디터	KO
+toc	KO
+
+वर्गों	HI
+का	HI
+편집자	KO
+
+집합	KO
+데이트	KO
+
+कार्य	HI
+(	HI
+_	HI
+T	HI
+)	HI
+
+कोई	HI
+데이트	KO
+아님	KO
+
+मेक्रो	HI
+जोड़ें	HI
+(	HI
+_	HI
+A	HI
+)	HI
+.	HI
+.	HI
+.	HI
+
+다음	KO
+संदेश	HI
+(	HI
+_	HI
+N	HI
+)	HI
+
+메시지	KO
+सहेजें	HI
+
+도구	KO
+(	HI
+_	HI
+T	HI
+)	HI
+
+프로젝트	KO
+(	HI
+_	HI
+P	HI
+)	HI
+
+특성	KO
+(	HI
+_	HI
+P	HI
+)	HI
+
+상쾌한	KO
+करें	HI
+(	HI
+_	HI
+R	HI
+)	HI
+
+프로젝트	KO
+끄기	KO
+toc	KO
+
+हटाएं	HI
+(	HI
+_	HI
+m	HI
+)	HI
+
+डैरक्टरी	HI
+चुनो	HI
+
+icons	KO
+즐겨찾기	KO
+
+일반	KO
+C	HI
++	HI
++	HI
+프로젝트	KO
+
+일반	KO
+GTK	HI
++	HI
+프로젝트	KO
+
+일반	KO
+C	HI
++	HI
++	HI
+프로젝트	KO
+
+일반	KO
+Xlib	HI
+डाक	HI
+애플릿	KO
+
+जेनेरिक	HI
+Xlib	HI
+프로젝트	KO
+
+일반	KO
+프로젝트	KO
+
+जेनेरिक	HI
+wx	HI
+위젯	KO
+프로젝트	KO
+
+견본	KO
+SDL	HI
+프로젝트	KO
+
+C	HI
++	HI
++	HI
+समर्थन	HI
+जोड़ेंः	HI
+
+gtk	HI
+-	HI
+doc	HI
+시스템	KO
+जोड़ेंः	HI
+
+अंतराष्ट्रीयकरण	HI
+जोड़ेंः	HI
+
+अंजुता	HI
+प्लगिन	HI
+
+ई	HI
+-	HI
+편지	KO
+पताः	HI
+
+보통	KO
+प्रोजेक्ट	HI
+정보	KO
+
+आइकन	HI
+फाइलः	HI
+
+प्लगिन	HI
+के	HI
+लिए	HI
+기호	KO
+파일	KO
+
+प्लगिन	HI
+인터페이스	KO
+신청	KO
+toc	KO
+
+प्लगिन	HI
+के	HI
+द्वारा	HI
+लागू	HI
+개입	KO
+
+मेकफाइल	HI
+परियोजना	HI
+
+मेकफाइल	HI
+기반	KO
+프로젝트	KO
+
+프로젝트	KO
+नामः	HI
+
+परियोजना	HI
+विकल्प	HI
+
+프로젝트	KO
+नाम	HI
+
+이벤트	KO
+파라미터	KO
+
+चलाने	HI
+के	HI
+लिए	HI
+लक्ष्य	HI
+로딩	KO
+करें	HI
+
+런닝	KO
+(	HI
+_	HI
+R	HI
+)	HI
+
+प्रोग्राम	HI
+달리기	KO
+
+이벤트	KO
+매개변수	KO
+.	HI
+.	HI
+.	HI
+
+작전	KO
+실행	KO
+
+샘플	KO
+파일	KO
+작전	KO
+
+배경	KO
+का	HI
+रंगः	HI
+
+처벌	KO
+건설	KO
+हाइलाइटिंग	HI
+비활성화	KO
+toc	KO
+
+전경	KO
+का	HI
+रंगः	HI
+
+स्क्रैचबाक्स	HI
+विकल्प	HI
+
+कोई	HI
+제한	KO
+아님	KO
+
+ढूंढें	HI
+(	HI
+_	HI
+F	HI
+)	HI
+.	HI
+.	HI
+.	HI
+
+다음	KO
+검색	KO
+(	HI
+_	HI
+N	HI
+)	HI
+
+결승전	KO
+찾기	KO
+(	HI
+_	HI
+P	HI
+)	HI
+
+넥스트	KO
+मिलान	HI
+변화	KO
+
+전체	KO
+मिलानों	HI
+को	HI
+바뀌기	KO
+
+모두	KO
+교체	KO
+
+존재	KO
+라인	KO
+को	HI
+उभारें	HI
+
+लॉग	HI
+देखिए	HI
+
+नया	HI
+가속기	KO
+.	HI
+.	HI
+.	HI
+
+"	HI
+%	HI
+s	HI
+"	HI
+को	HI
+खोल	HI
+रहे	HI
+.	HI
+
+출력	KO
+छोड़ें	HI
+
+현재	KO
+버퍼	KO
+
+현재	KO
+चयन	HI
+
+जाँचने	HI
+के	HI
+लिए	HI
+प्रोग्रामः	HI
+
+기기	KO
+चुनेंः	HI
+
+로딩	KO
+완료	KO
+세션	KO
+.	HI
+.	HI
+.	HI
+
+परियोजना	HI
+तयशुदा	HI
+
+기본값	KO
+프로젝트	KO
+निर्देशिकाः	HI
+
+डेवलेपर	HI
+이메일로	KO
+पताः	HI
+
+डेवलेपर	HI
+नामः	HI
+
+파일	KO
+(	HI
+_	HI
+F	HI
+)	HI
+
+बाहर	HI
+(	HI
+_	HI
+Q	HI
+)	HI
+
+वरीयताएं	HI
+(	HI
+_	HI
+P	HI
+)	HI
+
+가득	KO
+화면	KO
+(	HI
+_	HI
+F	HI
+)	HI
+
+완료	KO
+화면	KO
+मोड	HI
+전환	KO
+toc	KO
+
+타임즈	KO
+타임스	KO
+पूछे	HI
+जाने	HI
+वाले	HI
+검색어	KO
+(	HI
+_	HI
+F	HI
+)	HI
+
+अंजुटा	HI
+타임즈	KO
+बार	HI
+पूछे	HI
+जाने	HI
+वाले	HI
+검색어	KO
+
+Anjuta	HI
+가정	KO
+페이지	KO
+(	HI
+_	HI
+H	HI
+)	HI
+
+के	HI
+बारे	HI
+में	HI
+(	HI
+_	HI
+A	HI
+)	HI
+
+설치	KO
+प्लगिन	HI
+
+हाशिया	HI
+인자	KO
+
+스마트	KO
+हाशिया	HI
+
+एडाप्टिव	HI
+हाशिया	HI
+활동	KO
+करें	HI
+
+कोड	HI
+완료되었습니다	KO
+활성	KO
+toc	KO
+
+स्मार्ट	HI
+हाशिया	HI
+활성화	KO
+करें	HI
+
+टैब	HI
+हाशिया	HI
+दबा	HI
+रहा	HI
+है	HI
+
+자동	KO
+हाशिया	HI
+
+Gdb	HI
+प्लगिन	HI
+.	HI
+
+Git	HI
+संस्करण	HI
+नियंत्रण	HI
+
+अंजुटा	HI
+के	HI
+लिए	HI
+डेव	HI
+वहेल्प	HI
+प्लगिन	HI
+
+Anjuta	HI
+파일	KO
+구원자	KO
+प्लगिन	HI
+
+파일	KO
+सहायक	HI
+
+Anjuta	HI
+के	HI
+लिए	HI
+ग्लेड	HI
+प्लगिन	HI
+
+ग्लेड	HI
+अतंरफलक	HI
+डिजायनर	HI
+
+कार्य	HI
+관리자	KO
+
+Anjut	HI
+के	HI
+लिए	HI
+टूडू	HI
+प्लगिन	HI
+
+मैक्रो	HI
+प्लगिन	HI
+
+पैच	HI
+प्लगिन	HI
+
+आटोमेक	HI
+빌드	KO
+
+अंजुता	HI
+के	HI
+लिए	HI
+टर्मिनल	HI
+प्लगिन	HI
+
+에디션	KO
+ctrl	KO
+소프트웨어	KO
+प्लगिन	HI
+
+CVS	HI
+प्लगिन	HI
+
+프로젝트	KO
+इंपोर्ट	HI
+सहायक	HI
+
+C	HI
++	HI
++	HI
+그리고	KO
+자바	KO
+सपोर्ट	HI
+प्लगिन	HI
+
+프로젝트	KO
+구원자	KO
+
+검색	KO
+रहा	HI
+है	HI
+컴포지트	KO
+के	HI
+लिए	HI
+
+프로젝트	KO
+प्रबंधक	HI
+
+메시지	KO
+प्रबंधक	HI
+
+매니저	KO
+प्लगिन	HI
+डिबग	HI
+toc	KO
+
+प्रोग्राम	HI
+달리기	KO
+
+언어	KO
+매니저	KO
+
+पढ़ने	HI
+में	HI
+실패	KO
+'	HI
+%	HI
+s	HI
+'	HI
+:	HI
+%	HI
+s	HI
+
+केस	HI
+सेंसिटिव	HI
+
+코드	KO
+완료	KO
+활성화	KO
+toc	KO
+
+프로젝트	KO
+옵션	KO
+
+프로젝트	KO
+옵션	KO
+
+변화	KO
+(	HI
+_	HI
+R	HI
+)	HI
+
+사본	KO
+करें	HI
+(	HI
+_	HI
+C	HI
+)	HI
+
+편집기	KO
+(	HI
+_	HI
+E	HI
+)	HI
+
+갱신	KO
+
+लाइसेंस	HI
+
+नमूना	HI
+파일	KO
+आपरेशन	HI
+
+작전	KO
+चलाएँ	HI
+
+전체	KO
+मिटाएँ	HI
+
+파일	KO
+खोलें	HI
+
+위젯	KO
+नहीं	HI
+मिलाः	HI
+%	HI
+s	HI
+
+के	HI
+साथ	HI
+खोलेंः	HI
+
+अद्यतन	HI
+
+प्लगिन	HI
+선택	KO
+
+चलाने	HI
+के	HI
+लिए	HI
+प्रोग्राम	HI
+चुनेंः	HI
+
+समूह	HI
+자산	KO
+
+पूरा	HI
+प्रोजेक्ट	HI
+संस्थापित	HI
+toc	KO
+
+프로젝트	KO
+끄기	KO
+toc	KO
+
+ग्लेड	HI
+파일	KO
+
+문서	KO
+
+정보	KO
+
+डैरक्टरी	HI
+चुनो	HI
+
+프로젝트	KO
+नामः	HI
+
+프로젝트	KO
+नामः	HI
+
+프로젝트	KO
+설치	KO
+करें	HI
+(	HI
+_	HI
+I	HI
+)	HI
+
+작전	KO
+표시하기	KO
+
+प्रोजेक्ट	HI
+설치	KO
+toc	KO
+(	HI
+_	HI
+I	HI
+)	HI
+
+프로젝트	KO
+옵션	KO
+
+떠나	KO
+रहा	HI
+हैः	HI
+%	HI
+s	HI
+
+डैरक्टरी	HI
+चुनो	HI
+
+डैरक्टरी	HI
+चुनो	HI
+
+프로젝트	KO
+नामः	HI
+
+रिसेट	HI
+toc	KO
+(	HI
+_	HI
+R	HI
+)	HI
+
+डैरक्टरी	HI
+चुनो	HI
+
+सभी	HI
+파일	KO
+
+चुनें	HI
+एक	HI
+폴더	KO
+
+मिटाएँ	HI
+
+모두	KO
+मिलानों	HI
+को	HI
+변경	KO
+
+척도	KO
+
+प्लगिन	HI
+선택	KO
+
+छापा	HI
+जा	HI
+रहा	HI
+है	HI
+.	HI
+.	HI
+.	HI
+
+मान	HI
+교체	KO
+
+파일	KO
+
+파일	KO
+선택	KO
+
+복사본	KO
+.	HI
+.	HI
+.	HI
+
+모니터링	KO
+
+진행중	KO
+유지	KO
+(	HI
+_	HI
+C	HI
+)	HI
+
+섹션	KO
+파일	KO
+एक	HI
+भिन्न	HI
+이름	KO
+출신	KO
+저장	KO
+
+बनाएँ	HI
+
+मिटाएँ	HI
+
+नमूना	HI
+फाइल	HI
+आपरेशन	HI
+
+विजेट्स	HI
+
+파일	KO
+खोलें	HI
+
+스트림	KO
+파일	KO
+하나	KO
+다름	KO
+이름	KO
+출신	KO
+저장	KO
+
+पिछली	HI
+행동	KO
+취소됨	KO
+toc	KO
+
+스트리밍	KO
+선택	KO
+
+현재	KO
+선택	KO
+
+यह	HI
+선택	KO
+기억하라	KO
+रखें	HI
+
+견본	KO
+파일	KO
+आपरेशन	HI
+
+옵션	KO
+
+पढ़ने	HI
+में	HI
+실패	KO
+'	HI
+%	HI
+s	HI
+'	HI
+:	HI
+%	HI
+s	HI
+
+밑줄	KO
+
+밑줄	KO
+
+밑줄	KO
+
+चेतावनीः	HI
+
+넥스트	KO
+संदेश	HI
+(	HI
+_	HI
+N	HI
+)	HI
+
+메시지	KO
+저장	KO
+
+프로젝트	KO
+तयशुदा	HI
+
+에디션	KO
+नियंत्रण	HI
+시스템	KO
+प्लगिन	HI
+
+विकल्प	HI
+
+프로젝트	KO
+बन्द	HI
+toc	KO
+
+프로젝트	KO
+नामः	HI
+
+परियोजना	HI
+नामः	HI
+
+프로젝트	KO
+이름	KO
+
+집단	KO
+गुण	HI
+
+प्रोजेक्ट	HI
+설치	KO
+toc	KO
+(	HI
+_	HI
+I	HI
+)	HI
+
+परियोजना	HI
+नामः	HI
+
+डैरक्टरी	HI
+चुनो	HI
+
+프로젝트	KO
+नामः	HI
+
+익명	KO
+
+दाखिल	HI
+हो	HI
+रहा	HI
+हैः	HI
+%	HI
+s	HI
+
+모두	KO
+선택	KO
+(	HI
+_	HI
+A	HI
+)	HI
+
+प्लगिन	HI
+चुनें	HI
+
+파일	KO
+선택하기	KO
+
+फाइल	HI
+선택	KO
+
+일반	KO
+GNOME	HI
+프로젝트	KO
+
+जेनेरिक	HI
+Xlib	HI
+프로젝트	KO
+
+प्रोग्राम	HI
+रोकें	HI
+
+보통	KO
+(	HI
+정규	KO
+)	HI
+표현	KO
+.	HI
+
+프로젝트	KO
+깨끗하다	KO
+toc	KO
+(	HI
+_	HI
+C	HI
+)	HI
+
+프로젝트	KO
+맑음	KO
+करें	HI
+(	HI
+_	HI
+C	HI
+)	HI
+
+Anjuta	HI
+घर	HI
+पेज	HI
+(	HI
+_	HI
+H	HI
+)	HI
+
+Anjuta	HI
+직위	KO
+
+सबवर्सन	HI
+
+검색하기	KO
+(	HI
+_	HI
+F	HI
+)	HI
+.	HI
+.	HI
+.	HI
+
+"	HI
+%	HI
+s	HI
+"	HI
+को	HI
+खोल	HI
+रहे	HI
+.	HI
+My	HI
+tools	HI
+(	HI
+output	HI
+)	HI
+
+चल	HI
+रहा	HI
+है	HI
+.	HI
+.	HI
+.	HI
+
+프로젝트	KO
+विकल्प	HI
+
+परियोजना	HI
+대안	KO
+
+이제	KO
+액티브	KO
+प्लगिन	HI
+
+빌드	KO
+निर्देशिका	HI
+선택하기	KO
+
+선물	KO
+चयन	HI
+
+मौजूदा	HI
+선택	KO
+
+आइकन	HI
+फाइलः	HI
+
+스마트	KO
+हाशिया	HI
+
+Anjuta	HI
+के	HI
+लिए	HI
+견본	KO
+प्लगिन	HI
+.	HI
+
+मेकफाइल	HI
+기반으로	KO
+프로젝트	KO
+
+मेकफाइल	HI
+기반으로	KO
+परियोजना	HI
+
+프로젝트	KO
+विन्यस्त	HI
+toc	KO
+
+집단	KO
+गुण	HI
+
+ई	HI
+-	HI
+편지	KO
+पताः	HI
+
+옵션	KO
+
+강력	KO
+디버그	KO
+기기	KO
+
+ऐसे	HI
+저장	KO
+.	HI
+.	HI
+.	HI
+(	HI
+_	HI
+A	HI
+)	HI
+
+스트리밍	KO
+파일	KO
+하나	KO
+다름	KO
+이름	KO
+출신	KO
+저장	KO
+
+라인	KO
+संख्याएं	HI
+दिखाएं	HI
+
+공지	KO
+
+जेनेरिक	HI
+
+프로젝트	KO
+विन्यस्त	HI
+toc	KO
+
+인터페이스	KO
+
+시술	KO
+में	HI
+जोड़ें	HI
+
+प्रक्रिया	HI
+में	HI
+추가	KO
+
+선택하기	KO
+하나	KO
+폴더	KO
+
+लॉग	HI
+देखिए	HI
+
+병합	KO
+
+시작	KO
+
+만듭니다	KO
+
+रिसेट	HI
+करें	HI
+(	HI
+_	HI
+R	HI
+)	HI
+
+직업	KO
+매니저	KO
+
+कार्य	HI
+관리자	KO
+
+직업	KO
+प्रबंधक	HI
+
+Anjuta	HI
+वरीयता	HI
+
+मेक्रो	HI
+जोड़ें	HI
+(	HI
+_	HI
+A	HI
+)	HI
+.	HI
+.	HI
+.	HI
+
+पैचेस	HI
+
+프로젝트	KO
+नामः	HI
+
+프로젝트	KO
+옵션	KO
+
+शॉर्टकटः	HI
+
+प्रोजेक्ट	HI
+विन्यस्त	HI
+toc	KO
+
+프로젝트	KO
+में	HI
+추가하기	KO
+
+프로젝트	KO
+설치	KO
+करें	HI
+(	HI
+_	HI
+I	HI
+)	HI
+
+일반	KO
+Xlib	HI
+프로젝트	KO
+
+निर्देशिका	HI
+빌드	KO
+करेंः	HI
+
+नियमित	HI
+(	HI
+정규	KO
+)	HI
+표현식	KO
+.	HI
+the	HI
+search	HI
+expression	HI
+
+ग्लेड	HI
+파일	KO
+
+찾기	KO
+(	HI
+_	HI
+F	HI
+)	HI
+.	HI
+.	HI
+.	HI
+
+로그	KO
+देखिए	HI
+
+선물	KO
+प्लगिन	HI
+
+नया	HI
+가속기	KO
+.	HI
+.	HI
+.	HI
+
+스트림	KO
+버퍼	KO
+
+로드	KO
+किया	HI
+세션	KO
+.	HI
+.	HI
+.	HI
+
+स्मार्ट	HI
+हाशिया	HI
+
+स्वचालित	HI
+हाशिया	HI
+
+매니저	KO
+प्लगिन	HI
+डिबग	HI
+toc	KO
+
+실수	KO
+में	HI
+포함됨	KO
+है	HI
+
+오류	KO
+में	HI
+포함됨	KO
+है	HI
+
+अंजुता	HI
+प्लगिन	HI
+
+C	HI
++	HI
++	HI
+그리고	KO
+जावा	HI
+सपोर्ट	HI
+प्लगिन	HI
+
+C	HI
++	HI
++	HI
+그리고	KO
+자바	KO
+सपोर्ट	HI
+प्लगिन	HI
+
+코드	KO
+완성	KO
+액티브	KO
+toc	KO
+
+रैण्डर	HI
+करने	HI
+के	HI
+लिए	HI
+문구	KO
+
+밑줄	KO
+
+जारी	HI
+रखें	HI
+(	HI
+_	HI
+C	HI
+)	HI
+
+मौजूद	HI
+प्लगिन	HI
+
+चिल्ड्रन	HI
+
+등기	KO
+करें	HI
+
+디버거	KO
+
+프로젝트	KO
+नाम	HI
+
+기본값	KO
+
+소프트웨어	KO
+인치	KO
+
+को	HI
+플러그인	KO
+출신	KO
+.	HI
+
+को	HI
+플러그인	KO
+पंजीयन	HI
+함수	KO
+출신	KO
+.	HI
+인치	KO
+출신	KO
+.	HI
+
+익명	KO
+실수	KO
+인치	KO
+출신	KO
+.	HI
+
+결석	KO
+स्थान	HI
+का	HI
+플러그인	KO
+출신	KO
+.	HI
+
+결석	KO
+종류	KO
+द्वारा	HI
+플러그인	KO
+से	HI
+.	HI
+
+प्लगइन	HI
+출신	KO
+.	HI
+को	HI
+क़िस्म	HI
+출신	KO
+.	HI
+
+파일	KO
+को	HI
+열기	KO
+रखता	HI
+है	HI
+오류	KO
+.	HI
+
+Anjuta	HI
+아님	KO
+को	HI
+का	HI
+파일	KO
+को	HI
+오픈	KO
+.	HI
+
+कार्यान्वित	HI
+toc	KO
+사령부	KO
+출신	KO
+.	HI
+
+execvp	HI
+실패	KO
+
+Anjuta	HI
+प्लगइन	HI
+
+플러그인	KO
+से	HI
+.	HI
+아님	KO
+को	HI
+비활성화	KO
+
+아님	KO
+से	HI
+.	HI
+설치	KO
+है	HI
+오류	KO
+메세지	KO
+को	HI
+यह	HI
+아님	KO
+से	HI
+.	HI
+
+सिर्फ	HI
+사용자	KO
+
+चयनित	HI
+द्वारा	HI
+Anjuta	HI
+को	HI
+하나	KO
+का	HI
+हटा	HI
+रहा	HI
+है	HI
+플러그인	KO
+Anjuta	HI
+संकेत	HI
+को	HI
+플러그인	KO
+.	HI
+
+चयनित	HI
+플러그인	KO
+
+부탁합니다	KO
+a	HI
+플러그인	KO
+को	HI
+액티브	KO
+करें	HI
+
+नहीं	HI
+플러그인	KO
+है	HI
+को	HI
+다른	KO
+인치	KO
+से	HI
+.	HI
+
+मौज़ूदा	HI
+का	HI
+
+उपलब्ध	HI
+got	KO
+인치	KO
+플러그인	KO
+
+Anjuta	HI
+के	HI
+लिए	HI
+
+Anjuta	HI
+상태	KO
+को	HI
+인치	KO
+그리고	KO
+काIcon	HI
+:	HI
+%	HI
+s	HI
+
+플러그인	KO
+को	HI
+के	HI
+लिए	HI
+
+नाम	HI
+का	HI
+플러그인	KO
+
+सूची	HI
+का	HI
+के	HI
+लिए	HI
+이거	KO
+
+파일	KO
+को	HI
+एक्सएमएल	HI
+
+부탁합니다	KO
+a	HI
+प्लगइन	HI
+से	HI
+리스트	KO
+
+실패	KO
+को	HI
+읽기	KO
+출신	KO
+.	HI
+एक्सएमएल	HI
+실수	KO
+강도	KO
+या	HI
+Anjuta	HI
+.	HI
+
+출신	KO
+.	HI
+설치	KO
+toc	KO
+출신	KO
+출신	KO
+.	HI
+아님	KO
+
+실패	KO
+को	HI
+읽고	KO
+से	HI
+.	HI
+गुम	HI
+नहीं	HI
+출신	KO
+.	HI
+
+선택	KO
+소재	KO
+को	HI
+सहेजेंः	HI
+
+नहीं	HI
+저장하기	KO
+전체	KO
+.	HI
+
+है	HI
+मद	HI
+के	HI
+같이	KO
+저장하기	KO
+ago	KO
+?	HI
+
+आप	HI
+아님	KO
+को	HI
+है	HI
+필수	KO
+के	HI
+लिए	HI
+설립	KO
+गुम	HI
+소포	KO
+कृपया	HI
+अधिष्ठापित	HI
+toc	KO
+패키지	KO
+से	HI
+분포	KO
+या	HI
+अधिष्ठापित	HI
+toc	KO
+गुम	HI
+소포	KO
+दस्ती	HI
+형식	KO
+출신	KO
+.	HI
+
+출신	KO
+.	HI
+패키지	KO
+है	HI
+नहीं	HI
+अधिष्ठापित	HI
+toc	KO
+.	HI
+
+출신	KO
+.	HI
+है	HI
+नहीं	HI
+अधिष्ठापित	HI
+toc	KO
+.	HI
+
+a	HI
+터미널	KO
+사용량	KO
+कर	HI
+रहा	HI
+है	HI
+यदि	HI
+मई	HI
+아님	KO
+
+कार्यान्वित	HI
+toc	KO
+कमांड	HI
+출신	KO
+.	HI
+실험	KO
+कर	HI
+रहा	HI
+है	HI
+출신	KO
+.	HI
+नहीं	HI
+
+को	HI
+지원	KO
+부탁합니다	KO
+Anjuta	HI
+문서	KO
+창의성	KO
+패키지	KO
+है	HI
+सेhttp	HI
+:	HI
+/	HI
+/	HI
+anjuta	HI
+.	HI
+org	HI
+.	HI
+.	HI
+
+को	HI
+사용자	KO
+अतरफलक	HI
+फ़ाइल	HI
+출신	KO
+.	HI
+
+원조	KO
+문구	KO
+
+문자	KO
+को	HI
+사용자	KO
+को	HI
+입력	KO
+प्रविष्टि	HI
+
+경로	KO
+파일	KO
+को	HI
+
+방울	KO
+a	HI
+फ़ाइल	HI
+या	HI
+입력	KO
+a	HI
+
+파일	KO
+선택하기	KO
+
+पथ	HI
+전체	KO
+파일	KO
+인치	KO
+리스트	KO
+को	HI
+
+दिखाएँ	HI
+जोड़ें	HI
+버튼	KO
+
+표시하기	KO
+जोड़ें	HI
+버튼	KO
+
+नहीं	HI
+अनुप्रयोग	HI
+파일	KO
+출신	KO
+.	HI
+
+कृपया	HI
+समूह	HI
+이름	KO
+
+그룹	KO
+이름	KO
+या	HI
+편지	KO
+
+프로젝트	KO
+या	HI
+outlaw	KO
+
+부탁합니다	KO
+타깃	KO
+이름	KO
+
+협업	KO
+대상	KO
+이름	KO
+का	HI
+출연	KO
+
+꾸준히	KO
+타깃	KO
+이름	KO
+का	HI
+모양	KO
+a	HI
+
+उभारें	HI
+그리고	KO
+इंच	HI
+
+아님	KO
+인치	KO
+이거	KO
+!	HI
+
+아님	KO
+फ़ाइल	HI
+या	HI
+.	HI
+
+이벤트	KO
+출신	KO
+.	HI
+है	HI
+नहीं	HI
+a	HI
+स्थानीय	HI
+파일	KO
+
+프로그램	KO
+출신	KO
+.	HI
+아님	KO
+
+행사	KO
+출신	KO
+.	HI
+아님	KO
+
+아님	KO
+के	HI
+लिए	HI
+이거	KO
+फ़ाइल	HI
+.	HI
+
+출신	KO
+.	HI
+है	HI
+नहीं	HI
+top	KO
+को	HI
+날짜	KO
+.	HI
+
+चेतावनीः	HI
+-	HI
+old	HI
+
+त्रुटिः	HI
+-	HI
+old	HI
+
+कमांड	HI
+के	HI
+같이	KO
+स्थिति	HI
+d	HI
+
+명령어	KO
+द्वारा	HI
+प्रयोक्ता	HI
+
+사령부	KO
+के	HI
+함께	KO
+d	HI
+
+지휘	KO
+के	HI
+लिए	HI
+익명	KO
+
+कुल	HI
+타이밍	KO
+아님	KO
+
+우선	KO
+प्रयोग	HI
+कर	HI
+रहा	HI
+है	HI
+이거	KO
+नया	HI
+확인	KO
+베이직	KO
+하나	KO
+को	HI
+को	HI
+?	HI
+
+출신	KO
+.	HI
+नहीं	HI
+규칙	KO
+के	HI
+लिए	HI
+이거	KO
+파일	KO
+타입	KO
+.	HI
+
+빌드	KO
+분배	KO
+
+बिल्ड	HI
+모듈	KO
+
+बिल्ड	HI
+के	HI
+함께	KO
+파일	KO
+
+설치됨	KO
+toc	KO
+모듈	KO
+
+संस्थापित	HI
+toc	KO
+के	HI
+साथ	HI
+파일	KO
+
+지우기	KO
+के	HI
+함께	KO
+파일	KO
+
+파일	KO
+
+컴파일	KO
+파일	KO
+
+선택하기	KO
+설정	KO
+
+선택하기	KO
+विन्यास	HI
+
+삭제하기	KO
+확인	KO
+
+맑음	KO
+그리고	KO
+मिटाएँ	HI
+설정	KO
+디렉터리	KO
+यदि	HI
+
+컴파일	KO
+(	HI
+_	HI
+C	HI
+)	HI
+
+사본	KO
+फ़ाइल	HI
+
+빌드	KO
+माड्यूल	HI
+
+माड्यूल	HI
+संस्थापित	HI
+toc	KO
+
+깨끗한	KO
+toc	KO
+
+모듈	KO
+맑음	KO
+toc	KO
+
+कमांड	HI
+취소됨	KO
+toc	KO
+(	HI
+_	HI
+C	HI
+)	HI
+
+बिल्ड	HI
+कमांड	HI
+रद्द	HI
+toc	KO
+
+빌드	KO
+से	HI
+.	HI
+
+설치됨	KO
+toc	KO
+출신	KO
+.	HI
+
+맑음	KO
+(	HI
+_	HI
+C	HI
+)	HI
+(	HI
+%	HI
+s	HI
+)	HI
+
+कंपाइल	HI
+
+빌드	KO
+명령	KO
+
+बिल्ड	HI
+팝업	KO
+명령어	KO
+
+빌드	KO
+आटोटूल	HI
+
+오류	KO
+동안	KO
+인기	KO
+출신	KO
+.	HI
+
+지휘	KO
+छोड़ा	HI
+गया	HI
+
+कोई	HI
+लाइसेंस	HI
+नहीं	HI
+
+इनलाइल	HI
+선언	KO
+그리고	KO
+구현	KO
+
+장군	KO
+클래스	KO
+품질	KO
+
+GObject	HI
+접두사	KO
+और	HI
+प्रकारः	HI
+
+상수	KO
+/	HI
+चर	HI
+
+예비	KO
+आर्गुमेंट्सः	HI
+
+작가	KO
+का	HI
+이메일	KO
+पताः	HI
+
+शीर्षिका	HI
+फ़ाइलः	HI
+
+출처	KO
+फ़ाइलः	HI
+
+रेपोसिटरी	HI
+जोड़ें	HI
+
+शीर्षिका	HI
+या	HI
+श्रोत	HI
+파일	KO
+아님	KO
+만들었습니다	KO
+गया	HI
+
+प्रयुक्त	HI
+के	HI
+लिए	HI
+शीर्ष	HI
+노트	KO
+파일	KO
+
+प्रयुक्त	HI
+के	HI
+लिए	HI
+कार्यान्वयन	HI
+파일	KO
+
+파일	KO
+को	HI
+
+실패	KO
+को	HI
+लिखें	HI
+정의	KO
+파일	KO
+
+नहीं	HI
+संस्करण	HI
+अधिष्ठापित	HI
+toc	KO
+पैकेज	HI
+당신	KO
+पाएं	HI
+सेhttp	HI
+:	HI
+/	HI
+/	HI
+autogen	HI
+.	HI
+sourceforge	HI
+.	HI
+net	HI
+.	HI
+.	HI
+
+असफल	HI
+को	HI
+कार्यान्वित	HI
+toc	KO
+출신	KO
+.	HI
+
+प्रकार	HI
+से	HI
+अनुमान	HI
+लगाएँ	HI
+
+प्रयोक्ता	HI
+अतरफलक	HI
+का	HI
+एक्सएमएल	HI
+상세	KO
+
+표준	KO
+차이점	KO
+
+암호	KO
+서버	KO
+
+सीवीएस	HI
+वरीयताएं	HI
+
+path	KO
+को	HI
+커맨드	KO
+
+수축	KO
+수준	KO
+(	HI
+0	HI
+=	HI
+off	HI
+,	HI
+10	HI
+=	HI
+max	HI
+)	HI
+:	HI
+
+नज़रअंदाज़	HI
+करें	HI
+파일	KO
+추천	KO
+
+सीवीएस	HI
+옵션	KO
+
+सीवीएस	HI
+:	HI
+파일	KO
+/	HI
+디렉토리	KO
+जोड़ें	HI
+
+파일	KO
+या	HI
+निर्देशिका	HI
+को	HI
+जोड़ने	HI
+के	HI
+लिए	HI
+चुनेंः	HI
+
+파일	KO
+है	HI
+द्विपदीय	HI
+
+파일	KO
+या	HI
+निर्देशिका	HI
+को	HI
+हटाने	HI
+के	HI
+लिए	HI
+चुनेंः	HI
+
+부탁합니다	KO
+댓글	KO
+아님	KO
+알겠습니다	KO
+मिटाएं	HI
+파일	KO
+से	HI
+और	HI
+से	HI
+सीवीएस	HI
+파일	KO
+출신	KO
+सीवीएस	HI
+이전	KO
+सीवीएस	HI
+कमिट	HI
+आप	HI
+
+फ़ाइल	HI
+या	HI
+निर्देशिका	HI
+को	HI
+커밋	KO
+करने	HI
+के	HI
+लिए	HI
+चुनेंः	HI
+
+लॉग	HI
+संदेशः	HI
+
+파일	KO
+या	HI
+인덱스	KO
+को	HI
+업데이트	KO
+करने	HI
+के	HI
+लिए	HI
+चुनेंः	HI
+
+नया	HI
+디렉토리	KO
+बनाएँ	HI
+
+초기화	KO
+स्टिकी	HI
+태그	KO
+
+फ़ाइल	HI
+या	HI
+디렉터리	KO
+को	HI
+직위	KO
+पाने	HI
+के	HI
+लिए	HI
+चुनेंः	HI
+
+파일	KO
+या	HI
+인덱스	KO
+को	HI
+अंतर	HI
+रखने	HI
+के	HI
+लिए	HI
+चुनेंः	HI
+
+통합	KO
+का	HI
+
+रिवीजन	HI
+का	HI
+उपयोग	HI
+करेंः	HI
+
+फ़ाइल	HI
+या	HI
+인덱스	KO
+को	HI
+로그	KO
+लेने	HI
+के	HI
+लिए	HI
+चुनेंः	HI
+
+프로젝트	KO
+경로	KO
+निर्देशिकाः	HI
+
+विक्रेता	HI
+टैगः	HI
+
+रिलीज	HI
+टैगः	HI
+
+मोड्यूल	HI
+विवरणः	HI
+
+부탁합니다	KO
+फाइलनाम	HI
+दाखिल	HI
+करें	HI
+!	HI
+
+부탁합니다	KO
+구역	KO
+भरेंः	HI
+%	HI
+s	HI
+
+सीवीएस	HI
+지휘	KO
+है	HI
+런닝	KO
+부탁합니다	KO
+기다린다	KO
+toc	KO
+जबतक	HI
+है	HI
+가득	KO
+!	HI
+
+को	HI
+मिटाएं	HI
+파일	KO
+
+को	HI
+비어	KO
+संदेश	HI
+?	HI
+
+नहीं	HI
+a	HI
+메세지	KO
+?	HI
+
+सीवीएस	HI
+कमांड	HI
+실패	KO
+देखें	HI
+인기	KO
+के	HI
+लिए	HI
+세부사항	KO
+
+सीवीएस	HI
+कमांड	HI
+है	HI
+런닝	KO
+기다린다	KO
+toc	KO
+जबतक	HI
+!	HI
+
+जोड़ें	HI
+a	HI
+नया	HI
+파일	KO
+디렉토리	KO
+को	HI
+सीवीएस	HI
+트리	KO
+
+삭제하기	KO
+a	HI
+फ़ाइल	HI
+인덱스	KO
+से	HI
+सीवीएस	HI
+트리	KO
+
+커밋	KO
+को	HI
+सीवीएस	HI
+ट्री	HI
+
+स्थानीय	HI
+사본	KO
+toc	KO
+के	HI
+함께	KO
+सीवीएस	HI
+나무	KO
+
+보이기	KO
+बीच	HI
+में	HI
+로컬	KO
+복사본	KO
+करें	HI
+और	HI
+나무	KO
+
+상태	KO
+दिखाएँ	HI
+(	HI
+_	HI
+S	HI
+)	HI
+
+공연	KO
+포지션	KO
+का	HI
+a	HI
+파일	KO
+색인	KO
+
+공연	KO
+로그	KO
+
+보이기	KO
+का	HI
+a	HI
+파일	KO
+디렉터리	KO
+
+가져오기	KO
+나무	KO
+
+불러오기	KO
+a	HI
+नया	HI
+श्रोत	HI
+ट्री	HI
+को	HI
+सीवीएस	HI
+
+सीवीएस	HI
+
+सीवीएस	HI
+팝업	KO
+작전	KO
+
+활성화	KO
+करें	HI
+코드	KO
+
+को	HI
+पश्चात	HI
+सक्रिय	HI
+कर	HI
+रहा	HI
+है	HI
+이거	KO
+कृपया	HI
+빌드	KO
+설정	KO
+!	HI
+
+यदि	HI
+है	HI
+그리고	KO
+यदि	HI
+विन्यस्त	HI
+인치	KO
+책갈피	KO
+
+CLang	HI
+विश्लेषक	HI
+
+प्रक्रिया	HI
+को	HI
+कोः	HI
+
+경로	KO
+숨기기	KO
+(	HI
+_	HI
+H	HI
+)	HI
+
+숨기기	KO
+process	HI
+अनुच्छेद	HI
+मीटर्स	HI
+
+표시하기	KO
+process	HI
+나무	KO
+
+첨부된	KO
+toc	KO
+
+전체	KO
+활성화	KO
+करें	HI
+
+전체	KO
+비활성화	KO
+करें	HI
+(	HI
+_	HI
+D	HI
+)	HI
+
+전체	KO
+हटाएँ	HI
+(	HI
+_	HI
+R	HI
+)	HI
+
+जोड़ें	HI
+검사	KO
+करें	HI
+
+자동화	KO
+업데이트	KO
+(	HI
+_	HI
+A	HI
+)	HI
+
+बदलें	HI
+검사	KO
+करें	HI
+
+ब्रेकपाइंट	HI
+퀄리티	KO
+
+패스	KO
+गिनतीः	HI
+
+प्रविष्ट	HI
+toc	KO
+इंच	HI
+या	HI
+하나	KO
+인치	KO
+데이터	KO
+
+CPU	HI
+레지스터	KO
+
+참가	KO
+도서관	KO
+
+सिग्नल	HI
+자산	KO
+집합	KO
+toc	KO
+
+प्रोग्राम	HI
+인터넷	KO
+
+디버거	KO
+시작	KO
+toc	KO
+
+डिबगर	HI
+कमांड	HI
+
+디버거	KO
+कमांडः	HI
+
+출처	KO
+निर्देशिकाएँ	HI
+
+चुनें	HI
+하나	KO
+निर्देशिका	HI
+
+कनेक्ट	HI
+को	HI
+원격	KO
+लक्ष्य	HI
+
+tcp	KO
+आईपी	HI
+कनेक्शन	HI
+
+나이지리아	KO
+라인	KO
+연결	KO
+
+원격	KO
+디버깅	KO
+
+को	HI
+डिबग	HI
+a	HI
+프로그램	KO
+아님	KO
+사용법	KO
+세금	KO
+रहा	HI
+है	HI
+दोषसुधार	HI
+확인	KO
+아님	KO
+활동	KO
+श्रोत	HI
+코드	KO
+को	HI
+something	KO
+사령부	KO
+인치	KO
+a	HI
+단계	KO
+.	HI
+
+को	HI
+मिटाएं	HI
+전체	KO
+?	HI
+
+전환	KO
+एट	HI
+장소	KO
+
+ब्रेकपाइंट	HI
+추가하기	KO
+.	HI
+.	HI
+.	HI
+
+कोई	HI
+ब्रेकपाइंट	HI
+추가하기	KO
+
+हटाएँ	HI
+ब्रेकपाइंट	HI
+
+지우기	KO
+a	HI
+
+ब्रेकपाइंट	HI
+संपादन	HI
+
+ब्रेकपाइंट	HI
+품질	KO
+에디터	KO
+toc	KO
+
+ब्रेकपाइंट	HI
+액티브	KO
+toc	KO
+
+ब्रेकपाइंट	HI
+활동	KO
+करें	HI
+
+모두	KO
+반박	KO
+dot	KO
+장애인	KO
+करें	HI
+
+모두	KO
+반박	KO
+지점	KO
+비활성화	KO
+toc	KO
+
+सभी	HI
+반박	KO
+बिन्दु	HI
+हटाएँ	HI
+(	HI
+_	HI
+e	HI
+)	HI
+
+모두	KO
+반박	KO
+बिन्दु	HI
+삭제하기	KO
+
+ब्रेकपाइंट	HI
+पर	HI
+जाएँ	HI
+
+ब्रेकपाइंट	HI
+स्थान	HI
+पर	HI
+कूदें	HI
+
+ब्रेकपाइंट	HI
+비활성화	KO
+toc	KO
+
+कोई	HI
+ब्रेकप्वाइंट	HI
+निष्क्रिय	HI
+toc	KO
+
+패스	KO
+계산법	KO
+
+ब्रेकपाइंट	HI
+스티어링	KO
+
+주소	KO
+पर	HI
+जाएँ	HI
+
+디버거	KO
+로그	KO
+
+이벤트	KO
+रोकें	HI
+
+का	HI
+프로그램	KO
+
+चलाएँ	HI
+발행	KO
+रखें	HI
+
+जारी	HI
+유지	KO
+का	HI
+प्रोग्राम	HI
+
+디버거	KO
+के	HI
+같이	KO
+오류	KO
+d	HI
+출신	KO
+.	HI
+नहीं	HI
+
+프로그램	KO
+출신	KO
+.	HI
+아님	KO
+
+디버거	KO
+시작하기	KO
+toc	KO
+(	HI
+_	HI
+S	HI
+)	HI
+
+प्रोग्राम	HI
+का	HI
+डिबग	HI
+toc	KO
+(	HI
+_	HI
+D	HI
+)	HI
+
+시작되었습니다	KO
+그리고	KO
+이벤트	KO
+
+시작	KO
+그리고	KO
+को	HI
+a	HI
+달리기	KO
+프로그램	KO
+
+डिबगर	HI
+멈추기	KO
+
+say	KO
+को	HI
+
+श्रोत	HI
+path	KO
+추가하기	KO
+.	HI
+.	HI
+.	HI
+
+연장	KO
+श्रोत	HI
+path	KO
+추가하기	KO
+
+डिबगर	HI
+명령	KO
+.	HI
+.	HI
+.	HI
+
+맞춤	KO
+디버거	KO
+कमांड	HI
+
+정보	KO
+(	HI
+_	HI
+I	HI
+)	HI
+
+표시하기	KO
+पर	HI
+파일	KO
+है	HI
+सक्रिय	HI
+के	HI
+같이	KO
+
+디스플레이	KO
+पर	HI
+위치	KO
+का	HI
+프로그램	KO
+
+प्रदर्शक	HI
+अंतर्वस्तु	HI
+का	HI
+커널	KO
+사용자	KO
+के	HI
+लिए	HI
+아이유	KO
+
+공유	KO
+도서관	KO
+
+보이기	KO
+
+जारी	HI
+유지	KO
+/	HI
+연기	KO
+
+जारी	HI
+유지	KO
+या	HI
+सस्पेंड	HI
+का	HI
+प्रोग्राम	HI
+
+단계	KO
+अन्दर	HI
+
+एकल	HI
+스테이지	KO
+함수	KO
+
+단계	KO
+O	HI
+
+싱글	KO
+चरण	HI
+함수	KO
+
+단계	KO
+बाहर	HI
+
+싱글	KO
+단계	KO
+बाहर	HI
+का	HI
+फंक्शन	HI
+
+चलाएँ	HI
+को	HI
+포인터	KO
+
+포인터	KO
+में	HI
+चलाएँ	HI
+
+포인터	KO
+출신	KO
+공연	KO
+
+포인터	KO
+में	HI
+공연	KO
+
+알림	KO
+वैश्विक	HI
+변수	KO
+(	HI
+_	HI
+G	HI
+)	HI
+
+प्रदर्शक	HI
+전체	KO
+전역	KO
+그리고	KO
+정적	KO
+चर	HI
+का	HI
+프로그램	KO
+
+디스플레이	KO
+के	HI
+बारे	HI
+में	HI
+형성	KO
+का	HI
+
+प्रदर्शक	HI
+फंक्शन	HI
+का	HI
+텍스처	KO
+
+को	HI
+a	HI
+플러그인	KO
+a	HI
+타겟	KO
+के	HI
+함께	KO
+출신	KO
+.	HI
+형식	KO
+
+संकेत	HI
+읽고	KO
+
+협력	KO
+라이브러리	KO
+작전	KO
+
+प्रक्रिया	HI
+में	HI
+전송	KO
+
+को	HI
+कार्यान्वित	HI
+toc	KO
+출신	KO
+.	HI
+.	HI
+
+को	HI
+오픈	KO
+파일	KO
+출신	KO
+.	HI
+नहीं	HI
+
+को	HI
+해제한	KO
+출신	KO
+.	HI
+디버거	KO
+प्रारंभ	HI
+.	HI
+
+को	HI
+형식	KO
+का	HI
+से	HI
+.	HI
+디버거	KO
+스타트업	KO
+.	HI
+
+प्रोग्राम	HI
+है	HI
+달리기	KO
+को	HI
+중지	KO
+?	HI
+
+अद्यतन	HI
+검사	KO
+toc	KO
+
+갱신	KO
+सभी	HI
+
+자동	KO
+
+निरीक्षण	HI
+toc	KO
+
+검색하기	KO
+मददः	HI
+
+जाएँ	HI
+को	HI
+
+API	HI
+페이지	KO
+둘러보기	KO
+toc	KO
+
+찾기	KO
+मदद	HI
+के	HI
+लिए	HI
+शब्द	HI
+इंच	HI
+
+검색하기	KO
+मदद	HI
+
+찾기	KO
+के	HI
+लिए	HI
+a	HI
+객체	KO
+इंच	HI
+मदद	HI
+
+원조	KO
+작동	KO
+
+को	HI
+पुनःभारित	HI
+toc	KO
+출신	KO
+.	HI
+.	HI
+
+पुस्तकचिह्न	HI
+추가	KO
+
+पुस्तकचिह्न	HI
+삭제	KO
+
+파일	KO
+बंद	HI
+toc	KO
+
+फ़ाइल	HI
+출신	KO
+.	HI
+उपस्थित	HI
+है	HI
+को	HI
+के	HI
+함께	KO
+एक	HI
+सहेजन	HI
+रहा	HI
+है	HI
+?	HI
+
+활성	KO
+toc	KO
+파일	KO
+
+저장	KO
+파일	KO
+구간	KO
+인치	KO
+मिनट्स	HI
+
+छांटा	HI
+हुआ	HI
+인치	KO
+खोला	HI
+जा	HI
+रहा	HI
+है	HI
+
+छांटा	HI
+हुआ	HI
+द्वारा	HI
+
+छांटा	HI
+हुआ	HI
+인치	KO
+
+저장	KO
+현재	KO
+파일	KO
+
+ऐसे	HI
+저장	KO
+(	HI
+_	HI
+A	HI
+)	HI
+…	HI
+
+전체	KO
+सहेजें	HI
+
+저장	KO
+전체	KO
+오픈	KO
+파일	KO
+नया	HI
+फ़ाइल	HI
+
+파일	KO
+닫힌	KO
+toc	KO
+
+현재	KO
+파일	KO
+बंद	HI
+करें	HI
+
+닫아	KO
+toc	KO
+전체	KO
+파일	KO
+
+अन्यों	HI
+को	HI
+बन्द	HI
+toc	KO
+
+비공개	KO
+toc	KO
+기타	KO
+문서로	KO
+
+री	HI
+-	HI
+로드	KO
+파일	KO
+
+हालिया	HI
+파일	KO
+
+वर्तमान	HI
+파일	KO
+프린터	KO
+
+छापें	HI
+예고편	KO
+
+पूर्वावलोकन	HI
+파일	KO
+인치	KO
+छापें	HI
+
+made	KO
+선택	KO
+अपरकेस	HI
+
+made	KO
+चयनित	HI
+पाठ	HI
+
+make	KO
+선택	KO
+소문자	KO
+
+मेक	HI
+चयनित	HI
+텍스트	KO
+소문자	KO
+
+바꾸기	KO
+EOL	HI
+को	HI
+
+변화	KO
+종료	KO
+라인	KO
+등장인물	KO
+को	HI
+dos	KO
+EOL	HI
+
+바꾸기	KO
+EOL	HI
+को	HI
+
+변화	KO
+종료	KO
+라인	KO
+문자	KO
+को	HI
+EOL	HI
+
+바꾸기	KO
+EOL	HI
+को	HI
+
+교체	KO
+종료	KO
+라인	KO
+अक्षर	HI
+को	HI
+OS	HI
+EOL	HI
+
+बदलें	HI
+EOL	HI
+को	HI
+EOL	HI
+
+바꾸기	KO
+종료	KO
+라인	KO
+글자	KO
+को	HI
+일반	KO
+EOL	HI
+찾았다	KO
+인치	KO
+फ़ाइल	HI
+
+चुनें	HI
+모두	KO
+문구	KO
+인치	KO
+
+선택	KO
+कोड	HI
+멈추기	KO
+
+선택하기	KO
+코드	KO
+
+रोकें	HI
+노트	KO
+
+중단	KO
+टिप्पणीः	HI
+चयनित	HI
+텍스트	KO
+
+Bo	HI
+एक्स	HI
+टिप्पणी	HI
+
+box	KO
+टिप्पणीः	HI
+चयनित	HI
+문자	KO
+
+스트리밍	KO
+노트	KO
+
+스트림	KO
+टिप्पणीः	HI
+चयनित	HI
+텍스트	KO
+
+라인	KO
+숫자	KO
+
+जाएँ	HI
+को	HI
+a	HI
+라인	KO
+인치	KO
+
+जाएँ	HI
+को	HI
+인치	KO
+
+प्रारंभ	HI
+का	HI
+중지	KO
+
+जाएँ	HI
+को	HI
+प्रारंभ	HI
+का	HI
+
+끝내기	KO
+का	HI
+정지	KO
+
+जाएँ	HI
+को	HI
+끝내기	KO
+का	HI
+
+결승전	KO
+기록	KO
+
+जाएँ	HI
+को	HI
+
+넥스트	KO
+y	HI
+
+जाएँ	HI
+को	HI
+
+초기	KO
+찾기	KO
+
+क्विक	HI
+
+검색하기	KO
+के	HI
+लिए	HI
+का	HI
+천체	KO
+.	HI
+
+ढूंढें	HI
+그리고	KO
+आर	HI
+
+찾기	KO
+그리고	KO
+
+दोहराएँ	HI
+라스트	KO
+ढूंढें	HI
+명령어	KO
+
+깨끗하다	KO
+toc	KO
+उभारें	HI
+
+맑음	KO
+toc	KO
+전체	KO
+텍스트	KO
+
+사례	KO
+सेंसिटिव	HI
+
+모두	KO
+आलोकित	HI
+toc	KO
+
+सभी	HI
+आवृत्ति	HI
+आलोकित	HI
+toc	KO
+
+नियमित	HI
+(	HI
+정규	KO
+)	HI
+표현식	KO
+.	HI
+
+검색하기	KO
+실험	KO
+कर	HI
+रहा	HI
+है	HI
+नियमित	HI
+
+추가	KO
+संपादक	HI
+장면	KO
+
+추가	KO
+하나	KO
+기타	KO
+का	HI
+문서로	KO
+
+제거	KO
+편집자	KO
+दृश्य	HI
+
+삭제	KO
+का	HI
+दस्तावेज़	HI
+
+잘라내기	KO
+चयनित	HI
+텍스트	KO
+출신	KO
+को	HI
+क्लिपबोर्ड	HI
+
+चिपकाएँ	HI
+का	HI
+क्लिपबोर्ड	HI
+एट	HI
+포지션	KO
+
+मिटाएँ	HI
+चयनित	HI
+텍스트	KO
+출신	KO
+
+라인	KO
+संख्या	HI
+हाशिया	HI
+
+공연	KO
+숨기기	KO
+라인	KO
+
+마커	KO
+हाशिया	HI
+
+दिखाएँ	HI
+숨기기	KO
+
+부호	KO
+접어	KO
+हाशिया	HI
+
+공연	KO
+숨기기	KO
+코드	KO
+
+इंडेन्टेशन	HI
+충고	KO
+
+보이기	KO
+छुपाएँ	HI
+
+공연	KO
+छुपाएँ	HI
+white	HI
+
+पंक्ति	HI
+종료	KO
+वर्ण	HI
+
+표시	KO
+숨기기	KO
+라인	KO
+끝내기	KO
+편지	KO
+
+라인	KO
+
+सक्षम	HI
+toc	KO
+장애인	KO
+라인	KO
+
+확대	KO
+인치	KO
+모양	KO
+
+확대	KO
+외부	KO
+모양	KO
+
+비공개	KO
+toc	KO
+전체	KO
+
+닫힌	KO
+toc	KO
+전체	KO
+부호	KO
+인치	KO
+
+열기	KO
+सभी	HI
+
+오픈	KO
+전체	KO
+부호	KO
+इंच	HI
+
+전환	KO
+섹션	KO
+접어	KO
+
+टॉगल	HI
+부호	KO
+인치	KO
+
+바뀌기	KO
+को	HI
+문서	KO
+
+बदलें	HI
+को	HI
+문서	KO
+
+전환	KO
+책갈피	KO
+
+전환	KO
+एट	HI
+라인	KO
+स्थिति	HI
+
+기말고사	KO
+책갈피	KO
+
+जम्प	HI
+को	HI
+인치	KO
+파일	KO
+
+넥스트	KO
+즐겨찾기	KO
+
+जम्प	HI
+को	HI
+인치	KO
+फ़ाइल	HI
+
+지우	KO
+toc	KO
+सभी	HI
+책갈피	KO
+
+깨끗한	KO
+toc	KO
+पुस्तचिह्न	HI
+
+에디터	KO
+파일	KO
+
+संपादक	HI
+프린트	KO
+
+장군	KO
+खोज	HI
+रहा	HI
+है	HI
+
+전환	KO
+옵션	KO
+
+여기	KO
+जाएँ	HI
+
+자동화	KO
+저장	KO
+실패	KO
+के	HI
+लिए	HI
+출신	KO
+.	HI
+
+찾기	KO
+के	HI
+लिए	HI
+출신	KO
+.	HI
+종료	KO
+그리고	KO
+.	HI
+
+ढूंढें	HI
+के	HI
+लिए	HI
+출신	KO
+.	HI
+종료	KO
+그리고	KO
+아님	KO
+नया	HI
+पाया	HI
+.	HI
+
+검색하기	KO
+के	HI
+लिए	HI
+출신	KO
+.	HI
+끝내기	KO
+그리고	KO
+एट	HI
+उपर	HI
+.	HI
+
+찾기	KO
+के	HI
+लिए	HI
+출신	KO
+.	HI
+끝내기	KO
+그리고	KO
+एट	HI
+उपर	HI
+아님	KO
+नया	HI
+got	KO
+.	HI
+
+검색	KO
+के	HI
+लिए	HI
+से	HI
+.	HI
+उपर	HI
+और	HI
+एट	HI
+नीचे	HI
+.	HI
+
+검색	KO
+के	HI
+लिए	HI
+출신	KO
+.	HI
+top	KO
+और	HI
+एट	HI
+नीचे	HI
+아님	KO
+नया	HI
+찾았습니다	KO
+.	HI
+
+전체	KO
+바뀌기	KO
+
+कोई	HI
+물체	KO
+नहीं	HI
+got	KO
+
+아님	KO
+사용됨	KO
+자원	KO
+찾았다	KO
+के	HI
+साथ	HI
+uri	KO
+출신	KO
+.	HI
+
+'	HI
+%	HI
+s	HI
+'	HI
+वर्ग	HI
+के	HI
+위젯	KO
+के	HI
+लिये	HI
+이거	KO
+함수	KO
+응용	KO
+아님	KO
+है	HI
+
+खोलें	HI
+출신	KO
+.	HI
+아님	KO
+아님	KO
+출신	KO
+.	HI
+
+열기	KO
+출신	KO
+.	HI
+아님	KO
+है	HI
+नहीं	HI
+플러그인	KO
+기초	KO
+작업	KO
+या	HI
+프로그램	KO
+विन्यस्त	HI
+को	HI
+यह	HI
+फ़ाइल	HI
+종류	KO
+아님	KO
+क़िस्म	HI
+से	HI
+.	HI
+아님	KO
+मई	HI
+को	HI
+개설	KO
+जा	HI
+रहा	HI
+है	HI
+के	HI
+함께	KO
+अनुसरण	HI
+납세	KO
+रहा	HI
+है	HI
+या	HI
+애플리케이션	KO
+.	HI
+
+문서	KO
+매니저	KO
+
+Anjuta	HI
+परियोजनाएँ	HI
+
+C	HI
+/	HI
+C	HI
++	HI
++	HI
+श्रोत	HI
+파일	KO
+
+C	HI
+#	HI
+श्रोत	HI
+파일	KO
+
+자바	KO
+श्रोत	HI
+파일	KO
+
+파스칼	KO
+श्रोत	HI
+फ़ाइल	HI
+
+php	KO
+श्रोत	HI
+파일	KO
+
+진주	KO
+श्रोत	HI
+파일	KO
+
+पायथन	HI
+श्रोत	HI
+파일	KO
+
+하이퍼링크	KO
+-	HI
+문구	KO
+फ़ाइल	HI
+
+Lua	HI
+फ़ाइल	HI
+
+डिफ	HI
+파일	KO
+
+실패	KO
+को	HI
+सक्रिय	HI
+toc	KO
+प्लगइन	HI
+출신	KO
+.	HI
+
+열기	KO
+(	HI
+_	HI
+O	HI
+)	HI
+…	HI
+
+해제한	KO
+
+खोलें	HI
+इसके	HI
+함께	KO
+
+फ़ाइल	HI
+로더	KO
+
+नया	HI
+파일	KO
+그리고	KO
+합성	KO
+.	HI
+
+최근	KO
+की	HI
+파일	KO
+열기	KO
+
+열기	KO
+फ़ाइल	HI
+
+하나	KO
+파일	KO
+열기	KO
+
+फ़ाइल	HI
+아님	KO
+got	KO
+
+부탁합니다	KO
+a	HI
+플러그인	KO
+को	HI
+해제한	KO
+출신	KO
+.	HI
+.	HI
+
+출신	KO
+खोलें	HI
+
+경로	KO
+인덱스	KO
+यदि	HI
+नहीं	HI
+है	HI
+खोलेंः	HI
+
+선택하기	KO
+디렉터리	KO
+को	HI
+यदि	HI
+नहीं	HI
+है	HI
+열기	KO
+
+아님	KO
+द्विपदीय	HI
+파일	KO
+
+아님	KO
+छिपा	HI
+हुआ	HI
+파일	KO
+
+백업	KO
+파일	KO
+아님	KO
+보이기	KO
+
+नहीं	HI
+फ़ाइल	HI
+
+uri	KO
+का	HI
+인기	KO
+
+파일	KO
+या	HI
+디렉토리	KO
+नाम	HI
+바꾸기	KO
+
+फ़ाइल	HI
+पॉपअप	HI
+
+파일	KO
+जानकारी	HI
+
+प्रविष्ट	HI
+करें	HI
+파일	KO
+이름	KO
+को	HI
+क़िस्म	HI
+.	HI
+
+लाइसेंस	HI
+정보	KO
+추가하기	KO
+
+बनाएँ	HI
+인기	KO
+टिप्पणी	HI
+फ़ाइल	HI
+
+이용하기	KO
+템플릿	KO
+के	HI
+लिए	HI
+शीर्षिका	HI
+파일	KO
+
+추가하기	KO
+को	HI
+
+जोड़ें	HI
+को	HI
+
+सी	HI
+स्रोत	HI
+파일	KO
+
+C	HI
+/	HI
+C	HI
++	HI
++	HI
+शीर्षिका	HI
+파일	KO
+
+C	HI
++	HI
++	HI
+स्रोत	HI
+파일	KO
+
+C	HI
+#	HI
+स्रोत	HI
+फ़ाइल	HI
+
+자바	KO
+소스	KO
+파일	KO
+
+진주	KO
+소스	KO
+파일	KO
+
+파이썬	KO
+출처	KO
+파일	KO
+
+वाला	HI
+소스	KO
+파일	KO
+
+bsd	KO
+공중	KO
+लाइसेंस	HI
+
+को	HI
+사용자	KO
+अतरफलक	HI
+के	HI
+लिए	HI
+नया	HI
+파일	KO
+
+누락	KO
+이름	KO
+
+परियोजना	HI
+को	HI
+सेट	HI
+
+협력	KO
+लाइब्रेरी	HI
+
+정적	KO
+라이브러리	KO
+
+लिप्स	HI
+मोड्यूल	HI
+
+शीर्षिका	HI
+파일	KO
+
+사람	KO
+문서	KO
+
+को	HI
+파일	KO
+
+परियोजना	HI
+이름	KO
+द्वारा	HI
+삽화	KO
+
+프로젝트	KO
+संस्करण	HI
+a	HI
+무엇인가	KO
+द्वारा	HI
+포인트	KO
+द्वारा	HI
+예제	KO
+
+이메일	KO
+या	HI
+a	HI
+लिंक	HI
+को	HI
+a	HI
+페이지	KO
+사용자	KO
+report	HI
+है	HI
+.	HI
+
+पैकेज	HI
+नामः	HI
+
+소포	KO
+이름	KO
+रखता	HI
+है	HI
+그리고	KO
+밑줄	KO
+문자	KO
+है	HI
+출신	KO
+이름	KO
+यदि	HI
+नहीं	HI
+.	HI
+
+링크	KO
+को	HI
+पृष्ठ	HI
+यदि	HI
+.	HI
+
+लिंकर	HI
+फ्लैग्सः	HI
+
+장군	KO
+अतिरिक्त	HI
+फ्लैग्स	HI
+के	HI
+लिए	HI
+모두	KO
+लक्ष्य	HI
+इंच	HI
+यह	HI
+समूह	HI
+.	HI
+
+सी	HI
+फ्लैग्सः	HI
+
+정규	KO
+연장	KO
+सी	HI
+깃발	KO
+के	HI
+लिए	HI
+전체	KO
+목표	KO
+인치	KO
+यह	HI
+그룹	KO
+.	HI
+
+सी	HI
+फ्लैग्सः	HI
+
+정규	KO
+연장	KO
+सी	HI
+깃발	KO
+के	HI
+लिए	HI
+모두	KO
+대상	KO
+인치	KO
+이거	KO
+그룹	KO
+.	HI
+
+सी	HI
+फ्लैग्सः	HI
+
+일반	KO
+엑스트라	KO
+सी	HI
+फ्लैग्स	HI
+के	HI
+लिए	HI
+모두	KO
+목표	KO
+इंच	HI
+이거	KO
+집단	KO
+.	HI
+
+평범	KO
+연장	KO
+자바	KO
+फ्लैग्स	HI
+के	HI
+लिए	HI
+전체	KO
+타겟	KO
+인치	KO
+이거	KO
+그룹	KO
+.	HI
+
+वाला	HI
+कंपाइलर	HI
+फ्लैग्सः	HI
+
+보통	KO
+연장	KO
+वाला	HI
+플래그	KO
+के	HI
+लिए	HI
+सभी	HI
+타겟	KO
+इंच	HI
+이거	KO
+집단	KO
+.	HI
+
+फोर्ट्रान	HI
+कंपाइलर	HI
+फ्लैग्सः	HI
+
+보통	KO
+엑스트라	KO
+깃발	KO
+के	HI
+लिए	HI
+सभी	HI
+목표	KO
+인치	KO
+यह	HI
+그룹	KO
+.	HI
+
+सी	HI
+फ्लैग्सः	HI
+
+보통	KO
+엑스트라	KO
+सी	HI
+फ्लैग्स	HI
+के	HI
+लिए	HI
+सभी	HI
+목표	KO
+인치	KO
+이거	KO
+그룹	KO
+.	HI
+
+फ्लैग्सः	HI
+
+평범	KO
+엑스트라	KO
+या	HI
+फ्लैग्स	HI
+के	HI
+लिए	HI
+सभी	HI
+타겟	KO
+인치	KO
+이거	KO
+समूह	HI
+.	HI
+
+Yacc	HI
+/	HI
+बाइसन	HI
+फ्लैग्सः	HI
+
+सामान्य	HI
+연장	KO
+Yacc	HI
+या	HI
+फ्लैग्स	HI
+के	HI
+लिए	HI
+모두	KO
+목표	KO
+인치	KO
+यह	HI
+समूह	HI
+.	HI
+
+리스트	KO
+का	HI
+पसंदीदा	HI
+설치하기	KO
+사용됨	KO
+द्वारा	HI
+목표	KO
+인치	KO
+이거	KO
+그룹	KO
+.	HI
+
+아님	KO
+अधिष्ठापित	HI
+करेंः	HI
+
+빌드	KO
+아님	KO
+अधिष्ठापित	HI
+toc	KO
+목표	KO
+.	HI
+
+को	HI
+a	HI
+인덱스	KO
+या	HI
+a	HI
+책갈피	KO
+एक	HI
+इंच	HI
+집단	KO
+.	HI
+
+अतिरिक्त	HI
+깃발	KO
+के	HI
+लिए	HI
+이거	KO
+타겟	KO
+.	HI
+
+연장	KO
+लाइब्रेरीः	HI
+
+연장	KO
+के	HI
+लिए	HI
+यह	HI
+대상	KO
+.	HI
+
+अतिरिक्त	HI
+वस्तुः	HI
+
+연장	KO
+वस्तु	HI
+파일	KO
+के	HI
+लिए	HI
+यह	HI
+लक्ष्य	HI
+.	HI
+
+अतिरिक्त	HI
+सी	HI
+플래그	KO
+के	HI
+लिए	HI
+이거	KO
+타겟	KO
+.	HI
+
+अतिरिक्त	HI
+सी	HI
+फ्लैग्स	HI
+के	HI
+लिए	HI
+이거	KO
+लक्ष्य	HI
+.	HI
+
+연장	KO
+सी	HI
+플래그	KO
+के	HI
+लिए	HI
+यह	HI
+타깃	KO
+.	HI
+
+अतिरिक्त	HI
+자바	KO
+깃발	KO
+के	HI
+लिए	HI
+이거	KO
+대상	KO
+.	HI
+
+엑스트라	KO
+वाला	HI
+플래그	KO
+के	HI
+लिए	HI
+यह	HI
+목표	KO
+.	HI
+
+연장	KO
+깃발	KO
+के	HI
+लिए	HI
+यह	HI
+타겟	KO
+.	HI
+
+연장	KO
+सी	HI
+플래그	KO
+के	HI
+लिए	HI
+यह	HI
+목표	KO
+.	HI
+
+엑스트라	KO
+या	HI
+깃발	KO
+के	HI
+लिए	HI
+이거	KO
+타겟	KO
+.	HI
+
+अतिरिक्त	HI
+Yacc	HI
+या	HI
+फ्लैग्स	HI
+के	HI
+लिए	HI
+이거	KO
+타겟	KO
+.	HI
+
+엑스트라	KO
+डिपेंडेंसीज़ः	HI
+
+엑스트라	KO
+डिपेंडेंसीज़	HI
+के	HI
+लिए	HI
+이거	KO
+타겟	KO
+.	HI
+
+इनक्लूड	HI
+인치	KO
+वितरणः	HI
+
+इनक्लूड	HI
+이거	KO
+타겟	KO
+인치	KO
+분산	KO
+패키지	KO
+.	HI
+
+빌드	KO
+के	HI
+लिएः	HI
+
+बिल्ड	HI
+이거	KO
+लक्ष्य	HI
+달리기	KO
+स्वचालित	HI
+.	HI
+
+नहींः	HI
+
+아님	KO
+그렇다면	KO
+이름	KO
+दें	HI
+타겟	KO
+के	HI
+함께	KO
+प्रयुक्त	HI
+को	HI
+시스템	KO
+프로그램	KO
+
+रखें	HI
+लक्ष्य	HI
+के	HI
+लिए	HI
+설치	KO
+द्वारा	HI
+예제	KO
+यदि	HI
+a	HI
+프로그램	KO
+app	HI
+इंच	HI
+색인	KO
+인치	KO
+app	HI
+아님	KO
+인치	KO
+app	HI
+.	HI
+
+부서	KO
+पृष्ठों	HI
+부분	KO
+नाम	HI
+के	HI
+जरिए	HI
+और	HI
+अक्षर	HI
+그리고	KO
+아님	KO
+
+로딩	KO
+हो	HI
+रहा	HI
+है	HI
+출신	KO
+.	HI
+아님	KO
+
+로딩	KO
+हो	HI
+रहा	HI
+है	HI
+코어	KO
+출신	KO
+.	HI
+아님	KO
+
+को	HI
+से	HI
+.	HI
+को	HI
+Anjuta	HI
+है	HI
+.	HI
+
+को	HI
+시작하기	KO
+सत्र	HI
+아님	KO
+
+로딩	KO
+हो	HI
+रहा	HI
+है	HI
+
+아님	KO
+아님	KO
+
+오픈	KO
+या	HI
+को	HI
+a	HI
+process	HI
+को	HI
+시작	KO
+아님	KO
+
+오류	KO
+नहीं	HI
+
+make	KO
+gdb	HI
+है	HI
+पर	HI
+सिस्टम	HI
+नहीं	HI
+
+행사	KO
+아님	KO
+
+प्रोग्राम	HI
+के	HI
+साथ	HI
+오류	KO
+코드	KO
+출신	KO
+.	HI
+아님	KO
+
+ब्रेकपाइंट	HI
+숫자	KO
+से	HI
+.	HI
+아님	KO
+
+함수	KO
+पूर्ण	HI
+아님	KO
+
+완성	KO
+아님	KO
+
+स्थान	HI
+아님	KO
+
+행사	KO
+है	HI
+को	HI
+정지	KO
+?	HI
+No	HI
+such	HI
+file	HI
+or	HI
+directory	HI
+
+को	HI
+को	HI
+원격	KO
+타깃	KO
+से	HI
+.	HI
+को	HI
+?	HI
+
+디버거	KO
+관련	KO
+아님	KO
+
+प्रोग्राम	HI
+아님	KO
+
+को	HI
+process	HI
+d	HI
+아님	KO
+
+A	HI
+process	HI
+है	HI
+런닝	KO
+जैसा	HI
+को	HI
+और	HI
+नया	HI
+process	HI
+?	HI
+
+Anjuta	HI
+है	HI
+को	HI
+को	HI
+स्वयं	HI
+से	HI
+.	HI
+
+프로그램	KO
+아님	KO
+
+프로그램	KO
+아님	KO
+
+process	HI
+नहीं	HI
+
+process	HI
+नहीं	HI
+
+기타	KO
+키드	KO
+
+भेज	HI
+रहा	HI
+है	HI
+출신	KO
+.	HI
+को	HI
+process	HI
+d	HI
+
+실수	KO
+process	HI
+.	HI
+
+실패	KO
+को	HI
+फीफो	HI
+파일	KO
+named	HI
+से	HI
+.	HI
+प्रोग्राम	HI
+a	HI
+터미널	KO
+.	HI
+
+प्रारंभ	HI
+터미널	KO
+के	HI
+लिए	HI
+.	HI
+
+함수	KO
+got	KO
+인치	KO
+अनुसरण	HI
+세금	KO
+रहा	HI
+है	HI
+파일	KO
+아님	KO
+출신	KO
+.	HI
+को	HI
+भरें	HI
+함수	KO
+칼럼	KO
+처음	KO
+활성	KO
+कर	HI
+रहा	HI
+है	HI
+라인	KO
+का	HI
+타이밍	KO
+함수	KO
+이름	KO
+रखता	HI
+है	HI
+단어	KO
+.	HI
+
+선택	KO
+a	HI
+파일	KO
+
+등기	KO
+करें	HI
+फंक्शन	HI
+
+Gdb	HI
+디버거	KO
+
+추가하기	KO
+फ़ाइलः	HI
+
+원격	KO
+नामः	HI
+
+메일	KO
+box	KO
+파일	KO
+कोः	HI
+
+추가하기	KO
+끄기	KO
+द्वारा	HI
+라인	KO
+
+drop	KO
+या	HI
+입력합니다	KO
+
+कमिट	HI
+कोः	HI
+
+공연	KO
+श्रोत	HI
+인치	KO
+메세지	KO
+
+끝내기	KO
+में	HI
+추가	KO
+का	HI
+द्वारा	HI
+라인	KO
+
+로그	KO
+संदेशः	HI
+
+a	HI
+असफल	HI
+일치하기	KO
+i	HI
+
+사용	KO
+पसंदीदा	HI
+लेखकः	HI
+
+ई	HI
+-	HI
+मेलः	HI
+
+रेपोसिटरी	HI
+떨어뜨리기	KO
+या	HI
+타입	KO
+a	HI
+
+시험	KO
+닫기	KO
+पश्चात	HI
+है	HI
+
+टैग	HI
+नामः	HI
+
+이거	KO
+टैग	HI
+को	HI
+हस्ताक्षर	HI
+करें	HI
+
+떨어뜨리기	KO
+a	HI
+फ़ाइल	HI
+या	HI
+타입	KO
+a	HI
+को	HI
+a	HI
+फ़ाइल	HI
+या	HI
+
+छोडें	HI
+a	HI
+파일	KO
+को	HI
+a	HI
+파일	KO
+या	HI
+
+견해	KO
+로그	KO
+के	HI
+लिए	HI
+फ़ाइल	HI
+फ़ोल्डरः	HI
+
+छोटा	HI
+로그	KO
+
+페이지	KO
+1	HI
+
+페이지	KO
+2	HI
+
+리비전	KO
+को	HI
+매치	KO
+के	HI
+साथः	HI
+
+사용량	KO
+a	HI
+즐겨	KO
+संदेशः	HI
+
+रेपोसिटरी	HI
+방울	KO
+या	HI
+유형	KO
+a	HI
+
+बनाएँ	HI
+(	HI
+G	HI
+)	HI
+कोः	HI
+
+디렉터리	KO
+को	HI
+इंचः	HI
+
+रेपोसिटरी	HI
+को	HI
+सेः	HI
+
+끝내기	KO
+में	HI
+जोड़ें	HI
+आँकड़ा	HI
+
+커밋	KO
+पर	HI
+빠름	KO
+आगे	HI
+
+아님	KO
+अनुसरण	HI
+toc	KO
+
+रेपोसिटरी	HI
+को	HI
+누르기	KO
+कोः	HI
+
+दबाएँ	HI
+सभी	HI
+
+누르기	KO
+모두	KO
+그리고	KO
+
+원격	KO
+रिपॉजिटरीः	HI
+
+삭제	KO
+फ़ाइलः	HI
+
+पिछला	HI
+떨어뜨리기	KO
+या	HI
+입력하기	KO
+a	HI
+
+drop	KO
+या	HI
+유형	KO
+a	HI
+
+커밋	KO
+कोः	HI
+
+나열	KO
+
+파일	KO
+जोड़ें	HI
+
+부탁합니다	KO
+입력하기	KO
+a	HI
+रिमोट	HI
+नाम	HI
+.	HI
+
+कृपया	HI
+एंटर	HI
+a	HI
+URL	HI
+
+추가	KO
+रिमोट	HI
+
+적용	KO
+toc	KO
+편지	KO
+박스	KO
+파일	KO
+
+नहीं	HI
+चयनित	HI
+.	HI
+
+점검	KO
+끝내기	KO
+फ़ाइल	HI
+
+कृपया	HI
+입력하기	KO
+a	HI
+메세지	KO
+.	HI
+
+부탁합니다	KO
+입력합니다	KO
+제작자	KO
+출신	KO
+.	HI
+नाम	HI
+
+부탁합니다	KO
+입력합니다	KO
+제작자	KO
+출신	KO
+.	HI
+e	HI
+.	HI
+
+부탁합니다	KO
+입력합니다	KO
+a	HI
+.	HI
+
+커밋	KO
+출신	KO
+.	HI
+
+아님	KO
+चयनित	HI
+
+부탁합니다	KO
+एंटर	HI
+a	HI
+.	HI
+
+कृपया	HI
+입력합니다	KO
+a	HI
+이름	KO
+.	HI
+
+부탁합니다	KO
+입력합니다	KO
+a	HI
+नाम	HI
+.	HI
+
+बनाएँ	HI
+태그	KO
+
+नहीं	HI
+रिमोट	HI
+चयनित	HI
+.	HI
+
+नहीं	HI
+चयनित	HI
+.	HI
+
+태그	KO
+%	HI
+s	HI
+
+원격	KO
+%	HI
+s	HI
+
+Git	HI
+경고	KO
+
+कृपया	HI
+입력	KO
+a	HI
+URL	HI
+.	HI
+
+아님	KO
+리모콘	KO
+चयनित	HI
+
+हटाएँ	HI
+파일	KO
+
+चयनित	HI
+रिमोट	HI
+
+아님	KO
+원격	KO
+चयनित	HI
+प्रयोग	HI
+세금	KO
+रहा	HI
+है	HI
+द्वारा	HI
+기본	KO
+दबाएं	HI
+को	HI
+a	HI
+리모컨	KO
+하나	KO
+출신	KO
+리스트	KO
+인기	KO
+.	HI
+
+नहीं	HI
+파일	KO
+चयनित	HI
+.	HI
+
+변경	KO
+को	HI
+कमिट	HI
+완료	KO
+जाना	HI
+है	HI
+
+바꿨다	KO
+नहीं	HI
+
+아님	KO
+파일	KO
+चयनित	HI
+.	HI
+
+지점	KO
+उपकरण	HI
+
+생성	KO
+a	HI
+
+मिटाएँ	HI
+चयनित	HI
+분기	KO
+
+बदलें	HI
+को	HI
+चयनित	HI
+
+일치합니다	KO
+a	HI
+
+태그	KO
+도구	KO
+
+बनाएँ	HI
+a	HI
+
+मिटाएँ	HI
+चयनित	HI
+태그	KO
+
+공연	KO
+a	HI
+का	HI
+इंच	HI
+
+추가	KO
+파일	KO
+को	HI
+अनुक्रमणिका	HI
+
+지우기	KO
+फ़ाइल	HI
+출신	KO
+
+시험	KO
+बाहर	HI
+
+उलटें	HI
+인치	KO
+फ़ाइल	HI
+
+삭제하기	KO
+파일	KO
+출신	KO
+अनुक्रमणिका	HI
+
+마르크	KO
+चयनित	HI
+파일	KO
+जैसे	HI
+
+리모콘	KO
+रिपोजिटरी	HI
+기기	KO
+
+추가하기	KO
+a	HI
+리모컨	KO
+
+추가	KO
+a	HI
+리모컨	KO
+
+चयनित	HI
+리모컨	KO
+मिटाएँ	HI
+
+하나	KO
+리모컨	KO
+मिटाएँ	HI
+
+밀어	KO
+को	HI
+a	HI
+리모컨	KO
+
+से	HI
+a	HI
+리모컨	KO
+
+출신	KO
+리모컨	KO
+
+चयनित	HI
+रिमोट	HI
+
+시작하기	KO
+a	HI
+को	HI
+चयनित	HI
+원격	KO
+
+발급	KO
+유지	KO
+a	HI
+के	HI
+함께	KO
+상호	KO
+विरोध	HI
+
+삭제	KO
+
+떠나기	KO
+그리고	KO
+लौटाएँ	HI
+को	HI
+state	HI
+
+स्टैश	HI
+디바이스	KO
+
+신청	KO
+toc	KO
+चयनित	HI
+
+신청	KO
+toc	KO
+뒤로	KO
+트리	KO
+
+응용	KO
+toc	KO
+그리고	KO
+पुनर्भंडारण	HI
+अनुक्रमणिका	HI
+
+적용	KO
+toc	KO
+다시	KO
+나무들	KO
+그리고	KO
+색인	KO
+
+डिफ	HI
+चयनित	HI
+स्टैश	HI
+
+공연	KO
+a	HI
+का	HI
+चयनित	HI
+
+드롭	KO
+चयनित	HI
+
+मिटाएँ	HI
+चयनित	HI
+
+सभी	HI
+स्टैश	HI
+청소	KO
+करें	HI
+
+मिटाएँ	HI
+모두	KO
+인치	KO
+이거	KO
+
+리비전	KO
+도구	KO
+
+공연	KO
+
+दिखाएँ	HI
+a	HI
+का	HI
+चयनित	HI
+
+일치하기	KO
+से	HI
+
+리셋	KO
+나무	KO
+
+초기화	KO
+나무	KO
+को	HI
+a	HI
+
+उलटें	HI
+
+उलटें	HI
+a	HI
+
+पैचेस	HI
+
+생성	KO
+(	HI
+G	HI
+)	HI
+a	HI
+
+우편	KO
+box	KO
+파일	KO
+
+신청	KO
+toc	KO
+파일	KO
+
+적용	KO
+करें	HI
+से	HI
+फ़ाइल	HI
+
+진행중	KO
+유지	KO
+응용	KO
+세금	KO
+रहा	HI
+है	HI
+के	HI
+같이	KO
+상호	KO
+콘트라스트	KO
+
+종료	KO
+인치	KO
+
+रूकें	HI
+적용하기	KO
+납세	KO
+रहा	HI
+है	HI
+그리고	KO
+लौटाएँ	HI
+나무	KO
+को	HI
+state	HI
+
+작업	KO
+
+वर्क	HI
+우주	KO
+में	HI
+위젯	KO
+선택	KO
+
+끌기	KO
+그리고	KO
+आकार	HI
+바뀌기	KO
+인치	KO
+
+नहीं	HI
+지역주민	KO
+파일	KO
+출신	KO
+.	HI
+
+नहीं	HI
+해제한	KO
+출신	KO
+.	HI
+
+아님	KO
+a	HI
+नया	HI
+.	HI
+
+outlaw	KO
+फ़ाइल	HI
+이름	KO
+
+밑줄	KO
+सादा	HI
+
+오류	KO
+메시지	KO
+शैलीः	HI
+
+경고	KO
+메세지	KO
+शैलीः	HI
+
+장군	KO
+संदेश	HI
+शैलीः	HI
+
+메세지	KO
+색상	KO
+
+끄기	KO
+toc	KO
+모두	KO
+메시지	KO
+
+오류	KO
+출신	KO
+.	HI
+
+메시지	KO
+का	HI
+복사본	KO
+take	KO
+
+메시지	KO
+का	HI
+사본	KO
+take	KO
+
+저장하기	KO
+메시지	KO
+
+다음	KO
+이전	KO
+메시지	KO
+
+को	HI
+파일	KO
+
+선택	KO
+패키지	KO
+
+선택하기	KO
+패키지	KO
+को	HI
+जोड़ेंः	HI
+
+추가	KO
+
+추가	KO
+패키지	KO
+
+파일	KO
+디렉토리	KO
+को	HI
+
+패치	KO
+फ़ाइल	HI
+
+कृपया	HI
+인덱스	KO
+
+출신	KO
+.	HI
+प्रयोग	HI
+세금	KO
+रहा	HI
+है	HI
+출신	KO
+.	HI
+नहीं	HI
+
+기다렸다	KO
+करें	HI
+जबतक	HI
+पूर्ण	HI
+.	HI
+
+실패	KO
+그리고	KO
+मिटाएँ	HI
+कोई	HI
+파일	KO
+아님	KO
+
+파일	KO
+निर्देशिका	HI
+कोः	HI
+
+फ़ाइलः	HI
+
+파일	KO
+
+A	HI
+파일	KO
+named	HI
+출신	KO
+.	HI
+참석합니다	KO
+है	HI
+को	HI
+?	HI
+
+A	HI
+파일	KO
+named	HI
+출신	KO
+.	HI
+출신	KO
+.	HI
+테스트	KO
+यदि	HI
+화상	KO
+도달하기	KO
+को	HI
+디렉터리	KO
+.	HI
+
+부탁합니다	KO
+a	HI
+को	HI
+해제한	KO
+출신	KO
+.	HI
+.	HI
+
+इसके	HI
+साथ	HI
+해제한	KO
+
+아님	KO
+a	HI
+के	HI
+लिए	HI
+निर्देशिका	HI
+से	HI
+.	HI
+부탁합니다	KO
+a	HI
+디렉터리	KO
+या	HI
+को	HI
+a	HI
+에디션	KO
+का	HI
+Anjuta	HI
+.	HI
+
+떠나	KO
+यूआरआई	HI
+출신	KO
+.	HI
+오류	KO
+출신	KO
+.	HI
+
+프로젝트	KO
+이름	KO
+
+수입	KO
+출신	KO
+
+आयात	HI
+출신	KO
+संस्करण	HI
+컨트롤	KO
+소프트웨어	KO
+
+가져오기	KO
+옵션	KO
+
+नई	HI
+डिरेक्ट्री	HI
+.	HI
+.	HI
+.	HI
+
+को	HI
+निर्देशिकाः	HI
+
+जोड़ें	HI
+원본	KO
+
+선택	KO
+लक्ष्य	HI
+के	HI
+लिए	HI
+नया	HI
+श्रोत	HI
+फ़ाइलः	HI
+
+선택하기	KO
+파일	KO
+को	HI
+추가	KO
+
+소스	KO
+फ़ाइलेंः	HI
+
+추가	KO
+라이브러리	KO
+
+선택하기	KO
+लक्ष्य	HI
+के	HI
+लिएः	HI
+
+नयी	HI
+라이브러리	KO
+
+पैकेज	HI
+सूचीः	HI
+
+ब्राउज़	HI
+기타	KO
+
+아님	KO
+로딩	KO
+हो	HI
+गया	HI
+
+신선	KO
+करना	HI
+나무	KO
+
+असफल	HI
+को	HI
+출신	KO
+.	HI
+
+को	HI
+मिटाएँ	HI
+अनुसरण	HI
+세금	KO
+रहा	HI
+है	HI
+그룹	KO
+से	HI
+아님	KO
+아님	KO
+
+को	HI
+मिटाएँ	HI
+अनुसरण	HI
+कर	HI
+रहा	HI
+है	HI
+लक्ष्य	HI
+से	HI
+नहीं	HI
+नहीं	HI
+
+को	HI
+मिटाएँ	HI
+अनुसरण	HI
+세금	KO
+रहा	HI
+है	HI
+श्रोत	HI
+파일	KO
+출신	KO
+아님	KO
+아님	KO
+
+को	HI
+मिटाएँ	HI
+अनुसरण	HI
+납세	KO
+रहा	HI
+है	HI
+패키지	KO
+출신	KO
+아님	KO
+아님	KO
+
+को	HI
+मिटाएँ	HI
+अनुसरण	HI
+कर	HI
+रहा	HI
+है	HI
+से	HI
+아님	KO
+아님	KO
+
+को	HI
+मिटाएँ	HI
+अनुसरण	HI
+납세	KO
+रहा	HI
+है	HI
+출신	KO
+아님	KO
+아님	KO
+
+शॉर्टकटः	HI
+%	HI
+s	HI
+
+पैकेजः	HI
+%	HI
+s	HI
+
+समूह	HI
+출신	KO
+파일	KO
+시스템	KO
+.	HI
+
+समूह	HI
+아님	KO
+से	HI
+파일	KO
+सिस्टम	HI
+.	HI
+
+श्रोत	HI
+파일	KO
+출신	KO
+फ़ाइल	HI
+시스템	KO
+.	HI
+
+श्रोत	HI
+파일	KO
+아님	KO
+से	HI
+파일	KO
+시스템	KO
+.	HI
+
+मिटाने	HI
+की	HI
+확인됨	KO
+toc	KO
+
+실패	KO
+को	HI
+मिटाएँ	HI
+출신	KO
+.	HI
+नहीं	HI
+출신	KO
+.	HI
+
+실패	KO
+को	HI
+यूआरआई	HI
+알림	KO
+का	HI
+출신	KO
+.	HI
+से	HI
+.	HI
+
+नया	HI
+색인	KO
+
+추가하기	KO
+a	HI
+नया	HI
+인덱스	KO
+को	HI
+
+जोड़ें	HI
+a	HI
+नया	HI
+목표	KO
+को	HI
+
+추가하기	KO
+소스	KO
+파일	KO
+
+추가하기	KO
+a	HI
+श्रोत	HI
+파일	KO
+को	HI
+a	HI
+목표	KO
+
+जोड़ें	HI
+라이브러리	KO
+
+नया	HI
+도서관	KO
+
+जोड़ें	HI
+a	HI
+नया	HI
+패키지	KO
+को	HI
+
+프로젝트	KO
+속성	KO
+
+닫기	KO
+toc	KO
+
+추가	KO
+a	HI
+को	HI
+a	HI
+लक्ष्य	HI
+
+नयी	HI
+라이브러리	KO
+(	HI
+_	HI
+L	HI
+)	HI
+
+추가	KO
+a	HI
+नया	HI
+को	HI
+
+추가하기	KO
+को	HI
+परियोजना	HI
+
+गुण	HI
+का	HI
+집단	KO
+타겟	KO
+श्रोत	HI
+
+삭제하기	KO
+출신	KO
+
+छाँटें	HI
+(	HI
+_	HI
+S	HI
+)	HI
+
+छाँटें	HI
+
+असफल	HI
+को	HI
+है	HI
+아님	KO
+से	HI
+.	HI
+출신	KO
+.	HI
+아님	KO
+
+अद्यतन	HI
+
+लोड	HI
+हो	HI
+रहा	HI
+है	HI
+출신	KO
+.	HI
+
+오류	KO
+출신	KO
+.	HI
+
+프로젝트	KO
+
+परियोजना	HI
+팝업	KO
+
+प्रारंभिकीकरण	HI
+कर	HI
+रहा	HI
+है	HI
+프로젝트	KO
+
+프로젝트	KO
+로드	KO
+किया	HI
+
+선택	KO
+
+है	HI
+아님	KO
+.	HI
+
+모듈	KO
+특성	KO
+
+पैकेज	HI
+गुण	HI
+
+익명	KO
+재산권	KO
+
+जोड़ें	HI
+그룹	KO
+
+नहीं	HI
+부모	KO
+समूह	HI
+चयनित	HI
+
+추가	KO
+श्रोत	HI
+파일	KO
+
+चयनित	HI
+노드	KO
+श्रोत	HI
+फ़ाइल	HI
+.	HI
+
+추가	KO
+목표	KO
+
+아님	KO
+समूह	HI
+चयनित	HI
+
+추가	KO
+모듈	KO
+
+아님	KO
+타겟	KO
+चयनित	HI
+
+결석	KO
+नाम	HI
+
+추가	KO
+संकुल	HI
+
+संपुष्ट	HI
+करें	HI
+अनुसरण	HI
+세금	KO
+रहा	HI
+हैः	HI
+
+프로젝트	KO
+प्रकार	HI
+출신	KO
+.	HI
+नहीं	HI
+
+को	HI
+कोई	HI
+इंच	HI
+출신	KO
+.	HI
+
+출신	KO
+.	HI
+है	HI
+부탁합니다	KO
+एंटर	HI
+.	HI
+
+구역	KO
+출신	KO
+.	HI
+रखता	HI
+है	HI
+음절	KO
+या	HI
+अनुसरण	HI
+세금	KO
+रहा	HI
+है	HI
+글자	KO
+인사이드	KO
+a	HI
+डैश	HI
+कृपया	HI
+.	HI
+
+영역	KO
+출신	KO
+.	HI
+रखता	HI
+है	HI
+캐릭터	KO
+अनुसरण	HI
+कर	HI
+रहा	HI
+है	HI
+캐릭터	KO
+या	HI
+디렉토리	KO
+인사이드	KO
+a	HI
+대시	KO
+कृपया	HI
+.	HI
+
+अज्ञात	HI
+त्रुटि	HI
+.	HI
+
+색인	KO
+से	HI
+.	HI
+है	HI
+아님	KO
+비어	KO
+परियोजना	HI
+यदि	HI
+일부	KO
+파일	KO
+को	HI
+?	HI
+
+파일	KO
+출신	KO
+.	HI
+참석합니다	KO
+है	HI
+को	HI
+?	HI
+
+오류	KO
+품목	KO
+
+प्रोग्राम्स	HI
+출신	KO
+.	HI
+.	HI
+
+패키지	KO
+출신	KO
+.	HI
+.	HI
+
+कुछ	HI
+प्रोग्राम्स	HI
+या	HI
+소포	KO
+필수	KO
+को	HI
+이거	KO
+गुम	HI
+부탁합니다	KO
+우선	KO
+बनाया	HI
+जा	HI
+रहा	HI
+है	HI
+नहीं	HI
+
+설치됨	KO
+करें	HI
+गुम	HI
+संकुल	HI
+
+गुम	HI
+प्रोग्राम्स	HI
+part	HI
+का	HI
+कुछ	HI
+배포판	KO
+패키지	KO
+그리고	KO
+के	HI
+लिए	HI
+인치	KO
+어플리케이션	KO
+매니저	KO
+패키지	KO
+인치	KO
+단독	KO
+패키지	KO
+배달	KO
+जुटाता	HI
+है	HI
+को	HI
+का	HI
+पर	HI
+끝내기	KO
+के	HI
+같이	KO
+a	HI
+या	HI
+इंच	HI
+패키지	KO
+नाम	HI
+그리고	KO
+got	KO
+द्वारा	HI
+खोज	HI
+रहा	HI
+है	HI
+इंच	HI
+अनुप्रयोग	HI
+매니저	KO
+.	HI
+
+실종	KO
+컴포넌트	KO
+
+को	HI
+प्रयोक्ता	HI
+अतरफलक	HI
+출신	KO
+.	HI
+.	HI
+
+नया	HI
+असफल	HI
+.	HI
+
+से	HI
+.	HI
+फ़ाइल	HI
+참석	KO
+है	HI
+
+출신	KO
+.	HI
+실패	KO
+को	HI
+निर्देशिका	HI
+
+출신	KO
+.	HI
+실험	KO
+세금	KO
+रहा	HI
+है	HI
+출신	KO
+.	HI
+
+출신	KO
+.	HI
+출신	KO
+.	HI
+
+को	HI
+출신	KO
+.	HI
+출신	KO
+.	HI
+
+नया	HI
+프로젝트	KO
+조교	KO
+
+파일	KO
+선택	KO
+
+그림	KO
+फाइल	HI
+선택	KO
+
+icons	KO
+선택	KO
+
+선택하기	KO
+디렉토리	KO
+
+परियोजना	HI
+नामः	HI
+
+옵션	KO
+के	HI
+लिए	HI
+सिस्टम	HI
+
+선택하기	KO
+कोड	HI
+
+सी	HI
+지지	KO
+को	HI
+सी	HI
+श्रोत	HI
+파일	KO
+बिल्ट	HI
+
+추가	KO
+समर्थनः	HI
+
+지지	KO
+के	HI
+लिए	HI
+인치	KO
+
+설정	KO
+संकुलः	HI
+
+사용하기	KO
+को	HI
+추가	KO
+후원	KO
+출신	KO
+기타	KO
+소포	KO
+
+कॉन्फ़िगर	HI
+소포	KO
+
+테스트	KO
+소포	KO
+
+지지	KO
+के	HI
+लिए	HI
+인치	KO
+
+python	KO
+실험	KO
+세금	KO
+रहा	HI
+है	HI
+웹툰	KO
+
+GTK	HI
+सरल	HI
+
+단순한	KO
+GTK	HI
+
+doc	HI
+है	HI
+사용함	KO
+को	HI
+API	HI
+के	HI
+लिए	HI
+वर्ग	HI
+
+이용하기	KO
+के	HI
+लिए	HI
+사용자	KO
+अतरफलकः	HI
+
+사용	KO
+को	HI
+사용자	KO
+अतरफलक	HI
+인치	KO
+a	HI
+आलेखीय	HI
+그리고	KO
+से	HI
+파일	KO
+एट	HI
+
+पैकेजः	HI
+
+a	HI
+패키지	KO
+이름	KO
+귀하	KO
+मई	HI
+है	HI
+긴급	KO
+에디션	KO
+का	HI
+패키지	KO
+के	HI
+लिए	HI
+삽화	KO
+या	HI
+
+Anjuta	HI
+플러그인	KO
+
+프로젝트	KO
+नाम	HI
+नहीं	HI
+이름	KO
+का	HI
+타겟	KO
+
+디스플레이	KO
+का	HI
+प्लगइन	HI
+
+플러그인	KO
+वर्णनः	HI
+
+प्रदर्शक	HI
+वर्णन	HI
+का	HI
+플러그인	KO
+
+प्लगइनः	HI
+
+쉼표	KO
+기호	KO
+기타	KO
+이거	KO
+플러그인	KO
+डिपेंड्स	HI
+पर	HI
+예비	KO
+अतरफलक	HI
+이름	KO
+या	HI
+플러그인	KO
+장소	KO
+वर्ग	HI
+
+बनाएँ	HI
+अतरफलक	HI
+파일	KO
+
+만들기	KO
+a	HI
+अतरफलक	HI
+파일	KO
+
+플러그인	KO
+या	HI
+그리고	KO
+가전제품	KO
+-	HI
+पट्टियाँ	HI
+
+플러그인	KO
+या	HI
+단말기	KO
+-	HI
+पट्टियाँ	HI
+
+मान	HI
+को	HI
+
+껍질	KO
+को	HI
+
+मान	HI
+नामः	HI
+
+이름	KO
+का	HI
+가치관	KO
+को	HI
+
+플러그인	KO
+인터페이스	KO
+को	HI
+
+A	HI
+사용량	KO
+세금	KO
+रहा	HI
+है	HI
+자바	KO
+कम्पाइलर	HI
+
+को	HI
+वर्ग	HI
+रखता	HI
+है	HI
+과장	KO
+फंक्शन	HI
+
+A	HI
+사용법	KO
+कर	HI
+रहा	HI
+है	HI
+
+A	HI
+python	HI
+प्रयोग	HI
+납세	KO
+रहा	HI
+है	HI
+
+실험	KO
+세금	KO
+रहा	HI
+है	HI
+
+프로젝트	KO
+디렉토리	KO
+출력	KO
+파일	KO
+.	HI
+
+संस्करणः	HI
+
+버전	KO
+जरूरी	HI
+
+A	HI
+या	HI
+a	HI
+정적	KO
+
+빌드	KO
+जैसे	HI
+
+선택하기	KO
+타입	KO
+को	HI
+
+साझेदारी	HI
+그리고	KO
+정적	KO
+
+단발	KO
+협력	KO
+
+सिर्फ	HI
+꾸준히	KO
+
+GTK	HI
+애플리케이션	KO
+
+भरा	HI
+हुआ	HI
+자산	KO
+어플리케이션	KO
+के	HI
+साथ	HI
+파일	KO
+
+처형	KO
+인치	KO
+터미널	KO
+
+कार्यशील	HI
+निर्देशिकाः	HI
+
+चुनें	HI
+a	HI
+색인	KO
+
+프로그램	KO
+디렉터리	KO
+से	HI
+.	HI
+है	HI
+नहीं	HI
+로컬	KO
+
+missing	KO
+파일	KO
+출신	KO
+.	HI
+
+프로그램	KO
+है	HI
+런닝	KO
+को	HI
+그렇다면	KO
+से	HI
+चालू	HI
+करें	HI
+?	HI
+
+노출	KO
+프로그램	KO
+
+프로그램	KO
+매개변수	KO
+
+집합	KO
+이벤트	KO
+.	HI
+
+명령어	KO
+사용	KO
+के	HI
+लिए	HI
+시작	KO
+세금	KO
+रहा	HI
+है	HI
+a	HI
+터미널	KO
+
+삽입	KO
+a	HI
+실험	KO
+세금	KO
+रहा	HI
+है	HI
+
+प्रविष्ट	HI
+a	HI
+실험	KO
+세금	KO
+रहा	HI
+है	HI
+स्वचालित	HI
+
+수입	KO
+को	HI
+데이터베이스	KO
+
+निर्यात	HI
+
+수출	KO
+출신	KO
+데이터베이스	KO
+
+स्निपेट	HI
+매니저	KO
+
+즉석	KO
+가치관	KO
+
+추가하기	KO
+स्निपेट	HI
+
+추가	KO
+स्निपेट	HI
+집단	KO
+
+기본값	KO
+가치	KO
+
+오류	KO
+당신은	KO
+एट	HI
+하나	KO
+언어	KO
+के	HI
+लिए	HI
+!	HI
+
+오류	KO
+है	HI
+인치	KO
+के	HI
+लिए	HI
+하나	KO
+का	HI
+!	HI
+
+오류	KO
+अक्षर	HI
+그리고	KO
+!	HI
+
+실수	KO
+당신	KO
+a	HI
+के	HI
+लिए	HI
+!	HI
+
+चुनें	HI
+이름	KO
+का	HI
+स्निपेट	HI
+소개팅	KO
+का	HI
+이름	KO
+है	HI
+.	HI
+
+알림	KO
+आप	HI
+a	HI
+이름	KO
+के	HI
+लिए	HI
+!	HI
+
+선택	KO
+स्निपेट	HI
+समूह	HI
+को	HI
+이거	KO
+.	HI
+
+오류	KO
+को	HI
+a	HI
+집단	KO
+!	HI
+
+트리거	KO
+कुंजीः	HI
+
+है	HI
+प्रयुक्त	HI
+के	HI
+लिए	HI
+빠름	KO
+का	HI
+형식	KO
+इंच	HI
+द्वारा	HI
+강렬하게	KO
+प्रविष्ट	HI
+단축키	KO
+को	HI
+घुसाएँ	HI
+a	HI
+चेतावनी	HI
+भाषा	HI
+
+선택하기	KO
+के	HI
+लिए	HI
+को	HI
+이거	KO
+.	HI
+
+बीजशब्द	HI
+प्रयुक्त	HI
+के	HI
+लिए	HI
+발견	KO
+रहा	HI
+है	HI
+का	HI
+관련	KO
+को	HI
+관대	KO
+द्वारा	HI
+a	HI
+싱글	KO
+위치	KO
+.	HI
+
+가져오기	KO
+स्निपेट	HI
+
+내보내기	KO
+स्निपेट	HI
+
+파일	KO
+출신	KO
+.	HI
+पर	HI
+है	HI
+기타	KO
+को	HI
+पुनःभारित	HI
+करें	HI
+?	HI
+
+फ़ाइल	HI
+출신	KO
+.	HI
+पर	HI
+को	HI
+बंद	HI
+toc	KO
+?	HI
+
+아님	KO
+해제한	KO
+출신	KO
+.	HI
+출신	KO
+.	HI
+
+파일	KO
+से	HI
+.	HI
+है	HI
+읽고	KO
+편집	KO
+?	HI
+
+아님	KO
+저장하기	KO
+출신	KO
+.	HI
+출신	KO
+.	HI
+
+아님	KO
+저장	KO
+파일	KO
+फाइलनाम	HI
+아님	KO
+
+नया	HI
+파일	KO
+%	HI
+d	HI
+
+준비	KO
+페이지	KO
+के	HI
+लिए	HI
+छापा	HI
+जा	HI
+रहा	HI
+है	HI
+
+लपेटें	HI
+라이선스	KO
+
+라인	KO
+
+사용하기	KO
+के	HI
+लिए	HI
+
+टैब	HI
+사이즈	KO
+इंचः	HI
+
+इंडेन्टेशन	HI
+그리고	KO
+자동	KO
+옵션	KO
+
+백업	KO
+파일	KO
+생성	KO
+
+액티브	KO
+करें	HI
+के	HI
+लिए	HI
+दस्तावेज़	HI
+
+공연	KO
+लकीर	HI
+
+दिखाएँ	HI
+दायाँ	HI
+
+दायाँ	HI
+स्थिति	HI
+इंच	HI
+등장인물	KO
+
+उपयोग	HI
+주제	KO
+
+नया	HI
+프로젝트	KO
+만들기	KO
+
+최근	KO
+परियोजनाः	HI
+
+सबवर्सन	HI
+वरीयताएं	HI
+
+सबवर्सन	HI
+대안	KO
+
+추가	KO
+파일	KO
+디렉토리	KO
+
+제거	KO
+파일	KO
+/	HI
+निर्देशिका	HI
+
+파일	KO
+URL	HI
+को	HI
+हटाएँः	HI
+
+갱신	KO
+파일	KO
+인덱스	KO
+
+डिफ	HI
+파일	KO
+निर्देशिका	HI
+
+फ़ाइल	HI
+या	HI
+색인	KO
+कोः	HI
+
+저장	KO
+खोलें	HI
+파일	KO
+이전	KO
+
+रेपोसिटरी	HI
+प्राधिकरण	HI
+
+remember	KO
+유지	KO
+암호	KO
+
+ट्रस्ट	HI
+सर्वर	HI
+
+याद	HI
+유지	KO
+이거	KO
+
+उलटें	HI
+परिवर्तन	HI
+
+선택하기	KO
+변환	KO
+को	HI
+उलटेंः	HI
+
+पुनःप्राप्त	HI
+세금	KO
+रहा	HI
+है	HI
+स्थिति	HI
+
+पिछला	HI
+कमिट	HI
+संदेशः	HI
+
+사용량	KO
+메세지	KO
+
+선택하기	KO
+파일	KO
+को	HI
+कमिटः	HI
+
+프로젝트	KO
+
+डिफ	HI
+को	HI
+पिछला	HI
+
+डिफ	HI
+चयनित	HI
+
+दृश्य	HI
+चयनित	HI
+리비전	KO
+
+사본	KO
+파일	KO
+
+출처	KO
+목적지	KO
+पथः	HI
+
+런닝	KO
+카피	KO
+
+रेपोसिटरी	HI
+인기	KO
+
+전환	KO
+को	HI
+
+달리기	KO
+복사본	KO
+पथः	HI
+
+나뭇가지	KO
+टैग	HI
+URL	HI
+:	HI
+
+합치기	KO
+कॉपी	HI
+toc	KO
+
+사용	KO
+퍼스트	KO
+
+सेकेण्ड	HI
+पथः	HI
+
+नज़रअंदाज़	HI
+toc	KO
+
+집합	KO
+परस्पर	HI
+항의	KO
+जैसे	HI
+हल	HI
+
+선택하기	KO
+파일	KO
+को	HI
+마크	KO
+जैसे	HI
+हलः	HI
+
+सबवर्सन	HI
+
+추가	KO
+
+जोड़ें	HI
+a	HI
+नया	HI
+파일	KO
+디렉토리	KO
+को	HI
+सबवर्सन	HI
+트리	KO
+
+हटाएँ	HI
+
+삭제	KO
+a	HI
+파일	KO
+색인	KO
+출신	KO
+सबवर्सन	HI
+트리	KO
+
+कमिट	HI
+को	HI
+सबवर्सन	HI
+나무	KO
+
+उलटें	HI
+को	HI
+사본	KO
+toc	KO
+.	HI
+
+상호	KO
+갈등	KO
+인치	KO
+कॉपी	HI
+toc	KO
+.	HI
+
+अद्यतन	HI
+
+로컬	KO
+복사본	KO
+toc	KO
+के	HI
+같이	KO
+सबवर्सन	HI
+나무	KO
+
+복사본	KO
+파일	KO
+/	HI
+폴더	KO
+
+사본	KO
+파일	KO
+인치	KO
+
+대체	KO
+को	HI
+a	HI
+शाखा	HI
+태그	KO
+
+변환	KO
+지역주민	KO
+कॉपी	HI
+toc	KO
+को	HI
+a	HI
+या	HI
+인치	KO
+
+मिलाएं	HI
+복사본	KO
+toc	KO
+
+표시됨	KO
+로그	KO
+
+견해	KO
+फ़ाइल	HI
+
+डिफ	HI
+로컬	KO
+ट्री	HI
+के	HI
+함께	KO
+
+सबवर्सन	HI
+작전	KO
+
+सबवर्सन	HI
+पॉपअप	HI
+संचालन	HI
+
+सबवर्सन	HI
+लॉग	HI
+
+सबवर्सन	HI
+파일	KO
+पर	HI
+.	HI
+
+부탁합니다	KO
+입력합니다	KO
+a	HI
+.	HI
+
+सबवर्सन	HI
+को	HI
+
+부탁합니다	KO
+입력하기	KO
+a	HI
+श्रोत	HI
+.	HI
+
+कृपया	HI
+एंटर	HI
+a	HI
+.	HI
+
+सबवर्सन	HI
+पुनःप्राप्त	HI
+세금	KO
+रहा	HI
+है	HI
+
+सबवर्सन	HI
+पुनःप्राप्त	HI
+세금	KO
+रहा	HI
+है	HI
+
+सबवर्सन	HI
+파일	KO
+.	HI
+
+सबवर्सन	HI
+पुनःप्राप्त	HI
+세금	KO
+रहा	HI
+है	HI
+파일	KO
+
+सबवर्सन	HI
+매치	KO
+पूर्ण	HI
+.	HI
+
+부탁합니다	KO
+입력	KO
+पहला	HI
+.	HI
+
+부탁합니다	KO
+입력합니다	KO
+둘째	KO
+.	HI
+
+부탁합니다	KO
+एंटर	HI
+a	HI
+복사	KO
+toc	KO
+.	HI
+
+부탁합니다	KO
+입력	KO
+시작했습니다	KO
+.	HI
+
+कृपया	HI
+입력합니다	KO
+अंत	HI
+.	HI
+
+सबवर्सन	HI
+फ़ाइल	HI
+पर	HI
+.	HI
+
+सबवर्सन	HI
+उलटें	HI
+पूर्ण	HI
+.	HI
+
+सबवर्सन	HI
+बदलें	HI
+철저한	KO
+.	HI
+
+부탁합니다	KO
+입력하기	KO
+a	HI
+URL	HI
+.	HI
+
+सबवर्सन	HI
+갱신	KO
+पूर्ण	HI
+.	HI
+
+검증	KO
+
+그렇다면	KO
+तक	HI
+वैधः	HI
+
+मिटाया	HI
+출신	KO
+.	HI
+
+जोड़ा	HI
+गया	HI
+से	HI
+.	HI
+
+솔루션	KO
+출신	KO
+.	HI
+
+업데이트	KO
+출신	KO
+.	HI
+
+업데이트	KO
+출신	KO
+.	HI
+
+परिवर्धित	HI
+출신	KO
+.	HI
+
+मिलाया	HI
+출신	KO
+.	HI
+
+विरोधी	HI
+출신	KO
+.	HI
+
+missing	KO
+출신	KO
+.	HI
+
+जाएँ	HI
+को	HI
+선언	KO
+
+태그	KO
+इम्प्लीमेंटेशन	HI
+
+जाएँ	HI
+को	HI
+정의	KO
+
+검색하기	KO
+प्रतीक	HI
+
+검색하기	KO
+प्रतीक	HI
+
+출신	KO
+.	HI
+d	HI
+파일	KO
+떠나기	KO
+का	HI
+d	HI
+
+d	HI
+फ़ाइल	HI
+बाहर	HI
+का	HI
+d	HI
+
+데이터베이스	KO
+
+팝업	KO
+
+메뉴	KO
+
+아이콘	KO
+데이터베이스	KO
+
+이력서	KO
+완료	KO
+जा	HI
+रहा	HI
+है	HI
+.	HI
+.	HI
+
+병렬	KO
+का	HI
+그리고	KO
+전역	KO
+
+글로벌	KO
+सिस्टम	HI
+소포	KO
+के	HI
+같이	KO
+출신	KO
+.	HI
+
+स्वचालित	HI
+친절	KO
+출신	KO
+सहेजन	HI
+रहा	HI
+है	HI
+파일	KO
+
+स्वचालित	HI
+유형	KO
+출신	KO
+파일	KO
+से	HI
+.	HI
+सहेजन	HI
+रहा	HI
+है	HI
+पश्चात	HI
+सेकण्ड	HI
+द्वारा	HI
+사용자	KO
+.	HI
+
+उपयोग	HI
+चयनित	HI
+인치	KO
+गनोम	HI
+터미널	KO
+
+गनोम	HI
+터미널	KO
+प्रोफाइल	HI
+का	HI
+이용하기	KO
+करेंः	HI
+
+टर्मिनल	HI
+옵션	KO
+
+터미널	KO
+संचालन	HI
+
+को	HI
+कार्यान्वित	HI
+toc	KO
+지휘	KO
+
+전체	KO
+फ़ाइल	HI
+सहेजें	HI
+
+변수	KO
+(	HI
+_	HI
+V	HI
+)	HI
+…	HI
+
+कार्यशील	HI
+निर्देशिकाः	HI
+
+스탠더드	KO
+आउटपुटः	HI
+
+표준	KO
+त्रुटिः	HI
+
+편집	KO
+जैसे	HI
+स्क्रिप्ट	HI
+
+편집하기	KO
+명령	KO
+जैसे	HI
+स्क्रिप्ट	HI
+인치	KO
+Anjuta	HI
+पर	HI
+끄기	KO
+toc	KO
+
+को	HI
+मिटाएं	HI
+출신	KO
+.	HI
+?	HI
+
+पूछें	HI
+एट	HI
+
+당신	KO
+a	HI
+이름	KO
+!	HI
+
+당신은	KO
+a	HI
+명령어	KO
+!	HI
+
+A	HI
+के	HI
+같이	KO
+नाम	HI
+उपस्थित	HI
+है	HI
+!	HI
+
+단축키	KO
+है	HI
+사용됨	KO
+द्वारा	HI
+인치	KO
+Anjuta	HI
+को	HI
+?	HI
+
+को	HI
+편집자	KO
+स्क्रिप्ट	HI
+
+नया	HI
+가속기	KO
+
+चल	HI
+रहा	HI
+है	HI
+명령	KO
+से	HI
+.	HI
+아님	KO
+
+가득	KO
+के	HI
+함께	KO
+स्थिति	HI
+코드	KO
+d	HI
+아님	KO
+
+को	HI
+a	HI
+कमांड	HI
+
+아님	KO
+문서	KO
+खोलें	HI
+명령어	KO
+
+को	HI
+해제한	KO
+파일	KO
+से	HI
+.	HI
+कमांड	HI
+
+누락	KO
+도구	KO
+이름	KO
+
+원소	KO
+출신	KO
+.	HI
+
+오류	KO
+उपकरण	HI
+
+को	HI
+오픈	KO
+출신	KO
+.	HI
+के	HI
+लिए	HI
+
+टूल	HI
+도구	KO
+
+परियोजना	HI
+रूट	HI
+uri	KO
+
+프로젝트	KO
+뿌리	KO
+경로	KO
+
+चयनित	HI
+यूआरआई	HI
+인치	KO
+파일	KO
+प्लगइन	HI
+
+चयनित	HI
+디렉토리	KO
+इंच	HI
+파일	KO
+प्लगइन	HI
+
+चयनित	HI
+파일	KO
+नाम	HI
+इंच	HI
+파일	KO
+प्लगइन	HI
+
+चयनित	HI
+파일	KO
+नाम	HI
+인치	KO
+파일	KO
+플러그인	KO
+
+चयनित	HI
+파일	KO
+이름	KO
+इंच	HI
+파일	KO
+플러그인	KO
+
+चयनित	HI
+파일	KO
+이름	KO
+इंच	HI
+파일	KO
+플러그인	KO
+
+चयनित	HI
+파일	KO
+출신	KO
+.	HI
+인치	KO
+파일	KO
+플러그인	KO
+
+चयनित	HI
+uri	KO
+इंच	HI
+플러그인	KO
+
+चयनित	HI
+색인	KO
+इंच	HI
+플러그인	KO
+
+चयनित	HI
+파일	KO
+이름	KO
+इंच	HI
+플러그인	KO
+
+चयनित	HI
+파일	KO
+नाम	HI
+인치	KO
+플러그인	KO
+
+चयनित	HI
+파일	KO
+이름	KO
+इंच	HI
+प्लगइन	HI
+
+चयनित	HI
+파일	KO
+이름	KO
+इंच	HI
+플러그인	KO
+
+चयनित	HI
+파일	KO
+인치	KO
+प्लगइन	HI
+
+파일	KO
+नाम	HI
+
+फ़ाइल	HI
+이름	KO
+
+फ़ाइल	HI
+निर्देशिका	HI
+
+चयनित	HI
+텍스트	KO
+इंच	HI
+
+현재	KO
+शब्द	HI
+인치	KO
+
+전류	KO
+라인	KO
+인치	KO
+
+पूछें	HI
+사용자	KO
+को	HI
+पाएं	HI
+अतिरिक्त	HI
+पैरामीटर्स	HI
+
+사령부	KO
+라인	KO
+पैरामीटर्स	HI
+
+आउटपुट	HI
+जैसे	HI
+똑같이	KO
+
+현재	KO
+메시지	KO
+पट्टी	HI
+
+नया	HI
+메세지	KO
+패티	KO
+
+नया	HI
+버퍼	KO
+
+बफर	HI
+변환	KO
+
+끝내기	KO
+में	HI
+추가	KO
+को	HI
+
+लोड	HI
+완료	KO
+세션	KO
+
+को	HI
+점검	KO
+बाहर	HI
+.	HI
+
+리셋	KO
+डॉक	HI
+ले	HI
+-	HI
+아웃	KO
+
+초기화	KO
+को	HI
+기본	KO
+
+닫힌	KO
+करें	HI
+डॉक	HI
+take	KO
+-	HI
+아웃	KO
+
+बंद	HI
+toc	KO
+
+사용자	KO
+से	HI
+.	HI
+हस्तचालित	HI
+
+Anjuta	HI
+사용자	KO
+출신	KO
+.	HI
+दस्ती	HI
+
+किक	HI
+시작	KO
+
+Anjuta	HI
+किक	HI
+시작	KO
+
+온라인	KO
+문서	KO
+창의	KO
+그리고	KO
+
+보고	KO
+पैचेस	HI
+आग्रह	HI
+
+제출	KO
+toc	KO
+a	HI
+report	HI
+या	HI
+के	HI
+लिए	HI
+Anjuta	HI
+
+पूछें	HI
+a	HI
+प्रश्न	HI
+
+सुपुर्द	HI
+toc	KO
+a	HI
+조회	KO
+के	HI
+लिए	HI
+
+के	HI
+बारे	HI
+में	HI
+야외	KO
+प्लगइन्स	HI
+
+के	HI
+बारे	HI
+में	HI
+तीसरा	HI
+Anjuta	HI
+
+모양	KO
+और	HI
+위치	KO
+का	HI
+치프	KO
+विंडो	HI
+
+스타트업	KO
+a	HI
+नया	HI
+그리고	KO
+아님	KO
+해제한	KO
+फ़ाइल	HI
+인치	KO
+
+아님	KO
+खोलें	HI
+अंतिम	HI
+सत्र	HI
+पर	HI
+
+नहीं	HI
+오픈	KO
+결승전	KO
+그리고	KO
+파일	KO
+पर	HI
+
+아래에	KO
+Anjuta	HI
+모두	KO
+के	HI
+लिए	HI
+
+아님	KO
+기말고사	KO
+세션	KO
+पर	HI
+
+아님	KO
+파이널	KO
+그리고	KO
+파일	KO
+पर	HI
+
+डॉक	HI
+शैलीः	HI
+
+आइकन	HI
+के	HI
+바닥	KO
+텍스트	KO
+
+icons	KO
+के	HI
+बाजू	HI
+텍스트	KO
+
+단발	KO
+상징	KO
+
+그냥	KO
+문구	KO
+
+नहीं	HI
+알림	KO
+यदि	HI
+아님	KO
+प्रयोग	HI
+कर	HI
+रहा	HI
+है	HI
+a	HI
+दोषसुधार	HI
+विन्यास	HI
+
+सबसे	HI
+आगे	HI
+का	HI
+인치	KO
+다중	KO
+라인	KO
+टिप्पणीः	HI
+
+वरीयता	HI
+emacs	HI
+
+모양	KO
+इंचः	HI
+
+स्टेटमेन्ट	HI
+크기	KO
+इंचः	HI
+
+इंडेन्टेशन	HI
+매개변수	KO
+
+पंक्ति	HI
+ऊपर	HI
+
+추가하기	KO
+a	HI
+स्थान	HI
+पश्चात	HI
+함수	KO
+
+추가	KO
+पश्चात	HI
+함수	KO
+
+활성화	KO
+toc	KO
+
+स्वचालित	HI
+형식	KO
+출신	KO
+जरूरी	HI
+का	HI
+
+लोड	HI
+API	HI
+के	HI
+लिए	HI
+सी	HI
+
+로딩	KO
+API	HI
+के	HI
+लिए	HI
+सी	HI
+
+자동화	KO
+हाशिया	HI
+
+स्वतः	HI
+हाशिया	HI
+लकीर	HI
+या	HI
+पर	HI
+
+댓글	KO
+या	HI
+
+대체	KO
+सी	HI
+शीर्ष	HI
+टिप्पणी	HI
+그리고	KO
+श्रोत	HI
+파일	KO
+
+파이썬	KO
+지원	KO
+경고	KO
+
+python	HI
+है	HI
+या	HI
+pythonhttp	HI
+:	HI
+/	HI
+/	HI
+rope	HI
+.	HI
+sf	HI
+.	HI
+net	HI
+दोनों	HI
+जरूरी	HI
+के	HI
+लिए	HI
+인치	KO
+python	HI
+파일	KO
+अधिष्ठापित	HI
+toc	KO
+और	HI
+python	HI
+인치	KO
+책갈피	KO
+.	HI
+
+아님	KO
+경보	KO
+
+gnu	KO
+디버거	KO
+
+gnu	KO
+디버거	KO
+प्लगइन	HI
+
+문서	KO
+잠재력	KO
+.	HI
+
+फ़ाइल	HI
+के	HI
+लिए	HI
+그리고	KO
+단일	KO
+파일	KO
+
+A	HI
+सबवर्सन	HI
+고객	KO
+플러그인	KO
+पर	HI
+
+사용자	KO
+अतरफलक	HI
+फ़ाइल	HI
+
+पैचेस	HI
+파일	KO
+और	HI
+.	HI
+
+이용하기	KO
+프로그램	KO
+출신	KO
+Anjuta	HI
+
+창세기	KO
+플러그인	KO
+.	HI
+
+가져오기	KO
+को	HI
+Anjuta	HI
+
+परियोजना	HI
+출신	KO
+सोर्सेज़	HI
+
+기본값	KO
+पर	HI
+
+सुस्वागतम	HI
+पृष्ठ	HI
+के	HI
+함께	KO
+장군	KO
+.	HI
+
+सी	HI
+그리고	KO
+자바	KO
+지지	KO
+प्लगइन	HI
+के	HI
+लिए	HI
+코드	KO
+स्वचालित	HI
+.	HI
+
+프로젝트	KO
+매니저	KO
+प्लगइन	HI
+के	HI
+लिए	HI
+Anjuta	HI
+.	HI
+
+icons	KO
+डेटाबेस	HI
+플러그인	KO
+के	HI
+लिए	HI
+Anjuta	HI
+.	HI
+
+파일	KO
+को	HI
+파일	KO
+
+स्वीकारें	HI
+को	HI
+कार्यान्वित	HI
+करें	HI
+프로그램	KO
+.	HI
+
+플러그인	KO
+को	HI
+का	HI
+다중	KO
+
+नया	HI
+के	HI
+लिए	HI
+
+त्रुटिः	HI
+%	HI
+s	HI
+
+त्रुटि	HI
+bind	HI
+포트	KO
+
+जेएस	HI
+समर्थन	HI
+플러그인	KO
+
+자바스크립트	KO
+지지	KO
+플러그인	KO
+
+출신	KO
+.	HI
+निर्देशिका	HI
+
+न्यून	HI
+.	HI
+के	HI
+लिए	HI
+
+उभारें	HI
+세미	KO
+쉼표	KO
+
+추가하기	KO
+पश्चात	HI
+함수	KO
+
+रैण्डर	HI
+करने	HI
+हेतु	HI
+문자	KO
+को	HI
+चिन्हित	HI
+करें	HI
+
+글꼴	KO
+वर्णन	HI
+को	HI
+문자열	KO
+की	HI
+तरह	HI
+실험	KO
+toc	KO
+
+글꼴	KO
+설명	KO
+
+पागोफ़ॉन्ट	HI
+세부사항	KO
+텍스처	KO
+की	HI
+तरह	HI
+글꼴	KO
+설명	KO
+
+글꼴	KO
+खिंचाव	HI
+
+फ़ॉन्ट	HI
+पाइंट्स	HI
+
+पाइंट्स	HI
+में	HI
+글꼴	KO
+모양	KO
+
+पाठ	HI
+को	HI
+बेसलाइन	HI
+(	HI
+기지	KO
+라인	KO
+)	HI
+출신	KO
+인기	KO
+유지	KO
+(	HI
+यदि	HI
+व	HI
+=	HI
+द्धि	HI
+음수	KO
+हो	HI
+तो	HI
+베이스	KO
+라인	KO
+출신	KO
+하단	KO
+유지	KO
+)	HI
+
+क्या	HI
+이거	KO
+문자	KO
+को	HI
+타이핑	KO
+chop	KO
+है	HI
+
+이거	KO
+문자	KO
+को	HI
+रेखांकित	HI
+(	HI
+अण्डरलाइन	HI
+)	HI
+करने	HI
+की	HI
+셸리	KO
+
+पाठ	HI
+रंग	HI
+,	HI
+स्ट्रिंग	HI
+जैसे	HI
+
+पाठ्य	HI
+색깔	KO
+,	HI
+Gdkcolor	HI
+की	HI
+तरह	HI
+
+पाठ	HI
+색상	KO
+,	HI
+R	HI
+/	HI
+G	HI
+/	HI
+B	HI
+/	HI
+A	HI
+혼합	KO
+점수	KO
+जैसे	HI
+
+रेंडर्ड	HI
+पाठ्य	HI
+की	HI
+ऊंचाई	HI
+
+문자	KO
+키는	KO
+
+रेंडर्ड	HI
+पाठ्य	HI
+की	HI
+ऊंचाई	HI
+
+क्या	HI
+이거	KO
+태그	KO
+फ़ॉन्ट	HI
+가족	KO
+को	HI
+영향권	KO
+करेगा	HI
+
+क्या	HI
+이거	KO
+태그	KO
+फ़ॉन्ट	HI
+스타일	KO
+को	HI
+감동	KO
+करेगा	HI
+
+क्या	HI
+이거	KO
+태그	KO
+글꼴	KO
+रूपांतर	HI
+को	HI
+감동	KO
+करेगा	HI
+
+क्या	HI
+이거	KO
+टैग	HI
+फ़ॉन्ट	HI
+규모	KO
+को	HI
+감동	KO
+करेगा	HI
+
+글꼴	KO
+खिचांव	HI
+세트	KO
+
+क्या	HI
+이거	KO
+태그	KO
+फ़ॉन्ट	HI
+खिंचाव	HI
+को	HI
+감동	KO
+करेगा	HI
+
+क्या	HI
+이거	KO
+टैग	HI
+फ़ॉन्ट	HI
+모양	KO
+को	HI
+감동	KO
+करेगा	HI
+
+वृद्धि	HI
+नियत	HI
+
+क्या	HI
+यह	HI
+태그	KO
+키는	KO
+को	HI
+감동	KO
+करेगा	HI
+
+क्या	HI
+이거	KO
+태그	KO
+쓰기	KO
+काटने	HI
+वाले	HI
+등장인물	KO
+को	HI
+감동	KO
+करेगा	HI
+
+रेखांकन	HI
+설정	KO
+
+क्या	HI
+이거	KO
+태그	KO
+रेखांकन	HI
+को	HI
+प्रभावित	HI
+करेगा	HI
+
+축척	KO
+समूह	HI
+
+क्या	HI
+이거	KO
+태그	KO
+글꼴	KO
+स्केलिंग	HI
+को	HI
+감동	KO
+करेगा	HI
+
+그래프	KO
+
+A	HI
+के	HI
+लिए	HI
+का	HI
+वर्ग	HI
+.	HI
+
+아님	KO
+अनुप्रयोग	HI
+파일	KO
+출신	KO
+.	HI
+
+아님	KO
+오픈	KO
+출신	KO
+.	HI
+से	HI
+.	HI
+
+표시하기	KO
+추가하기	KO
+बटनsu	HI
+"	HI
+and	HI
+the	HI
+"	HI
+sudossh	HI
+
+चयनित	HI
+द्वारा	HI
+Anjuta	HI
+को	HI
+하나	KO
+का	HI
+हटा	HI
+रहा	HI
+है	HI
+प्लगइन	HI
+Anjuta	HI
+신호	KO
+को	HI
+플러그인	KO
+.	HI
+
+Anjuta	HI
+상황	KO
+को	HI
+인치	KO
+그리고	KO
+का	HI
+
+실패	KO
+को	HI
+읽어보기	KO
+출신	KO
+.	HI
+गुम	HI
+아님	KO
+출신	KO
+.	HI
+
+कार्यान्वित	HI
+toc	KO
+지휘	KO
+출신	KO
+.	HI
+실험	KO
+कर	HI
+रहा	HI
+है	HI
+से	HI
+.	HI
+아님	KO
+
+कार्यान्वित	HI
+toc	KO
+कमांड	HI
+출신	KO
+.	HI
+
+समूह	HI
+이름	KO
+या	HI
+성격	KO
+
+공유	KO
+라이브러리	KO
+
+정적	KO
+도서관	KO
+
+परियोजना	HI
+या	HI
+अवैध	HI
+
+지지	KO
+के	HI
+लिए	HI
+인치	KO
+
+협력	KO
+타겟	KO
+이름	KO
+का	HI
+형식	KO
+
+चयनित	HI
+디렉터리	KO
+인치	KO
+플러그인	KO
+
+프로젝트	KO
+지우	KO
+toc	KO
+(	HI
+_	HI
+C	HI
+)	HI
+
+가득	KO
+프로젝트	KO
+साफ	HI
+toc	KO
+
+청소	KO
+के	HI
+함께	KO
+파일	KO
+
+जाँच	HI
+폐기	KO
+
+जाँच	HI
+외부	KO
+
+परियोजना	HI
+में	HI
+추가	KO
+
+प्रोग्राम	HI
+है	HI
+कार्यशील	HI
+को	HI
+정지	KO
+?	HI
+
+끄기	KO
+toc	KO
+अन्य	HI
+문서로	KO
+
+문서	KO
+
+전체	KO
+변경	KO
+
+파일	KO
+추가하기	KO
+
+해제한	KO
+파일	KO
+
+सभी	HI
+파일	KO
+
+अनुपस्थित	HI
+파일	KO
+출신	KO
+.	HI
+
+uri	KO
+का	HI
+top	KO
+
+फ़ाइल	HI
+관리자	KO
+
+파일	KO
+प्रबंधक	HI
+
+लाइसेंस	HI
+जानकारी	HI
+추가	KO
+
+जोड़ें	HI
+को	HI
+
+이벤트	KO
+है	HI
+को	HI
+रोकें	HI
+?	HI
+
+प्रोग्राम	HI
+है	HI
+कार्यशील	HI
+को	HI
+रोकें	HI
+?	HI
+No	HI
+such	HI
+file	HI
+or	HI
+directory	HI
+
+끝내기	KO
+में	HI
+추가	KO
+का	HI
+द्वारा	HI
+लकीर	HI
+
+공연	KO
+
+को	HI
+मिटाएं	HI
+출신	KO
+.	HI
+?	HI
+
+मिटाएँ	HI
+चयनित	HI
+분기	KO
+
+적용	KO
+toc	KO
+और	HI
+पुनर्भंडारण	HI
+인덱스	KO
+
+원격	KO
+नामः	HI
+
+공연	KO
+दायाँ	HI
+
+स्मार्ट	HI
+हाशिया	HI
+
+스마트	KO
+हाशिया	HI
+
+스마트	KO
+हाशिया	HI
+
+실패	KO
+को	HI
+활성	KO
+करें	HI
+प्लगइन	HI
+출신	KO
+.	HI
+
+추가하기	KO
+पश्चात	HI
+함수	KO
+
+न्यून	HI
+.	HI
+के	HI
+लिए	HI
+
+जेएस	HI
+지원	KO
+플러그인	KO
+
+सी	HI
+그리고	KO
+자바	KO
+समर्थन	HI
+플러그인	KO
+के	HI
+लिए	HI
+코드	KO
+자동	KO
+.	HI
+
+부탁합니다	KO
+a	HI
+को	HI
+오픈	KO
+출신	KO
+.	HI
+.	HI
+
+모듈	KO
+गुण	HI
+
+로드	KO
+हो	HI
+रहा	HI
+है	HI
+출신	KO
+.	HI
+
+को	HI
+मिटाएँ	HI
+अनुसरण	HI
+세금	KO
+रहा	HI
+है	HI
+집단	KO
+출신	KO
+नहीं	HI
+아님	KO
+
+को	HI
+मिटाएँ	HI
+अनुसरण	HI
+कर	HI
+रहा	HI
+है	HI
+लक्ष्य	HI
+출신	KO
+아님	KO
+아님	KO
+
+को	HI
+मिटाएँ	HI
+अनुसरण	HI
+납세	KO
+रहा	HI
+है	HI
+श्रोत	HI
+파일	KO
+출신	KO
+아님	KO
+아님	KO
+
+को	HI
+मिटाएँ	HI
+अनुसरण	HI
+세금	KO
+रहा	HI
+है	HI
+그룹	KO
+출신	KO
+아님	KO
+नहीं	HI
+
+को	HI
+मिटाएँ	HI
+अनुसरण	HI
+कर	HI
+रहा	HI
+है	HI
+से	HI
+아님	KO
+नहीं	HI
+
+को	HI
+मिटाएँ	HI
+अनुसरण	HI
+कर	HI
+रहा	HI
+है	HI
+패키지	KO
+출신	KO
+नहीं	HI
+아님	KO
+
+को	HI
+मिटाएँ	HI
+अनुसरण	HI
+세금	KO
+रहा	HI
+है	HI
+출신	KO
+नहीं	HI
+아님	KO
+
+नया	HI
+색인	KO
+
+추가	KO
+a	HI
+नया	HI
+인덱스	KO
+को	HI
+
+नया	HI
+파일	KO
+
+नया	HI
+파일	KO
+
+को	HI
+निर्देशिकाः	HI
+
+선택하기	KO
+a	HI
+फ़ाइल	HI
+
+क्षेत्र	HI
+출신	KO
+.	HI
+रखता	HI
+है	HI
+अक्षर	HI
+या	HI
+अनुसरण	HI
+세금	KO
+रहा	HI
+है	HI
+성격	KO
+내부	KO
+a	HI
+डैश	HI
+부탁합니다	KO
+.	HI
+
+C	HI
++	HI
++	HI
+지원	KO
+जोड़ेंः	HI
+
+후원	KO
+के	HI
+लिए	HI
+인치	KO
+
+플러그인	KO
+시리즈	KO
+नामः	HI
+
+디스플레이	KO
+वर्णन	HI
+का	HI
+플러그인	KO
+
+로딩	KO
+완료	KO
+जा	HI
+रहा	HI
+है	HI
+.	HI
+.	HI
+.	HI
+
+빠른	KO
+검색	KO
+
+작전	KO
+달려	KO
+
+초기	KO
+찾기	KO
+
+행사	KO
+है	HI
+달리기	KO
+को	HI
+그렇다면	KO
+출신	KO
+चालू	HI
+toc	KO
+?	HI
+
+추가하기	KO
+स्निपेट	HI
+
+नहीं	HI
+रिमोट	HI
+चयनित	HI
+
+चिपकाएँ	HI
+का	HI
+क्लिपबोर्ड	HI
+एट	HI
+상황	KO
+
+निर्यात	HI
+स्निपेट	HI
+
+저장	KO
+현재	KO
+파일	KO
+
+फ़ाइल	HI
+선택	KO
+
+모양	KO
+इंचः	HI
+
+복사	KO
+파일	KO
+
+사용	KO
+के	HI
+लिए	HI
+
+콜라보레이션	KO
+도서관	KO
+
+지지	KO
+के	HI
+लिए	HI
+इंच	HI
+
+नया	HI
+프로젝트	KO
+생성	KO
+
+नया	HI
+프로젝트	KO
+बनाएं	HI
+
+गनोम	HI
+터미널	KO
+प्रोफाइल	HI
+का	HI
+사용량	KO
+करेंः	HI
+
+CLang	HI
+분석가	KO
+
+python	KO
+지지	KO
+경고	KO
+
+सी	HI
+그리고	KO
+자바	KO
+지지	KO
+플러그인	KO
+के	HI
+लिए	HI
+코드	KO
+자동	KO
+.	HI
+
+uri	KO
+का	HI
+인기	KO
+/	HI
+
+संदेश	HI
+का	HI
+नक़ल	HI
+लें	HI
+
+메세지	KO
+का	HI
+नक़ल	HI
+take	KO
+
+오류	KO
+캐릭터	KO
+그리고	KO
+!	HI
+
+찾기	KO
+के	HI
+लिए	HI
+का	HI
+객체	KO
+.	HI
+
+남성	KO
+설명서	KO
+
+아님	KO
+प्रयुक्त	HI
+संसाधन	HI
+찾았습니다	KO
+के	HI
+같이	KO
+uri	KO
+출신	KO
+.	HI
+
+프로젝트	KO
+설치됨	KO
+करें	HI
+(	HI
+_	HI
+I	HI
+)	HI
+
+चयनित	HI
+लिंक	HI
+
+उल्लेखित	HI
+करता	HI
+है	HI
+कि	HI
+क्या	HI
+एटीके	HI
+-	HI
+हायपरलिंक	HI
+객체	KO
+चयनित	HI
+है	HI
+
+앵커	KO
+की	HI
+숫자	KO
+
+एटीके	HI
+-	HI
+हायपरलिंक	HI
+वस्तु	HI
+के	HI
+साथ	HI
+सम्बद्ध	HI
+앵커	KO
+की	HI
+번호	KO
+
+अंतिम	HI
+리스트	KO
+
+एटीके	HI
+-	HI
+हायपरलिंक	HI
+객체	KO
+की	HI
+अंतिम	HI
+명단	KO
+
+प्रारंभ	HI
+목록	KO
+
+एटीके	HI
+-	HI
+हायपरलिंक	HI
+वस्तु	HI
+का	HI
+시작	KO
+리스트	KO
+
+가속기	KO
+라벨	KO
+
+जाँच	HI
+상자	KO
+
+수표	KO
+메뉴	KO
+소재	KO
+
+색상	KO
+चयनक	HI
+
+콤보	KO
+पेटी	HI
+
+그리기	KO
+-	HI
+क्षेत्र	HI
+
+파일	KO
+-	HI
+चयनक	HI
+
+글래스	KO
+-	HI
+보드	KO
+
+html	KO
+-	HI
+용기	KO
+
+리스트	KO
+मद	HI
+
+메뉴	KO
+패티	KO
+
+메뉴	KO
+천체	KO
+
+옵션	KO
+이사회	KO
+
+पासवर्ड	HI
+문자	KO
+
+प्रगति	HI
+패티	KO
+
+누르기	KO
+बटन	HI
+
+라디오	KO
+단추	KO
+
+라디오방송	KO
+메뉴	KO
+मद	HI
+
+스크롤	KO
+패티	KO
+
+स्क्रॉल	HI
+게시판	KO
+
+스핀	KO
+버튼	KO
+
+테이블	KO
+कोष्ठ	HI
+
+टीयर	HI
+ऑफ	HI
+메뉴	KO
+품목	KO
+
+टॉगल	HI
+단추	KO
+
+디바이스	KO
+패티	KO
+
+편집	KO
+패티	KO
+
+문서로	KO
+액자	KO
+
+पंहुचयोग्य	HI
+이름	KO
+
+구원자	KO
+तकनीक	HI
+पँहुच	HI
+हेतु	HI
+प्रारूपित	HI
+천체	KO
+उदाहरण	HI
+नाम	HI
+
+도달	KO
+자격	KO
+설명	KO
+
+구원자	KO
+तकनीक	HI
+पँहुच	HI
+हेतु	HI
+प्रारूपित	HI
+아이템	KO
+का	HI
+वर्णन	HI
+
+도달하기	KO
+자격	KO
+부모	KO
+
+부모님	KO
+बदल	HI
+चुका	HI
+है	HI
+이거	KO
+बताने	HI
+हेतु	HI
+사용법	KO
+में	HI
+आता	HI
+है	HI
+
+도달	KO
+योग्य	HI
+프라이스	KO
+
+가치관	KO
+बदल	HI
+चुका	HI
+है	HI
+이거	KO
+बताने	HI
+हेतु	HI
+사용	KO
+में	HI
+आता	HI
+है	HI
+
+접속	KO
+자격	KO
+대략	KO
+
+이거	KO
+물질	KO
+की	HI
+접속	KO
+자격	KO
+역할	KO
+
+접근성	KO
+योग्य	HI
+계층	KO
+
+이거	KO
+재료	KO
+की	HI
+접근	KO
+자격	KO
+레이어	KO
+
+पहुँच	HI
+자격	KO
+एमडीआई	HI
+프라이스	KO
+
+इस	HI
+개체	KO
+का	HI
+액세스	KO
+자격	KO
+एमडीआई	HI
+가치	KO
+
+접속	KO
+자격	KO
+सारणी	HI
+शीर्षक	HI
+
+식탁	KO
+헤더	KO
+बदल	HI
+चुका	HI
+है	HI
+이거	KO
+बताने	HI
+हेतु	HI
+사용	KO
+में	HI
+आता	HI
+है	HI
+,	HI
+이거	KO
+गुण	HI
+사용법	KO
+में	HI
+아님	KO
+리나	KO
+चाहिए	HI
+.	HI
+बदले	HI
+में	HI
+액세스	KO
+자격	KO
+-	HI
+테이블	KO
+-	HI
+타이틀	KO
+-	HI
+객체	KO
+उपयोग	HI
+में	HI
+리나	KO
+चाहिए	HI
+
+पहुँच	HI
+자격	KO
+테이블	KO
+기둥	KO
+शीर्षिका	HI
+
+식탁	KO
+기둥	KO
+शीर्षिका	HI
+बदल	HI
+चुका	HI
+है	HI
+이거	KO
+बताने	HI
+हेतु	HI
+उपयोग	HI
+में	HI
+आता	HI
+है	HI
+
+액세스	KO
+योग्य	HI
+테이블	KO
+칼럼	KO
+묘사	KO
+बदल	HI
+चुका	HI
+है	HI
+यह	HI
+बताने	HI
+हेतु	HI
+사용하기	KO
+में	HI
+आता	HI
+है	HI
+
+도달	KO
+자격	KO
+테이블	KO
+라인	KO
+शीर्षिका	HI
+
+식탁	KO
+पंक्ति	HI
+शीर्षिका	HI
+बदल	HI
+चुका	HI
+है	HI
+यह	HI
+बताने	HI
+हेतु	HI
+사용량	KO
+में	HI
+आता	HI
+है	HI
+
+도달	KO
+자격	KO
+테이블	KO
+पंक्ति	HI
+묘사	KO
+
+액세스	KO
+योग्य	HI
+식탁	KO
+라인	KO
+자세히	KO
+बदल	HI
+चुका	HI
+है	HI
+이거	KO
+बताने	HI
+हेतु	HI
+사용법	KO
+में	HI
+आता	HI
+है	HI
+
+सारणी	HI
+칼럼	KO
+요약	KO
+बदल	HI
+चुका	HI
+है	HI
+이거	KO
+बताने	HI
+हेतु	HI
+이용	KO
+में	HI
+आता	HI
+है	HI
+
+접근	KO
+자격	KO
+카탈로그	KO
+शीर्षक	HI
+객체	KO
+
+सारणी	HI
+शीर्षक	HI
+बदल	HI
+चुका	HI
+है	HI
+이거	KO
+बताने	HI
+हेतु	HI
+사용하기	KO
+में	HI
+आता	HI
+है	HI
+
+도달하기	KO
+자격	KO
+हायपरटेक्स्ट	HI
+연쇄	KO
+की	HI
+번호	KO
+
+कड़ी	HI
+की	HI
+숫자	KO
+who	KO
+कि	HI
+현재	KO
+एटीके	HI
+-	HI
+हायपरटेक्स्ट	HI
+में	HI
+हैं	HI
+
+सारणी	HI
+라인	KO
+
+문서	KO
+스프레드시트	KO
+
+문서로	KO
+프레젠테이션	KO
+
+문서로	KO
+텍스트	KO
+
+문서	KO
+웹툰	KO
+
+문서로	KO
+이메일	KO
+
+목록	KO
+박스	KO
+
+사진들	KO
+नक़्शा	HI
+
+알림	KO
+패티	KO
+
+스크롤	KO
+패티	KO
+
+문서	KO
+작곡	KO
+
+문서	KO
+프레임	KO
+
+दस्तावेज़	HI
+ढांचा	HI
+
+दस्तावेज़	HI
+작곡	KO
+
+doc	KO
+ढांचा	HI
+
+मेन्यू	HI
+패티	KO
+
+नया	HI
+खेल	HI
+(	HI
+_	HI
+N	HI
+)	HI
+
+स्तर	HI
+순서	KO
+설명	KO
+아님	KO
+got	KO
+
+재생	KO
+레벨	KO
+아님	KO
+got	KO
+
+레벨	KO
+'	HI
+%	HI
+s	HI
+'	HI
+में	HI
+'	HI
+%	HI
+s	HI
+'	HI
+मिला	HI
+
+एटम	HI
+ओर	HI
+मालिक्यूल	HI
+के	HI
+बारे	HI
+में	HI
+하나	KO
+정신적	KO
+스포츠	KO
+
+बधाई	HI
+!	HI
+आपने	HI
+एटामिक्स	HI
+के	HI
+모두	KO
+स्तर	HI
+십자가	KO
+세금	KO
+लिये	HI
+
+कमसेकम	HI
+하나	KO
+स्तर	HI
+아님	KO
+찾았습니다	KO
+
+कया	HI
+귀하	KO
+재생	KO
+끝내기	KO
+करना	HI
+चाहेंगे	HI
+?	HI
+
+게임	KO
+समाप्त	HI
+toc	KO
+(	HI
+_	HI
+E	HI
+)	HI
+
+레벨	KO
+यथावत्	HI
+toc	KO
+
+खेल	HI
+정지	KO
+(	HI
+_	HI
+P	HI
+)	HI
+
+스포츠	KO
+발급	KO
+유지	KO
+(	HI
+_	HI
+C	HI
+)	HI
+
+सकोर	HI
+.	HI
+.	HI
+.	HI
+(	HI
+_	HI
+S	HI
+)	HI
+
+कोइ	HI
+थीम	HI
+아님	KO
+찾았습니다	KO
+
+테마	KO
+'	HI
+%	HI
+s	HI
+'	HI
+में	HI
+'	HI
+%	HI
+s	HI
+'	HI
+got	KO
+
+मालिक्यूल	HI
+दिमागी	HI
+스포츠	KO
+
+atk	HI
+-	HI
+ब्रिजः	HI
+Dbus	HI
+서버	KO
+पर	HI
+청각	KO
+नहीं	HI
+जा	HI
+सकाः	HI
+%	HI
+s	HI
+
+애플리케이션	KO
+지금	KO
+존재	KO
+नहीं	HI
+है	HI
+
+पहुँच	HI
+지지	KO
+के	HI
+लिए	HI
+GTK	HI
++	HI
+모듈	KO
+
+이거	KO
+열쇠	KO
+पहुँच	HI
+지지	KO
+로딩	KO
+करने	HI
+के	HI
+लिए	HI
+GTK	HI
++	HI
+मॉड्यूल	HI
+निर्धारित	HI
+करता	HI
+है	HI
+.	HI
+
+एटी	HI
+-	HI
+एसपीआई	HI
+레지스트리	KO
+
+पहुँचयोग्य	HI
+रजिस्ट्री	HI
+
+एटी	HI
+-	HI
+एसपीआई	HI
+레지스트리	KO
+रैपर	HI
+
+एटी	HI
+-	HI
+एसपीआई	HI
+레지스트리	KO
+
+कोई	HI
+गलती	HI
+아님	KO
+
+주소	KO
+किताब	HI
+%	HI
+s	HI
+को	HI
+로딩	KO
+아님	KO
+완료	KO
+जा	HI
+सकता	HI
+
+주소	KO
+किताब	HI
+%	HI
+s	HI
+को	HI
+로드	KO
+아님	KO
+완료	KO
+जा	HI
+सकता	HI
+
+IMAP	HI
+सर्वर	HI
+से	HI
+संबंध	HI
+닫기	KO
+세금	KO
+रहा	HI
+है	HI
+
+필터	KO
+.	HI
+.	HI
+.	HI
+
+필터	KO
+.	HI
+.	HI
+.	HI
+
+अनजानी	HI
+गलती	HI
+
+कोई	HI
+आई	HI
+डी	HI
+아님	KO
+
+कोई	HI
+이름	KO
+아님	KO
+
+पता	HI
+किताब	HI
+출신	KO
+로딩	KO
+프로그램	KO
+चुनो	HI
+
+फाईल	HI
+का	HI
+이름	KO
+
+퍼스트	KO
+नामः	HI
+
+기말고사	KO
+नामः	HI
+
+ई	HI
+-	HI
+메일	KO
+주소	KO
+
+जावाब	HI
+दें	HI
+
+msg	KO
+नहीं	HI
+लिख	HI
+सका	HI
+।	HI
+
+संदेश	HI
+की	HI
+बाडी	HI
+को	HI
+मैच	HI
+필터	KO
+में	HI
+로드	KO
+करने	HI
+में	HI
+असमर्थ	HI
+
+गलत	HI
+필터	KO
+:	HI
+%	HI
+s	HI
+
+나쁜	KO
+मेलबाक्स	HI
+이름	KO
+필터	KO
+के	HI
+लिए	HI
+:	HI
+%	HI
+s	HI
+
+메시지	KO
+कापी	HI
+करते	HI
+हुए	HI
+오류	KO
+
+메시지	KO
+को	HI
+कचरे	HI
+में	HI
+भेजते	HI
+हुए	HI
+실수	KO
+
+메시지	KO
+की	HI
+जगह	HI
+बदलते	HI
+हुए	HI
+오류	KO
+
+फिल्टर	HI
+कान्फिगरेशन	HI
+파일	KO
+में	HI
+सिन्टेक्स	HI
+की	HI
+गलती	HI
+है	HI
+
+메모리	KO
+할당	KO
+में	HI
+असमर्थ	HI
+
+रेग्युलर	HI
+표현식	KO
+के	HI
+सिन्टेक्स	HI
+में	HI
+गलती	HI
+है	HI
+
+잘못된	KO
+필터	KO
+लगाने	HI
+की	HI
+कोशिश	HI
+
+मेलबाक्स	HI
+%	HI
+s	HI
+के	HI
+लिए	HI
+%	HI
+s	HI
+गलत	HI
+필터링	KO
+
+कोई	HI
+हेडर	HI
+아님	KO
+
+%	HI
+s	HI
+नहीं	HI
+बचाया	HI
+जा	HI
+सकाः	HI
+%	HI
+s	HI
+
+नई	HI
+식별	KO
+
+डेस्टीनेशन	HI
+मेलबाक्स	HI
+%	HI
+s	HI
+को	HI
+लिखने	HI
+के	HI
+लिए	HI
+아님	KO
+खोल	HI
+got	KO
+
+%	HI
+s	HI
+को	HI
+लोड	HI
+करने	HI
+में	HI
+실수	KO
+:	HI
+%	HI
+s	HI
+
+फोल्डर	HI
+경로	KO
+
+식별	KO
+के	HI
+लिए	HI
+नाम	HI
+
+완료	KO
+이름	KO
+
+मेल	HI
+करने	HI
+का	HI
+주소	KO
+
+응답	KO
+भेजो	HI
+
+डोमेनMessages	HI
+
+대답	KO
+की	HI
+문자열	KO
+
+메시지	KO
+인수	KO
+को	HI
+नोटिफिकेशन	HI
+का	HI
+요청	KO
+
+एस	HI
+एम	HI
+टी	HI
+पी	HI
+सर्वरSignature	HI
+
+हस्ताछर	HI
+में	HI
+एक्सिक्यूट	HI
+करो	HI
+
+फोरवर्ड	HI
+करते	HI
+타이밍	KO
+हस्ताछर	HI
+포함	KO
+करो	HI
+
+जवाब	HI
+देते	HI
+समय	HI
+हस्ताछर	HI
+포함됨	KO
+करो	HI
+
+हस्ताछर	HI
+विभाजक	HI
+को	HI
+추가	KO
+
+हस्ताछर	HI
+में	HI
+एक्सिक्यूट	HI
+करो	HI
+
+पूर्वनिर्धारित	HI
+जैसा	HI
+toc	KO
+
+%	HI
+s	HI
+को	HI
+로드	KO
+करने	HI
+में	HI
+오류	KO
+:	HI
+%	HI
+s	HI
+
+%	HI
+s	HI
+को	HI
+로드	KO
+करने	HI
+में	HI
+गलती	HI
+:	HI
+%	HI
+s	HI
+
+오류	KO
+:	HI
+पहचान	HI
+का	HI
+कोई	HI
+이름	KO
+아님	KO
+है	HI
+
+गलती	HI
+:	HI
+이거	KO
+이름	KO
+की	HI
+식별	KO
+아까	KO
+출신	KO
+है	HI
+
+चुनी	HI
+गई	HI
+정체성	KO
+को	HI
+क्या	HI
+당신은	KO
+정말로	KO
+डीलिट	HI
+करना	HI
+चाहते	HI
+हैं	HI
+
+%	HI
+s	HI
+दिखाने	HI
+में	HI
+गलती	HI
+:	HI
+%	HI
+s	HI
+
+पत्र	HI
+옵저버	KO
+:	HI
+%	HI
+s	HI
+
+편지	KO
+관찰자	KO
+:	HI
+%	HI
+s	HI
+
+비밀번호	KO
+
+IMAP	HI
+서버	KO
+출신	KO
+연애	KO
+बंद	HI
+कर	HI
+रहा	HI
+है	HI
+
+IMAP	HI
+सर्वर	HI
+से	HI
+관계	KO
+बंद	HI
+세금	KO
+रहा	HI
+है	HI
+
+오류	KO
+날짜	KO
+
+증거	KO
+पत्र	HI
+इनके	HI
+द्वारा	HI
+진행중	KO
+완료	KO
+गया	HI
+था	HI
+:	HI
+
+이거	KO
+증거	KO
+편지	KO
+타당성	KO
+है	HI
+
+일식	KO
+करो	HI
+एक	HI
+타임즈	KO
+
+일식	KO
+करो	HI
+&	HI
+-	HI
+सेव	HI
+
+스킵	KO
+दो	HI
+
+%	HI
+s	HI
+से	HI
+सम्बन्ध	HI
+닫습니다	KO
+हो	HI
+गया	HI
+
+%	HI
+s	HI
+खोल	HI
+रहा	HI
+है	HI
+रेफकाउन्ट	HI
+
+SASL	HI
+सही	HI
+प्रमाणित	HI
+करने	HI
+में	HI
+असफल	HI
+
+일시적	KO
+फाईल	HI
+%	HI
+s	HI
+만들기	KO
+में	HI
+असमर्थ	HI
+
+लाग	HI
+여관	KO
+실패	KO
+
+SSL	HI
+실패	KO
+:	HI
+%	HI
+s	HI
+
+SSL	HI
+실패	KO
+:	HI
+%	HI
+s	HI
+
+SSL	HI
+실패	KO
+:	HI
+%	HI
+s	HI
+
+SSL	HI
+असफल	HI
+:	HI
+%	HI
+s	HI
+
+अस्थायी	HI
+फाईल	HI
+%	HI
+s	HI
+만들기	KO
+में	HI
+असमर्थ	HI
+
+%	HI
+s	HI
+아님	KO
+बचाया	HI
+जा	HI
+सकाः	HI
+%	HI
+s	HI
+
+%	HI
+s	HI
+아님	KO
+बचाया	HI
+जा	HI
+सकाः	HI
+%	HI
+s	HI
+
+우편	KO
+dir	HI
+(	HI
+%	HI
+s	HI
+)	HI
+को	HI
+%	HI
+s	HI
+पर	HI
+아님	KO
+make	KO
+got	KO
+
+मेल	HI
+dir	HI
+(	HI
+%	HI
+s	HI
+)	HI
+को	HI
+%	HI
+s	HI
+पर	HI
+아님	KO
+make	KO
+발견됨	KO
+
+우편	KO
+dir	HI
+(	HI
+%	HI
+s	HI
+)	HI
+को	HI
+%	HI
+s	HI
+पर	HI
+नहीं	HI
+만든	KO
+पाया	HI
+
+사용자	KO
+
+चुनो	HI
+टेक्स्ट	HI
+
+메세지	KO
+के	HI
+लिए	HI
+
+पास	HI
+फ्रेस	HI
+
+메시지	KO
+का	HI
+넥스트	KO
+हिस्सा	HI
+
+%	HI
+s	HI
+하나	KO
+रेग्युलर	HI
+फाइल	HI
+아님	KO
+है	HI
+
+%	HI
+s	HI
+के	HI
+함께	KO
+खोलें	HI
+
+%	HI
+s	HI
+के	HI
+साथ	HI
+분수	KO
+को	HI
+시계	KO
+
+मेलबाक्स	HI
+%	HI
+s	HI
+को	HI
+로드	KO
+아님	KO
+कर	HI
+सका	HI
+
+이거	KO
+유형	KO
+मेलबाक्स	HI
+아님	KO
+:	HI
+%	HI
+s	HI
+
+मेलबाक्स	HI
+%	HI
+s	HI
+को	HI
+로딩	KO
+नहीं	HI
+세금	KO
+सका	HI
+
+%	HI
+s	HI
+खोल	HI
+रहा	HI
+है	HI
+रेफकाउन्ट	HI
+
+%	HI
+s	HI
+दिखाने	HI
+में	HI
+गलती	HI
+:	HI
+%	HI
+s	HI
+
+%	HI
+d	HI
+मैसेजों	HI
+को	HI
+%	HI
+s	HI
+में	HI
+कापी	HI
+कर	HI
+रहा	HI
+है	HI
+
+कचरे	HI
+वाले	HI
+मेलबाक्स	HI
+출신	KO
+संदेशों	HI
+को	HI
+मिटाएँ	HI
+
+이거	KO
+메시지	KO
+को	HI
+사용	KO
+करने	HI
+के	HI
+लिए	HI
+आयडेंटिटी	HI
+설정	KO
+toc	KO
+
+연속	KO
+संदेश	HI
+
+मेलबाक्स	HI
+खुलने	HI
+पर	HI
+स्वत	HI
+메시지	KO
+को	HI
+보이기	KO
+
+%	HI
+s	HI
+출신	KO
+मैसेजेस	HI
+%	HI
+s	HI
+में	HI
+डालने	HI
+पर	HI
+गलती	HI
+मैसेजेस	HI
+%	HI
+s	HI
+में	HI
+ही	HI
+छोड	HI
+주어진	KO
+है	HI
+
+टेम्परेरी	HI
+파일	KO
+만들기	KO
+में	HI
+असमर्थ	HI
+
+일시적	KO
+फाईल	HI
+%	HI
+s	HI
+को	HI
+오프닝	KO
+में	HI
+असमर्थ	HI
+
+편지	KO
+डालने	HI
+का	HI
+सन्दूक	HI
+खोजने	HI
+में	HI
+असमर्थ	HI
+
+임시	KO
+फाईल	HI
+%	HI
+s	HI
+만들기	KO
+में	HI
+असमर्थ	HI
+
+फिल्टरों	HI
+को	HI
+체계적	KO
+toc	KO
+
+पढ़	HI
+रहा	HI
+है	HI
+%	HI
+s	HI
+
+%	HI
+s	HI
+का	HI
+खोलना	HI
+असफल	HI
+हो	HI
+गया	HI
+।	HI
+오류	KO
+숫자	KO
+=	HI
+%	HI
+d	HI
+
+편지	KO
+डालने	HI
+का	HI
+सन्दूक	HI
+खोजने	HI
+में	HI
+असमर्थ	HI
+
+%	HI
+s	HI
+편지	KO
+상자	KO
+우편	KO
+dir	HI
+मेल	HI
+상자	KO
+아님	KO
+लगता	HI
+
+우편	KO
+dir	HI
+डायरेक्टरी	HI
+(	HI
+%	HI
+s	HI
+)	HI
+को	HI
+%	HI
+s	HI
+पर	HI
+नहीं	HI
+बना	HI
+찾았습니다	KO
+
+메일	KO
+dir	HI
+(	HI
+%	HI
+s	HI
+)	HI
+को	HI
+%	HI
+s	HI
+पर	HI
+아님	KO
+make	KO
+got	KO
+
+%	HI
+s	HI
+की	HI
+चीजों	HI
+को	HI
+아님	KO
+हटा	HI
+पायाः	HI
+%	HI
+s	HI
+
+%	HI
+s	HI
+को	HI
+नहीं	HI
+हटा	HI
+발견됨	KO
+%	HI
+s	HI
+
+मेलबाक्स	HI
+बन	HI
+गया	HI
+
+कोई	HI
+गलती	HI
+아님	KO
+
+%	HI
+s	HI
+편지	KO
+박스	KO
+वाक्स	HI
+मेल	HI
+상자	KO
+아님	KO
+लगता	HI
+
+%	HI
+s	HI
+को	HI
+아님	KO
+हटा	HI
+पाया	HI
+%	HI
+s	HI
+
+일시적	KO
+फाईल	HI
+%	HI
+s	HI
+बनाने	HI
+में	HI
+असमर्थ	HI
+
+%	HI
+s	HI
+아님	KO
+बचाया	HI
+जा	HI
+सकाः	HI
+%	HI
+s	HI
+
+मेलबाक्स	HI
+%	HI
+s	HI
+को	HI
+로드	KO
+아님	KO
+세금	KO
+सका	HI
+
+मेलबाक्स	HI
+बन	HI
+गया	HI
+
+मेलबाक्स	HI
+%	HI
+s	HI
+को	HI
+로딩	KO
+아님	KO
+세금	KO
+सका	HI
+
+%	HI
+s	HI
+नहीं	HI
+खोल	HI
+발견됨	KO
+
+임시	KO
+फाईल	HI
+%	HI
+s	HI
+만들기	KO
+में	HI
+असमर्थ	HI
+
+%	HI
+s	HI
+मेलबाक्स	HI
+아님	KO
+है	HI
+
+%	HI
+s	HI
+मेलबाक्स	HI
+Mh	HI
+मेलबाक्स	HI
+아님	KO
+लगता	HI
+
+MH	HI
+डायरेक्ट्री	HI
+(	HI
+%	HI
+s	HI
+)	HI
+को	HI
+%	HI
+s	HI
+पर	HI
+아님	KO
+make	KO
+got	KO
+
+MH	HI
+स्ट्रक्चर	HI
+(	HI
+%	HI
+s	HI
+)	HI
+को	HI
+%	HI
+s	HI
+पर	HI
+아님	KO
+만든	KO
+पाया	HI
+
+msg	KO
+아님	KO
+लिख	HI
+सका	HI
+
+मैसेज	HI
+का	HI
+출처	KO
+
+%	HI
+s	HI
+출신	KO
+मैसेजेस	HI
+%	HI
+s	HI
+में	HI
+डालने	HI
+पर	HI
+실수	KO
+मैसेजेस	HI
+%	HI
+s	HI
+में	HI
+ही	HI
+छोड	HI
+दिया	HI
+है	HI
+
+पढ़े	HI
+हुए	HI
+मैसेजों	HI
+को	HI
+पहुंचा	HI
+रहा	HI
+है	HI
+%	HI
+s	HI
+पर	HI
+.	HI
+.	HI
+.	HI
+
+%	HI
+d	HI
+का	HI
+%	HI
+d	HI
+मैसेज	HI
+추방	KO
+रहा	HI
+है	HI
+
+%	HI
+d	HI
+के	HI
+%	HI
+d	HI
+बाईट्स	HI
+발견됨	KO
+।	HI
+
+पढ़े	HI
+हुए	HI
+मैसेजों	HI
+को	HI
+도달	KO
+रहा	HI
+है	HI
+%	HI
+s	HI
+पर	HI
+.	HI
+.	HI
+.	HI
+
+읽음	KO
+हुए	HI
+मैसेजों	HI
+को	HI
+도달	KO
+रहा	HI
+है	HI
+%	HI
+s	HI
+पर	HI
+.	HI
+.	HI
+.	HI
+
+पाप3	HI
+मेलबाक्स	HI
+%	HI
+s	HI
+की	HI
+टेम्प	HI
+फाईल	HI
+실수	KO
+%	HI
+s	HI
+
+पाप3	HI
+मेलबाक्स	HI
+%	HI
+s	HI
+की	HI
+टेम्प	HI
+फाईल	HI
+오류	KO
+%	HI
+s	HI
+
+%	HI
+s	HI
+실수	KO
+전송	KO
+जा	HI
+रही	HI
+है	HI
+
+출처	KO
+मेलबाक्स	HI
+(	HI
+%	HI
+s	HI
+)	HI
+सिर्फ	HI
+पढ़ने	HI
+के	HI
+लिए	HI
+है	HI
+मैसेजेस	HI
+को	HI
+हटा	HI
+아님	KO
+सकते	HI
+
+जायनीज	HI
+ट्रेडिशनल	HI
+
+जायनीज	HI
+ट्रेडिशनल	HI
+
+मेलबाक्स	HI
+그러면	KO
+출신	KO
+नहीं	HI
+खोल	HI
+찾았습니다	KO
+
+%	HI
+s	HI
+के	HI
+लिए	HI
+LDAP	HI
+डायरेक्ट्री	HI
+
+쿼리	KO
+
+대답	KO
+दें	HI
+मेलिंग	HI
+리스트	KO
+को	HI
+
+यह	HI
+증거	KO
+편지	KO
+유효	KO
+है	HI
+
+이거	KO
+증명	KO
+पत्र	HI
+타당성	KO
+है	HI
+
+एफ	HI
+टी	HI
+पी	HI
+사이트	KO
+:	HI
+%	HI
+s	HI
+
+अनजानी	HI
+실수	KO
+
+사용자	KO
+
+손가락	KO
+के	HI
+निशानः	HI
+%	HI
+s	HI
+
+손가락	KO
+के	HI
+निशानः	HI
+%	HI
+s	HI
+
+उपयोगकर्ता	HI
+
+사용자	KO
+
+उंगलियों	HI
+के	HI
+निशानः	HI
+%	HI
+s	HI
+
+उंगलियों	HI
+के	HI
+निशानः	HI
+%	HI
+s	HI
+
+फाईल	HI
+का	HI
+이름	KO
+%	HI
+s	HI
+
+फाईल	HI
+का	HI
+이름	KO
+%	HI
+s	HI
+
+%	HI
+s	HI
+파일	KO
+को	HI
+खोल	HI
+아님	KO
+सकता	HI
+
+पत्र	HI
+भेज	HI
+रहा	HI
+है	HI
+.	HI
+.	HI
+.	HI
+.	HI
+.	HI
+
+छुपाओ	HI
+
+읽기	KO
+हुए	HI
+मैसेजों	HI
+को	HI
+도달	KO
+रहा	HI
+है	HI
+%	HI
+s	HI
+पर	HI
+.	HI
+.	HI
+.	HI
+
+SMTP	HI
+서버	KO
+में	HI
+난이도	KO
+(	HI
+%	HI
+d	HI
+)	HI
+:	HI
+%	HI
+s	HI
+msg	KO
+आउटबाक्स	HI
+में	HI
+छोड़ा	HI
+है	HI
+
+msg	KO
+जमा	HI
+करने	HI
+में	HI
+난이도	KO
+,	HI
+아웃	KO
+박스	KO
+में	HI
+캐스트	KO
+रहा	HI
+है	HI
+।	HI
+체계	KO
+msg	KO
+फिर	HI
+출신	KO
+예금	KO
+करो	HI
+की	HI
+कोशिश	HI
+करेगा	HI
+언제	KO
+तक	HI
+당신은	KO
+डिलीट	HI
+아님	KO
+करते	HI
+
+MTA	HI
+से	HI
+जुड़	HI
+गया	HI
+
+को	HI
+답변	KO
+दें	HI
+
+SMTP	HI
+서버	KO
+में	HI
+어려움	KO
+(	HI
+%	HI
+d	HI
+)	HI
+:	HI
+%	HI
+s	HI
+msg	KO
+आउटबाक्स	HI
+में	HI
+중단됨	KO
+है	HI
+
+msg	KO
+아님	KO
+लिख	HI
+सका	HI
+
+msg	KO
+아님	KO
+लिख	HI
+सका	HI
+
+यदि	HI
+가능	KO
+हो	HI
+
+%	HI
+s	HI
+दिखाने	HI
+में	HI
+오류	KO
+:	HI
+%	HI
+s	HI
+
+एस	HI
+एम	HI
+टी	HI
+पी	HI
+सर्वर	HI
+
+वर्णन्तम	HI
+(	HI
+डिस्क्रिप्टिव	HI
+)	HI
+이름	KO
+
+사용자	KO
+का	HI
+이름	KO
+
+패스	KO
+फ्रेस	HI
+
+टी	HI
+एल	HI
+एस	HI
+이용하기	KO
+करो	HI
+
+이거	KO
+분수	KO
+को	HI
+पाने	HI
+के	HI
+लिए	HI
+공지	KO
+송금	KO
+
+फिल्टरों	HI
+को	HI
+व्यवस्थित	HI
+toc	KO
+
+비공개	KO
+toc	KO
+
+창문	KO
+만드세요	KO
+
+पाप	HI
+अप	HI
+टेक्स्ट	HI
+
+चुनो	HI
+문구	KO
+
+पूरा	HI
+편지	KO
+चुन	HI
+लो	HI
+
+मेलबाक्स	HI
+끄기	KO
+हो	HI
+गया	HI
+
+मैसेज	HI
+का	HI
+स्रोत	HI
+
+%	HI
+s	HI
+को	HI
+लोड	HI
+करने	HI
+में	HI
+오류	KO
+:	HI
+%	HI
+s	HI
+
+경로	KO
+%	HI
+s	HI
+फाईल	HI
+체계	KO
+रूट	HI
+के	HI
+सापेछ	HI
+होना	HI
+चाहिए	HI
+(	HI
+/	HI
+출신	KO
+시작됨	KO
+toc	KO
+)	HI
+
+डायरेक्टरी	HI
+아님	KO
+made	KO
+찾았습니다	KO
+:	HI
+mkdir	HI
+(	HI
+)	HI
+पाथनाम	HI
+"	HI
+%	HI
+s	HI
+"	HI
+पर	HI
+실패	KO
+रहा	HI
+
+파일	KO
+जिसका	HI
+पाथनाम	HI
+"	HI
+%	HI
+s	HI
+"	HI
+है	HI
+डायरेक्टरी	HI
+아님	KO
+है	HI
+
+डायरेक्टरी	HI
+아님	KO
+made	KO
+발견됨	KO
+:	HI
+mkdir	HI
+(	HI
+)	HI
+पाथनाम	HI
+"	HI
+%	HI
+s	HI
+"	HI
+पर	HI
+실패	KO
+रहा	HI
+
+출신	KO
+당신은	KO
+बाल्सा	HI
+से	HI
+बाहर	HI
+आ	HI
+जाएंगे	HI
+क्या	HI
+당신은	KO
+वाकई	HI
+이거	KO
+करना	HI
+चाहते	HI
+हैं	HI
+
+जीनोम	HI
+카드	KO
+पता	HI
+किताब	HI
+
+पता	HI
+किताब	HI
+
+मिटाएँ	HI
+
+इनबाक्स	HI
+
+सेण्टबाक्स	HI
+
+ड्राफ्टबाक्स	HI
+
+पथनाम	HI
+"	HI
+%	HI
+s	HI
+"	HI
+को	HI
+केनोनिकली	HI
+생성	KO
+.	HI
+.	HI
+.	HI
+.	HI
+이거	KO
+ए	HI
+출신	KO
+시작되었습니다	KO
+होना	HI
+चाहिए	HI
+
+मेलबाक्स	HI
+%	HI
+s	HI
+유효합니다	KO
+아님	KO
+लगता	HI
+
+कपया	HI
+소유	KO
+편지	KO
+फाइलों	HI
+को	HI
+소유	KO
+당신은	KO
+पहुंचने	HI
+वाली	HI
+장소	KO
+की	HI
+시험	KO
+toc	KO
+यदि	HI
+필요함	KO
+हुआ	HI
+तो	HI
+이거	KO
+बनाई	HI
+जाएंगी	HI
+
+편지	KO
+파일	KO
+
+मेलबाक्स	HI
+만들기	KO
+में	HI
+난이도	KO
+%	HI
+s	HI
+
+आपने	HI
+सफलतापूर्वक	HI
+बाल्स	HI
+लगा	HI
+लिया	HI
+है	HI
+।	HI
+행복	KO
+take	KO
+
+sab	KO
+हो	HI
+गया	HI
+
+접속	KO
+(	HI
+पहुंचने	HI
+)	HI
+का	HI
+웨이	KO
+:	HI
+편지	KO
+-	HI
+옵저버	KO
+
+암호	KO
+
+एस	HI
+एम	HI
+टी	HI
+पी	HI
+옵서버	KO
+
+याद	HI
+유지	KO
+비밀번호	KO
+
+지역주민	KO
+우편	KO
+डायरेक्टरी	HI
+
+आयडेंटिटी	HI
+선택하기	KO
+
+지역주민	KO
+우편	KO
+परेशानी	HI
+%	HI
+s	HI
+
+बाल्स	HI
+में	HI
+आपका	HI
+स्वागत	HI
+है	HI
+
+बल्सा	HI
+필터링	KO
+
+주소	KO
+किताब	HI
+
+VCARD	HI
+주소	KO
+किताब	HI
+(	HI
+जीनोम	HI
+कार्ड	HI
+)	HI
+
+LDIF	HI
+주소	KO
+किताब	HI
+
+LDAP	HI
+주소	KO
+किताब	HI
+
+주소	KO
+किताब	HI
+
+주소	KO
+किताब	HI
+
+주소	KO
+किताब	HI
+
+필터링	KO
+.	HI
+.	HI
+.	HI
+
+नई	HI
+신분증	KO
+
+मिटाएँ	HI
+
+कचरे	HI
+में	HI
+송금	KO
+
+주소	KO
+किताब	HI
+
+ई	HI
+-	HI
+우편	KO
+पता	HI
+
+이름	KO
+के	HI
+लिए	HI
+찾기	KO
+
+पुन	HI
+불러오기	KO
+toc	KO
+
+भेजें	HI
+इन	HI
+को	HI
+
+하나	KO
+출신	KO
+기타	KO
+पतों	HI
+출신	KO
+이거	KO
+तरह	HI
+व्यवहार	HI
+toc	KO
+
+하나	KO
+ही	HI
+개별	KO
+के	HI
+लिए	HI
+두번째	KO
+주소	KO
+
+분포	KO
+리스트	KO
+
+%	HI
+s	HI
+नहीं	HI
+बचाया	HI
+जा	HI
+सकाः	HI
+%	HI
+s	HI
+
+LDIF	HI
+주소	KO
+किताब	HI
+%	HI
+s	HI
+खोल	HI
+아님	KO
+सकता	HI
+
+하나	KO
+출신	KO
+기타	KO
+पतों	HI
+से	HI
+이거	KO
+तरह	HI
+행위	KO
+toc	KO
+
+주소	KO
+किताब	HI
+
+주소	KO
+किताब	HI
+
+주소	KO
+किताब	HI
+का	HI
+이름	KO
+
+프로그램	KO
+का	HI
+음식점	KO
+로드	KO
+करो	HI
+
+주소	KO
+किताब	HI
+출신	KO
+로드	KO
+프로그램	KO
+चुनो	HI
+
+이벤트	KO
+का	HI
+공연장	KO
+सेव	HI
+करो	HI
+
+पता	HI
+किताब	HI
+सेव	HI
+행사	KO
+चुनो	HI
+
+주최	KO
+का	HI
+이름	KO
+
+आधार	HI
+(	HI
+기지	KO
+)	HI
+도메인	KO
+का	HI
+이름	KO
+
+암호	KO
+
+पता	HI
+किताब	HI
+चुनें	HI
+
+%	HI
+s	HI
+दिखाने	HI
+में	HI
+실수	KO
+:	HI
+%	HI
+s	HI
+
+주소	KO
+किताब	HI
+
+기억	KO
+유지	KO
+비밀번호	KO
+
+기억하기	KO
+रखें	HI
+비밀번호	KO
+
+리모컨	KO
+(	HI
+सुदूर	HI
+)	HI
+편지	KO
+डालने	HI
+के	HI
+सन्दूक	HI
+को	HI
+열기	KO
+%	HI
+s	HI
+%	HI
+s	HI
+@	HI
+%	HI
+s	HI
+के	HI
+लिए	HI
+비밀번호	KO
+हैः	HI
+
+%	HI
+s	HI
+@	HI
+%	HI
+s	HI
+:	HI
+के	HI
+लिए	HI
+पत्र	HI
+डालने	HI
+के	HI
+सन्दूक	HI
+का	HI
+비밀번호	KO
+है	HI
+
+암호	KO
+चाहिए	HI
+
+मेलबाक्स	HI
+그때	KO
+출신	KO
+नहीं	HI
+खोल	HI
+got	KO
+
+कचरे	HI
+में	HI
+전송	KO
+
+답변	KO
+दें	HI
+
+सबको	HI
+पुन	HI
+प्ले	HI
+toc	KO
+.	HI
+.	HI
+.	HI
+
+그룹	KO
+को	HI
+노스	KO
+दें	HI
+.	HI
+.	HI
+.	HI
+
+가입	KO
+हुये	HI
+को	HI
+전달	KO
+भेजें	HI
+.	HI
+.	HI
+.	HI
+
+전진	KO
+전송	KO
+라인	KO
+के	HI
+실내	KO
+वाले	HI
+को	HI
+.	HI
+.	HI
+.	HI
+
+주소	KO
+बचाओ	HI
+.	HI
+.	HI
+.	HI
+.	HI
+
+कचरें	HI
+में	HI
+보내기	KO
+
+चिन्हित	HI
+완료	KO
+हुआ	HI
+
+아님	KO
+पढ़ें	HI
+
+इधर	HI
+को	HI
+जाएँ	HI
+
+보기	KO
+का	HI
+출처	KO
+
+%	HI
+d	HI
+मैसेजों	HI
+को	HI
+%	HI
+s	HI
+में	HI
+कापी	HI
+세금	KO
+रहा	HI
+है	HI
+
+कचरे	HI
+में	HI
+भेजें	HI
+
+मेलबाक्स	HI
+%	HI
+s	HI
+실패	KO
+
+메시지	KO
+का	HI
+시체	KO
+읽음	KO
+नहीं	HI
+जा	HI
+सकता	HI
+
+메시지	KO
+का	HI
+몸매가	KO
+쏘우	KO
+नहीं	HI
+जा	HI
+सकता	HI
+
+msg	KO
+नहीं	HI
+लिख	HI
+सका	HI
+
+फिल्टर	HI
+메시지	KO
+प्रोकमेल	HI
+के	HI
+जरिये	HI
+
+편지	KO
+डालने	HI
+का	HI
+सन्दूक	HI
+खोजने	HI
+में	HI
+असमर्थ	HI
+
+기타	KO
+.	HI
+.	HI
+.	HI
+
+लछ्य	HI
+(	HI
+गन्तव्य	HI
+공연장	KO
+)	HI
+폴더	KO
+का	HI
+선택	KO
+toc	KO
+
+이거	KO
+분수	KO
+को	HI
+पाने	HI
+के	HI
+लिए	HI
+알림	KO
+보내기	KO
+
+호스트	KO
+아님	KO
+찾았다	KO
+
+메세지	KO
+के	HI
+색상	KO
+
+선택	KO
+.	HI
+.	HI
+.	HI
+
+선택하기	KO
+.	HI
+.	HI
+.	HI
+
+कोई	HI
+हेडर	HI
+아님	KO
+
+편지	KO
+डालने	HI
+का	HI
+सन्दूक	HI
+खोजने	HI
+में	HI
+असमर्थ	HI
+
+분수	KO
+को	HI
+बचाओ	HI
+
+분수	KO
+को	HI
+बचाओ	HI
+
+메세지	KO
+छापें	HI
+
+메시지	KO
+निर्माण	HI
+
+को	HI
+답글	KO
+दें	HI
+
+पढ़े	HI
+हुए	HI
+मैसेजों	HI
+को	HI
+도달	KO
+रहा	HI
+है	HI
+%	HI
+s	HI
+पर	HI
+.	HI
+.	HI
+.	HI
+
+읽기	KO
+हुए	HI
+मैसेजों	HI
+को	HI
+도달	KO
+रहा	HI
+है	HI
+%	HI
+s	HI
+पर	HI
+.	HI
+.	HI
+.	HI
+
+बचाएँ	HI
+.	HI
+.	HI
+.	HI
+
+이거	KO
+फोल्डर	HI
+में	HI
+कापी	HI
+toc	KO
+
+%	HI
+s	HI
+아님	KO
+बचाया	HI
+जा	HI
+सकाः	HI
+%	HI
+s	HI
+
+메시지	KO
+के	HI
+컬러	KO
+
+%	HI
+s	HI
+아님	KO
+बचाया	HI
+जा	HI
+सकाः	HI
+%	HI
+s	HI
+
+메시지	KO
+획득	KO
+को	HI
+नोटिफिकेशन	HI
+का	HI
+요청	KO
+
+%	HI
+s	HI
+편지	KO
+को	HI
+भेजने	HI
+वाले	HI
+ने	HI
+기도	KO
+की	HI
+%	HI
+s	HI
+को	HI
+공지	KO
+की	HI
+편곡	KO
+की	HI
+알림	KO
+(	HI
+एम	HI
+डी	HI
+एन	HI
+भेजें	HI
+)	HI
+क्या	HI
+당신	KO
+이거	KO
+정보	KO
+보냅니다	KO
+चाहते	HI
+हैं	HI
+
+एम	HI
+डी	HI
+एल	HI
+को	HI
+उत्तर	HI
+दें	HI
+
+읽기	KO
+हुए	HI
+मैसेजों	HI
+को	HI
+도달	KO
+रहा	HI
+है	HI
+%	HI
+s	HI
+पर	HI
+.	HI
+.	HI
+.	HI
+
+हस्ताछर	HI
+में	HI
+एक्सिक्यूट	HI
+करो	HI
+
+हस्ताछर	HI
+में	HI
+एक्सिक्यूट	HI
+करो	HI
+
+फाईल	HI
+का	HI
+이름	KO
+%	HI
+s	HI
+
+संदेश	HI
+को	HI
+कचरे	HI
+में	HI
+भेजते	HI
+हुए	HI
+오류	KO
+
+जीनोम	HI
+एम	HI
+आई	HI
+एम	HI
+ई	HI
+में	HI
+이거	KO
+अंश	HI
+के	HI
+형식	KO
+के	HI
+लिए	HI
+누군가	KO
+तरह	HI
+का	HI
+개봉	KO
+या	HI
+देखे	HI
+की	HI
+유틸리티	KO
+(	HI
+का	HI
+욥기	KO
+)	HI
+परिभाषित	HI
+아님	KO
+की	HI
+गई	HI
+है	HI
+
+अंश	HI
+को	HI
+बचाओ	HI
+
+%	HI
+s	HI
+नहीं	HI
+बचाया	HI
+जा	HI
+सकाः	HI
+%	HI
+s	HI
+
+MIME	HI
+के	HI
+이거	KO
+분수	KO
+को	HI
+बचाओ	HI
+
+%	HI
+s	HI
+출신	KO
+सम्बन्धित	HI
+नहीं	HI
+세금	KO
+got	KO
+(	HI
+%	HI
+s	HI
+)	HI
+
+फाईल	HI
+이전	KO
+출신	KO
+है	HI
+पुन	HI
+생성	KO
+
+%	HI
+s	HI
+को	HI
+लोड	HI
+करने	HI
+में	HI
+실수	KO
+:	HI
+%	HI
+s	HI
+
+अंश	HI
+का	HI
+प्रकार	HI
+:	HI
+외부	KO
+वस्तु	HI
+(	HI
+शरीर	HI
+)	HI
+
+सक्सेस	HI
+(	HI
+पहुंचने	HI
+)	HI
+का	HI
+way	KO
+:	HI
+लोकल	HI
+फाईल	HI
+
+액세스	KO
+(	HI
+पहुंचने	HI
+)	HI
+का	HI
+तरीका	HI
+:	HI
+यो	HI
+आर	HI
+एल	HI
+
+यू	HI
+आर	HI
+एल	HI
+:	HI
+%	HI
+s	HI
+
+액세스	KO
+(	HI
+पहुंचने	HI
+)	HI
+का	HI
+way	KO
+:	HI
+%	HI
+s	HI
+
+एफ	HI
+टी	HI
+पी	HI
+साईट	HI
+:	HI
+%	HI
+s	HI
+
+डायरेक्टरी	HI
+:	HI
+%	HI
+s	HI
+
+도달하기	KO
+(	HI
+पहुंचने	HI
+)	HI
+का	HI
+웨이팅	KO
+:	HI
+편지	KO
+-	HI
+관찰자	KO
+
+편지	KO
+सर्वर	HI
+:	HI
+%	HI
+s	HI
+
+주제	KO
+:	HI
+%	HI
+s	HI
+
+이거	KO
+분수	KO
+को	HI
+पाने	HI
+के	HI
+लिए	HI
+सूचना	HI
+भेजें	HI
+
+%	HI
+s	HI
+दिखाने	HI
+में	HI
+त्रुटि	HI
+:	HI
+%	HI
+s	HI
+
+%	HI
+s	HI
+아님	KO
+बचाया	HI
+जा	HI
+सकाः	HI
+%	HI
+s	HI
+
+읽기	KO
+हुए	HI
+मैसेजों	HI
+को	HI
+도달	KO
+रहा	HI
+है	HI
+%	HI
+s	HI
+पर	HI
+.	HI
+.	HI
+.	HI
+
+जवाब	HI
+भेजो	HI
+
+इन्हें	HI
+व्यवस्था	HI
+को	HI
+정보	KO
+दें	HI
+
+%	HI
+s	HI
+아님	KO
+बचाया	HI
+जा	HI
+सकाः	HI
+%	HI
+s	HI
+
+넥스트	KO
+खोलें	HI
+
+पत्र	HI
+भेज	HI
+रहा	HI
+है	HI
+.	HI
+.	HI
+.	HI
+.	HI
+.	HI
+
+यू	HI
+आर	HI
+एल	HI
+%	HI
+s	HI
+को	HI
+बुलाया	HI
+जा	HI
+रहा	HI
+है	HI
+
+पूरा	HI
+이름	KO
+
+퍼스트	KO
+नामः	HI
+
+마지막	KO
+नामः	HI
+
+ई	HI
+-	HI
+우편	KO
+주소	KO
+
+이클립스	KO
+करो	HI
+하나	KO
+타임즈	KO
+
+파일	KO
+का	HI
+이름	KO
+
+निर्धारित	HI
+छेत्रों	HI
+में	HI
+से	HI
+하나	KO
+में	HI
+है	HI
+:	HI
+
+किसी	HI
+조차도	KO
+निर्धारित	HI
+छेत्र	HI
+में	HI
+नहीं	HI
+है	HI
+:	HI
+
+नियमानुसार	HI
+표현식	KO
+मिलानों	HI
+में	HI
+출신	KO
+하나	KO
+
+नियमानुसार	HI
+एक्सप्रेशन	HI
+मिलानों	HI
+में	HI
+출신	KO
+कोई	HI
+नहीं	HI
+
+मिलान	HI
+toc	KO
+언제쯤	KO
+날짜	KO
+이거	KO
+(	HI
+इन्टरवैल	HI
+)	HI
+में	HI
+हो	HI
+
+मिलाने	HI
+toc	KO
+언제	KO
+तारीख	HI
+इस	HI
+(	HI
+इन्टरवैल	HI
+)	HI
+के	HI
+끝내기	KO
+हो	HI
+:	HI
+
+일치	KO
+toc	KO
+जब	HI
+इनमें	HI
+출신	KO
+कोई	HI
+아이콘	KO
+(	HI
+फ्लैग	HI
+)	HI
+चालू	HI
+हो	HI
+
+कम	HI
+से	HI
+कम	HI
+하나	KO
+현장	KO
+को	HI
+निर्धारित	HI
+toc	KO
+मिलाने	HI
+के	HI
+लिए	HI
+
+낮음	KO
+से	HI
+낮은	KO
+एक	HI
+필드	KO
+को	HI
+निर्धारित	HI
+toc	KO
+백만	KO
+के	HI
+लिए	HI
+
+하나	KO
+문자열	KO
+देनी	HI
+ही	HI
+होगी	HI
+
+낮은	KO
+से	HI
+low	KO
+하나	KO
+रेग्युलर	HI
+एक्सप्रेशन	HI
+dena	KO
+ही	HI
+होगा	HI
+
+निचली	HI
+날짜	KO
+가짜	KO
+है	HI
+
+상위	KO
+데이트	KO
+가짜	KO
+है	HI
+
+निचली	HI
+तारीख	HI
+대소문자	KO
+날짜	KO
+출신	KO
+기타	KO
+है	HI
+
+%	HI
+s	HI
+दिखाने	HI
+में	HI
+गलती	HI
+:	HI
+%	HI
+s	HI
+
+पत्र	HI
+파일	KO
+
+द्वारा	HI
+
+사용자	KO
+이름	KO
+
+निर्धारित	HI
+छेत्रों	HI
+में	HI
+출신	KO
+एक	HI
+में	HI
+है	HI
+:	HI
+
+इसके	HI
+실내	KO
+है	HI
+/	HI
+इसके	HI
+내부	KO
+नहीं	HI
+है	HI
+
+नियमानुसार	HI
+표현식	KO
+मिलानों	HI
+में	HI
+출신	KO
+하나	KO
+
+하나	KO
+백만명	KO
+/	HI
+एक	HI
+भी	HI
+मिलान	HI
+아님	KO
+
+रेग्युलर	HI
+표현식	KO
+के	HI
+सिन्टेक्स	HI
+में	HI
+실수	KO
+है	HI
+
+일치	KO
+toc	KO
+언제	KO
+तारीख	HI
+इस	HI
+(	HI
+इन्टरवैल	HI
+)	HI
+में	HI
+हो	HI
+
+실내	KO
+/	HI
+बाहर	HI
+का	HI
+तारीख	HI
+इन्टरवैल	HI
+
+lac	KO
+toc	KO
+언제쯤	KO
+하나	KO
+깃발	KO
+집합	KO
+हो	HI
+/	HI
+जब	HI
+कोई	HI
+플래그	KO
+설정	KO
+न	HI
+हो	HI
+
+के	HI
+लिए	HI
+찾기	KO
+
+수정	KO
+स्थिति	HI
+इस	HI
+फिल्टर	HI
+के	HI
+लिए	HI
+
+आपके	HI
+필터	KO
+की	HI
+low	KO
+위치	KO
+होनी	HI
+चाहिए	HI
+
+%	HI
+s	HI
+दिखाने	HI
+में	HI
+गलती	HI
+:	HI
+%	HI
+s	HI
+
+नया	HI
+필터링	KO
+
+कोई	HI
+필터	KO
+का	HI
+이름	KO
+निर्धारित	HI
+아님	KO
+है	HI
+
+필터링	KO
+%	HI
+s	HI
+아까	KO
+से	HI
+उपस्थित	HI
+है	HI
+
+आपके	HI
+필터링	KO
+की	HI
+낮음	KO
+입장	KO
+होनी	HI
+चाहिए	HI
+
+फिल्टर	HI
+का	HI
+मिलान	HI
+हुआ	HI
+है	HI
+
+하나	KO
+문자열	KO
+देनी	HI
+ही	HI
+होगी	HI
+
+날짜	KO
+अन्तर	HI
+(	HI
+इन्टरवैल	HI
+)	HI
+
+फ्लैग	HI
+की	HI
+위치	KO
+
+इस	HI
+फोल्डर	HI
+में	HI
+कापी	HI
+toc	KO
+
+इस	HI
+폴더	KO
+में	HI
+take	KO
+जाएँ	HI
+
+प्रिन्टर	HI
+पर	HI
+प्रिन्ट	HI
+toc	KO
+
+프로그램	KO
+처형	KO
+
+कचरे	HI
+में	HI
+भेजें	HI
+
+필터	KO
+का	HI
+नामOR	HI
+"	HI
+or	HI
+"	HI
+AND	HI
+
+या	HI
+या	HI
+और	HI
+करें	HI
+स्थितियों	HI
+को	HI
+स्थितियों	HI
+के	HI
+मध्य	HI
+क्रियाएं	HI
+
+목소리	KO
+प्ले	HI
+करें	HI
+
+음성	KO
+का	HI
+사용하기	KO
+toc	KO
+
+की	HI
+जाने	HI
+को	HI
+निर्धारित	HI
+활동	KO
+
+하나	KO
+फिल्टर	HI
+पर	HI
+चले	HI
+वाला	HI
+डायलाग	HI
+해제한	KO
+है	HI
+।	HI
+फिल्टर	HI
+को	HI
+बदलने	HI
+के	HI
+동쪽	KO
+इसे	HI
+닫기	KO
+करें	HI
+
+बल्सा	HI
+필터	KO
+
+आपके	HI
+필터링	KO
+की	HI
+낮은	KO
+입장	KO
+होनी	HI
+चाहिए	HI
+
+%	HI
+s	HI
+필터	KO
+को	HI
+निर्यात	HI
+करने	HI
+में	HI
+실패	KO
+오류	KO
+हो	HI
+गई	HI
+है	HI
+
+필터	KO
+पर	HI
+चलने	HI
+वाले	HI
+डायलाग	HI
+खुले	HI
+हैं	HI
+बदलने	HI
+के	HI
+동방	KO
+닫기	KO
+toc	KO
+
+बल्सा	HI
+फिल्टर	HI
+निर्यात	HI
+
+%	HI
+s	HI
+दिखाने	HI
+में	HI
+오류	KO
+:	HI
+%	HI
+s	HI
+
+필터	KO
+लगाने	HI
+में	HI
+오류	KO
+
+%	HI
+d	HI
+मैसेजों	HI
+को	HI
+%	HI
+s	HI
+में	HI
+कापी	HI
+세금	KO
+रहा	HI
+है	HI
+
+फिल्टर	HI
+%	HI
+s	HI
+का	HI
+लछ्य	HI
+पत्र	HI
+डालने	HI
+का	HI
+संदूक	HI
+है	HI
+%	HI
+s	HI
+당신	KO
+इसे	HI
+उस	HI
+पत्र	HI
+डालने	HI
+के	HI
+संदूक	HI
+출신	KO
+सम्मिलित	HI
+नहीं	HI
+납세	KO
+सकते	HI
+(	HI
+who	KO
+रिकर्शन	HI
+कराता	HI
+है	HI
+)	HI
+
+पत्र	HI
+डालने	HI
+के	HI
+संदूक	HI
+के	HI
+बल्सा	HI
+필터링	KO
+
+पाने	HI
+पर	HI
+
+बहिर्गमन	HI
+पर	HI
+
+जावाब	HI
+दें	HI
+
+필터링	KO
+डायलाग	HI
+오픈	KO
+है	HI
+,	HI
+इसे	HI
+닫힌	KO
+करें	HI
+출신	KO
+ago	KO
+की	HI
+귀하	KO
+필터	KO
+को	HI
+누군가	KO
+पत्र	HI
+डालने	HI
+के	HI
+सन्दूक	HI
+पर	HI
+실행	KO
+सकें	HI
+,	HI
+
+%	HI
+s	HI
+दिखाने	HI
+में	HI
+실수	KO
+:	HI
+%	HI
+s	HI
+
+리모컨	KO
+(	HI
+리모컨	KO
+)	HI
+आई	HI
+एम	HI
+ए	HI
+पी	HI
+폴더	KO
+
+업데이트	KO
+
+बीसीसी	HI
+
+추가하기	KO
+(	HI
+A	HI
+)	HI
+
+वर्णन्तम	HI
+(	HI
+डिस्क्रिप्टिव	HI
+)	HI
+이름	KO
+
+사용자	KO
+नाम	HI
+
+पासवर्ड	HI
+
+단지	KO
+सब्सक्राईव्ड	HI
+디렉터리	KO
+
+언제나	KO
+여관	KO
+बाक्स	HI
+보이기	KO
+
+पेरेन्ट	HI
+(	HI
+조상	KO
+)	HI
+디렉터리	KO
+का	HI
+선택	KO
+toc	KO
+
+इनबाक्स	HI
+को	HI
+पुन	HI
+नाम	HI
+dena	KO
+특별	KO
+है	HI
+!	HI
+आप	HI
+하나	KO
+전체	KO
+폴더	KO
+%	HI
+s	HI
+%	HI
+s	HI
+में	HI
+बनाएंगे	HI
+जिसमें	HI
+inn	KO
+상자	KO
+के	HI
+मेसेज	HI
+होंगे	HI
+इन	HI
+बाक्स	HI
+그리고	KO
+इसके	HI
+전체	KO
+फोल्डर	HI
+रहेंगे	HI
+आप	HI
+क्या	HI
+करना	HI
+चाहते	HI
+हैं	HI
+?	HI
+
+SSL	HI
+असफल	HI
+:	HI
+%	HI
+s	HI
+
+하나	KO
+आई	HI
+एम	HI
+ए	HI
+पी	HI
+फोल्डर	HI
+जोे	HI
+편지	KO
+डालने	HI
+का	HI
+सन्दूक	HI
+아님	KO
+है	HI
+की	HI
+कोई	HI
+자산	KO
+एसी	HI
+नहीं	HI
+है	HI
+who	KO
+बदली	HI
+जा	HI
+सके	HI
+
+원격	KO
+(	HI
+리모콘	KO
+)	HI
+आई	HI
+एम	HI
+ए	HI
+पी	HI
+सबफोल्डर	HI
+
+만드세요	KO
+
+सबफोल्डर	HI
+만듭니다	KO
+
+सबफोल्डर	HI
+का	HI
+이름	KO
+
+इसका	HI
+sab	KO
+폴더	KO
+
+ब्राउज	HI
+
+मेलबाक्स	HI
+सिर्फ	HI
+पढ़ने	HI
+के	HI
+लिए	HI
+है	HI
+
+इस	HI
+폴더	KO
+को	HI
+कन्फिगरेशन	HI
+में	HI
+बचाया	HI
+नहीं	HI
+गया	HI
+है	HI
+मुझे	HI
+नहीं	HI
+주소	KO
+इसे	HI
+어떻게	KO
+हटाया	HI
+जाए	HI
+리모컨	KO
+(	HI
+리모콘	KO
+)	HI
+옵서버	KO
+출신	KO
+
+ये	HI
+디렉터리	KO
+%	HI
+s	HI
+को	HI
+लिस्ट	HI
+출신	KO
+हटाएगा	HI
+당신은	KO
+"	HI
+नया	HI
+आई	HI
+मैप	HI
+폴더	KO
+"	HI
+का	HI
+사용량	KO
+세금	KO
+सकते	HI
+हैं	HI
+이거	KO
+디렉터리	KO
+को	HI
+जोड़ने	HI
+के	HI
+लिए	HI
+그러면	KO
+출신	KO
+당신은	KO
+क्या	HI
+करना	HI
+चाहते	HI
+हैं	HI
+
+정보	KO
+देने	HI
+वाला	HI
+संदेश	HI
+
+टी	HI
+एल	HI
+एस	HI
+사용량	KO
+करो	HI
+
+कोई	HI
+심지어	KO
+편지	KO
+डालने	HI
+का	HI
+संदूक	HI
+छाँटा	HI
+नहीं	HI
+गया	HI
+है	HI
+
+편지	KO
+डालने	HI
+का	HI
+सन्दूक	HI
+%	HI
+s	HI
+बल्सा	HI
+द्वारा	HI
+사용	KO
+완료	KO
+जा	HI
+रहा	HI
+है	HI
+मैं	HI
+हटाने	HI
+में	HI
+असमर्थ	HI
+हूँ	HI
+अगर	HI
+당신	KO
+इसे	HI
+삭제	KO
+ही	HI
+चाहते	HI
+हैं	HI
+तो	HI
+इसके	HI
+함수	KO
+को	HI
+असाइन	HI
+toc	KO
+누군가	KO
+दूसरे	HI
+편지	KO
+डालने	HI
+के	HI
+सन्दूक	HI
+को	HI
+
+이거	KO
+편지	KO
+डालने	HI
+के	HI
+सन्दूकों	HI
+की	HI
+목록	KO
+출신	KO
+संदूक	HI
+%	HI
+s	HI
+को	HI
+हटा	HI
+देगा	HI
+।	HI
+귀하	KO
+이거	KO
+संदूक	HI
+출신	KO
+제휴	KO
+디스크	KO
+फाईल	HI
+या	HI
+फाइलों	HI
+को	HI
+इसके	HI
+함께	KO
+हटा	HI
+देंगे	HI
+।	HI
+अगर	HI
+당신	KO
+디스크	KO
+पर	HI
+की	HI
+फाईल	HI
+नहीं	HI
+हटाते	HI
+तो	HI
+당신은	KO
+जोड़ें	HI
+सन्दूक	HI
+सन्दूक	HI
+को	HI
+그러면	KO
+도달	KO
+करने	HI
+के	HI
+लिए	HI
+당신은	KO
+क्या	HI
+चाहते	HI
+हैं	HI
+
+리스트	KO
+में	HI
+출신	KO
+हटाएँ	HI
+
+리스트	KO
+그리고	KO
+디스크	KO
+को	HI
+हटाएँ	HI
+
+이거	KO
+편지	KO
+박스	KO
+%	HI
+s	HI
+그리고	KO
+इसकी	HI
+모두	KO
+सूचनाओं	HI
+को	HI
+IMAP	HI
+관찰자	KO
+출신	KO
+हटा	HI
+देगा	HI
+,	HI
+यदि	HI
+%	HI
+s	HI
+में	HI
+전체	KO
+फोल्डर	HI
+है	HI
+,	HI
+तो	HI
+이거	KO
+디렉터리	KO
+पेड	HI
+में	HI
+노드	KO
+जैसा	HI
+प्रतीत	HI
+होगा	HI
+।	HI
+귀하	KO
+이거	KO
+이름	KO
+से	HI
+नया	HI
+우편	KO
+बोक्स	HI
+जोड़ने	HI
+के	HI
+लिए	HI
+नया	HI
+IMAP	HI
+सबफोल्डर	HI
+나중에	KO
+में	HI
+덧셈	KO
+सकते	HI
+हैं	HI
+आप	HI
+क्या	HI
+करना	HI
+चाहते	HI
+हैं	HI
+
+सर्वर	HI
+출신	KO
+삭제	KO
+
+이거	KO
+메일	KO
+बाक्सों	HI
+की	HI
+리스트	KO
+출신	KO
+मेलबाक्स	HI
+%	HI
+s	HI
+को	HI
+हटा	HI
+देगा	HI
+।	HI
+이거	KO
+मेलबाक्स	HI
+को	HI
+그때	KO
+से	HI
+도달	KO
+करने	HI
+के	HI
+लिए	HI
+जोड़ें	HI
+मेलबाक्स	HI
+का	HI
+사용	KO
+세금	KO
+सकते	HI
+हैं	HI
+।	HI
+당신	KO
+क्या	HI
+करना	HI
+चाहते	HI
+हैं	HI
+
+सूची	HI
+में	HI
+से	HI
+हटाएँ	HI
+
+SSL	HI
+실패	KO
+:	HI
+%	HI
+s	HI
+
+추가	KO
+(	HI
+A	HI
+)	HI
+
+पुन	HI
+명명법	KO
+%	HI
+s	HI
+का	HI
+%	HI
+s	HI
+में	HI
+असफल	HI
+:	HI
+%	HI
+s	HI
+
+지역주민	KO
+우편	KO
+परेशानी	HI
+%	HI
+s	HI
+
+로컬	KO
+एम	HI
+एच	HI
+मेलबाक्स	HI
+
+मेलबाक्स	HI
+कन्फिगरेटर	HI
+
+पासवर्ड	HI
+(	HI
+w	HI
+)	HI
+
+다운로드	KO
+के	HI
+나중에	KO
+सर्वर	HI
+출신	KO
+आने	HI
+वाले	HI
+संदेशों	HI
+को	HI
+지워	KO
+दें	HI
+
+नई	HI
+우편	KO
+के	HI
+लिए	HI
+테스트	KO
+समर्थ	HI
+करें	HI
+
+필터	KO
+메시지	KO
+प्रोकमेल	HI
+के	HI
+जरिये	HI
+
+필터	KO
+का	HI
+이름	KO
+
+사용자	KO
+का	HI
+이름	KO
+
+फोल्डर	HI
+경로	KO
+
+आयडेंटीटी	HI
+
+नई	HI
+우편	KO
+के	HI
+लिए	HI
+테스트	KO
+समर्थ	HI
+toc	KO
+
+디렉터리	KO
+에디션	KO
+서면	KO
+जाना	HI
+है	HI
+
+편지	KO
+डालने	HI
+का	HI
+सन्दूक	HI
+%	HI
+s	HI
+खुल	HI
+रहा	HI
+है	HI
+कपया	HI
+प्रतीछा	HI
+toc	KO
+
+SSL	HI
+실패	KO
+:	HI
+%	HI
+s	HI
+
+SSL	HI
+실패	KO
+:	HI
+%	HI
+s	HI
+
+로컬	KO
+एम	HI
+상자	KO
+मेलबाक्स	HI
+
+लोकल	HI
+우편	KO
+डी	HI
+आई	HI
+आर	HI
+मेलबाक्स	HI
+
+지역주민	KO
+एम	HI
+एच	HI
+मेलबाक्स	HI
+
+리모컨	KO
+आई	HI
+지도	KO
+मेलबाक्स	HI
+
+리모콘	KO
+आई	HI
+지도	KO
+폴더	KO
+
+दूरस्थ	HI
+आई	HI
+지도	KO
+सबफोल्डर	HI
+
+오픈	KO
+
+सब्सक्राईव	HI
+न	HI
+करें	HI
+
+इनबाक्स	HI
+चिन्हित	HI
+toc	KO
+
+सेन्टबाक्स	HI
+चिन्हित	HI
+toc	KO
+
+쓰레기	KO
+चिन्हित	HI
+करें	HI
+
+ड्राफ्टबाक्स	HI
+चिन्हित	HI
+toc	KO
+
+संपादन	HI
+करें	HI
+/	HI
+लगाएँ	HI
+फिल्टरों	HI
+को	HI
+
+मेलबाक्स	HI
+%	HI
+s	HI
+वैध	HI
+नहीं	HI
+लगता	HI
+
+%	HI
+s	HI
+को	HI
+아님	KO
+हटा	HI
+पाया	HI
+%	HI
+s	HI
+
+स्टार्टअप	HI
+नयी	HI
+चिट्ठी	HI
+लाओ	HI
+
+ई	HI
+-	HI
+मेल	HI
+@	HI
+एड्रेस	HI
+पर	HI
+नयी	HI
+चिट्ठी	HI
+बनाओ	HI
+
+웨이	KO
+में	HI
+नयी	HI
+फाइल	HI
+जोड़ो	HI
+
+पहला	HI
+अपठित	HI
+मेलबाक्स	HI
+खोलो	HI
+
+पूर्वनिर्धारित	HI
+इनबाक्स	HI
+को	HI
+시작	KO
+पर	HI
+खोलो	HI
+
+संदेश	HI
+인쇄	KO
+
+웨이팅	KO
+में	HI
+नयी	HI
+फाइल	HI
+जोड़ो	HI
+
+बाल्सा	HI
+"	HI
+%	HI
+s	HI
+"	HI
+मेलबाक्स	HI
+아님	KO
+खोल	HI
+सकता	HI
+
+मेलबाक्स	HI
+그때	KO
+से	HI
+खोल	HI
+रहा	HI
+है	HI
+
+मेलबाक्स	HI
+
+मेलबाक्स	HI
+
+कोरियन	HI
+
+कोई	HI
+हेडर	HI
+नहीं	HI
+
+공연	KO
+मेलबाक्स	HI
+나무들	KO
+
+हटाए	HI
+गए	HI
+संदेशों	HI
+को	HI
+छुपाएँ	HI
+
+디바이스	KO
+타임즈	KO
+
+फिल्टरों	HI
+को	HI
+व्यवस्थित	HI
+करें	HI
+
+फिल्टरों	HI
+को	HI
+체계적	KO
+toc	KO
+
+फिल्टरों	HI
+को	HI
+체계적	KO
+करें	HI
+
+진행중	KO
+रखें	HI
+
+जारी	HI
+유지	KO
+현재	KO
+시대	KO
+के	HI
+메세지	KO
+का	HI
+편집	KO
+
+take	KO
+नई	HI
+우편	KO
+(	HI
+편지	KO
+)	HI
+
+लेकर	HI
+आएँ	HI
+नई	HI
+आने	HI
+वाली	HI
+डाक	HI
+
+전송	KO
+그리고	KO
+받기	KO
+डाक	HI
+
+보내기	KO
+그리고	KO
+get	KO
+सन्देश	HI
+
+प्रिन्ट	HI
+.	HI
+.	HI
+.	HI
+.	HI
+
+주소	KO
+वाली	HI
+किताब	HI
+오픈	KO
+
+필터	KO
+.	HI
+.	HI
+.	HI

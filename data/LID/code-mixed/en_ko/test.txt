@@ -1,0 +1,3683 @@
+GTK	EN
++	EN
+모듈	KO
+for	EN
+접근성	KO
+지원	KO
+
+This	EN
+키키	KO
+determines	EN
+the	EN
+GTK	EN
++	EN
+모듈	KO
+to	EN
+로드	KO
+for	EN
+접근성	KO
+지지	KO
+.	EN
+
+AT	EN
+-	EN
+SPI	EN
+Registry	EN
+
+Accessibility	EN
+Registry	EN
+
+AT	EN
+SPI	EN
+Registry	EN
+Wrapper	EN
+
+AT	EN
+SPI	EN
+Registry	EN
+
+No	EN
+오류	KO
+
+Cannot	EN
+읽고	KO
+출신	KO
+주소	KO
+book	EN
+
+Cannot	EN
+쓰기	KO
+to	EN
+address	EN
+book	EN
+
+Cannot	EN
+연결하기	KO
+to	EN
+the	EN
+서버	KO
+
+Cannot	EN
+찾기	KO
+in	EN
+the	EN
+주소	KO
+book	EN
+
+Cannot	EN
+찾기	KO
+주소	KO
+in	EN
+주소	KO
+book	EN
+
+Unknown	EN
+오류	KO
+
+No	EN
+-	EN
+Id	EN
+
+No	EN
+-	EN
+Name	EN
+
+Undefined	EN
+위치	KO
+of	EN
+사용자	KO
+주소	KO
+book	EN
+
+D	EN
+_	EN
+isplayed	EN
+Name	EN
+:	EN
+
+_	EN
+First	EN
+Name	EN
+:	EN
+
+_	EN
+Last	EN
+Name	EN
+:	EN
+
+_	EN
+Email	EN
+Address	EN
+:	EN
+
+Reply	EN
+To	EN
+:	EN
+
+Could	EN
+아님	KO
+읽고	KO
+임베디드	KO
+메세지	KO
+
+Unable	EN
+to	EN
+로드	KO
+메시지	KO
+몸매	KO
+to	EN
+일치합니다	KO
+필터	KO
+
+Invalid	EN
+필터링	KO
+:	EN
+%	EN
+s	EN
+
+Bad	EN
+사서함	KO
+이름	KO
+for	EN
+필터	KO
+:	EN
+%	EN
+s	EN
+
+Error	EN
+언제	KO
+복사	KO
+메시지	KO
+:	EN
+%	EN
+s	EN
+
+Error	EN
+언제	KO
+trashing	EN
+메시지	KO
+:	EN
+%	EN
+s	EN
+
+Error	EN
+언제	KO
+이사	KO
+메시지	KO
+:	EN
+%	EN
+s	EN
+
+Syntax	EN
+오류	KO
+in	EN
+the	EN
+필터	KO
+구성	KO
+파일	KO
+
+Unable	EN
+to	EN
+할당	KO
+기억	KO
+
+Error	EN
+in	EN
+보통	KO
+표현식	KO
+구문	KO
+
+Attempt	EN
+to	EN
+apply	EN
+an	EN
+오류	KO
+필터링	KO
+
+Invalid	EN
+필터	KO
+%	EN
+s	EN
+for	EN
+사서함	KO
+%	EN
+s	EN
+
+Header	EN
+:	EN
+%	EN
+s	EN
+
+Could	EN
+아님	KO
+get	KO
+an	EN
+HTML	EN
+part	EN
+:	EN
+%	EN
+s	EN
+
+New	EN
+Identity	EN
+
+Cannot	EN
+오픈	KO
+서명	KO
+파일	KO
+'	EN
+%	EN
+s	EN
+'	EN
+for	EN
+읽기	KO
+
+Error	EN
+독서	KO
+서명	KO
+출신	KO
+%	EN
+s	EN
+
+_	EN
+Face	EN
+Path	EN
+
+_	EN
+Identity	EN
+이름	KO
+:	EN
+
+_	EN
+Full	EN
+이름	KO
+:	EN
+
+_	EN
+Mailing	EN
+주소	KO
+:	EN
+
+Reply	EN
+_	EN
+to	EN
+:	EN
+
+_	EN
+Domain	EN
+:	EN
+
+Reply	EN
+_	EN
+문자열	KO
+:	EN
+
+요청	KO
+_	EN
+Message	EN
+Disposition	EN
+Notification	EN
+by	EN
+기본	KO
+
+SMT	EN
+_	EN
+P	EN
+서버	KO
+:	EN
+
+_	EN
+Execute	EN
+서명	KO
+
+Include	EN
+서명	KO
+when	EN
+for	EN
+_	EN
+warding	EN
+
+Include	EN
+서명	KO
+언제쯤	KO
+대표	KO
+_	EN
+거짓말	KO
+
+_	EN
+Add	EN
+서명	KO
+separator	EN
+
+Prepend	EN
+si	EN
+_	EN
+gnature	EN
+
+암호화	KO
+메시지	KO
+by	EN
+기본	KO
+
+Error	EN
+읽기	KO
+파일	KO
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Error	EN
+로딩	KO
+Face	EN
+:	EN
+%	EN
+s	EN
+
+Error	EN
+:	EN
+The	EN
+본인	KO
+does	EN
+아님	KO
+have	EN
+a	EN
+이름	KO
+
+Error	EN
+:	EN
+An	EN
+정체성	KO
+함께	KO
+that	EN
+name	EN
+벌써	KO
+존재함	KO
+
+Do	EN
+당신은	KO
+정말	KO
+want	EN
+to	EN
+삭제	KO
+the	EN
+selected	EN
+정체성	KO
+?	EN
+
+Error	EN
+displaying	EN
+도움	KO
+for	EN
+정체성	KO
+:	EN
+%	EN
+s	EN
+
+IMAP	EN
+서버	KO
+%	EN
+s	EN
+alert	EN
+:	EN
+%	EN
+s	EN
+
+IMAP	EN
+서버	KO
+%	EN
+s	EN
+오류	KO
+:	EN
+%	EN
+s	EN
+
+Balsa	EN
+비밀번호	KO
+
+Cannot	EN
+연결	KO
+to	EN
+%	EN
+s	EN
+
+Cannot	EN
+연결하기	KO
+to	EN
+the	EN
+서버	KO
+:	EN
+%	EN
+s	EN
+
+Invalid	EN
+데이트	KO
+
+This	EN
+인증서	KO
+was	EN
+발행	KO
+by	EN
+:	EN
+
+This	EN
+인증서	KO
+is	EN
+유효	KO
+출신	KO
+%	EN
+s	EN
+to	EN
+%	EN
+s	EN
+Fingerprint	EN
+:	EN
+%	EN
+s	EN
+
+_	EN
+Accept	EN
+Once	EN
+
+Accept	EN
+_	EN
+Save	EN
+
+_	EN
+Reject	EN
+
+Connection	EN
+to	EN
+%	EN
+s	EN
+timed	EN
+아웃	KO
+.	EN
+Abort	EN
+?	EN
+
+could	EN
+아님	KO
+get	EN
+데이터	KO
+출신	KO
+흐름	KO
+
+서명	KO
+검증	KO
+실패	KO
+
+could	EN
+아님	KO
+만듭니다	KO
+new	EN
+자료	KO
+천체	KO
+
+서명	KO
+실패	KO
+
+결합	KO
+사인	KO
+그리고	KO
+암호화	KO
+is	EN
+defined	EN
+단발	KO
+for	EN
+RFC	EN
+2440	EN
+
+사인	KO
+그리고	KO
+암호화	KO
+실패	KO
+
+암호화	KO
+실패	KO
+
+복호화	KO
+실패	KO
+
+could	EN
+아님	KO
+만들기	KO
+맥락	KO
+
+could	EN
+아님	KO
+세트	KO
+프로토콜	KO
+'	EN
+%	EN
+s	EN
+'	EN
+
+could	EN
+아님	KO
+list	EN
+키키	KO
+for	EN
+"	EN
+%	EN
+s	EN
+"	EN
+
+%	EN
+s	EN
+:	EN
+could	EN
+아님	KO
+찾기	KO
+a	EN
+키키	KO
+for	EN
+%	EN
+s	EN
+
+%	EN
+s	EN
+:	EN
+could	EN
+아님	KO
+찾기	KO
+a	EN
+키키	KO
+함께	KO
+id	EN
+%	EN
+s	EN
+
+%	EN
+s	EN
+:	EN
+다중	KO
+열쇠	KO
+for	EN
+%	EN
+s	EN
+
+User	EN
+ID	EN
+
+Select	EN
+키키	KO
+
+Select	EN
+the	EN
+비공개	KO
+키키	KO
+for	EN
+the	EN
+서명자	KO
+%	EN
+s	EN
+
+Enter	EN
+Passphrase	EN
+
+%	EN
+s	EN
+Please	EN
+입력합니다	KO
+the	EN
+passphrase	EN
+for	EN
+the	EN
+시크릿	KO
+키키	KO
+!	EN
+Key	EN
+:	EN
+%	EN
+s	EN
+
+아님	KO
+a	EN
+정규	KO
+파일	KO
+
+Open	EN
+함께	KO
+%	EN
+s	EN
+
+Open	EN
+_	EN
+part	EN
+함께	KO
+%	EN
+s	EN
+
+Cannot	EN
+로드	KO
+사서함	KO
+%	EN
+s	EN
+
+No	EN
+such	EN
+사서함	KO
+타입	KO
+:	EN
+%	EN
+s	EN
+
+Bad	EN
+로컬	KO
+사서함	KO
+path	KO
+"	EN
+%	EN
+s	EN
+"	EN
+
+Could	EN
+아님	KO
+만들기	KO
+a	EN
+사서함	KO
+of	EN
+유형	KO
+%	EN
+s	EN
+
+Applying	EN
+필터링	KO
+규칙	KO
+to	EN
+%	EN
+s	EN
+
+Copying	EN
+출신	KO
+%	EN
+s	EN
+to	EN
+%	EN
+s	EN
+
+Removing	EN
+메시지	KO
+from	EN
+소스	KO
+사서함	KO
+실패	KO
+
+Searching	EN
+%	EN
+s	EN
+for	EN
+부분	KO
+메시지	KO
+
+Reconstructing	EN
+메세지	KO
+
+Finding	EN
+복제	KO
+메시지	KO
+in	EN
+원본	KO
+사서함	KO
+실패	KO
+
+Error	EN
+fetching	EN
+메시지	KO
+출신	KO
+IMAP	EN
+서버	KO
+:	EN
+%	EN
+s	EN
+
+Cannot	EN
+생성	KO
+일시적	KO
+파일	KO
+
+Cannot	EN
+글쓰기	KO
+to	EN
+일시적	KO
+파일	KO
+%	EN
+s	EN
+
+Failed	EN
+to	EN
+저장하기	KO
+캐시	KO
+파일	KO
+"	EN
+%	EN
+s	EN
+"	EN
+:	EN
+%	EN
+s	EN
+.	EN
+
+Failed	EN
+to	EN
+read	EN
+캐시	KO
+파일	KO
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Filtering	EN
+%	EN
+s	EN
+
+Preparing	EN
+%	EN
+s	EN
+
+Open	EN
+of	EN
+%	EN
+s	EN
+실패	KO
+.	EN
+Errno	EN
+=	EN
+%	EN
+d	EN
+,	EN
+
+Failed	EN
+to	EN
+동기화	KO
+사서함	KO
+"	EN
+%	EN
+s	EN
+"	EN
+
+Mailbox	EN
+%	EN
+s	EN
+does	EN
+아님	KO
+appear	EN
+to	EN
+be	EN
+a	EN
+Maildir	EN
+사서함	KO
+.	EN
+
+Could	EN
+아님	KO
+만듭니다	KO
+a	EN
+MailDir	EN
+디렉터리	KO
+at	EN
+%	EN
+s	EN
+(	EN
+%	EN
+s	EN
+)	EN
+
+Could	EN
+아님	KO
+만듭니다	KO
+a	EN
+MailDir	EN
+at	EN
+%	EN
+s	EN
+(	EN
+%	EN
+s	EN
+)	EN
+
+Could	EN
+아님	KO
+지우기	KO
+내용	KO
+of	EN
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Could	EN
+아님	KO
+삭제	KO
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Mailbox	EN
+does	EN
+아님	KO
+존재	KO
+.	EN
+
+Data	EN
+사본	KO
+오류	KO
+
+Mailbox	EN
+%	EN
+s	EN
+does	EN
+아님	KO
+나타납니다	KO
+to	EN
+be	EN
+an	EN
+Mbox	EN
+사서함	KO
+.	EN
+
+Could	EN
+아님	KO
+쓰기	KO
+파일	KO
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Failed	EN
+to	EN
+만드세요	KO
+일시적	KO
+파일	KO
+"	EN
+%	EN
+s	EN
+"	EN
+:	EN
+%	EN
+s	EN
+
+Could	EN
+아님	KO
+unlink	EN
+파일	KO
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Cannot	EN
+오픈	KO
+사서함	KO
+.	EN
+
+Mailbox	EN
+is	EN
+아님	KO
+in	EN
+mbox	KO
+형식으로	KO
+.	EN
+
+Cannot	EN
+잠금	KO
+사서함	KO
+.	EN
+
+%	EN
+s	EN
+:	EN
+could	EN
+아님	KO
+열기	KO
+%	EN
+s	EN
+.	EN
+
+%	EN
+s	EN
+:	EN
+could	EN
+아님	KO
+get	KO
+new	EN
+mime	KO
+스트림	KO
+.	EN
+
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+is	EN
+아님	KO
+in	EN
+mbox	KO
+포맷	KO
+.	EN
+
+Mailbox	EN
+%	EN
+s	EN
+does	EN
+아님	KO
+appear	EN
+to	EN
+be	EN
+a	EN
+Mh	EN
+사서함	KO
+.	EN
+
+Could	EN
+아님	KO
+만듭니다	KO
+MH	EN
+디렉토리	KO
+at	EN
+%	EN
+s	EN
+(	EN
+%	EN
+s	EN
+)	EN
+
+Could	EN
+아님	KO
+만들기	KO
+MH	EN
+구조물	KO
+at	EN
+%	EN
+s	EN
+(	EN
+%	EN
+s	EN
+)	EN
+
+Cannot	EN
+만드세요	KO
+message	EN
+
+Message	EN
+rename	EN
+오류	KO
+
+Error	EN
+appending	EN
+메세지	KO
+%	EN
+d	EN
+출신	KO
+%	EN
+s	EN
+to	EN
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Saving	EN
+POP	EN
+메세지	KO
+to	EN
+%	EN
+s	EN
+실패	KO
+
+Retrieving	EN
+Message	EN
+%	EN
+d	EN
+of	EN
+%	EN
+d	EN
+
+Received	EN
+%	EN
+ld	EN
+kB	EN
+of	EN
+%	EN
+ld	EN
+
+Saving	EN
+POP	EN
+메시지	KO
+to	EN
+%	EN
+s	EN
+실패	KO
+.	EN
+
+Transferring	EN
+POP	EN
+메세지	KO
+to	EN
+%	EN
+s	EN
+실패	KO
+.	EN
+
+POP3	EN
+사서함	KO
+%	EN
+s	EN
+온도	KO
+파일	KO
+error	EN
+:	EN
+%	EN
+s	EN
+
+POP3	EN
+사서함	KO
+%	EN
+s	EN
+오류	KO
+:	EN
+%	EN
+s	EN
+
+POP3	EN
+오류	KO
+:	EN
+%	EN
+s	EN
+.	EN
+
+Mailbox	EN
+(	EN
+%	EN
+s	EN
+)	EN
+is	EN
+readonly	EN
+:	EN
+cannot	EN
+바꾸기	KO
+플래그	KO
+.	EN
+
+서부	KO
+european	EN
+
+서쪽	KO
+유럽	KO
+(	EN
+유로	KO
+)	EN
+
+Cannot	EN
+열기	KO
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+LDAP	EN
+Directory	EN
+for	EN
+%	EN
+s	EN
+
+필요	KO
+작업	KO
+
+Reply	EN
+to	EN
+Event	EN
+Request	EN
+
+The	EN
+서명	KO
+is	EN
+유효	KO
+.	EN
+
+The	EN
+서명	KO
+is	EN
+오류	KO
+.	EN
+
+PGP	EN
+서명	KO
+:	EN
+
+(	EN
+unknown	EN
+프로토콜	KO
+)	EN
+
+Signature	EN
+타당성	KO
+:	EN
+%	EN
+s	EN
+
+Key	EN
+소유자	KO
+신탁	KO
+:	EN
+%	EN
+s	EN
+
+Key	EN
+fingerprint	EN
+:	EN
+%	EN
+s	EN
+
+User	EN
+ID	EN
+'	EN
+s	EN
+:	EN
+
+User	EN
+ID	EN
+:	EN
+
+Subkey	EN
+생성	KO
+on	EN
+:	EN
+%	EN
+s	EN
+
+Subkey	EN
+만료	KO
+on	EN
+:	EN
+%	EN
+s	EN
+
+Issuer	EN
+이름	KO
+:	EN
+%	EN
+s	EN
+
+Issuer	EN
+시리얼	KO
+숫자	KO
+:	EN
+%	EN
+s	EN
+
+Could	EN
+아님	KO
+실행	KO
+%	EN
+s	EN
+to	EN
+쿼리	KO
+the	EN
+공공	KO
+키키	KO
+%	EN
+s	EN
+.	EN
+
+Sending	EN
+Mail	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Hide	EN
+
+Saving	EN
+보냄	KO
+메세지	KO
+to	EN
+%	EN
+s	EN
+실패	KO
+:	EN
+%	EN
+s	EN
+
+Relaying	EN
+refused	EN
+:	EN
+%	EN
+d	EN
+:	EN
+%	EN
+s	EN
+Message	EN
+왼쪽	KO
+in	EN
+your	EN
+outbox	EN
+.	EN
+
+Message	EN
+제출	KO
+문제	KO
+,	EN
+placing	EN
+it	EN
+into	EN
+your	EN
+outbox	EN
+.	EN
+System	EN
+will	EN
+attempt	EN
+to	EN
+resubmit	EN
+the	EN
+메세지	KO
+until	EN
+귀하	KO
+삭제하기	KO
+it	EN
+.	EN
+
+Connected	EN
+to	EN
+MTA	EN
+
+From	EN
+%	EN
+s	EN
+:	EN
+%	EN
+d	EN
+%	EN
+s	EN
+
+SMTP	EN
+서버	KO
+문제	KO
+(	EN
+%	EN
+d	EN
+)	EN
+:	EN
+%	EN
+s	EN
+Message	EN
+is	EN
+좌파	KO
+in	EN
+outbox	EN
+.	EN
+
+Cannot	EN
+읽는다	KO
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Cannot	EN
+읽어보기	KO
+%	EN
+s	EN
+
+If	EN
+Possible	EN
+
+Error	EN
+displaying	EN
+서버	KO
+도움	KO
+:	EN
+%	EN
+s	EN
+
+SMTP	EN
+Server	EN
+
+_	EN
+Descriptive	EN
+Name	EN
+:	EN
+
+_	EN
+User	EN
+Name	EN
+:	EN
+
+_	EN
+Pass	EN
+Phrase	EN
+:	EN
+
+Use	EN
+_	EN
+TLS	EN
+:	EN
+
+Sp	EN
+_	EN
+lit	EN
+메시지	KO
+larger	EN
+than	EN
+
+_	EN
+File	EN
+
+_	EN
+Close	EN
+
+Close	EN
+the	EN
+창문	KO
+
+Copy	EN
+텍스트	KO
+
+_	EN
+Select	EN
+Text	EN
+
+Select	EN
+entire	EN
+우편	KO
+
+Mailbox	EN
+비공개	KO
+
+Message	EN
+Source	EN
+
+Error	EN
+로딩	KO
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+The	EN
+경로	KO
+%	EN
+s	EN
+must	EN
+be	EN
+상대	KO
+to	EN
+the	EN
+파일시스템	KO
+뿌리	KO
+(	EN
+시작하기	KO
+with	EN
+/	EN
+)	EN
+.	EN
+
+Couldn	EN
+'	EN
+t	EN
+create	EN
+a	EN
+디렉토리	KO
+:	EN
+mkdir	EN
+(	EN
+)	EN
+실패	KO
+on	EN
+pathname	EN
+"	EN
+%	EN
+s	EN
+"	EN
+,	EN
+함께	KO
+오류	KO
+"	EN
+%	EN
+s	EN
+"	EN
+.	EN
+
+The	EN
+파일	KO
+함께	KO
+pathname	EN
+"	EN
+%	EN
+s	EN
+"	EN
+is	EN
+아님	KO
+a	EN
+디렉토리	KO
+.	EN
+
+Couldn	EN
+'	EN
+t	EN
+만듭니다	KO
+a	EN
+디렉터리	KO
+:	EN
+mkdir	EN
+(	EN
+)	EN
+실패	KO
+on	EN
+pathname	EN
+"	EN
+%	EN
+s	EN
+"	EN
+.	EN
+
+This	EN
+will	EN
+종료	KO
+Balsa	EN
+.	EN
+Do	EN
+귀하	KO
+정말로	KO
+want	EN
+to	EN
+do	EN
+이거	KO
+?	EN
+
+GnomeCard	EN
+Address	EN
+Book	EN
+
+Address	EN
+Book	EN
+
+Default	EN
+Client	EN
+
+_	EN
+Inbox	EN
+:	EN
+
+_	EN
+Sentbox	EN
+:	EN
+
+_	EN
+Draftbox	EN
+:	EN
+
+The	EN
+pathname	EN
+"	EN
+%	EN
+s	EN
+"	EN
+must	EN
+be	EN
+지정됨	KO
+canonically	EN
+-	EN
+-	EN
+it	EN
+must	EN
+시작하기	KO
+함께	KO
+a	EN
+'	EN
+/	EN
+'	EN
+.	EN
+
+The	EN
+사서함	KO
+"	EN
+%	EN
+s	EN
+"	EN
+does	EN
+아님	KO
+나타납니다	KO
+to	EN
+be	EN
+유효	KO
+.	EN
+
+Please	EN
+인증	KO
+the	EN
+위치	KO
+of	EN
+your	EN
+기본	KO
+메일	KO
+파일	KO
+.	EN
+These	EN
+will	EN
+be	EN
+만들었습니다	KO
+if	EN
+necessary	EN
+.	EN
+
+Mail	EN
+Files	EN
+
+Problem	EN
+Creating	EN
+Mailboxes	EN
+%	EN
+s	EN
+
+You	EN
+'	EN
+ve	EN
+성공적으로	KO
+세트	KO
+up	EN
+Balsa	EN
+.	EN
+Have	EN
+재미	KO
+!	EN
+-	EN
+-	EN
+The	EN
+Balsa	EN
+개발	KO
+team	KO
+
+All	EN
+Done	EN
+!	EN
+
+_	EN
+Type	EN
+of	EN
+편지	KO
+서버	KO
+:	EN
+
+Your	EN
+_	EN
+암호	KO
+:	EN
+
+_	EN
+SMTP	EN
+Server	EN
+:	EN
+
+_	EN
+Remember	EN
+your	EN
+비밀번호	KO
+:	EN
+
+_	EN
+Local	EN
+메일	KO
+디렉토리	KO
+:	EN
+
+Default	EN
+Identity	EN
+
+Local	EN
+Mail	EN
+Problem	EN
+%	EN
+s	EN
+
+Welcome	EN
+to	EN
+Balsa	EN
+!	EN
+
+Balsa	EN
+E	EN
+-	EN
+메일	KO
+리더	KO
+
+address	EN
+book	EN
+:	EN
+
+VCard	EN
+Address	EN
+Book	EN
+(	EN
+GnomeCard	EN
+)	EN
+
+LDIF	EN
+Address	EN
+Book	EN
+
+LDAP	EN
+Address	EN
+Book	EN
+
+GPE	EN
+Address	EN
+Book	EN
+
+Rubrica	EN
+Address	EN
+Book	EN
+
+Edit	EN
+주소	KO
+book	EN
+속성	KO
+
+Delete	EN
+주소	KO
+book	EN
+
+_	EN
+New	EN
+Entry	EN
+
+_	EN
+Delete	EN
+Entry	EN
+
+Delete	EN
+항목	KO
+
+_	EN
+Address	EN
+
+E	EN
+-	EN
+Mail	EN
+Address	EN
+
+_	EN
+Search	EN
+for	EN
+Name	EN
+:	EN
+
+_	EN
+Re	EN
+-	EN
+Import	EN
+
+Send	EN
+-	EN
+To	EN
+
+Treat	EN
+multiple	EN
+주소	KO
+as	EN
+:	EN
+
+얼터너티브	KO
+주소	KO
+for	EN
+the	EN
+동일	KO
+사람	KO
+
+a	EN
+배포	KO
+목록	KO
+
+Could	EN
+아님	KO
+런칭	KO
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Error	EN
+개봉	KO
+주소	KO
+book	EN
+'	EN
+%	EN
+s	EN
+'	EN
+:	EN
+%	EN
+s	EN
+
+Suggest	EN
+완성	KO
+주소	KO
+:	EN
+
+Modify	EN
+%	EN
+s	EN
+Address	EN
+Book	EN
+
+Add	EN
+%	EN
+s	EN
+Address	EN
+Book	EN
+
+A	EN
+_	EN
+ddress	EN
+Book	EN
+Name	EN
+:	EN
+
+Load	EN
+프로그램	KO
+위치	KO
+:	EN
+
+Select	EN
+load	EN
+프로그램	KO
+for	EN
+주소	KO
+book	EN
+
+Save	EN
+프로그램	KO
+위치	KO
+:	EN
+
+Select	EN
+저장	KO
+프로그램	KO
+for	EN
+주소	KO
+book	EN
+
+_	EN
+Host	EN
+Name	EN
+
+Base	EN
+Domain	EN
+_	EN
+Name	EN
+
+_	EN
+Password	EN
+
+_	EN
+User	EN
+Address	EN
+Book	EN
+DN	EN
+
+Error	EN
+displaying	EN
+도움말	KO
+:	EN
+%	EN
+s	EN
+
+Rubrica2	EN
+Address	EN
+Book	EN
+
+_	EN
+Remember	EN
+암호	KO
+in	EN
+keyring	EN
+
+_	EN
+Remember	EN
+비밀번호	KO
+
+Opening	EN
+리모콘	KO
+사서함	KO
+%	EN
+s	EN
+.	EN
+The	EN
+_	EN
+암호	KO
+for	EN
+%	EN
+s	EN
+@	EN
+%	EN
+s	EN
+:	EN
+
+_	EN
+Password	EN
+for	EN
+%	EN
+s	EN
+@	EN
+%	EN
+s	EN
+(	EN
+%	EN
+s	EN
+)	EN
+:	EN
+
+Password	EN
+필요함	KO
+
+Couldn	EN
+'	EN
+t	EN
+열기	KO
+사서함	KO
+"	EN
+%	EN
+s	EN
+"	EN
+
+Move	EN
+to	EN
+Trash	EN
+실패	KO
+:	EN
+%	EN
+s	EN
+
+_	EN
+Reply	EN
+.	EN
+.	EN
+.	EN
+
+Reply	EN
+To	EN
+_	EN
+All	EN
+.	EN
+.	EN
+.	EN
+
+Reply	EN
+To	EN
+_	EN
+Group	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Forward	EN
+Attached	EN
+.	EN
+.	EN
+.	EN
+
+Forward	EN
+_	EN
+Inline	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Store	EN
+Address	EN
+.	EN
+.	EN
+.	EN
+
+Move	EN
+To	EN
+_	EN
+Trash	EN
+
+_	EN
+Flagged	EN
+
+_	EN
+Unread	EN
+
+_	EN
+Move	EN
+to	EN
+
+_	EN
+View	EN
+Source	EN
+
+Copied	EN
+to	EN
+"	EN
+%	EN
+s	EN
+"	EN
+.	EN
+
+Moved	EN
+to	EN
+"	EN
+%	EN
+s	EN
+"	EN
+.	EN
+
+Committing	EN
+사서함	KO
+%	EN
+s	EN
+실패	KO
+.	EN
+
+Cannot	EN
+프로세스	KO
+the	EN
+메세지	KO
+:	EN
+%	EN
+s	EN
+
+Cannot	EN
+접속	KO
+message	EN
+%	EN
+u	EN
+to	EN
+패스	KO
+to	EN
+%	EN
+s	EN
+
+Cannot	EN
+read	EN
+메시지	KO
+%	EN
+u	EN
+to	EN
+패스	KO
+to	EN
+%	EN
+s	EN
+
+Pipe	EN
+메세지	KO
+통해	KO
+a	EN
+프로그램	KO
+
+Failed	EN
+to	EN
+찾기	KO
+사서함	KO
+
+_	EN
+Other	EN
+.	EN
+.	EN
+.	EN
+
+Choose	EN
+목적지는	KO
+폴더	KO
+
+Select	EN
+메시지	KO
+파트	KO
+to	EN
+표시	KO
+
+Not	EN
+찾았습니다	KO
+
+Message	EN
+parts	EN
+
+Save	EN
+selected	EN
+as	EN
+.	EN
+.	EN
+.	EN
+
+Save	EN
+selected	EN
+to	EN
+폴더	KO
+.	EN
+.	EN
+.	EN
+
+(	EN
+No	EN
+발신	KO
+)	EN
+
+Could	EN
+아님	KO
+접속	KO
+메시지	KO
+%	EN
+u	EN
+in	EN
+사서함	KO
+"	EN
+%	EN
+s	EN
+"	EN
+.	EN
+
+엇갈린다	KO
+부분	KO
+
+얼터너티브	KO
+부분	KO
+
+rfc822	EN
+메시지	KO
+
+완료	KO
+메세지	KO
+
+부분	KO
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Reading	EN
+임베디드	KO
+message	EN
+실패	KO
+:	EN
+%	EN
+s	EN
+
+Appending	EN
+메시지	KO
+to	EN
+%	EN
+s	EN
+실패	KO
+:	EN
+%	EN
+s	EN
+
+_	EN
+Save	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Copy	EN
+to	EN
+폴더	KO
+.	EN
+.	EN
+.	EN
+
+Could	EN
+아님	KO
+만들기	KO
+URI	EN
+for	EN
+%	EN
+s	EN
+
+%	EN
+s	EN
+메시지	KO
+부품	KO
+
+Could	EN
+아님	KO
+저장하기	KO
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Sending	EN
+the	EN
+기질	KO
+알림	KO
+실패	KO
+:	EN
+%	EN
+s	EN
+
+The	EN
+발신	KO
+of	EN
+이거	KO
+편지	KO
+,	EN
+%	EN
+s	EN
+,	EN
+요청함	KO
+a	EN
+Message	EN
+Disposition	EN
+Notification	EN
+(	EN
+MDN	EN
+)	EN
+to	EN
+be	EN
+returned	EN
+to	EN
+`	EN
+%	EN
+s	EN
+'	EN
+.	EN
+Do	EN
+당신	KO
+want	EN
+to	EN
+보냅니다	KO
+이거	KO
+notification	EN
+?	EN
+
+Reply	EN
+to	EN
+MDN	EN
+?	EN
+
+Parsing	EN
+a	EN
+메세지	KO
+부품	KO
+실패	KO
+:	EN
+%	EN
+s	EN
+
+Detected	EN
+a	EN
+좋다	KO
+서명	KO
+
+Detected	EN
+a	EN
+좋다	KO
+서명	KO
+함께	KO
+부족함	KO
+타당성	KO
+
+File	EN
+이름	KO
+:	EN
+%	EN
+s	EN
+
+Error	EN
+읽기	KO
+메시지	KO
+부품	KO
+:	EN
+%	EN
+s	EN
+
+No	EN
+열기	KO
+or	EN
+보기	KO
+행동	KO
+defined	EN
+for	EN
+이거	KO
+컨텐츠	KO
+타입	KO
+
+S	EN
+_	EN
+ave	KO
+파트	KO
+
+Could	EN
+아님	KO
+출시	KO
+프로그램	KO
+:	EN
+%	EN
+s	EN
+
+Save	EN
+%	EN
+s	EN
+MIME	EN
+Part	EN
+
+Could	EN
+not	EN
+construct	EN
+URI	EN
+출신	KO
+%	EN
+s	EN
+
+File	EN
+이미	KO
+존재함	KO
+.	EN
+Overwrite	EN
+?	EN
+
+Error	EN
+로딩	KO
+첨부된	KO
+그림	KO
+:	EN
+%	EN
+s	EN
+
+Content	EN
+Type	EN
+:	EN
+외부	KO
+-	EN
+몸매	KO
+
+Access	EN
+형식	KO
+:	EN
+현지	KO
+-	EN
+파일	KO
+
+Access	EN
+유형	KO
+:	EN
+URL	EN
+
+URL	EN
+:	EN
+%	EN
+s	EN
+
+Access	EN
+타입	KO
+:	EN
+%	EN
+s	EN
+
+FTP	EN
+사이트	KO
+:	EN
+%	EN
+s	EN
+
+Directory	EN
+:	EN
+%	EN
+s	EN
+
+Access	EN
+타입	KO
+:	EN
+우편	KO
+-	EN
+서버	KO
+
+Mail	EN
+서버	KO
+:	EN
+%	EN
+s	EN
+
+Subject	EN
+:	EN
+%	EN
+s	EN
+
+Se	EN
+_	EN
+nd	EN
+메시지	KO
+to	EN
+obtain	EN
+이거	KO
+부품	KO
+
+Error	EN
+showing	EN
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Could	EN
+아님	KO
+받기	KO
+a	EN
+부품	KO
+:	EN
+%	EN
+s	EN
+
+Sending	EN
+the	EN
+외부	KO
+몸매가	KO
+request	EN
+실패	KO
+:	EN
+%	EN
+s	EN
+
+Reply	EN
+-	EN
+To	EN
+:	EN
+
+Disposition	EN
+-	EN
+Notification	EN
+-	EN
+To	EN
+:	EN
+
+Could	EN
+아님	KO
+저장	KO
+a	EN
+문자	KO
+part	EN
+:	EN
+%	EN
+s	EN
+
+Open	EN
+링크	KO
+
+Send	EN
+링크	KO
+.	EN
+.	EN
+.	EN
+
+Calling	EN
+URL	EN
+%	EN
+s	EN
+.	EN
+.	EN
+.	EN
+
+Full	EN
+Name	EN
+
+First	EN
+Name	EN
+
+Last	EN
+Name	EN
+
+Email	EN
+Address	EN
+
+Accept	EN
+tentatively	EN
+
+File	EN
+이름	KO
+:	EN
+
+One	EN
+of	EN
+the	EN
+지정	KO
+필드	KO
+포함함	KO
+:	EN
+
+None	EN
+of	EN
+the	EN
+지정	KO
+필드	KO
+포함됨	KO
+:	EN
+
+One	EN
+of	EN
+the	EN
+정규	KO
+표현	KO
+성냥	KO
+
+None	EN
+of	EN
+the	EN
+보통	KO
+expressions	EN
+일치하는	KO
+
+Match	EN
+언제	KO
+데이트	KO
+is	EN
+in	EN
+the	EN
+구간	KO
+:	EN
+
+Match	EN
+언제쯤	KO
+날짜	KO
+is	EN
+외부	KO
+the	EN
+간격	KO
+:	EN
+
+Match	EN
+언제쯤	KO
+하나	KO
+of	EN
+these	EN
+플래그	KO
+is	EN
+세트	KO
+:	EN
+
+You	EN
+must	EN
+지정합니다	KO
+the	EN
+이름	KO
+of	EN
+the	EN
+사용자	KO
+헤더	KO
+to	EN
+일치	KO
+on	EN
+
+You	EN
+must	EN
+지정하기	KO
+at	EN
+최소	KO
+하나	KO
+현장	KO
+for	EN
+일치	KO
+
+You	EN
+must	EN
+provide	EN
+a	EN
+문자열	KO
+
+You	EN
+must	EN
+provide	EN
+at	EN
+최소	KO
+하나	KO
+보통	KO
+표현식	KO
+
+Low	EN
+날짜	KO
+is	EN
+incorrect	EN
+
+High	EN
+데이트	KO
+is	EN
+incorrect	EN
+
+Low	EN
+데이트	KO
+is	EN
+greater	EN
+than	EN
+하이	KO
+데이트	KO
+
+Error	EN
+displaying	EN
+조건	KO
+도움	KO
+:	EN
+%	EN
+s	EN
+
+Match	EN
+Fields	EN
+
+_	EN
+From	EN
+:	EN
+
+_	EN
+User	EN
+헤더	KO
+:	EN
+
+One	EN
+of	EN
+the	EN
+specified	EN
+f	EN
+_	EN
+ields	EN
+포함	KO
+
+Contain	EN
+/	EN
+Does	EN
+_	EN
+Not	EN
+Contain	EN
+
+_	EN
+One	EN
+of	EN
+the	EN
+정규	KO
+표현식	KO
+일치하는	KO
+
+One	EN
+_	EN
+Matches	EN
+/	EN
+None	EN
+Matches	EN
+
+Filtering	EN
+사용하기	KO
+정규	KO
+표현식	KO
+is	EN
+아님	KO
+아직	KO
+구현	KO
+.	EN
+
+Match	EN
+언제	KO
+메시지	KO
+날짜	KO
+is	EN
+in	EN
+the	EN
+간격	KO
+:	EN
+
+Inside	EN
+/	EN
+밖에서	KO
+the	EN
+날짜	KO
+간격	KO
+
+Match	EN
+언제	KO
+하나	KO
+깃발	KO
+is	EN
+설정	KO
+/	EN
+언제	KO
+no	EN
+국기	KO
+is	EN
+집합	KO
+
+Search	EN
+T	EN
+_	EN
+ype	EN
+:	EN
+
+Edit	EN
+조건	KO
+for	EN
+filter	EN
+:	EN
+
+Filter	EN
+with	EN
+no	EN
+조건	KO
+was	EN
+생략	KO
+
+Error	EN
+displaying	EN
+필터링	KO
+도움말	KO
+:	EN
+%	EN
+s	EN
+
+New	EN
+필터링	KO
+
+No	EN
+필터링	KO
+이름	KO
+지정됨	KO
+.	EN
+
+Filter	EN
+"	EN
+%	EN
+s	EN
+"	EN
+이미	KO
+존재함	KO
+.	EN
+
+Filter	EN
+must	EN
+have	EN
+조건	KO
+.	EN
+
+Filter	EN
+has	EN
+일치	KO
+
+You	EN
+must	EN
+provide	EN
+a	EN
+사운드	KO
+to	EN
+재생	KO
+
+Date	EN
+간격	KO
+
+Flag	EN
+조건	KO
+
+Copy	EN
+to	EN
+folder	EN
+:	EN
+
+Move	EN
+to	EN
+폴더	KO
+:	EN
+
+Print	EN
+on	EN
+프린터	KO
+:	EN
+
+Run	EN
+프로그램	KO
+:	EN
+
+Send	EN
+to	EN
+Trash	EN
+
+_	EN
+Filter	EN
+이름	KO
+:	EN
+
+Operation	EN
+between	EN
+조건	KO
+
+Play	EN
+사운드	KO
+:	EN
+
+Use	EN
+Sound	EN
+.	EN
+.	EN
+.	EN
+
+Action	EN
+to	EN
+수행	KO
+:	EN
+
+A	EN
+필터	KO
+달리기	KO
+dialog	EN
+is	EN
+오픈	KO
+.	EN
+Close	EN
+it	EN
+전에	KO
+당신은	KO
+can	EN
+수정	KO
+filters	EN
+.	EN
+
+Balsa	EN
+Filters	EN
+
+Filter	EN
+"	EN
+%	EN
+s	EN
+"	EN
+has	EN
+no	EN
+조건	KO
+.	EN
+
+Unable	EN
+to	EN
+수출	KO
+필터	KO
+%	EN
+s	EN
+,	EN
+an	EN
+오류	KO
+occurred	EN
+.	EN
+
+There	EN
+are	EN
+개설	KO
+필터	KO
+런닝	KO
+dialogs	EN
+,	EN
+닫아	KO
+그들	KO
+이전	KO
+당신은	KO
+can	EN
+수정	KO
+필터	KO
+.	EN
+
+Balsa	EN
+Filters	EN
+Export	EN
+
+Error	EN
+displaying	EN
+런닝	KO
+필터	KO
+도움	KO
+:	EN
+%	EN
+s	EN
+
+Error	EN
+언제쯤	KO
+applying	EN
+필터	KO
+
+Filter	EN
+응용	KO
+to	EN
+"	EN
+%	EN
+s	EN
+"	EN
+.	EN
+
+The	EN
+목적지는	KO
+사서함	KO
+of	EN
+the	EN
+필터	KO
+"	EN
+%	EN
+s	EN
+"	EN
+is	EN
+"	EN
+%	EN
+s	EN
+"	EN
+.	EN
+You	EN
+can	EN
+'	EN
+t	EN
+associate	EN
+it	EN
+with	EN
+the	EN
+같은	KO
+사서함	KO
+(	EN
+that	EN
+원인	KO
+recursion	EN
+)	EN
+.	EN
+
+Balsa	EN
+Filters	EN
+of	EN
+Mailbox	EN
+:	EN
+
+On	EN
+접수	KO
+
+On	EN
+출구	KO
+
+A	EN
+_	EN
+pply	EN
+Now	EN
+!	EN
+
+The	EN
+필터	KO
+dialog	EN
+is	EN
+개설	KO
+,	EN
+닫습니다	KO
+it	EN
+이전	KO
+당신	KO
+can	EN
+달려	KO
+필터	KO
+on	EN
+any	EN
+사서함	KO
+
+Error	EN
+displaying	EN
+config	KO
+도움	KO
+:	EN
+%	EN
+s	EN
+
+Remote	EN
+IMAP	EN
+폴더	KO
+
+_	EN
+Update	EN
+
+_	EN
+Basic	EN
+
+_	EN
+Advanced	EN
+
+Descriptive	EN
+_	EN
+이름	KO
+:	EN
+
+Use	EN
+_	EN
+r	EN
+이름	KO
+:	EN
+
+_	EN
+Password	EN
+:	EN
+
+Subscribed	EN
+_	EN
+폴더	KO
+단발	KO
+
+Always	EN
+표시	KO
+_	EN
+INBOX	EN
+
+Select	EN
+parent	EN
+폴더	KO
+
+Renaming	EN
+INBOX	EN
+is	EN
+스페셜	KO
+!	EN
+You	EN
+will	EN
+만듭니다	KO
+a	EN
+subfolder	EN
+%	EN
+s	EN
+in	EN
+%	EN
+s	EN
+containing	EN
+the	EN
+메시지	KO
+출신	KO
+INBOX	EN
+.	EN
+INBOX	EN
+그리고	KO
+its	EN
+subfolders	EN
+will	EN
+remain	EN
+.	EN
+What	EN
+would	EN
+당신	KO
+like	EN
+to	EN
+do	EN
+?	EN
+
+Folder	EN
+생성	KO
+실패	KO
+.	EN
+Reason	EN
+:	EN
+%	EN
+s	EN
+
+An	EN
+IMAP	EN
+디렉터리	KO
+that	EN
+is	EN
+아님	KO
+a	EN
+사서함	KO
+has	EN
+no	EN
+속성	KO
+that	EN
+can	EN
+be	EN
+변경되었습니다	KO
+.	EN
+
+Remote	EN
+IMAP	EN
+subfolder	EN
+
+_	EN
+Create	EN
+
+Create	EN
+subfolder	EN
+
+_	EN
+Folder	EN
+이름	KO
+:	EN
+
+Subfolder	EN
+of	EN
+:	EN
+
+_	EN
+Browse	EN
+.	EN
+.	EN
+.	EN
+
+읽고	KO
+-	EN
+오직	KO
+
+This	EN
+폴더	KO
+is	EN
+not	EN
+stored	EN
+in	EN
+구성	KO
+.	EN
+I	EN
+do	EN
+아님	KO
+아직	KO
+know	EN
+어떻게	KO
+to	EN
+삭제	KO
+it	EN
+출신	KO
+remote	EN
+서버	KO
+.	EN
+
+This	EN
+will	EN
+삭제	KO
+the	EN
+폴더	KO
+"	EN
+%	EN
+s	EN
+"	EN
+출신	KO
+the	EN
+명단	KO
+.	EN
+You	EN
+may	EN
+use	EN
+"	EN
+New	EN
+IMAP	EN
+Folder	EN
+"	EN
+나중에	KO
+to	EN
+추가	KO
+이거	KO
+폴더	KO
+다시	KO
+.	EN
+
+Information	EN
+-	EN
+Balsa	EN
+
+Use	EN
+_	EN
+SSL	EN
+
+No	EN
+사서함	KO
+selected	EN
+.	EN
+
+Mailbox	EN
+"	EN
+%	EN
+s	EN
+"	EN
+is	EN
+사용됨	KO
+by	EN
+Balsa	EN
+그리고	KO
+I	EN
+cannot	EN
+지우기	KO
+it	EN
+.	EN
+If	EN
+당신	KO
+정말	KO
+want	EN
+to	EN
+지우기	KO
+it	EN
+,	EN
+할당	KO
+its	EN
+함수	KO
+to	EN
+일부	KO
+기타	KO
+사서함	KO
+.	EN
+
+This	EN
+will	EN
+삭제하기	KO
+the	EN
+mailbox	EN
+"	EN
+%	EN
+s	EN
+"	EN
+출신	KO
+the	EN
+리스트	KO
+of	EN
+사서함	KO
+.	EN
+You	EN
+may	EN
+또한	KO
+지우기	KO
+the	EN
+디스크	KO
+파일	KO
+or	EN
+파일	KO
+연관	KO
+함께	KO
+이거	KO
+사서함	KO
+.	EN
+If	EN
+귀하	KO
+do	EN
+not	EN
+제거	KO
+the	EN
+파일	KO
+on	EN
+디스크	KO
+귀하	KO
+may	EN
+"	EN
+Add	EN
+Mailbox	EN
+"	EN
+to	EN
+access	EN
+the	EN
+사서함	KO
+또다시	KO
+.	EN
+What	EN
+would	EN
+귀하	KO
+like	EN
+to	EN
+do	EN
+?	EN
+
+Remove	EN
+출신	KO
+_	EN
+리스트	KO
+
+Remove	EN
+출신	KO
+명단	KO
+그리고	KO
+_	EN
+디스크	KO
+
+This	EN
+will	EN
+지우기	KO
+the	EN
+사서함	KO
+"	EN
+%	EN
+s	EN
+"	EN
+그리고	KO
+전체	KO
+its	EN
+메시지	KO
+from	EN
+your	EN
+IMAP	EN
+서버	KO
+.	EN
+If	EN
+%	EN
+s	EN
+has	EN
+subfolders	EN
+,	EN
+it	EN
+will	EN
+아직도	KO
+나타납니다	KO
+as	EN
+a	EN
+노드	KO
+in	EN
+the	EN
+디렉터리	KO
+트리	KO
+.	EN
+You	EN
+may	EN
+사용	KO
+"	EN
+New	EN
+IMAP	EN
+subfolder	EN
+"	EN
+나중에	KO
+to	EN
+추가하기	KO
+a	EN
+사서함	KO
+함께	KO
+이거	KO
+이름	KO
+.	EN
+What	EN
+would	EN
+귀하	KO
+like	EN
+to	EN
+do	EN
+?	EN
+
+_	EN
+Remove	EN
+출신	KO
+서버	KO
+
+This	EN
+will	EN
+삭제	KO
+the	EN
+사서함	KO
+"	EN
+%	EN
+s	EN
+"	EN
+출신	KO
+the	EN
+명단	KO
+of	EN
+사서함	KO
+.	EN
+You	EN
+may	EN
+이용	KO
+"	EN
+Add	EN
+Mailbox	EN
+"	EN
+나중에	KO
+to	EN
+접속	KO
+이거	KO
+mailbox	EN
+다시	KO
+.	EN
+What	EN
+would	EN
+you	EN
+like	EN
+to	EN
+do	EN
+?	EN
+
+_	EN
+Remove	EN
+출신	KO
+목록	KO
+
+Folder	EN
+deletion	EN
+실패	KO
+.	EN
+Reason	EN
+:	EN
+%	EN
+s	EN
+
+_	EN
+Add	EN
+
+Rename	EN
+of	EN
+%	EN
+s	EN
+to	EN
+%	EN
+s	EN
+실패	KO
+:	EN
+%	EN
+s	EN
+
+Local	EN
+%	EN
+s	EN
+Mailbox	EN
+Properties	EN
+
+New	EN
+Local	EN
+%	EN
+s	EN
+Mailbox	EN
+
+Remote	EN
+Mailbox	EN
+Configurator	EN
+
+Pass	EN
+_	EN
+단어	KO
+:	EN
+
+_	EN
+Delete	EN
+메시지	KO
+출신	KO
+서버	KO
+after	EN
+다운로드	KO
+
+_	EN
+Enable	EN
+점검	KO
+for	EN
+new	EN
+우편	KO
+
+_	EN
+Filter	EN
+메시지	KO
+통해	KO
+procmail	EN
+
+Fi	EN
+_	EN
+lter	EN
+Command	EN
+:	EN
+
+_	EN
+Username	EN
+:	EN
+
+F	EN
+_	EN
+older	EN
+경로	KO
+:	EN
+
+_	EN
+Identity	EN
+:	EN
+
+_	EN
+Subscribe	EN
+for	EN
+new	EN
+우편	KO
+점검	KO
+
+The	EN
+디렉터리	KO
+에디션	KO
+to	EN
+be	EN
+서면	KO
+.	EN
+
+Scanning	EN
+%	EN
+s	EN
+.	EN
+Please	EN
+기다렸다	KO
+.	EN
+.	EN
+.	EN
+
+Scanning	EN
+of	EN
+%	EN
+s	EN
+실패	KO
+:	EN
+%	EN
+s	EN
+Check	EN
+네트워크	KO
+connectivity	EN
+.	EN
+
+Scanning	EN
+of	EN
+%	EN
+s	EN
+실패	KO
+:	EN
+%	EN
+s	EN
+
+Local	EN
+_	EN
+mbox	KO
+사서함	KO
+.	EN
+.	EN
+.	EN
+
+Local	EN
+Mail	EN
+_	EN
+dir	EN
+사서함	KO
+.	EN
+.	EN
+.	EN
+
+Local	EN
+M	EN
+_	EN
+H	EN
+사서함	KO
+.	EN
+.	EN
+.	EN
+
+Remote	EN
+_	EN
+IMAP	EN
+사서함	KO
+.	EN
+.	EN
+.	EN
+
+Remote	EN
+IMAP	EN
+_	EN
+폴더	KO
+.	EN
+.	EN
+.	EN
+
+Remote	EN
+IMAP	EN
+_	EN
+subfolder	EN
+.	EN
+.	EN
+.	EN
+
+_	EN
+Open	EN
+
+_	EN
+Unsubscribe	EN
+
+Mark	EN
+as	EN
+_	EN
+Inbox	EN
+
+_	EN
+Mark	EN
+as	EN
+Sentbox	EN
+
+Mark	EN
+as	EN
+_	EN
+Trash	EN
+
+Mark	EN
+as	EN
+D	EN
+_	EN
+raftbox	EN
+
+_	EN
+Edit	EN
+/	EN
+Apply	EN
+필터	KO
+
+The	EN
+경로	KO
+"	EN
+%	EN
+s	EN
+"	EN
+does	EN
+아님	KO
+리드	KO
+to	EN
+a	EN
+사서함	KO
+.	EN
+
+Could	EN
+아님	KO
+쓰기	KO
+to	EN
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Get	EN
+new	EN
+편지	KO
+on	EN
+스타트업	KO
+
+Compose	EN
+a	EN
+new	EN
+이메일로	KO
+to	EN
+EMAIL	EN
+@	EN
+ADDRESS	EN
+
+Attach	EN
+파일	KO
+at	EN
+PATH	EN
+
+Opens	EN
+먼저	KO
+unread	EN
+사서함	KO
+
+Opens	EN
+기본값	KO
+Inbox	EN
+on	EN
+스타트업	KO
+
+Prints	EN
+번호	KO
+unread	EN
+그리고	KO
+unsent	EN
+메시지	KO
+
+Attach	EN
+파일	KO
+at	EN
+URI	EN
+
+Balsa	EN
+cannot	EN
+열기	KO
+your	EN
+"	EN
+%	EN
+s	EN
+"	EN
+사서함	KO
+.	EN
+
+Compressing	EN
+편지	KO
+디렉터리	KO
+.	EN
+.	EN
+.	EN
+
+Mail	EN
+_	EN
+box	EN
+
+Mail	EN
+_	EN
+boxes	EN
+
+_	EN
+More	EN
+
+_	EN
+Headers	EN
+
+_	EN
+Sort	EN
+Mailbox	EN
+
+H	EN
+_	EN
+ide	EN
+메시지	KO
+
+_	EN
+Tools	EN
+
+_	EN
+Filters	EN
+
+F	EN
+_	EN
+ilters	EN
+
+Manage	EN
+필터	KO
+
+_	EN
+Continue	EN
+
+Continue	EN
+편집	KO
+전류	KO
+message	EN
+
+_	EN
+Get	EN
+New	EN
+Mail	EN
+
+Fetch	EN
+new	EN
+수신	KO
+편지	KO
+
+Send	EN
+메시지	KO
+출신	KO
+the	EN
+outbox	EN
+
+Send	EN
+그리고	KO
+_	EN
+Receive	EN
+Mail	EN
+
+Send	EN
+그리고	KO
+Receive	EN
+메시지	KO
+
+_	EN
+Address	EN
+Book	EN
+.	EN
+.	EN
+.	EN
+
+Open	EN
+the	EN
+주소	KO
+book	EN

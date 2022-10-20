@@ -1,0 +1,3428 @@
+Error	EN
+:	EN
+The	EN
+snippet	EN
+must	EN
+belong	EN
+to	EN
+a	EN
+집단	KO
+!	EN
+
+Trigger	EN
+Key	EN
+:	EN
+
+The	EN
+트리거	KO
+키키	KO
+is	EN
+사용	KO
+for	EN
+빠르다	KO
+삽입	KO
+of	EN
+the	EN
+snippet	EN
+.	EN
+Type	EN
+the	EN
+트리거	KO
+키키	KO
+in	EN
+the	EN
+편집자	KO
+,	EN
+팔로우	KO
+by	EN
+the	EN
+"	EN
+Fast	EN
+Insert	EN
+"	EN
+바로가기	KO
+to	EN
+삽입	KO
+a	EN
+snippet	EN
+.	EN
+Warning	EN
+:	EN
+Must	EN
+be	EN
+독특한	KO
+per	EN
+언어	KO
+.	EN
+
+Select	EN
+the	EN
+언어	KO
+for	EN
+어느	KO
+당신은	KO
+want	EN
+to	EN
+사용하다	KO
+이거	KO
+snippet	EN
+.	EN
+
+Keywords	EN
+are	EN
+사용함	KO
+for	EN
+better	EN
+검색	KO
+of	EN
+the	EN
+snippets	EN
+.	EN
+They	EN
+should	EN
+be	EN
+관련성	KO
+to	EN
+the	EN
+snippet	EN
+콘텐츠	KO
+.	EN
+Type	EN
+그들	KO
+별거	KO
+by	EN
+a	EN
+단일	KO
+스페이스	KO
+.	EN
+
+Import	EN
+Snippets	EN
+
+Export	EN
+Snippets	EN
+
+The	EN
+파일	KO
+"	EN
+%	EN
+s	EN
+"	EN
+on	EN
+the	EN
+disk	EN
+is	EN
+기타	KO
+최근	KO
+than	EN
+the	EN
+현재	KO
+buffer	EN
+.	EN
+Do	EN
+you	EN
+want	EN
+to	EN
+reload	EN
+it	EN
+?	EN
+
+The	EN
+파일	KO
+"	EN
+%	EN
+s	EN
+"	EN
+has	EN
+been	EN
+삭제되었습니다	KO
+on	EN
+the	EN
+디스크	KO
+.	EN
+Do	EN
+당신	KO
+want	EN
+to	EN
+닫아	KO
+it	EN
+?	EN
+
+Could	EN
+아님	KO
+오픈	KO
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+The	EN
+파일	KO
+"	EN
+%	EN
+s	EN
+"	EN
+is	EN
+읽음	KO
+-	EN
+오직	KO
+!	EN
+Edit	EN
+어쨌든	KO
+?	EN
+
+Could	EN
+아님	KO
+저장하기	KO
+%	EN
+s	EN
+:	EN
+%	EN
+s	EN
+
+Could	EN
+아님	KO
+저장	KO
+file	EN
+왜냐면	KO
+filename	EN
+아님	KO
+아직	KO
+지정	KO
+
+New	EN
+파일	KO
+%	EN
+d	EN
+
+Preparing	EN
+페이지	KO
+for	EN
+인쇄	KO
+
+Wrap	EN
+라인	KO
+
+Line	EN
+숫자	KO
+
+Use	EN
+tabs	EN
+for	EN
+들여쓰기	KO
+
+Tab	EN
+크기	KO
+in	EN
+공간	KO
+:	EN
+
+Indentation	EN
+그리고	KO
+자동	KO
+-	EN
+형식으로	KO
+옵션	KO
+
+Create	EN
+백업	KO
+파일	KO
+
+Enable	EN
+autocompletion	EN
+for	EN
+문서	KO
+words	EN
+
+Show	EN
+라인	KO
+숫자	KO
+
+Show	EN
+오른쪽	KO
+margin	EN
+
+Right	EN
+margin	EN
+position	EN
+in	EN
+등장인물	KO
+
+Use	EN
+테마	KO
+글꼴	KO
+
+Create	EN
+a	EN
+new	EN
+프로젝트	KO
+
+Recent	EN
+projects	EN
+:	EN
+
+Subversion	EN
+Preferences	EN
+
+Subversion	EN
+Options	EN
+
+Add	EN
+파일	KO
+/	EN
+디렉터리	KO
+
+Remove	EN
+file	EN
+/	EN
+디렉터리	KO
+
+File	EN
+/	EN
+URL	EN
+to	EN
+Remove	EN
+:	EN
+
+Update	EN
+파일	KO
+/	EN
+디렉토리	KO
+
+Diff	EN
+파일	KO
+/	EN
+디렉터리	KO
+
+File	EN
+or	EN
+디렉터리	KO
+to	EN
+차이점	KO
+:	EN
+
+Save	EN
+열기	KO
+파일	KO
+이전	KO
+diffing	EN
+
+Repository	EN
+인증	KO
+
+Remember	EN
+Password	EN
+
+Trust	EN
+서버	KO
+
+Remember	EN
+this	EN
+결정	KO
+
+Revert	EN
+Changes	EN
+
+Select	EN
+Changes	EN
+to	EN
+Revert	EN
+:	EN
+
+Retrieving	EN
+상태	KO
+
+Previous	EN
+Commit	EN
+Messages	EN
+:	EN
+
+Use	EN
+이전	KO
+메세지	KO
+
+Select	EN
+Files	EN
+to	EN
+Commit	EN
+:	EN
+
+Whole	EN
+Project	EN
+
+Diff	EN
+to	EN
+Previous	EN
+
+Diff	EN
+Selected	EN
+Revisions	EN
+
+View	EN
+Selected	EN
+Revision	EN
+
+Copy	EN
+파일	KO
+/	EN
+folders	EN
+
+Source	EN
+/	EN
+Destination	EN
+Paths	EN
+:	EN
+
+Working	EN
+Copy	EN
+
+Repository	EN
+Head	EN
+
+Switch	EN
+to	EN
+지점	KO
+/	EN
+태그	KO
+
+Working	EN
+Copy	EN
+Path	EN
+:	EN
+
+Branch	EN
+/	EN
+Tag	EN
+URL	EN
+:	EN
+
+Merge	EN
+변경	KO
+into	EN
+일하기	KO
+복사	KO
+
+Use	EN
+처음	KO
+path	KO
+
+Second	EN
+Path	EN
+:	EN
+
+Ignore	EN
+ancestry	EN
+
+Set	EN
+Conflicts	EN
+as	EN
+Resolved	EN
+
+Select	EN
+Files	EN
+to	EN
+Mark	EN
+as	EN
+Resolved	EN
+:	EN
+
+_	EN
+Subversion	EN
+
+_	EN
+Add	EN
+
+Add	EN
+a	EN
+new	EN
+파일	KO
+/	EN
+디렉토리	KO
+to	EN
+the	EN
+Subversion	EN
+트리	KO
+
+_	EN
+Remove	EN
+
+Remove	EN
+a	EN
+파일	KO
+/	EN
+디렉토리	KO
+출신	KO
+Subversion	EN
+트리	KO
+
+Commit	EN
+your	EN
+변화	KO
+to	EN
+the	EN
+Subversion	EN
+트리	KO
+
+Revert	EN
+changes	EN
+to	EN
+your	EN
+일하기	KO
+복사본	KO
+.	EN
+
+Resolve	EN
+갈등	KO
+in	EN
+your	EN
+일하기	KO
+카피	KO
+.	EN
+
+_	EN
+Update	EN
+
+Syncronize	EN
+your	EN
+로컬	KO
+복사	KO
+함께	KO
+the	EN
+Subversion	EN
+나무	KO
+
+Copy	EN
+Files	EN
+/	EN
+Folders	EN
+
+Copy	EN
+파일	KO
+/	EN
+디렉터리	KO
+in	EN
+the	EN
+저장소	KO
+
+Switch	EN
+to	EN
+a	EN
+Branch	EN
+/	EN
+Tag	EN
+
+Switch	EN
+your	EN
+로컬	KO
+복사본	KO
+to	EN
+a	EN
+지점	KO
+or	EN
+태그	KO
+in	EN
+the	EN
+저장소	KO
+
+Merge	EN
+변화	KO
+into	EN
+your	EN
+일하기	KO
+사본	KO
+
+_	EN
+View	EN
+Log	EN
+
+View	EN
+파일	KO
+내역	KO
+
+Diff	EN
+로컬	KO
+나무	KO
+함께	KO
+저장소	KO
+
+Subversion	EN
+운영	KO
+
+Subversion	EN
+팝업	KO
+작전	KO
+
+Subversion	EN
+Log	EN
+
+Subversion	EN
+:	EN
+File	EN
+will	EN
+be	EN
+추가됨	KO
+on	EN
+넥스트	KO
+커밋	KO
+.	EN
+
+Please	EN
+입력합니다	KO
+a	EN
+path	KO
+.	EN
+
+Subversion	EN
+:	EN
+Committing	EN
+변경	KO
+to	EN
+the	EN
+저장소	KO
+
+Please	EN
+입력하기	KO
+a	EN
+출처	KO
+path	KO
+.	EN
+
+Please	EN
+입력하기	KO
+a	EN
+목적지는	KO
+path	KO
+.	EN
+
+Subversion	EN
+:	EN
+Retrieving	EN
+diff	KO
+
+Subversion	EN
+:	EN
+Retrieving	EN
+로그	KO
+
+Subversion	EN
+:	EN
+File	EN
+retrieved	EN
+.	EN
+
+Subversion	EN
+:	EN
+Retrieving	EN
+파일	KO
+
+Subversion	EN
+:	EN
+Merge	EN
+완료	KO
+.	EN
+
+Please	EN
+enter	EN
+the	EN
+먼저	KO
+path	KO
+.	EN
+
+Please	EN
+enter	EN
+the	EN
+둘째	KO
+경로	KO
+.	EN
+
+Please	EN
+입력	KO
+a	EN
+일하기	KO
+복사	KO
+path	KO
+.	EN
+
+Please	EN
+입력하기	KO
+the	EN
+시작하기	KO
+리비전	KO
+.	EN
+
+Please	EN
+입력하기	KO
+the	EN
+끝내기	KO
+리비전	KO
+.	EN
+
+Subversion	EN
+:	EN
+File	EN
+will	EN
+be	EN
+삭제됨	KO
+on	EN
+next	EN
+커밋	KO
+.	EN
+
+Subversion	EN
+:	EN
+Revert	EN
+완성	KO
+.	EN
+
+Subversion	EN
+:	EN
+Switch	EN
+완성	KO
+.	EN
+
+Please	EN
+입력합니다	KO
+a	EN
+분기	KO
+/	EN
+tag	EN
+URL	EN
+.	EN
+
+Subversion	EN
+:	EN
+Update	EN
+완료	KO
+.	EN
+
+Authentication	EN
+취소	KO
+
+Valid	EN
+until	EN
+:	EN
+
+Deleted	EN
+:	EN
+%	EN
+s	EN
+
+Added	EN
+:	EN
+%	EN
+s	EN
+
+Resolved	EN
+:	EN
+%	EN
+s	EN
+
+Updated	EN
+:	EN
+%	EN
+s	EN
+
+Externally	EN
+Updated	EN
+:	EN
+%	EN
+s	EN
+
+Modified	EN
+:	EN
+%	EN
+s	EN
+
+Merged	EN
+:	EN
+%	EN
+s	EN
+
+Conflicted	EN
+:	EN
+%	EN
+s	EN
+
+Missing	EN
+:	EN
+%	EN
+s	EN
+
+Go	EN
+to	EN
+기호	KO
+선언	KO
+
+Tag	EN
+_	EN
+Implementation	EN
+
+Go	EN
+to	EN
+상징	KO
+정의	KO
+
+_	EN
+Find	EN
+Symbol	EN
+
+Find	EN
+Symbol	EN
+
+%	EN
+s	EN
+:	EN
+%	EN
+d	EN
+파일	KO
+scanned	EN
+아웃	KO
+of	EN
+%	EN
+d	EN
+
+%	EN
+d	EN
+파일	KO
+scanned	EN
+아웃	KO
+of	EN
+%	EN
+d	EN
+
+Populating	EN
+기호	KO
+데이터베이스	KO
+
+SymbolDb	EN
+팝업	KO
+동작	KO
+
+SymbolDb	EN
+메뉴	KO
+동작	KO
+
+Symbol	EN
+Database	EN
+
+Resuming	EN
+glb	EN
+스캔	KO
+.	EN
+
+Parallel	EN
+스캔	KO
+of	EN
+프로젝트	KO
+그리고	KO
+글로벌	KO
+상징	KO
+
+This	EN
+옵션	KO
+means	EN
+that	EN
+the	EN
+전역	KO
+체계	KO
+패키지	KO
+will	EN
+be	EN
+scanned	EN
+simultaneously	EN
+함께	KO
+the	EN
+프로젝트	KO
+'	EN
+s	EN
+ones	EN
+
+Automatically	EN
+업데이트	KO
+기호	KO
+without	KO
+저장	KO
+파일	KO
+
+Automatically	EN
+갱신	KO
+the	EN
+파일	KO
+'	EN
+s	EN
+상징	KO
+without	KO
+저장	KO
+.	EN
+The	EN
+갱신	KO
+발생	KO
+after	EN
+10	EN
+seconds	EN
+without	KO
+keypresses	EN
+by	EN
+the	EN
+사용자	KO
+.	EN
+
+Use	EN
+현재	KO
+selected	EN
+프로필	KO
+in	EN
+GNOME	EN
+터미널	KO
+
+Use	EN
+GNOME	EN
+Terminal	EN
+프로파일	KO
+:	EN
+
+Terminal	EN
+옵션	KO
+
+터미널	KO
+운영	KO
+
+Unable	EN
+to	EN
+처형	KO
+명령	KO
+
+Save	EN
+전체	KO
+파일	KO
+
+_	EN
+Variable	EN
+
+Working	EN
+디렉토리	KO
+:	EN
+
+Standard	EN
+출력	KO
+:	EN
+
+Standard	EN
+오류	KO
+:	EN
+
+Edit	EN
+as	EN
+문자	KO
+
+Edit	EN
+커맨드	KO
+as	EN
+스크립트	KO
+in	EN
+Anjuta	EN
+on	EN
+닫아	KO
+
+Are	EN
+당신은	KO
+sure	EN
+당신은	KO
+want	EN
+to	EN
+지우기	KO
+the	EN
+'	EN
+%	EN
+s	EN
+'	EN
+tool	EN
+?	EN
+
+ask	EN
+at	EN
+runtime	EN
+
+You	EN
+must	EN
+provide	EN
+a	EN
+공구	KO
+이름	KO
+!	EN
+
+You	EN
+must	EN
+provide	EN
+a	EN
+도구	KO
+커맨드	KO
+!	EN
+
+A	EN
+공구	KO
+함께	KO
+the	EN
+동일	KO
+이름	KO
+already	EN
+존재함	KO
+!	EN
+
+The	EN
+단축키	KO
+is	EN
+벌써	KO
+사용함	KO
+by	EN
+또다른	KO
+구성요소	KO
+in	EN
+Anjuta	EN
+.	EN
+Do	EN
+당신	KO
+want	EN
+to	EN
+유지	KO
+it	EN
+어쨌거나	KO
+?	EN
+
+Unable	EN
+to	EN
+수정	KO
+스크립트	KO
+
+New	EN
+가속기	KO
+
+Running	EN
+지휘	KO
+:	EN
+%	EN
+s	EN
+
+Completed	EN
+unsuccessfully	EN
+함께	KO
+상태	KO
+코드	KO
+%	EN
+d	EN
+
+Unable	EN
+to	EN
+만드세요	KO
+a	EN
+버퍼	KO
+:	EN
+커맨드	KO
+중단됨	KO
+
+No	EN
+문서	KO
+현재	KO
+열기	KO
+:	EN
+명령어	KO
+중단됨	KO
+
+Unable	EN
+to	EN
+오픈	KO
+입력기	KO
+파일	KO
+%	EN
+s	EN
+,	EN
+커맨드	KO
+중단됨	KO
+
+Missing	EN
+공구	KO
+이름	KO
+
+Unexpected	EN
+원소	KO
+"	EN
+%	EN
+s	EN
+"	EN
+
+Error	EN
+언제	KO
+로딩	KO
+외부	KO
+도구	KO
+
+Unable	EN
+to	EN
+열기	KO
+%	EN
+s	EN
+for	EN
+쓰기	KO
+
+Tool	EN
+운영	KO
+
+Project	EN
+루트	KO
+URI	EN
+
+Project	EN
+뿌리	KO
+path	EN
+
+Selected	EN
+URI	EN
+in	EN
+the	EN
+파일	KO
+매니저	KO
+플러그인	KO
+
+Selected	EN
+디렉터리	KO
+in	EN
+the	EN
+파일	KO
+매니저	KO
+플러그인	KO
+
+Selected	EN
+가득	KO
+파일	KO
+이름	KO
+in	EN
+the	EN
+파일	KO
+매니저	KO
+플러그인	KO
+
+Selected	EN
+가득	KO
+file	EN
+이름	KO
+without	KO
+확대	KO
+in	EN
+the	EN
+파일	KO
+관리자	KO
+플러그인	KO
+
+Selected	EN
+파일	KO
+이름	KO
+in	EN
+the	EN
+파일	KO
+매니저	KO
+플러그인	KO
+
+Selected	EN
+파일	KO
+이름	KO
+without	KO
+확대	KO
+in	EN
+the	EN
+파일	KO
+관리자	KO
+플러그인	KO
+
+Selected	EN
+파일	KO
+'	EN
+s	EN
+확대	KO
+in	EN
+the	EN
+파일	KO
+관리자	KO
+플러그인	KO
+
+Selected	EN
+URI	EN
+in	EN
+the	EN
+프로젝트	KO
+매니저	KO
+플러그인	KO
+
+Selected	EN
+디렉토리	KO
+in	EN
+the	EN
+프로젝트	KO
+manager	EN
+플러그인	KO
+
+Selected	EN
+가득	KO
+파일	KO
+이름	KO
+in	EN
+the	EN
+프로젝트	KO
+매니저	KO
+플러그인	KO
+
+Selected	EN
+가득	KO
+파일	KO
+이름	KO
+without	KO
+확대	KO
+in	EN
+the	EN
+프로젝트	KO
+관리자	KO
+플러그인	KO
+
+Selected	EN
+파일	KO
+이름	KO
+in	EN
+the	EN
+프로젝트	KO
+매니저	KO
+플러그인	KO
+
+Selected	EN
+파일	KO
+이름	KO
+without	KO
+확대	KO
+in	EN
+the	EN
+프로젝트	KO
+관리자	KO
+플러그인	KO
+
+Selected	EN
+파일	KO
+extension	EN
+in	EN
+the	EN
+프로젝트	KO
+관리자	KO
+플러그인	KO
+
+Currently	EN
+edited	EN
+파일	KO
+이름	KO
+
+Currently	EN
+edited	EN
+파일	KO
+이름	KO
+without	KO
+연장	KO
+
+Currently	EN
+edited	EN
+파일	KO
+디렉터리	KO
+
+Currently	EN
+selected	EN
+문자	KO
+in	EN
+에디터	KO
+
+Current	EN
+단어	KO
+in	EN
+에디터	KO
+
+Current	EN
+라인	KO
+in	EN
+편집기	KO
+
+Ask	EN
+the	EN
+사용자	KO
+to	EN
+get	KO
+additional	EN
+매개변수	KO
+
+Command	EN
+라인	KO
+매개변수	KO
+
+Same	EN
+as	EN
+출력	KO
+
+Existing	EN
+message	EN
+pane	EN
+
+New	EN
+메시지	KO
+pane	EN
+
+New	EN
+버퍼	KO
+
+Replace	EN
+버퍼	KO
+
+Append	EN
+to	EN
+buffer	EN
+
+Loaded	EN
+Session	EN
+
+Do	EN
+당신	KO
+선호	KO
+커피	KO
+to	EN
+홍차	KO
+?	EN
+Check	EN
+it	EN
+아웃	KO
+.	EN
+
+_	EN
+Reset	EN
+Dock	EN
+Layout	EN
+
+Reset	EN
+the	EN
+위젯	KO
+도킹	KO
+layout	KO
+to	EN
+기본값	KO
+
+_	EN
+Lock	EN
+Dock	EN
+Layout	EN
+
+Lock	EN
+the	EN
+현재	KO
+dock	EN
+배치	KO
+so	EN
+that	EN
+위젯	KO
+cannot	EN
+be	EN
+감동	KO
+
+_	EN
+User	EN
+'	EN
+s	EN
+Manual	EN
+
+Anjuta	EN
+사용자	KO
+'	EN
+s	EN
+설명서	KO
+
+Kick	EN
+시작하기	KO
+_	EN
+튜토리얼	KO
+
+Anjuta	EN
+Kick	EN
+시작하기	KO
+튜토리얼	KO
+
+Online	EN
+설명서	KO
+그리고	KO
+리소스	KO
+
+Report	EN
+_	EN
+Bugs	EN
+/	EN
+Patches	EN
+/	EN
+Requests	EN
+
+Submit	EN
+a	EN
+버그	KO
+보고	KO
+,	EN
+패치	KO
+or	EN
+기능	KO
+요청하기	KO
+for	EN
+Anjuta	EN
+
+Ask	EN
+a	EN
+_	EN
+Question	EN
+
+Submit	EN
+a	EN
+질문	KO
+for	EN
+FAQs	EN
+
+About	EN
+External	EN
+_	EN
+Plugins	EN
+
+About	EN
+셋째	KO
+-	EN
+party	KO
+Anjuta	EN
+플러그인	KO
+
+Specify	EN
+the	EN
+사이즈	KO
+그리고	KO
+위치	KO
+of	EN
+the	EN
+메인	KO
+창문	KO
+
+Start	EN
+a	EN
+new	EN
+인스턴스	KO
+그리고	KO
+do	EN
+아님	KO
+열기	KO
+the	EN
+파일	KO
+in	EN
+an	EN
+기존	KO
+인스턴스	KO
+
+Do	EN
+아님	KO
+열기	KO
+마지막	KO
+세션	KO
+on	EN
+시작	KO
+
+Do	EN
+아님	KO
+오픈	KO
+라스트	KO
+프로젝트	KO
+그리고	KO
+파일	KO
+on	EN
+시작	KO
+
+Shut	EN
+아래로	KO
+Anjuta	EN
+properly	EN
+,	EN
+releasing	EN
+모두	KO
+리소스	KO
+(	EN
+for	EN
+디버그	KO
+)	EN
+
+Do	EN
+아님	KO
+로딩	KO
+마지막	KO
+세션	KO
+on	EN
+스타트업	KO
+
+Do	EN
+아님	KO
+로딩	KO
+last	EN
+프로젝트	KO
+그리고	KO
+파일	KO
+on	EN
+시작	KO
+
+Dock	EN
+switcher	EN
+스타일	KO
+:	EN
+
+Text	EN
+아래	KO
+아이콘	KO
+
+Text	EN
+beside	EN
+아이콘	KO
+
+Icons	EN
+단발	KO
+
+Text	EN
+단발	KO
+
+Do	EN
+아님	KO
+디스플레이	KO
+경고	KO
+if	EN
+아님	KO
+사용하기	KO
+a	EN
+Debug	EN
+구성	KO
+
+Leading	EN
+asterisk	EN
+in	EN
+멀티	KO
+-	EN
+라인	KO
+댓글	KO
+
+Prefer	EN
+vim	KO
+/	EN
+이맥스	KO
+modelines	EN
+over	EN
+들여쓰기	KO
+settings	EN
+
+Brace	EN
+들여쓰기	KO
+사이즈	KO
+in	EN
+공간	KO
+:	EN
+
+Statement	EN
+들여쓰기	KO
+사이즈	KO
+in	EN
+공간	KO
+:	EN
+
+Indentation	EN
+매개변수	KO
+
+Line	EN
+up	EN
+괄호	KO
+
+Add	EN
+a	EN
+공간	KO
+after	EN
+함수	KO
+전화	KO
+autocompletion	EN
+
+Add	EN
+'	EN
+(	EN
+'	EN
+after	EN
+함수	KO
+호출	KO
+autocompletion	EN
+
+Enable	EN
+스마트	KO
+brace	EN
+완성	KO
+
+Automatically	EN
+로딩	KO
+필요함	KO
+도서관	KO
+of	EN
+the	EN
+프로젝트	KO
+
+Load	EN
+API	EN
+태그	KO
+for	EN
+C	EN
+스탠더드	KO
+도서관	KO
+
+Load	EN
+API	EN
+tags	EN
+for	EN
+C	EN
++	EN
++	EN
+표준	KO
+템플릿	KO
+도서관	KO
+
+Auto	EN
+-	EN
+Indent	EN
+
+Auto	EN
+-	EN
+indent	EN
+전류	KO
+라인	KO
+or	EN
+선택	KO
+기반으로	KO
+on	EN
+들여쓰기	KO
+설정	KO
+
+Comment	EN
+or	EN
+uncomment	EN
+현재	KO
+선택	KO
+
+Swap	EN
+C	EN
+헤더	KO
+그리고	KO
+소스	KO
+파일	KO
+
+Python	EN
+지지	KO
+경고	KO
+
+Either	EN
+파이썬	KO
+path	KO
+is	EN
+잘못된	KO
+or	EN
+python	KO
+-	EN
+밧줄	KO
+(	EN
+http	KO
+:	EN
+/	EN
+/	EN
+밧줄	KO
+.	EN
+sf	EN
+.	EN
+net	KO
+)	EN
+도서관	KO
+aren	EN
+'	EN
+t	EN
+설치	KO
+.	EN
+Both	EN
+are	EN
+필수	KO
+for	EN
+autocompletion	EN
+in	EN
+python	KO
+파일	KO
+.	EN
+Please	EN
+설치	KO
+그들	KO
+그리고	KO
+점검	KO
+the	EN
+파이썬	KO
+path	KO
+in	EN
+the	EN
+환경설정	KO
+.	EN
+
+Do	EN
+아님	KO
+공연	KO
+that	EN
+경고	KO
+다시	KO
+
+GNU	EN
+Debugger	EN
+
+GNU	EN
+Debugger	EN
+Plugin	EN
+
+Provides	EN
+document	EN
+관리	KO
+capabilities	EN
+.	EN
+
+File	EN
+매니저	KO
+for	EN
+프로젝트	KO
+그리고	KO
+단일	KO
+파일	KO
+
+A	EN
+Subversion	EN
+클라이언트	KO
+플러그인	KO
+기반	KO
+on	EN
+libsvn	EN
+
+User	EN
+인터페이스	KO
+파일	KO
+
+Patches	EN
+파일	KO
+그리고	KO
+디렉토리	KO
+.	EN
+
+Use	EN
+외부	KO
+프로그램	KO
+출신	KO
+Anjuta	EN
+
+Basic	EN
+autotools	EN
+빌드	KO
+플러그인	KO
+.	EN
+
+Import	EN
+an	EN
+존재	KO
+autotools	EN
+프로젝트	KO
+to	EN
+Anjuta	EN
+
+Project	EN
+출신	KO
+Existing	EN
+Sources	EN
+
+The	EN
+default	EN
+에디터	KO
+기반으로	KO
+on	EN
+GtkSourceView	EN
+
+Welcome	EN
+페이지	KO
+함께	KO
+대부분의	KO
+common	EN
+행동	KO
+.	EN
+
+C	EN
++	EN
++	EN
+그리고	KO
+Java	EN
+지원	KO
+플러그인	KO
+for	EN
+코드	KO
+완성	KO
+,	EN
+auto	EN
+-	EN
+들여쓰기	KO
+,	EN
+등등	KO
+.	EN
+
+Project	EN
+Manager	EN
+Plugin	EN
+for	EN
+Anjuta	EN
+.	EN
+
+Symbol	EN
+Database	EN
+Plugin	EN
+for	EN
+Anjuta	EN
+.	EN
+
+File	EN
+로더	KO
+to	EN
+로드	KO
+다르다	KO
+파일	KO
+
+Allow	EN
+to	EN
+실행	KO
+프로그램	KO
+without	KO
+디버거	KO
+.	EN
+
+Plugin	EN
+to	EN
+유지	KO
+track	EN
+of	EN
+다중	KO
+programming	EN
+언어	KO
+
+New	EN
+Autotools	EN
+backend	EN
+for	EN
+프로젝트	KO
+관리자	KO
+
+Error	EN
+:	EN
+%	EN
+s	EN
+
+Error	EN
+:	EN
+cant	EN
+bind	EN
+항구	KO
+
+JS	EN
+Support	EN
+Plugin	EN
+
+JavaScript	EN
+Support	EN
+Plugin	EN
+
+Gjs	EN
+저장소	KO
+'	EN
+s	EN
+디렉토리	KO
+:	EN
+
+Min	EN
+문자	KO
+for	EN
+완성	KO
+
+Highlight	EN
+missed	EN
+semicolon	EN
+
+Add	EN
+brace	EN
+after	EN
+함수	KO
+전화	KO
+autocompletion	EN
+
+Marked	EN
+up	EN
+문자	KO
+to	EN
+렌더링	KO
+
+Font	EN
+묘사	KO
+as	EN
+a	EN
+문자열	KO
+
+Font	EN
+묘사	KO
+
+Font	EN
+description	EN
+as	EN
+a	EN
+PangoFontDescription	EN
+struct	EN
+
+Font	EN
+stretch	EN
+
+Font	EN
+포인트	KO
+
+Font	EN
+사이즈	KO
+in	EN
+점수	KO
+
+Offset	EN
+of	EN
+텍스트	KO
+above	EN
+the	EN
+baseline	EN
+(	EN
+아래	KO
+the	EN
+baseline	EN
+if	EN
+rise	KO
+is	EN
+부정적	KO
+)	EN
+
+Whether	EN
+to	EN
+파업	KO
+통해	KO
+the	EN
+텍스트	KO
+
+Style	EN
+of	EN
+밑줄	KO
+for	EN
+이거	KO
+텍스트	KO
+
+Text	EN
+컬러	KO
+,	EN
+as	EN
+문자열	KO
+
+Text	EN
+컬러	KO
+,	EN
+as	EN
+a	EN
+GdkColor	EN
+
+Text	EN
+색상	KO
+,	EN
+as	EN
+an	EN
+R	EN
+/	EN
+G	EN
+/	EN
+B	EN
+/	EN
+A	EN
+복합	KO
+정수	KO
+
+Width	EN
+of	EN
+the	EN
+rendered	EN
+문자	KO
+
+Text	EN
+높이	KO
+
+Height	EN
+of	EN
+the	EN
+rendered	EN
+문구	KO
+
+Whether	EN
+이거	KO
+태그	KO
+affects	EN
+the	EN
+font	EN
+패밀리	KO
+
+Whether	EN
+이거	KO
+태그	KO
+affects	EN
+the	EN
+글꼴	KO
+스타일	KO
+
+Whether	EN
+이거	KO
+태그	KO
+affects	EN
+the	EN
+글꼴	KO
+변종	KO
+
+Whether	EN
+이거	KO
+태그	KO
+affects	EN
+the	EN
+글꼴	KO
+몸무게	KO
+
+Font	EN
+stretch	EN
+설정	KO
+
+Whether	EN
+이거	KO
+태그	KO
+affects	EN
+the	EN
+글꼴	KO
+stretch	EN
+
+Whether	EN
+이거	KO
+태그	KO
+affects	EN
+the	EN
+글꼴	KO
+크기	KO
+
+Rise	EN
+세트	KO
+
+Whether	EN
+이거	KO
+태그	KO
+affects	EN
+the	EN
+상승	KO
+
+Whether	EN
+이거	KO
+태그	KO
+affects	EN
+strikethrough	EN
+
+Underline	EN
+집합	KO
+
+Whether	EN
+이거	KO
+태그	KO
+affects	EN
+밑줄	KO
+
+Scale	EN
+집합	KO
+
+Whether	EN
+이거	KO
+태그	KO
+affects	EN
+글꼴	KO
+scaling	EN
+
+Inheritance	EN
+Graph	EN
+
+A	EN
+그래프	KO
+painter	EN
+for	EN
+the	EN
+상속	KO
+of	EN
+the	EN
+클래스	KO
+.	EN
+
+Could	EN
+아님	KO
+쓰기	KO
+정의	KO
+파일	KO
+"	EN
+%	EN
+s	EN
+"	EN
+:	EN
+%	EN
+s	EN
+
+Could	EN
+아님	KO
+오픈	KO
+파일	KO
+"	EN
+%	EN
+s	EN
+"	EN
+:	EN
+%	EN
+s	EN
+
+Display	EN
+an	EN
+Add	EN
+버튼	KO
+
+These	EN
+are	EN
+the	EN
+플러그인	KO
+selected	EN
+by	EN
+귀하	KO
+언제	KO
+당신은	KO
+have	EN
+been	EN
+prompted	EN
+to	EN
+선택	KO
+하나	KO
+of	EN
+many	EN
+어울리는	KO
+플러그인	KO
+.	EN
+Removing	EN
+the	EN
+선호	KO
+플러그인	KO
+will	EN
+let	EN
+당신은	KO
+choose	EN
+a	EN
+달라	KO
+플러그인	KO
+.	EN
+
+Anjuta	EN
+상태	KO
+to	EN
+use	EN
+in	EN
+로딩	KO
+그리고	KO
+unloading	EN
+of	EN
+plugins	EN
+
+Failed	EN
+to	EN
+읽기	KO
+'	EN
+%	EN
+s	EN
+'	EN
+:	EN
+Following	EN
+필수	KO
+plugins	EN
+are	EN
+누락	KO
+
+Cannot	EN
+처형	KO
+명령어	KO
+:	EN
+%	EN
+s	EN
+(	EN
+사용하기	KO
+껍질	KO
+%	EN
+s	EN
+)	EN
+:	EN
+%	EN
+s	EN
+
+Cannot	EN
+실행	KO
+커맨드	KO
+"	EN
+%	EN
+s	EN
+"	EN
+:	EN
+%	EN
+s	EN
+
+Group	EN
+이름	KO
+can	EN
+단발	KO
+contain	EN
+alphanumeric	EN
+or	EN
+"	EN
+#	EN
+$	EN
+:	EN
+%	EN
++	EN
+,	EN
+-	EN
+.	EN
+=	EN
+@	EN
+^	EN
+_	EN
+`	EN
+~	EN
+/	EN
+"	EN
+문자	KO
+
+Shared	EN
+Library	EN
+(	EN
+libtool	EN
+)	EN
+
+Static	EN
+Library	EN
+(	EN
+Libtool	EN
+)	EN
+
+Project	EN
+doesn	EN
+'	EN
+t	EN
+존재함	KO
+or	EN
+has	EN
+an	EN
+오류	KO
+경로	KO
+
+Add	EN
+지지	KO
+to	EN
+컴파일	KO
+공유	KO
+그리고	KO
+정적	KO
+도서관	KO
+함께	KO
+libtool	EN
+.	EN
+
+Module	EN
+대상	KO
+이름	KO
+must	EN
+be	EN
+of	EN
+the	EN
+형태	KO
+'	EN
+.	EN
+la	EN
+'	EN
+
+Select	EN
+a	EN
+빌드	KO
+디렉토리	KO
+내부	KO
+the	EN
+프로젝트	KO
+디렉토리	KO
+
+_	EN
+Check	EN
+Project	EN
+
+Check	EN
+whole	EN
+프로젝트	KO
+
+Check	EN
+모듈	KO
+연관	KO
+함께	KO
+전류	KO
+파일	KO
+
+_	EN
+Check	EN
+
+Check	EN
+모듈	KO
+
+Add	EN
+to	EN
+Project	EN
+Target	EN
+:	EN
+
+The	EN
+프로그램	KO
+is	EN
+이미	KO
+running	EN
+.	EN
+Do	EN
+당신	KO
+여전히	KO
+want	EN
+to	EN
+멈추기	KO
+the	EN
+디버거	KO
+?	EN
+
+Do	EN
+아님	KO
+보이기	KO
+오픈	KO
+문서	KO
+
+Open	EN
+문서	KO
+
+Replace	EN
+All	EN
+
+Find	EN
+in	EN
+Files	EN
+
+Search	EN
+in	EN
+프로젝트	KO
+파일	KO
+
+All	EN
+문구	KO
+파일	KO
+
+Find	EN
+in	EN
+파일	KO
+
+GFile	EN
+representing	EN
+the	EN
+인기	KO
+-	EN
+대부분의	KO
+경로	KO
+표시됨	KO
+
+_	EN
+Show	EN
+in	EN
+File	EN
+매니저	KO
+
+Show	EN
+in	EN
+File	EN
+관리자	KO
+
+Add	EN
+License	EN
+Information	EN
+:	EN
+
+Add	EN
+to	EN
+프로젝트	KO
+타겟	KO
+:	EN
+
+The	EN
+프로그램	KO
+is	EN
+첨부된	KO
+.	EN
+Do	EN
+당신은	KO
+여전히	KO
+want	EN
+to	EN
+정지	KO
+the	EN
+디버거	KO
+?	EN
+
+The	EN
+프로그램	KO
+is	EN
+달리기	KO
+.	EN
+Do	EN
+당신	KO
+여전히	KO
+want	EN
+to	EN
+중지	KO
+the	EN
+디버거	KO
+?	EN
+
+Append	EN
+signed	EN
+-	EN
+끄기	KO
+-	EN
+by	EN
+라인	KO
+
+Show	EN
+Diff	EN
+
+Are	EN
+당신은	KO
+sure	EN
+귀하	KO
+want	EN
+to	EN
+지우기	KO
+분기	KO
+%	EN
+s	EN
+?	EN
+
+Delete	EN
+나뭇가지	KO
+
+Apply	EN
+그리고	KO
+복원	KO
+인덱스	KO
+
+Remote	EN
+팝업	KO
+메뉴	KO
+
+Edit	EN
+위젯	KO
+margins	EN
+
+Use	EN
+공간	KO
+for	EN
+괄호	KO
+들여쓰기	KO
+
+C	EN
+Indentation	EN
+
+Python	EN
+Indentation	EN
+
+Failed	EN
+to	EN
+활성화하기	KO
+the	EN
+JHBuild	EN
+Plugin	EN
+:	EN
+%	EN
+s	EN
+
+Add	EN
+'	EN
+)	EN
+'	EN
+after	EN
+함수	KO
+호출	KO
+autocompletion	EN
+
+Min	EN
+문자	KO
+for	EN
+완성	KO
+:	EN
+
+Vala	EN
+support	EN
+Plugin	EN
+
+Vala	EN
+후원	KO
+플러그인	KO
+,	EN
+추가	KO
+코드	KO
+완성	KO
+.	EN
+
+Please	EN
+선택	KO
+a	EN
+project	EN
+backend	EN
+to	EN
+사용하기	KO
+.	EN
+
+Folder	EN
+특성	KO
+
+Reloading	EN
+프로젝트	KO
+:	EN
+%	EN
+s	EN
+
+Are	EN
+귀하	KO
+sure	EN
+당신	KO
+want	EN
+to	EN
+삭제	KO
+the	EN
+그룹	KO
+"	EN
+%	EN
+s	EN
+"	EN
+출신	KO
+the	EN
+프로젝트	KO
+?	EN
+
+Are	EN
+당신	KO
+sure	EN
+당신	KO
+want	EN
+to	EN
+remove	EN
+the	EN
+타깃	KO
+"	EN
+%	EN
+s	EN
+"	EN
+출신	KO
+the	EN
+project	EN
+?	EN
+
+Are	EN
+당신은	KO
+sure	EN
+당신은	KO
+want	EN
+to	EN
+삭제하기	KO
+the	EN
+소스	KO
+"	EN
+%	EN
+s	EN
+"	EN
+출신	KO
+the	EN
+프로젝트	KO
+?	EN
+
+Are	EN
+당신	KO
+sure	EN
+귀하	KO
+want	EN
+to	EN
+삭제하기	KO
+the	EN
+바로가기	KO
+"	EN
+%	EN
+s	EN
+"	EN
+출신	KO
+the	EN
+프로젝트	KO
+?	EN
+
+Are	EN
+당신	KO
+sure	EN
+귀하	KO
+want	EN
+to	EN
+제거	KO
+the	EN
+모듈	KO
+"	EN
+%	EN
+s	EN
+"	EN
+출신	KO
+the	EN
+프로젝트	KO
+?	EN
+
+Are	EN
+당신은	KO
+sure	EN
+귀하	KO
+want	EN
+to	EN
+삭제하기	KO
+the	EN
+package	EN
+"	EN
+%	EN
+s	EN
+"	EN
+출신	KO
+the	EN
+프로젝트	KO
+?	EN
+
+Are	EN
+당신	KO
+sure	EN
+당신은	KO
+want	EN
+to	EN
+삭제하기	KO
+the	EN
+원소	KO
+"	EN
+%	EN
+s	EN
+"	EN
+출신	KO
+the	EN
+프로젝트	KO
+?	EN
+
+New	EN
+_	EN
+Folder	EN
+
+Add	EN
+a	EN
+new	EN
+폴더	KO
+to	EN
+the	EN
+프로젝트	KO
+
+New	EN
+_	EN
+Folder	EN
+
+New	EN
+Folder	EN
+
+Specify	EN
+_	EN
+어디서	KO
+to	EN
+create	EN
+the	EN
+폴더	KO
+:	EN
+
+Select	EN
+a	EN
+project	EN
+종류	KO
+
+Field	EN
+"	EN
+%	EN
+s	EN
+"	EN
+must	EN
+포함함	KO
+단발	KO
+ASCII	EN
+printable	EN
+문자	KO
+,	EN
+no	EN
+accentuated	EN
+문자	KO
+by	EN
+예시	KO
+.	EN
+Please	EN
+고쳐	KO
+it	EN
+.	EN
+
+Add	EN
+Windows	EN
+지원	KO
+:	EN
+
+Adds	EN
+지원	KO
+for	EN
+건축	KO
+on	EN
+Windows	EN
+플랫폼	KO
+
+Plugin	EN
+Name	EN
+:	EN
+
+Long	EN
+설명	KO
+of	EN
+your	EN
+플러그인	KO
+
+Loading	EN
+파일	KO
+.	EN
+.	EN
+.	EN
+
+Quick	EN
+오픈	KO
+
+Quick	EN
+오픈	KO
+작전	KO
+
+Quick	EN
+Open	EN
+
+The	EN
+프로그램	KO
+is	EN
+이미	KO
+런닝	KO
+.	EN
+Do	EN
+귀하	KO
+want	EN
+to	EN
+중지	KO
+it	EN
+전에	KO
+restarting	EN
+a	EN
+new	EN
+인스턴스	KO
+?	EN
+
+Add	EN
+snippet	EN
+
+Remove	EN
+selected	EN
+snippet	EN
+
+Insert	EN
+snippet	EN
+into	EN
+편집자	KO
+at	EN
+현재	KO
+커서	KO
+직위	KO
+
+Export	EN
+snippets	EN
+
+Save	EN
+in	EN
+디렉터리	KO
+:	EN
+
+Select	EN
+snippets	EN
+
+Indentation	EN
+사이즈	KO
+in	EN
+공간	KO
+:	EN
+
+프로필	KO
+파일	KO
+
+Use	EN
+tabulation	EN
+for	EN
+들여쓰기	KO
+
+Shared	EN
+Library	EN
+(	EN
+Libtool	EN
+)	EN
+
+Add	EN
+지원	KO
+to	EN
+컴파일	KO
+공유	KO
+그리고	KO
+정적	KO
+라이브러리	KO
+함께	KO
+Libtool	EN
+.	EN
+
+Default	EN
+사용자	KO
+이름	KO
+사용함	KO
+in	EN
+new	EN
+프로젝트	KO
+
+Default	EN
+이메일	KO
+사용함	KO
+in	EN
+new	EN
+프로젝트	KO
+
+Use	EN
+기본	KO
+GNOME	EN
+터미널	KO
+프로필	KO
+
+Code	EN
+Analyzer	EN
+
+Python	EN
+후원	KO
+Plugin	EN
+
+Python	EN
+지지	KO
+플러그인	KO
+for	EN
+부호	KO
+완성	KO
+,	EN
+자동	KO
+들여쓰기	KO
+등등	KO
+.	EN
+
+GFile	EN
+representing	EN
+the	EN
+top	EN
+-	EN
+대부분	KO
+경로	KO
+표시됨	KO
+
+_	EN
+Copy	EN
+All	EN
+Messages	EN
+
+Copy	EN
+All	EN
+Messages	EN
+
+Error	EN
+:	EN
+The	EN
+트리거	KO
+키키	KO
+can	EN
+오직	KO
+contain	EN
+alphanumeric	EN
+등장인물	KO
+그리고	KO
+"	EN
+_	EN
+"	EN
+!	EN
+
+Search	EN
+for	EN
+example	EN
+코드	KO
+
+View	EN
+현지	KO
+Anjuta	EN
+문서	KO
+
+Remove	EN
+최근	KO
+사용	KO
+프로젝트	KO
+출신	KO
+명단	KO
+
+Unlist	EN
+Project	EN
+
+Selected	EN
+Link	EN
+
+Specifies	EN
+whether	EN
+the	EN
+AtkHyperlink	EN
+객체	KO
+is	EN
+selected	EN
+
+Number	EN
+of	EN
+Anchors	EN
+
+The	EN
+숫자	KO
+of	EN
+앵커	KO
+연관	KO
+함께	KO
+the	EN
+AtkHyperlink	EN
+대상	KO
+
+End	EN
+색인	KO
+
+The	EN
+끝내기	KO
+색인	KO
+of	EN
+the	EN
+AtkHyperlink	EN
+대상	KO
+
+Start	EN
+인덱스	KO
+
+The	EN
+시작하기	KO
+인덱스	KO
+of	EN
+the	EN
+AtkHyperlink	EN
+객체	KO
+
+가속기	KO
+label	EN
+
+점검	KO
+box	KO
+
+확인	KO
+메뉴	KO
+아이템	KO
+
+컬러	KO
+chooser	EN
+
+콤보	KO
+box	KO
+
+그리기	KO
+영역	KO
+
+파일	KO
+chooser	EN
+
+글래스	KO
+pane	EN
+
+html	KO
+용기	KO
+
+목록	KO
+아이템	KO
+
+메뉴	KO
+bar	EN
+
+메뉴	KO
+품목	KO
+
+옵션	KO
+pane	EN
+
+비밀번호	KO
+문구	KO
+
+진행	KO
+bar	EN
+
+밀어	KO
+버튼	KO
+
+라디오	KO
+버튼	KO
+
+라디오방송	KO
+메뉴	KO
+항목	KO
+
+스크롤	KO
+bar	EN
+
+스크롤	KO
+pane	EN
+
+스핀	KO
+버튼	KO
+
+식탁	KO
+세포	KO
+
+눈물	KO
+끄기	KO
+메뉴	KO
+품목	KO
+
+전환	KO
+버튼	KO
+
+공구	KO
+bar	EN
+
+수정	KO
+bar	EN
+
+문서로	KO
+액자	KO
+
+Accessible	EN
+Name	EN
+
+Object	EN
+인스턴스	KO
+'	EN
+s	EN
+이름	KO
+formatted	EN
+for	EN
+assistive	EN
+기술	KO
+접속	KO
+
+Accessible	EN
+Description	EN
+
+Description	EN
+of	EN
+an	EN
+천체	KO
+,	EN
+formatted	EN
+for	EN
+보조	KO
+기술	KO
+접근	KO
+
+Accessible	EN
+Parent	EN
+
+Is	EN
+사용함	KO
+to	EN
+notify	EN
+that	EN
+the	EN
+부모	KO
+has	EN
+변경되었습니다	KO
+
+Accessible	EN
+Value	EN
+
+Is	EN
+사용됨	KO
+to	EN
+notify	EN
+that	EN
+the	EN
+가치	KO
+has	EN
+바꿨다	KO
+
+Accessible	EN
+Role	EN
+
+The	EN
+접근	KO
+역할	KO
+of	EN
+이거	KO
+대상	KO
+
+Accessible	EN
+Layer	EN
+
+The	EN
+접근	KO
+레이어	KO
+of	EN
+this	EN
+객체	KO
+
+Accessible	EN
+MDI	EN
+Value	EN
+
+The	EN
+접근	KO
+MDI	EN
+가치	KO
+of	EN
+this	EN
+개체	KO
+
+Accessible	EN
+Table	EN
+Caption	EN
+
+Is	EN
+사용	KO
+to	EN
+notify	EN
+that	EN
+the	EN
+테이블	KO
+문구	KO
+has	EN
+바꿨다	KO
+.	EN
+이거	KO
+재산권	KO
+should	EN
+아님	KO
+be	EN
+사용함	KO
+.	EN
+접근	KO
+-	EN
+식탁	KO
+-	EN
+caption	EN
+-	EN
+객체	KO
+should	EN
+be	EN
+사용함	KO
+대신에	KO
+
+Accessible	EN
+Table	EN
+Column	EN
+Header	EN
+
+Is	EN
+사용됨	KO
+to	EN
+notify	EN
+that	EN
+the	EN
+식탁	KO
+칼럼	KO
+헤더	KO
+has	EN
+변경됨	KO
+
+Is	EN
+사용됨	KO
+to	EN
+notify	EN
+that	EN
+the	EN
+식탁	KO
+기둥	KO
+description	EN
+has	EN
+변경되었습니다	KO
+
+Accessible	EN
+Table	EN
+Row	EN
+Header	EN
+
+Is	EN
+사용함	KO
+to	EN
+notify	EN
+that	EN
+the	EN
+탁자	KO
+row	EN
+헤더	KO
+has	EN
+변경되었습니다	KO
+
+Accessible	EN
+Table	EN
+Row	EN
+Description	EN
+
+Is	EN
+사용	KO
+to	EN
+notify	EN
+that	EN
+the	EN
+식탁	KO
+row	EN
+설명	KO
+has	EN
+변경되었습니다	KO
+
+Is	EN
+사용함	KO
+to	EN
+notify	EN
+that	EN
+the	EN
+탁자	KO
+요약	KO
+has	EN
+변경되었습니다	KO
+
+Accessible	EN
+Table	EN
+Caption	EN
+Object	EN
+
+Is	EN
+사용	KO
+to	EN
+notify	EN
+that	EN
+the	EN
+식탁	KO
+문구	KO
+has	EN
+변경됨	KO
+
+Number	EN
+of	EN
+Accessible	EN
+Hypertext	EN
+Links	EN
+
+The	EN
+번호	KO
+of	EN
+링크	KO
+어느	KO
+the	EN
+현재	KO
+AtkHypertext	EN
+has	EN
+
+table	EN
+row	EN
+
+문서로	KO
+스프레드시트	KO
+
+문서	KO
+프레젠테이션	KO
+
+document	EN
+문구	KO
+
+문서로	KO
+웹툰	KO
+
+document	EN
+이메일로	KO
+
+리스트	KO
+상자	KO
+
+이미지	KO
+지도	KO
+
+info	EN
+bar	EN
+
+수준	KO
+bar	EN
+
+문서	KO
+스프레드시트	KO
+
+문서로	KO
+프레젠테이션	KO
+
+문서로	KO
+문구	KO
+
+문서로	KO
+웹툰	KO
+
+문서	KO
+이메일	KO
+
+정보	KO
+bar	EN
+
+New	EN
+Game	EN
+
+Couldn	EN
+'	EN
+t	EN
+찾기	KO
+레벨	KO
+시퀀스	KO
+묘사	KO
+.	EN
+
+No	EN
+수준	KO
+발견됨	KO
+.	EN
+
+Found	EN
+레벨	KO
+'	EN
+%	EN
+s	EN
+'	EN
+in	EN
+:	EN
+%	EN
+s	EN
+
+A	EN
+퍼즐	KO
+경기	KO
+소개	KO
+원자	KO
+그리고	KO
+분자	KO
+
+Congratulations	EN
+!	EN
+You	EN
+have	EN
+완료	KO
+전체	KO
+Atomix	EN
+레벨	KO
+.	EN
+
+Couldn	EN
+'	EN
+t	EN
+찾기	KO
+at	EN
+least	EN
+하나	KO
+수준	KO
+.	EN
+
+Do	EN
+당신은	KO
+want	EN
+to	EN
+finish	EN
+the	EN
+game	EN
+?	EN
+
+End	EN
+Game	EN
+
+Reset	EN
+Level	EN
+
+_	EN
+Pause	EN
+Game	EN
+
+_	EN
+Continue	EN
+Game	EN
+
+_	EN
+Scores	EN
+.	EN
+.	EN
+.	EN
+
+No	EN
+주제	KO
+발견됨	KO
+.	EN
+
+Found	EN
+테마	KO
+'	EN
+%	EN
+s	EN
+'	EN
+in	EN
+:	EN
+%	EN
+s	EN
+
+Molecule	EN
+퍼즐	KO
+경기	KO
+
+atk	EN
+-	EN
+다리	KO
+:	EN
+Couldn	EN
+'	EN
+t	EN
+듣기	KO
+on	EN
+dbus	EN
+서버	KO
+:	EN
+%	EN
+s	EN
+
+The	EN
+어플리케이션	KO
+no	EN
+longer	EN
+존재함	KO
