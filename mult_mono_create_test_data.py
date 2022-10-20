@@ -10,7 +10,7 @@ def parse_args():
         description="R"
     )
     parser.add_argument(
-        "--input_path",
+        "--data_path",
         type=str,
         help="Location of input data to create masked data. Masked data is stored in same directory",
         required=True
@@ -129,7 +129,7 @@ def main():
     
     ###### Prepare the dataset with masks in certain locations and correct answer known #########
     
-    test_df = parse_data(args.input_path + args.test + '.txt')
+    test_df = parse_data(args.data_path + args.test + '.txt')
 
     lang1_df = test_df.loc[test_df['lang']==lang_1.upper(), :].reset_index(drop=True)
     lang2_df = test_df.loc[test_df['lang']==lang_2.upper(), :].reset_index(drop=True)
@@ -162,10 +162,10 @@ def main():
 
     ###################
     
-    filename_1_path = args.input_path + lang_1 + '_' + args.model_name_or_path + '-' + args.test + '.tsv'
+    filename_1_path = args.data_path + lang_1 + '_' + args.model_name_or_path + '-' + args.test + '.tsv'
     write_to_file(filename_1_path, masked_sentences_1)
     
-    filename_2_path = args.input_path + lang_2 + '_' + args.model_name_or_path + '-' + args.test + '.tsv'
+    filename_2_path = args.data_path + lang_2 + '_' + args.model_name_or_path + '-' + args.test + '.tsv'
     write_to_file(filename_2_path, masked_sentences_2)
 
 if __name__ == "__main__":
