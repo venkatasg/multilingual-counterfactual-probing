@@ -183,9 +183,6 @@ def main():
     
     # Load pretrained model and tokenizer
     tokenizer = AutoTokenizer.from_pretrained(args.model_name_or_path, use_fast=True)
-    model_nohook = AutoModelForMaskedLM.from_pretrained(
-            args.model_name_or_path
-        )
     model_pos = AutoModelForMaskedLM.from_pretrained(
             args.model_name_or_path
         )
@@ -194,7 +191,7 @@ def main():
         )
     
     # Prepare everything with our `accelerator`.
-    model_nohook, model_pos, model_neg = accelerator.prepare(model_nohook,model_pos, model_neg)
+    model_pos, model_neg = accelerator.prepare(model_pos, model_neg)
     
     if args.num_classifiers > 0:
         # Load iNLP parameter Ws
@@ -237,12 +234,11 @@ def main():
     dataloader_lang_1_true, dataloader_lang_2_true = accelerator.prepare(dataloader_lang_1_true, dataloader_lang_2_true)
     
     
-    model_nohook.eval()
     model_pos.eval()
     model_neg.eval()
     
     final_df = {'lang': []}
-    for intervention_type in ['baseline', 'pos', 'neg']:
+    for intervention_type in ['pos', 'neg']:
         for top_k in ['_top_1', '_top_5', '_top_10', '_top_50', '_top_100']:
             final_df[intervention_type + top_k] = []
     lm_acc = {}
@@ -256,7 +252,7 @@ def main():
     
     with torch.no_grad():
         for lang, dataloader, answer_tokens in experiment_conditions:
-            for (intervention_type, model_test) in [('baseline', model_nohook), ('pos', model_pos), ('neg', model_neg)]:
+            for (intervention_type, model_test) in [('pos', model_pos), ('neg', model_neg)]:
                 
                 num_of_examples = 0
                 for top_k in ['_top_1', '_top_5', '_top_10', '_top_50', '_top_100']:
