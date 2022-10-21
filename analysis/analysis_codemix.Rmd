@@ -1,0 +1,314 @@
+---
+title: "R Notebook"
+output:
+  html_document:
+    df_print: paged
+---
+
+Plot overall.
+
+```{r}
+library(tidyverse) 
+library(ggrepel)
+library(lme4)
+
+# The palette with black:
+cbbPalette <- c("#000000", "#E69F00", "#56B4E9", "#009E73", "#F0E442", "#0072B2", "#D55E00", "#CC79A7")
+
+
+std.error = function(x, n) {
+  return(sd(x)/sqrt(n))
+}
+FN = "results_codemix.csv"
+#FN = "all_results_thirdparty.csv"
+ALPHA_TO_USE = 3
+NUM_CLASSIFIERS = 0
+
+d = read_csv(FN) %>%
+  filter(num_classifiers == 16 & !grepl("xlm", model)  |
+         num_classifiers == 16 & grepl("xlm", model)) %>%
+  select(-num_classifiers)
+
+d = rename(d, random_type = random_word) %>%
+  mutate(random_type = case_when(random_type == 1 ~ "random",
+                                 TRUE ~ "none"))
+
+d.sum = group_by(d, langs, model, 
+                 random_type,
+                 template,
+                 answer, alpha, push_to) %>%
+  mutate(diff = logprob_after_intervention - logprob_baseline,
+         opposite.push = ifelse(push_to != template,
+                                "push away from template dir.",
+                                "push towards template dir.")) %>%
+  summarise(mean.diff=mean(diff),
+            start=mean(logprob_baseline),
+            end=mean(logprob_after_intervention),
+            opposite.push = first(opposite.push))
+
+d.sum$langs_list = paste(d.sum$langs, "template:", d.sum$template)
+d.sum$word_matches_push = ifelse(d.sum$push_to == d.sum$answer,
+                                 "lang pushed to",
+                                 "lang pushed from"
+)
+
+space_between_bars = .6
+d.sum$type_x_adj = scale(as.numeric(as.factor(d.sum$word_matches_push))) * -space_between_bars
+d.sum$type_x_random_adj = ifelse(d.sum$random_type!= "control", 1, 0)
+d.sum$x = ((d.sum$type_x_adj)  * d.sum$type_x_random_adj)
+d.sum$`Is Random` = d.sum$random_type 
+
+d.sum = separate(d.sum, langs, remove =F, sep="_", into=c("lang1", "lang2"))
+d.sum = mutate(d.sum, push_away = ifelse(lang1 == push_to, 
+                              lang2,
+                              lang1),
+               summary = paste0("temp: ", toupper(template) ),
+               push_to = paste0("+", toupper(push_to)))
+d.sum = mutate(d.sum, minnum =  min(start, end))
+d.sum$minprob = min(d.sum$minnum)
+d.sum$push_away = paste0("-", d.sum$push_away)
+
+
+dnow = filter(d.sum, opposite.push =="push away from template dir.",
+              `Is Random` != "control" | answer == template ) %>%
+  mutate(word_matches_push = ifelse(`Is Random` == "control", "other", word_matches_push))
+
+makeplot <- function(dnow, fn) {
+ggplot(dnow,
+       aes(x=x, xend=x, 
+           colour=word_matches_push,
+           y=start, yend=end, group=answer,
+           size= `Is Random`,
+           alpha = `Is Random`, label = answer))  +
+  geom_segment(arrow=arrow(length=unit(0.2,"cm"))) +
+  geom_point(data=filter(dnow, `Is Random` != "random"),
+       aes(x=x, xend=x, 
+           colour=word_matches_push,
+           y=start, yend=end, group=answer,
+           size= `Is Random`,
+           alpha = `Is Random`, label = answer)) + 
+  facet_grid(. ~ summary + push_to + push_away, scales="free", drop = T) +
+  theme_bw(12) +
+  ylab("log probability") +
+  theme(legend.position = "none") +
+  scale_alpha_manual(values=c(1, .3)) + 
+  scale_size_manual(values=c(1, 4)) + 
+  scale_x_continuous(breaks = 1:length(unique(dnow$langs_list)),
+                     labels = unique(dnow$langs_list), minor_breaks = NULL,
+                     limits = c(-1, 1)) +
+  geom_text(data=filter(dnow, random_type == "none") %>%
+                    mutate(answer = ifelse(template == answer, toupper(answer), answer)),
+                  aes(x=x, 
+                      colour=word_matches_push,
+                      y=minprob, group=answer,
+                      alpha = `Is Random`, lty=`Is Random`, label = answer), size=4,
+            vjust=0) +
+  geom_point(data=filter(dnow, `Is Random` != "random"), 
+  aes(x=x,  y=end, group=answer,
+    alpha = `Is Random`, lty=`Is Random`),
+  shape=21, size=1) +
+  xlab("") +
+  theme(#legend.position = "none",
+        axis.text.x  = element_blank()) +
+    scale_colour_manual(values=cbbPalette) 
+ggsave(fn, width=6, height=3)  
+}
+
+makeplot(filter(d.sum, opposite.push =="push away from template dir.",
+              `Is Random` != "control" | answer == template ,
+              alpha == ALPHA_TO_USE,
+              !grepl("xlm", model)) %>%
+  mutate(word_matches_push = ifelse(`Is Random` == "control", "other", word_matches_push)),
+  paste0(NUM_CLASSIFIERS, "codemix_mbert_alpha3_pushaway.png"))
+
+
+makeplot(filter(d.sum, opposite.push !="push away from template dir.",
+              `Is Random` != "control" | answer == template ,
+              alpha == ALPHA_TO_USE,
+              !grepl("xlm", model)) %>%
+  mutate(word_matches_push = ifelse(`Is Random` == "control", "other", word_matches_push)),
+  paste0(NUM_CLASSIFIERS, "codemix_mbert_alpha3_pushto.png"))
+
+makeplot(filter(d.sum, opposite.push =="push away from template dir.",
+              `Is Random` != "control" | answer == template ,
+              alpha == ALPHA_TO_USE,
+              grepl("xlm", model)) %>%
+  mutate(word_matches_push = ifelse(`Is Random` == "control", "other", word_matches_push)),
+  paste0(NUM_CLASSIFIERS, "codemix_xlm_alpha3_pushaway.png"))
+
+makeplot(filter(d.sum, opposite.push !="push away from template dir.",
+              `Is Random` != "control" | answer == template ,
+              alpha == ALPHA_TO_USE,
+              grepl("xlm", model)) %>%
+  mutate(word_matches_push = ifelse(`Is Random` == "control", "other", word_matches_push)),
+  paste0(NUM_CLASSIFIERS, "codemix_xlm_alpha3_pushto.png"))
+
+```
+
+Regression predicting move in expected direction from:
+- template matches push
+- random word
+- their interaction
+with random effects of language pair.
+
+We see effects of all 3.
+
+```{r}
+head(d)  
+d$diff = d$logprob_after_intervention - d$logprob_baseline
+d$template_matches_push  = d$template == d$push_to
+d$answer_matches_push = d$answer == d$push_to
+
+d  = mutate(d, diff.expected = ifelse(answer_matches_push | random_type == "control", diff, -diff))
+
+d$template_matches_push.code = ifelse(d$template_matches_push, .5, -.5)
+
+for (i in unique(d$model)) { 
+  for (j in c("control", "random")) {
+  l = lmer(data=filter(d, alpha == ALPHA_TO_USE, 
+                     model == i,
+                     template != push_to,
+                     random_type %in% c("none", j),
+                     answer_matches_push == T), diff.expected ~   
+         random_type  + 
+         (1 +random_type|langs))
+print(i)
+print(j)
+print(summary(l))
+
+l = lmer(data=filter(d, alpha == ALPHA_TO_USE, 
+                     model == i,
+                     template != push_to,
+                     random_type %in% c("none", j),
+                     answer_matches_push == F), diff.expected ~   
+         random_type  + 
+         (1 +random_type  |langs))
+print(i)
+print(j)
+print(summary(l))
+
+
+l = lmer(data=filter(d, alpha == ALPHA_TO_USE, 
+                     model == i,
+                     template != push_to,
+                     random_type %in% c("none", j),
+                     ),
+         diff.expected ~   
+         random_type * answer_matches_push + 
+         (1 +random_type * answer_matches_push |langs))
+print(i)
+print(j)
+print(summary(l))
+
+l = lmer(data=filter(d, alpha == ALPHA_TO_USE, 
+                     model == i,
+                     template == push_to,
+                     random_type %in% c("none", j),
+                     ), diff.expected ~   
+         random_type * answer_matches_push + 
+         (1 +   random_type * answer_matches_push|langs))
+print(i)
+print(j)
+print(summary(l))
+}
+}
+ 
+
+```
+
+# effect of template matching push x answer matching push
+
+```{r}
+for (i in unique(d$model)) {
+l2 = lmer(
+  data = filter(d, alpha == ALPHA_TO_USE,
+                random_type == "none",
+                model == i
+                ),
+  diff.expected ~  template_matches_push.code *
+    answer_matches_push +
+    (1 + template_matches_push.code +
+       answer_matches_push | langs)
+)
+print(i)
+print(summary(l2))
+}
+```
+
+The effect of alpha 
+```{r}
+for (i in unique(d$model)) {
+  l3 = lmer(data=filter(d, random_type == "none",
+                      model == i), diff.expected ~  alpha * 
+                 answer_matches_push + 
+                 (1 + template_matches_push.code + 
+                    answer_matches_push|langs))
+}
+print(i)
+print(summary(l3))
+
+```
+
+Some summary stats
+
+```{r}
+filter(d, alpha == ALPHA_TO_USE) %>%
+  group_by(model, template_matches_push, answer_matches_push, random_type) %>%
+  summarize(mean.expected=mean(diff.expected > 0))
+```
+
+```{r}
+library(xtable)
+tab = filter(d, alpha == ALPHA_TO_USE) %>%
+  group_by(model, template_matches_push, answer_matches_push, random_type) %>%
+  summarize(mean.expected=mean(diff.expected > 0)) %>%
+  spread(random_type, mean.expected)
+
+print(xtable(tab), include.rownames=FALSE)
+
+tab
+```
+```{r}
+group_by(d, model, alpha) %>% 
+  filter(random_type == "none",
+         template_matches_push == F,
+         answer_matches_push == T) %>%
+  summarise(`Mean Expected Diff`=mean(diff.expected),
+            `Diff in Expected Dir` = mean(diff.expected > 0))
+```
+
+```{r}
+group_by(d, model, alpha) %>% 
+  filter(random_type == "none",
+         template_matches_push == F) %>%
+  summarise(`Mean Expected Diff`=mean(diff.expected),
+            `Diff in Expected Dir` = mean(diff.expected > 0))
+```
+
+```{r}
+alpha.sum = group_by(d, model, alpha) %>% 
+  filter(random_type == "none") %>%
+  group_by(model, alpha, template_matches_push,
+         answer_matches_push) %>%
+  summarise(`Mean Expected Diff`=mean(diff.expected),
+            `Pct in Expected Dir` = mean(diff.expected > 0)) %>%
+  mutate(condition = paste0("template matches push: " , template_matches_push,
+                            "\nanswer matches push: ", answer_matches_push))
+
+ggplot(alpha.sum, aes(x=alpha, y=`Mean Expected Diff`,
+                      colour=condition, group=condition)) +
+  geom_point() + 
+  geom_line() + 
+  facet_grid(. ~ model) +
+  theme_classic(12)
+ggsave(paste0(NUM_CLASSIFIERS, "alpha_plot_meandiff.png"), width=7, height=5)
+
+ggplot(alpha.sum, aes(x=alpha, y=`Pct in Expected Dir`,
+                      colour=condition, group=condition)) +
+  geom_point() + 
+  geom_line() + 
+  facet_grid(. ~ model) +
+  theme_classic(12)
+ggsave(paste0(NUM_CLASSIFIERS, "alpha_plot_pctexpected.png"), width=7, height=5)
+
+```
