@@ -1,5 +1,11 @@
-# multilingual-counterfactual-probing
-Code related to multilingual counterfactual probing
+# Counterfactual Probing for Multilingual representations
+Code related to [our paper on multilingual counterfactual probing]() accepted at [MRL 2023](https://sigtyp.github.io/ws2023-mrl.html).
+
+Please cite our paper as follows:
+
+```
+
+```
 
 # Steps to reproduce experiment results
 
