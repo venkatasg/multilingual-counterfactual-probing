@@ -1,10 +1,21 @@
 # Counterfactual Probing for Multilingual representations
-Code related to [our paper on multilingual counterfactual probing]() accepted at [MRL 2023](https://sigtyp.github.io/ws2023-mrl.html).
+Code related to [our paper on multilingual counterfactual probing](https://arxiv.org/abs/2310.18862) accepted at [MRL 2023](https://sigtyp.github.io/ws2023-mrl.html).
 
 Please cite our paper as follows:
 
 ```
-
+@inproceedings{anirudh-2023-multilingual,
+    title = {Counterfactually {P}robing {L}anguage {I}dentity in {M}ultilingual {M}odels},
+    author = "Srinivasan, Anirudh  and
+      Govindarajan, Venkata S  and
+      Mahowald, Kyle",
+    booktitle = "Proceedings of the The 3rd Workshop on Multi-lingual Representation Learning (MRL)",
+    month = dec,
+    year = "2023",
+    url = {https://arxiv.org/abs/2310.18862},
+    publisher = "Association for Computational Linguistics",
+    pages = "",
+}
 ```
 
 # Steps to reproduce experiment results
